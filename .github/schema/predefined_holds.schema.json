@@ -15,19 +15,15 @@
     }
   },
   "additionalProperties": {
-    "type": "array",
-    "description": "Array of objects; each object contains named holds. Each named hold object MUST include numeric upperfl and lowerfl.",
-    "items": {
+    "type": "object",
+    "additionalProperties": {
       "type": "object",
-      "additionalProperties": {
-        "type": "object",
-        "properties": {
-          "upperfl": { "type": "number" },
-          "lowerfl": { "type": "number" }
-        },
-        "required": ["upperfl", "lowerfl"],
-        "additionalProperties": false
-      }
+      "properties": {
+        "upperfl": { "type": "number" },
+        "lowerfl": { "type": "number" }
+      },
+      "required": ["upperfl", "lowerfl"],
+      "additionalProperties": false
     }
   }
 }

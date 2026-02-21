@@ -1,68 +1,188 @@
 {
   "$schema": "./.github/schema/predefined_holds.schema.json",
-  "version": "1.0.0",
-  "PAR_": [
-    {
-      "MOPAR": {
-        "upperfl": 160,
-        "lowerfl": 70
-      },
-      "LORNI": {
-        "upperfl": 170,
-        "lowerfl": 70
-      },
-      "ENORI": {
-        "upperfl": 240,
-        "lowerfl": 90
-      },
-      "XERAM": {
-        "upperfl": 280,
-        "lowerfl": 200
-      },
-      "OKIPA": {
-        "upperfl": 190,
-        "lowerfl": 70
-      },
-      "MOLBA": {
-        "upperfl": 140,
-        "lowerfl": 70
-      },
-      "BANOX": {
-        "upperfl": 180,
-        "lowerfl": 70
-      },
-      "ODILO": {
-        "upperfl": 140,
-        "lowerfl": 70
-      }
+  "version": "1.0.1",
+  "PAR_": {
+    "MOPAR": {
+      "upperfl": 160,
+      "lowerfl": 70
+    },
+    "LORNI": {
+      "upperfl": 170,
+      "lowerfl": 70
+    },
+    "ENORI": {
+      "upperfl": 240,
+      "lowerfl": 90
+    },
+    "XERAM": {
+      "upperfl": 280,
+      "lowerfl": 200
+    },
+    "OKIPA": {
+      "upperfl": 190,
+      "lowerfl": 70
+    },
+    "MOLBA": {
+      "upperfl": 140,
+      "lowerfl": 70
+    },
+    "BANOX": {
+      "upperfl": 180,
+      "lowerfl": 70
+    },
+    "ODILO": {
+      "upperfl": 140,
+      "lowerfl": 70
     }
-  ],
-  "LFEE_": [
-    {
-      "REM": {
-        "upperfl": 370,
-        "lowerfl": 320
-      },
-      "NANCY": {
-        "upperfl": 660,
-        "lowerfl": 0
-      },
-      "ABUDA": {
-        "upperfl": 370,
-        "lowerfl": 200
-      },
-      "CMB": {
-        "upperfl": 660,
-        "lowerfl": 270
-      },
-      "VESAN": {
-        "upperfl": 370,
-        "lowerfl": 270
-      },
-      "RANUX": {
-        "upperfl": 370,
-        "lowerfl": 320
-      }
+  },
+  "LFEE_": {
+    "REM": {
+      "upperfl": 370,
+      "lowerfl": 320
+    },
+    "NANCY": {
+      "upperfl": 660,
+      "lowerfl": 0
+    },
+    "ABUDA": {
+      "upperfl": 370,
+      "lowerfl": 200
+    },
+    "CMB": {
+      "upperfl": 660,
+      "lowerfl": 270
+    },
+    "VESAN": {
+      "upperfl": 370,
+      "lowerfl": 270
+    },
+    "RANUX": {
+      "upperfl": 370,
+      "lowerfl": 320
     }
-  ]
+  },
+  "LFMM_": {
+    "AMGEL": {
+      "upperfl": 170,
+      "lowerfl": 130
+    },
+    "NERAS": {
+      "upperfl": 140,
+      "lowerfl": 3000
+    },
+    "MUS": {
+      "upperfl": 140,
+      "lowerfl": 80
+    },
+    "AMFOU": {
+      "upperfl": 230,
+      "lowerfl": 130
+    },
+    "TALAR": {
+      "upperfl": 140,
+      "lowerfl": 80
+    },
+    "ARBON": {
+      "upperfl": 140,
+      "lowerfl": 100
+    },
+    "GOMET": {
+      "upperfl": 140,
+      "lowerfl": 100
+    },
+    "DOLIV": {
+      "upperfl": 140,
+      "lowerfl": 80
+    },
+    "GEMKO": {
+      "upperfl": 110,
+      "lowerfl": 80
+    },
+    "LIPSU": {
+      "upperfl": 140,
+      "lowerfl": 40
+    },
+    "RIKSI": {
+      "upperfl": 140,
+      "lowerfl": 80
+    }
+  },
+  "LFMN_": {
+    "NERAS": {
+      "upperfl": 140,
+      "lowerfl": 3000
+    },
+    "MUS": {
+      "upperfl": 140,
+      "lowerfl": 80
+    }
+  },
+  "LFLL_": {
+    "RIPTU": {
+      "upperfl": 140,
+      "lowerfl": 70
+    },
+    "TALAR": {
+      "upperfl": 140,
+      "lowerfl": 80
+    },
+    "ARBON": {
+      "upperfl": 140,
+      "lowerfl": 100
+    },
+    "GOMET": {
+      "upperfl": 140,
+      "lowerfl": 100
+    }
+  },
+  "LFML_": {
+    "DOLIV": {
+      "upperfl": 140,
+      "lowerfl": 80
+    },
+    "GEMKO": {
+      "upperfl": 110,
+      "lowerfl": 80
+    },
+    "RIKSI": {
+      "upperfl": 140,
+      "lowerfl": 80
+    }
+  },
+  "LFBB_": {
+    "FUZAP": {
+      "upperfl": 140,
+      "lowerfl": 80
+    },
+    "SURAS": {
+      "upperfl": 140,
+      "lowerfl": 80
+    },
+    "ADIMO": {
+      "upperfl": 140,
+      "lowerfl": 80
+    },
+    "SULIT": {
+      "upperfl": 140,
+      "lowerfl": 80
+    }
+  },
+  "LFBO_": {
+    "FUZAP": {
+      "upperfl": 140,
+      "lowerfl": 80
+    },
+    "SURAS": {
+      "upperfl": 140,
+      "lowerfl": 80
+    },
+    "ADIMO": {
+      "upperfl": 140,
+      "lowerfl": 80
+    },
+    "SULIT": {
+      "upperfl": 140,
+      "lowerfl": 80
+    }
+  }
 }
