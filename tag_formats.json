@@ -1,6 +1,6 @@
 {
   "$schema": "./.github/schema/tag_formats.schema.json",
-  "version": "1.0.1",
+  "version": "1.0.2",
     "tag_formats": [
     {
       "name": "default",
@@ -242,6 +242,186 @@
               "optext", "align_right", "afk", "\n",
               "vspace", "traj", "info", "id", "misc"
             ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "Nice",
+      "global_settings": {},
+      "rules": [
+        {
+          "name": "DEP",
+          "conditions": { "isDeparture": true },
+          "airports": ["LFMN"],
+          "priority": 1,
+          "filtered": false,
+          "style": {
+            "track_symbol": "circle",
+            "track_symbol_fill": true,
+            "history_trail_symbol": "circle",
+            "track_symbol_subtext": "",
+            "foreground_color": "#d597a3",
+            "background_color": "#7b575e"
+          },
+          "taglayouts": {
+            "extended_layout": [
+              "vspace", "modeshdg", "modesspd", "modesmach", "modessfl", "\n",
+              "vspace", "adep", "ades", "deprwy", "sid", "\n",
+              "cr", "align_right", "nsfreq", "\n",
+              "optext", "align_right", "afk", "\n",
+              "vspace", "traj", "info", "id", "misc"
+            ]
+          }
+        },
+        {
+          "name": "ARR",
+          "conditions": { "isArrival": true },
+          "airports": ["LFMN"],
+          "priority": 1,
+          "filtered": false,
+          "style": {
+            "track_symbol": "circle",
+            "track_symbol_fill": true,
+            "history_trail_symbol": "circle",
+            "track_symbol_subtext": "",
+            "foreground_color": "#ceffb6",
+            "background_color": "#667f5a"
+          },
+          "taglayouts": {
+            "extended_layout": [
+              "vspace", "modeshdg", "modesspd", "modesmach", "modessfl", "\n",
+              "vspace", "adep", "ades", "trans", "arrrwy", "\n",
+              "cr", "align_right", "nsfreq", "\n",
+              "optext", "align_right", "afk", "\n",
+              "vspace", "traj", "info", "id", "misc"
+            ]
+          }
+        },
+        {
+          "name": "SATDEP",
+          "conditions": { "isDeparture": true },
+          "airports": ["LFMD", "LFTH", "LFMC"],
+          "priority": 1,
+          "filtered": false,
+          "style": {
+            "track_symbol": "triangle",
+            "track_symbol_fill": true,
+            "history_trail_symbol": "circle",
+            "track_symbol_subtext": "",
+            "foreground_color": "#d07778",
+            "background_color": "#834b4b"
+          },
+          "taglayouts": {
+            "extended_layout": [
+              "vspace", "modeshdg", "modesspd", "modesmach", "modessfl", "\n",
+              "vspace", "adep", "ades", "trans", "arrrwy", "\n",
+              "cr", "align_right", "nsfreq", "\n",
+              "optext", "align_right", "afk", "\n",
+              "vspace", "traj", "info", "id", "misc"
+            ]
+          }
+        },
+        {
+          "name": "THARR",
+          "conditions": { "isArrival": true },
+          "airports": ["LFTH"],
+          "priority": 1,
+          "filtered": false,
+          "style": {
+            "track_symbol": "invertedtriangle",
+            "track_symbol_fill": true,
+            "history_trail_symbol": "circle",
+            "track_symbol_subtext": "T",
+            "foreground_color": "#b3ff40",
+            "background_color": "#597e1f"
+          },
+          "taglayouts": {
+            "extended_layout": [
+              "vspace", "modeshdg", "modesspd", "modesmach", "modessfl", "\n",
+              "vspace", "adep", "ades", "trans", "arrrwy", "\n",
+              "cr", "align_right", "nsfreq", "\n",
+              "optext", "align_right", "afk", "\n",
+              "vspace", "traj", "info", "id", "misc"
+            ]
+          }
+        },
+        {
+          "name": "MCARR",
+          "conditions": { "isArrival": true },
+          "airports": ["LFTH"],
+          "priority": 1,
+          "filtered": false,
+          "style": {
+            "track_symbol": "invertedtriangle",
+            "track_symbol_fill": true,
+            "history_trail_symbol": "circle",
+            "track_symbol_subtext": "L",
+            "foreground_color": "#b3ff40",
+            "background_color": "#597e1f"
+          },
+          "taglayouts": {
+            "extended_layout": [
+              "vspace", "modeshdg", "modesspd", "modesmach", "modessfl", "\n",
+              "vspace", "adep", "ades", "trans", "arrrwy", "\n",
+              "cr", "align_right", "nsfreq", "\n",
+              "optext", "align_right", "afk", "\n",
+              "vspace", "traj", "info", "id", "misc"
+            ]
+          }
+        },
+        {
+          "name": "MDARR",
+          "conditions": { "isArrival": true },
+          "airports": ["LFMD"],
+          "priority": 1,
+          "filtered": false,
+          "style": {
+            "track_symbol": "diamond",
+            "track_symbol_fill": false,
+            "history_trail_symbol": "circle",
+            "track_symbol_subtext": "L",
+            "foreground_color": "#B3FF40",
+            "background_color": "#597e1f"
+          },
+          "taglayouts": {
+            "extended_layout": [
+              "vspace", "modeshdg", "modesspd", "modesmach", "modessfl", "\n",
+              "vspace", "adep", "ades", "trans", "arrrwy", "\n",
+              "cr", "align_right", "nsfreq", "\n",
+              "optext", "align_right", "afk", "\n",
+              "vspace", "traj", "info", "id", "misc"
+            ]
+          }
+        },
+        {
+          "name": "IFRTRS",
+          "conditions": { "isIFR": true },
+          "airports": ["****"],
+          "priority": 5,
+          "filtered": true,
+          "style": {
+            "track_symbol": "circle",
+            "track_symbol_fill": true,
+            "history_trail_symbol": "circle",
+            "track_symbol_subtext": "",
+            "foreground_color": "#e6ff2f",
+            "background_color": "#5b6512"
+          }
+        },
+        {
+          "name": "VFRTRS",
+          "conditions": { "isVFR": true },
+          "airports": ["****"],
+          "priority": 5,
+          "filtered": true,
+          "style": {
+            "track_symbol": "circle",
+            "track_symbol_fill": true,
+            "history_trail_symbol": "circle",
+            "track_symbol_subtext": "",
+            "foreground_color": "#d4e588",
+            "background_color": "#757e4a"
           }
         }
       ]
