@@ -3,7 +3,7 @@ name: Validate and auto-bump versions
 on:
   push:
     branches:
-      - dev
+      - Dev
 
 permissions:
   contents: write
