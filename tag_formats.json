@@ -1,7 +1,7 @@
 {
   "$schema": "./.github/schema/tag_formats.schema.json",
-  "version": "1.0.3",
-    "tag_formats": [
+  "version": "1.0.4",
+  "tag_formats": [
     {
       "name": "default",
       "rules": []
@@ -11,9 +11,19 @@
       "rules": [
         {
           "name": "RNSB",
-          "conditions": { "isArrival": true, "isIFR": true },
-          "airports": ["LFPG"],
-          "arrival_runways": ["08L", "08R", "26L", "26R"],
+          "conditions": {
+            "isArrival": true,
+            "isIFR": true
+          },
+          "airports": [
+            "LFPG"
+          ],
+          "arrival_runways": [
+            "08L",
+            "08R",
+            "26L",
+            "26R"
+          ],
           "priority": 1,
           "filtered": false,
           "style": {
@@ -26,19 +36,48 @@
           },
           "taglayouts": {
             "extended_layout": [
-              "vspace", "modeshdg", "modesspd", "modesmach", "modessfl", "\n",
-              "vspace", "adep", "ades", "trans", "arrrwy", "\n",
-              "cr", "align_right", "nsfreq", "\n",
-              "optext", "align_right", "afk", "\n",
-              "vspace", "traj", "info", "id", "misc"
+              "vspace",
+              "modeshdg",
+              "modesspd",
+              "modesmach",
+              "modessfl",
+              "\n",
+              "vspace",
+              "adep",
+              "ades",
+              "trans",
+              "arrrwy",
+              "\n",
+              "cr",
+              "align_right",
+              "nsfreq",
+              "\n",
+              "optext",
+              "align_right",
+              "afk",
+              "\n",
+              "vspace",
+              "traj",
+              "info",
+              "id",
+              "misc"
             ]
           }
         },
         {
           "name": "RNSB",
-          "conditions": { "isArrival": true },
-          "airports": ["LFPG"],
-          "arrival_runways": ["09L", "09R", "27L", "27R"],
+          "conditions": {
+            "isArrival": true
+          },
+          "airports": [
+            "LFPG"
+          ],
+          "arrival_runways": [
+            "09L",
+            "09R",
+            "27L",
+            "27R"
+          ],
           "priority": 1,
           "filtered": false,
           "style": {
@@ -51,18 +90,42 @@
           },
           "taglayouts": {
             "extended_layout": [
-              "vspace", "modeshdg", "modesspd", "modesmach", "modessfl", "\n",
-              "vspace", "adep", "ades", "trans", "arrrwy", "\n",
-              "cr", "align_right", "nsfreq", "\n",
-              "optext", "align_right", "afk", "\n",
-              "vspace", "traj", "info", "id", "misc"
+              "vspace",
+              "modeshdg",
+              "modesspd",
+              "modesmach",
+              "modessfl",
+              "\n",
+              "vspace",
+              "adep",
+              "ades",
+              "trans",
+              "arrrwy",
+              "\n",
+              "cr",
+              "align_right",
+              "nsfreq",
+              "\n",
+              "optext",
+              "align_right",
+              "afk",
+              "\n",
+              "vspace",
+              "traj",
+              "info",
+              "id",
+              "misc"
             ]
           }
         },
         {
           "name": "RNSB",
-          "conditions": { "isArrival": true },
-          "airports": ["LFPB"],
+          "conditions": {
+            "isArrival": true
+          },
+          "airports": [
+            "LFPB"
+          ],
           "priority": 1,
           "filtered": false,
           "style": {
@@ -75,18 +138,42 @@
           },
           "taglayouts": {
             "extended_layout": [
-              "vspace", "modeshdg", "modesspd", "modesmach", "modessfl", "\n",
-              "vspace", "adep", "ades", "trans", "arrrwy", "\n",
-              "cr", "align_right", "nsfreq", "\n",
-              "optext", "align_right", "afk", "\n",
-              "vspace", "traj", "info", "id", "misc"
+              "vspace",
+              "modeshdg",
+              "modesspd",
+              "modesmach",
+              "modessfl",
+              "\n",
+              "vspace",
+              "adep",
+              "ades",
+              "trans",
+              "arrrwy",
+              "\n",
+              "cr",
+              "align_right",
+              "nsfreq",
+              "\n",
+              "optext",
+              "align_right",
+              "afk",
+              "\n",
+              "vspace",
+              "traj",
+              "info",
+              "id",
+              "misc"
             ]
           }
         },
         {
           "name": "RNSB",
-          "conditions": { "isArrival": true },
-          "airports": ["LFPG"],
+          "conditions": {
+            "isArrival": true
+          },
+          "airports": [
+            "LFPG"
+          ],
           "priority": 2,
           "filtered": false,
           "style": {
@@ -99,18 +186,43 @@
           },
           "taglayouts": {
             "extended_layout": [
-              "vspace", "modeshdg", "modesspd", "modesmach", "modessfl", "\n",
-              "vspace", "adep", "ades", "trans", "arrrwy", "\n",
-              "cr", "align_right", "nsfreq", "\n",
-              "optext", "align_right", "afk", "\n",
-              "vspace", "traj", "info", "id", "misc"
+              "vspace",
+              "modeshdg",
+              "modesspd",
+              "modesmach",
+              "modessfl",
+              "\n",
+              "vspace",
+              "adep",
+              "ades",
+              "trans",
+              "arrrwy",
+              "\n",
+              "cr",
+              "align_right",
+              "nsfreq",
+              "\n",
+              "optext",
+              "align_right",
+              "afk",
+              "\n",
+              "vspace",
+              "traj",
+              "info",
+              "id",
+              "misc"
             ]
           }
         },
         {
           "name": "D",
-          "conditions": { "isDeparture": true },
-          "airports": ["LFPG", "LFPB"],
+          "conditions": {
+            "isDeparture": true
+          },
+          "airports": [
+            "LFPG",
+            "LFPB"
+          ],
           "priority": 3,
           "filtered": false,
           "style": {
@@ -123,18 +235,42 @@
           },
           "taglayouts": {
             "extended_layout": [
-              "vspace", "modeshdg", "modesspd", "modesmach", "modessfl", "\n",
-              "vspace", "adep", "ades", "deprwy", "sid", "\n",
-              "cr", "align_right", "nsfreq", "\n",
-              "optext", "align_right", "afk", "\n",
-              "vspace", "traj", "info", "id", "misc"
+              "vspace",
+              "modeshdg",
+              "modesspd",
+              "modesmach",
+              "modessfl",
+              "\n",
+              "vspace",
+              "adep",
+              "ades",
+              "deprwy",
+              "sid",
+              "\n",
+              "cr",
+              "align_right",
+              "nsfreq",
+              "\n",
+              "optext",
+              "align_right",
+              "afk",
+              "\n",
+              "vspace",
+              "traj",
+              "info",
+              "id",
+              "misc"
             ]
           }
         },
         {
           "name": "OAT",
-          "conditions": { "isArrival": true },
-          "airports": ["LFPO"],
+          "conditions": {
+            "isArrival": true
+          },
+          "airports": [
+            "LFPO"
+          ],
           "priority": 1,
           "filtered": false,
           "style": {
@@ -147,18 +283,44 @@
           },
           "taglayouts": {
             "extended_layout": [
-              "vspace", "modeshdg", "modesspd", "modesmach", "modessfl", "\n",
-              "vspace", "adep", "ades", "trans", "arrrwy", "\n",
-              "cr", "align_right", "nsfreq", "\n",
-              "optext", "align_right", "afk", "\n",
-              "vspace", "traj", "info", "id", "misc"
+              "vspace",
+              "modeshdg",
+              "modesspd",
+              "modesmach",
+              "modessfl",
+              "\n",
+              "vspace",
+              "adep",
+              "ades",
+              "trans",
+              "arrrwy",
+              "\n",
+              "cr",
+              "align_right",
+              "nsfreq",
+              "\n",
+              "optext",
+              "align_right",
+              "afk",
+              "\n",
+              "vspace",
+              "traj",
+              "info",
+              "id",
+              "misc"
             ]
           }
         },
         {
           "name": "OAT",
-          "conditions": { "isDeparture": true },
-          "airports": ["LFPO", "LFPN", "LFPV"],
+          "conditions": {
+            "isDeparture": true
+          },
+          "airports": [
+            "LFPO",
+            "LFPN",
+            "LFPV"
+          ],
           "priority": 3,
           "filtered": false,
           "style": {
@@ -171,18 +333,44 @@
           },
           "taglayouts": {
             "extended_layout": [
-              "vspace", "modeshdg", "modesspd", "modesmach", "modessfl", "\n",
-              "vspace", "adep", "ades", "trans", "arrrwy", "\n",
-              "cr", "align_right", "nsfreq", "\n",
-              "optext", "align_right", "afk", "\n",
-              "vspace", "traj", "info", "id", "misc"
+              "vspace",
+              "modeshdg",
+              "modesspd",
+              "modesmach",
+              "modessfl",
+              "\n",
+              "vspace",
+              "adep",
+              "ades",
+              "trans",
+              "arrrwy",
+              "\n",
+              "cr",
+              "align_right",
+              "nsfreq",
+              "\n",
+              "optext",
+              "align_right",
+              "afk",
+              "\n",
+              "vspace",
+              "traj",
+              "info",
+              "id",
+              "misc"
             ]
           }
         },
         {
           "name": "OAT",
-          "conditions": { "isArrival": true, "isIFR": true },
-          "airports": ["LFPT", "LFOB"],
+          "conditions": {
+            "isArrival": true,
+            "isIFR": true
+          },
+          "airports": [
+            "LFPT",
+            "LFOB"
+          ],
           "priority": 1,
           "filtered": false,
           "style": {
@@ -195,18 +383,44 @@
           },
           "taglayouts": {
             "extended_layout": [
-              "vspace", "modeshdg", "modesspd", "modesmach", "modessfl", "\n",
-              "vspace", "adep", "ades", "trans", "arrrwy", "\n",
-              "cr", "align_right", "nsfreq", "\n",
-              "optext", "align_right", "afk", "\n",
-              "vspace", "traj", "info", "id", "misc"
+              "vspace",
+              "modeshdg",
+              "modesspd",
+              "modesmach",
+              "modessfl",
+              "\n",
+              "vspace",
+              "adep",
+              "ades",
+              "trans",
+              "arrrwy",
+              "\n",
+              "cr",
+              "align_right",
+              "nsfreq",
+              "\n",
+              "optext",
+              "align_right",
+              "afk",
+              "\n",
+              "vspace",
+              "traj",
+              "info",
+              "id",
+              "misc"
             ]
           }
         },
         {
           "name": "OAT",
-          "conditions": { "isDeparture": true, "isIFR": true },
-          "airports": ["LFPT", "LFOB"],
+          "conditions": {
+            "isDeparture": true,
+            "isIFR": true
+          },
+          "airports": [
+            "LFPT",
+            "LFOB"
+          ],
           "priority": 3,
           "filtered": false,
           "style": {
@@ -219,18 +433,44 @@
           },
           "taglayouts": {
             "extended_layout": [
-              "vspace", "modeshdg", "modesspd", "modesmach", "modessfl", "\n",
-              "vspace", "adep", "ades", "trans", "arrrwy", "\n",
-              "cr", "align_right", "nsfreq", "\n",
-              "optext", "align_right", "afk", "\n",
-              "vspace", "traj", "info", "id", "misc"
+              "vspace",
+              "modeshdg",
+              "modesspd",
+              "modesmach",
+              "modessfl",
+              "\n",
+              "vspace",
+              "adep",
+              "ades",
+              "trans",
+              "arrrwy",
+              "\n",
+              "cr",
+              "align_right",
+              "nsfreq",
+              "\n",
+              "optext",
+              "align_right",
+              "afk",
+              "\n",
+              "vspace",
+              "traj",
+              "info",
+              "id",
+              "misc"
             ]
           }
         },
         {
           "name": "GP",
-          "conditions": { "isDeparture": true, "isArrival": true },
-          "airports": ["LFPG", "LFPB"],
+          "conditions": {
+            "isDeparture": true,
+            "isArrival": true
+          },
+          "airports": [
+            "LFPG",
+            "LFPB"
+          ],
           "priority": 0,
           "filtered": false,
           "style": {
@@ -243,18 +483,45 @@
           },
           "taglayouts": {
             "extended_layout": [
-              "vspace", "modeshdg", "modesspd", "modesmach", "modessfl", "\n",
-              "vspace", "adep", "ades", "trans", "arrrwy", "\n",
-              "cr", "align_right", "nsfreq", "\n",
-              "optext", "align_right", "afk", "\n",
-              "vspace", "traj", "info", "id", "misc"
+              "vspace",
+              "modeshdg",
+              "modesspd",
+              "modesmach",
+              "modessfl",
+              "\n",
+              "vspace",
+              "adep",
+              "ades",
+              "trans",
+              "arrrwy",
+              "\n",
+              "cr",
+              "align_right",
+              "nsfreq",
+              "\n",
+              "optext",
+              "align_right",
+              "afk",
+              "\n",
+              "vspace",
+              "traj",
+              "info",
+              "id",
+              "misc"
             ]
           }
         },
         {
           "name": "GP",
-          "conditions": { "isDeparture": true, "isArrival": true },
-          "airports": ["LFPO", "LFPN", "LFPV"],
+          "conditions": {
+            "isDeparture": true,
+            "isArrival": true
+          },
+          "airports": [
+            "LFPO",
+            "LFPN",
+            "LFPV"
+          ],
           "priority": 0,
           "filtered": false,
           "style": {
@@ -267,17 +534,39 @@
           },
           "taglayouts": {
             "extended_layout": [
-              "vspace", "modeshdg", "modesspd", "modesmach", "modessfl", "\n",
-              "vspace", "adep", "ades", "trans", "arrrwy", "\n",
-              "cr", "align_right", "nsfreq", "\n",
-              "optext", "align_right", "afk", "\n",
-              "vspace", "traj", "info", "id", "misc"
+              "vspace",
+              "modeshdg",
+              "modesspd",
+              "modesmach",
+              "modessfl",
+              "\n",
+              "vspace",
+              "adep",
+              "ades",
+              "trans",
+              "arrrwy",
+              "\n",
+              "cr",
+              "align_right",
+              "nsfreq",
+              "\n",
+              "optext",
+              "align_right",
+              "afk",
+              "\n",
+              "vspace",
+              "traj",
+              "info",
+              "id",
+              "misc"
             ]
           }
         },
         {
           "name": "Z",
-          "conditions": { "isVFR": true},
+          "conditions": {
+            "isVFR": true
+          },
           "priority": 4,
           "filtered": true,
           "style": {
@@ -295,8 +584,13 @@
         },
         {
           "name": "V",
-          "conditions": { "isArrival": true },
-          "airports": ["LFPN", "LFPV"],
+          "conditions": {
+            "isArrival": true
+          },
+          "airports": [
+            "LFPN",
+            "LFPV"
+          ],
           "priority": 1,
           "filtered": false,
           "style": {
@@ -310,7 +604,9 @@
         },
         {
           "name": "X",
-          "airports": ["****"],
+          "airports": [
+            "****"
+          ],
           "priority": 5,
           "filtered": true,
           "style": {
@@ -334,8 +630,14 @@
       "rules": [
         {
           "name": "M",
-          "conditions": { "isDeparture": true },
-          "airports": ["LFPO", "LFPN", "LFPV"],
+          "conditions": {
+            "isDeparture": true
+          },
+          "airports": [
+            "LFPO",
+            "LFPN",
+            "LFPV"
+          ],
           "priority": 3,
           "filtered": false,
           "style": {
@@ -348,18 +650,42 @@
           },
           "taglayouts": {
             "extended_layout": [
-              "vspace", "modeshdg", "modesspd", "modesmach", "modessfl", "\n",
-              "vspace", "adep", "ades", "deprwy", "sid", "\n",
-              "cr", "align_right", "nsfreq", "\n",
-              "optext", "align_right", "afk", "\n",
-              "vspace", "traj", "info", "id", "misc"
+              "vspace",
+              "modeshdg",
+              "modesspd",
+              "modesmach",
+              "modessfl",
+              "\n",
+              "vspace",
+              "adep",
+              "ades",
+              "deprwy",
+              "sid",
+              "\n",
+              "cr",
+              "align_right",
+              "nsfreq",
+              "\n",
+              "optext",
+              "align_right",
+              "afk",
+              "\n",
+              "vspace",
+              "traj",
+              "info",
+              "id",
+              "misc"
             ]
           }
         },
         {
           "name": "O",
-          "conditions": { "isArrival": true },
-          "airports": ["LFPO"],
+          "conditions": {
+            "isArrival": true
+          },
+          "airports": [
+            "LFPO"
+          ],
           "priority": 1,
           "filtered": false,
           "style": {
@@ -372,18 +698,43 @@
           },
           "taglayouts": {
             "extended_layout": [
-              "vspace", "modeshdg", "modesspd", "modesmach", "modessfl", "\n",
-              "vspace", "adep", "ades", "trans", "arrrwy", "\n",
-              "cr", "align_right", "nsfreq", "\n",
-              "optext", "align_right", "afk", "\n",
-              "vspace", "traj", "info", "id", "misc"
+              "vspace",
+              "modeshdg",
+              "modesspd",
+              "modesmach",
+              "modessfl",
+              "\n",
+              "vspace",
+              "adep",
+              "ades",
+              "trans",
+              "arrrwy",
+              "\n",
+              "cr",
+              "align_right",
+              "nsfreq",
+              "\n",
+              "optext",
+              "align_right",
+              "afk",
+              "\n",
+              "vspace",
+              "traj",
+              "info",
+              "id",
+              "misc"
             ]
           }
         },
         {
           "name": "V",
-          "conditions": { "isArrival": true },
-          "airports": ["LFPN", "LFPV"],
+          "conditions": {
+            "isArrival": true
+          },
+          "airports": [
+            "LFPN",
+            "LFPV"
+          ],
           "priority": 1,
           "filtered": false,
           "style": {
@@ -396,18 +747,43 @@
           },
           "taglayouts": {
             "extended_layout": [
-              "vspace", "modeshdg", "modesspd", "modesmach", "modessfl", "\n",
-              "vspace", "adep", "ades", "trans", "arrrwy", "\n",
-              "cr", "align_right", "nsfreq", "\n",
-              "optext", "align_right", "afk", "\n",
-              "vspace", "traj", "info", "id", "misc"
+              "vspace",
+              "modeshdg",
+              "modesspd",
+              "modesmach",
+              "modessfl",
+              "\n",
+              "vspace",
+              "adep",
+              "ades",
+              "trans",
+              "arrrwy",
+              "\n",
+              "cr",
+              "align_right",
+              "nsfreq",
+              "\n",
+              "optext",
+              "align_right",
+              "afk",
+              "\n",
+              "vspace",
+              "traj",
+              "info",
+              "id",
+              "misc"
             ]
           }
         },
         {
           "name": "E",
-          "conditions": { "isDeparture": true },
-          "airports": ["LFPG", "LFPB"],
+          "conditions": {
+            "isDeparture": true
+          },
+          "airports": [
+            "LFPG",
+            "LFPB"
+          ],
           "priority": 3,
           "filtered": false,
           "style": {
@@ -420,18 +796,42 @@
           },
           "taglayouts": {
             "extended_layout": [
-              "vspace", "modeshdg", "modesspd", "modesmach", "modessfl", "\n",
-              "vspace", "adep", "ades", "trans", "arrrwy", "\n",
-              "cr", "align_right", "nsfreq", "\n",
-              "optext", "align_right", "afk", "\n",
-              "vspace", "traj", "info", "id", "misc"
+              "vspace",
+              "modeshdg",
+              "modesspd",
+              "modesmach",
+              "modessfl",
+              "\n",
+              "vspace",
+              "adep",
+              "ades",
+              "trans",
+              "arrrwy",
+              "\n",
+              "cr",
+              "align_right",
+              "nsfreq",
+              "\n",
+              "optext",
+              "align_right",
+              "afk",
+              "\n",
+              "vspace",
+              "traj",
+              "info",
+              "id",
+              "misc"
             ]
           }
         },
         {
           "name": "G",
-          "conditions": { "isArrival": true },
-          "airports": ["LFPG"],
+          "conditions": {
+            "isArrival": true
+          },
+          "airports": [
+            "LFPG"
+          ],
           "priority": 2,
           "filtered": false,
           "style": {
@@ -444,17 +844,39 @@
           },
           "taglayouts": {
             "extended_layout": [
-              "vspace", "modeshdg", "modesspd", "modesmach", "modessfl", "\n",
-              "vspace", "adep", "ades", "trans", "arrrwy", "\n",
-              "cr", "align_right", "nsfreq", "\n",
-              "optext", "align_right", "afk", "\n",
-              "vspace", "traj", "info", "id", "misc"
+              "vspace",
+              "modeshdg",
+              "modesspd",
+              "modesmach",
+              "modessfl",
+              "\n",
+              "vspace",
+              "adep",
+              "ades",
+              "trans",
+              "arrrwy",
+              "\n",
+              "cr",
+              "align_right",
+              "nsfreq",
+              "\n",
+              "optext",
+              "align_right",
+              "afk",
+              "\n",
+              "vspace",
+              "traj",
+              "info",
+              "id",
+              "misc"
             ]
           }
         },
         {
           "name": "S",
-          "conditions": { "isVFR": true},
+          "conditions": {
+            "isVFR": true
+          },
           "priority": 4,
           "filtered": true,
           "style": {
@@ -467,18 +889,45 @@
           },
           "taglayouts": {
             "extended_layout": [
-              "vspace", "modeshdg", "modesspd", "modesmach", "modessfl", "\n",
-              "vspace", "adep", "ades", "trans", "arrrwy", "\n",
-              "cr", "align_right", "nsfreq", "\n",
-              "optext", "align_right", "afk", "\n",
-              "vspace", "traj", "info", "id", "misc"
+              "vspace",
+              "modeshdg",
+              "modesspd",
+              "modesmach",
+              "modessfl",
+              "\n",
+              "vspace",
+              "adep",
+              "ades",
+              "trans",
+              "arrrwy",
+              "\n",
+              "cr",
+              "align_right",
+              "nsfreq",
+              "\n",
+              "optext",
+              "align_right",
+              "afk",
+              "\n",
+              "vspace",
+              "traj",
+              "info",
+              "id",
+              "misc"
             ]
           }
         },
         {
           "name": "P",
-          "conditions": { "isArrival": true, "isDeparture": true },
-          "airports": ["LFPO", "LFPN", "LFPV"],
+          "conditions": {
+            "isArrival": true,
+            "isDeparture": true
+          },
+          "airports": [
+            "LFPO",
+            "LFPN",
+            "LFPV"
+          ],
           "priority": 0,
           "filtered": false,
           "style": {
@@ -491,18 +940,42 @@
           },
           "taglayouts": {
             "extended_layout": [
-              "vspace", "modeshdg", "modesspd", "modesmach", "modessfl", "\n",
-              "vspace", "adep", "ades", "trans", "arrrwy", "\n",
-              "cr", "align_right", "nsfreq", "\n",
-              "optext", "align_right", "afk", "\n",
-              "vspace", "traj", "info", "id", "misc"
+              "vspace",
+              "modeshdg",
+              "modesspd",
+              "modesmach",
+              "modessfl",
+              "\n",
+              "vspace",
+              "adep",
+              "ades",
+              "trans",
+              "arrrwy",
+              "\n",
+              "cr",
+              "align_right",
+              "nsfreq",
+              "\n",
+              "optext",
+              "align_right",
+              "afk",
+              "\n",
+              "vspace",
+              "traj",
+              "info",
+              "id",
+              "misc"
             ]
           }
         },
         {
           "name": "K",
-          "conditions": { "isArrival": true },
-          "airports": ["LFPB"],
+          "conditions": {
+            "isArrival": true
+          },
+          "airports": [
+            "LFPB"
+          ],
           "priority": 1,
           "filtered": false,
           "style": {
@@ -515,17 +988,39 @@
           },
           "taglayouts": {
             "extended_layout": [
-              "vspace", "modeshdg", "modesspd", "modesmach", "modessfl", "\n",
-              "vspace", "adep", "ades", "trans", "arrrwy", "\n",
-              "cr", "align_right", "nsfreq", "\n",
-              "optext", "align_right", "afk", "\n",
-              "vspace", "traj", "info", "id", "misc"
+              "vspace",
+              "modeshdg",
+              "modesspd",
+              "modesmach",
+              "modessfl",
+              "\n",
+              "vspace",
+              "adep",
+              "ades",
+              "trans",
+              "arrrwy",
+              "\n",
+              "cr",
+              "align_right",
+              "nsfreq",
+              "\n",
+              "optext",
+              "align_right",
+              "afk",
+              "\n",
+              "vspace",
+              "traj",
+              "info",
+              "id",
+              "misc"
             ]
           }
         },
         {
           "name": "X",
-          "airports": ["****"],
+          "airports": [
+            "****"
+          ],
           "priority": 5,
           "filtered": true,
           "style": {
@@ -538,11 +1033,31 @@
           },
           "taglayouts": {
             "extended_layout": [
-              "vspace", "modeshdg", "modesspd", "modesmach", "modessfl", "\n",
-              "vspace", "adep", "ades", "trans", "arrrwy", "\n",
-              "cr", "align_right", "nsfreq", "\n",
-              "optext", "align_right", "afk", "\n",
-              "vspace", "traj", "info", "id", "misc"
+              "vspace",
+              "modeshdg",
+              "modesspd",
+              "modesmach",
+              "modessfl",
+              "\n",
+              "vspace",
+              "adep",
+              "ades",
+              "trans",
+              "arrrwy",
+              "\n",
+              "cr",
+              "align_right",
+              "nsfreq",
+              "\n",
+              "optext",
+              "align_right",
+              "afk",
+              "\n",
+              "vspace",
+              "traj",
+              "info",
+              "id",
+              "misc"
             ]
           }
         }
@@ -554,8 +1069,12 @@
       "rules": [
         {
           "name": "DEP",
-          "conditions": { "isDeparture": true },
-          "airports": ["LF**"],
+          "conditions": {
+            "isDeparture": true
+          },
+          "airports": [
+            "LF**"
+          ],
           "priority": 1,
           "filtered": false,
           "style": {
@@ -568,18 +1087,42 @@
           },
           "taglayouts": {
             "extended_layout": [
-              "vspace", "modeshdg", "modesspd", "modesmach", "modessfl", "\n",
-              "vspace", "adep", "ades", "deprwy", "sid", "\n",
-              "cr", "align_right", "nsfreq", "\n",
-              "optext", "align_right", "afk", "\n",
-              "vspace", "traj", "info", "id", "misc"
+              "vspace",
+              "modeshdg",
+              "modesspd",
+              "modesmach",
+              "modessfl",
+              "\n",
+              "vspace",
+              "adep",
+              "ades",
+              "deprwy",
+              "sid",
+              "\n",
+              "cr",
+              "align_right",
+              "nsfreq",
+              "\n",
+              "optext",
+              "align_right",
+              "afk",
+              "\n",
+              "vspace",
+              "traj",
+              "info",
+              "id",
+              "misc"
             ]
           }
         },
         {
           "name": "ARR",
-          "conditions": { "isArrival": true },
-          "airports": ["LF**"],
+          "conditions": {
+            "isArrival": true
+          },
+          "airports": [
+            "LF**"
+          ],
           "priority": 1,
           "filtered": false,
           "style": {
@@ -592,11 +1135,31 @@
           },
           "taglayouts": {
             "extended_layout": [
-              "vspace", "modeshdg", "modesspd", "modesmach", "modessfl", "\n",
-              "vspace", "adep", "ades", "trans", "arrrwy", "\n",
-              "cr", "align_right", "nsfreq", "\n",
-              "optext", "align_right", "afk", "\n",
-              "vspace", "traj", "info", "id", "misc"
+              "vspace",
+              "modeshdg",
+              "modesspd",
+              "modesmach",
+              "modessfl",
+              "\n",
+              "vspace",
+              "adep",
+              "ades",
+              "trans",
+              "arrrwy",
+              "\n",
+              "cr",
+              "align_right",
+              "nsfreq",
+              "\n",
+              "optext",
+              "align_right",
+              "afk",
+              "\n",
+              "vspace",
+              "traj",
+              "info",
+              "id",
+              "misc"
             ]
           }
         }
@@ -608,8 +1171,12 @@
       "rules": [
         {
           "name": "DEP",
-          "conditions": { "isDeparture": true },
-          "airports": ["LFMN"],
+          "conditions": {
+            "isDeparture": true
+          },
+          "airports": [
+            "LFMN"
+          ],
           "priority": 1,
           "filtered": false,
           "style": {
@@ -622,18 +1189,42 @@
           },
           "taglayouts": {
             "extended_layout": [
-              "vspace", "modeshdg", "modesspd", "modesmach", "modessfl", "\n",
-              "vspace", "adep", "ades", "deprwy", "sid", "\n",
-              "cr", "align_right", "nsfreq", "\n",
-              "optext", "align_right", "afk", "\n",
-              "vspace", "traj", "info", "id", "misc"
+              "vspace",
+              "modeshdg",
+              "modesspd",
+              "modesmach",
+              "modessfl",
+              "\n",
+              "vspace",
+              "adep",
+              "ades",
+              "deprwy",
+              "sid",
+              "\n",
+              "cr",
+              "align_right",
+              "nsfreq",
+              "\n",
+              "optext",
+              "align_right",
+              "afk",
+              "\n",
+              "vspace",
+              "traj",
+              "info",
+              "id",
+              "misc"
             ]
           }
         },
         {
           "name": "ARR",
-          "conditions": { "isArrival": true },
-          "airports": ["LFMN"],
+          "conditions": {
+            "isArrival": true
+          },
+          "airports": [
+            "LFMN"
+          ],
           "priority": 1,
           "filtered": false,
           "style": {
@@ -646,18 +1237,44 @@
           },
           "taglayouts": {
             "extended_layout": [
-              "vspace", "modeshdg", "modesspd", "modesmach", "modessfl", "\n",
-              "vspace", "adep", "ades", "trans", "arrrwy", "\n",
-              "cr", "align_right", "nsfreq", "\n",
-              "optext", "align_right", "afk", "\n",
-              "vspace", "traj", "info", "id", "misc"
+              "vspace",
+              "modeshdg",
+              "modesspd",
+              "modesmach",
+              "modessfl",
+              "\n",
+              "vspace",
+              "adep",
+              "ades",
+              "trans",
+              "arrrwy",
+              "\n",
+              "cr",
+              "align_right",
+              "nsfreq",
+              "\n",
+              "optext",
+              "align_right",
+              "afk",
+              "\n",
+              "vspace",
+              "traj",
+              "info",
+              "id",
+              "misc"
             ]
           }
         },
         {
           "name": "SATDEP",
-          "conditions": { "isDeparture": true },
-          "airports": ["LFMD", "LFTH", "LFMC"],
+          "conditions": {
+            "isDeparture": true
+          },
+          "airports": [
+            "LFMD",
+            "LFTH",
+            "LFMC"
+          ],
           "priority": 1,
           "filtered": false,
           "style": {
@@ -670,18 +1287,42 @@
           },
           "taglayouts": {
             "extended_layout": [
-              "vspace", "modeshdg", "modesspd", "modesmach", "modessfl", "\n",
-              "vspace", "adep", "ades", "trans", "arrrwy", "\n",
-              "cr", "align_right", "nsfreq", "\n",
-              "optext", "align_right", "afk", "\n",
-              "vspace", "traj", "info", "id", "misc"
+              "vspace",
+              "modeshdg",
+              "modesspd",
+              "modesmach",
+              "modessfl",
+              "\n",
+              "vspace",
+              "adep",
+              "ades",
+              "trans",
+              "arrrwy",
+              "\n",
+              "cr",
+              "align_right",
+              "nsfreq",
+              "\n",
+              "optext",
+              "align_right",
+              "afk",
+              "\n",
+              "vspace",
+              "traj",
+              "info",
+              "id",
+              "misc"
             ]
           }
         },
         {
           "name": "THARR",
-          "conditions": { "isArrival": true },
-          "airports": ["LFTH"],
+          "conditions": {
+            "isArrival": true
+          },
+          "airports": [
+            "LFTH"
+          ],
           "priority": 1,
           "filtered": false,
           "style": {
@@ -694,18 +1335,42 @@
           },
           "taglayouts": {
             "extended_layout": [
-              "vspace", "modeshdg", "modesspd", "modesmach", "modessfl", "\n",
-              "vspace", "adep", "ades", "trans", "arrrwy", "\n",
-              "cr", "align_right", "nsfreq", "\n",
-              "optext", "align_right", "afk", "\n",
-              "vspace", "traj", "info", "id", "misc"
+              "vspace",
+              "modeshdg",
+              "modesspd",
+              "modesmach",
+              "modessfl",
+              "\n",
+              "vspace",
+              "adep",
+              "ades",
+              "trans",
+              "arrrwy",
+              "\n",
+              "cr",
+              "align_right",
+              "nsfreq",
+              "\n",
+              "optext",
+              "align_right",
+              "afk",
+              "\n",
+              "vspace",
+              "traj",
+              "info",
+              "id",
+              "misc"
             ]
           }
         },
         {
           "name": "MCARR",
-          "conditions": { "isArrival": true },
-          "airports": ["LFTH"],
+          "conditions": {
+            "isArrival": true
+          },
+          "airports": [
+            "LFTH"
+          ],
           "priority": 1,
           "filtered": false,
           "style": {
@@ -718,18 +1383,42 @@
           },
           "taglayouts": {
             "extended_layout": [
-              "vspace", "modeshdg", "modesspd", "modesmach", "modessfl", "\n",
-              "vspace", "adep", "ades", "trans", "arrrwy", "\n",
-              "cr", "align_right", "nsfreq", "\n",
-              "optext", "align_right", "afk", "\n",
-              "vspace", "traj", "info", "id", "misc"
+              "vspace",
+              "modeshdg",
+              "modesspd",
+              "modesmach",
+              "modessfl",
+              "\n",
+              "vspace",
+              "adep",
+              "ades",
+              "trans",
+              "arrrwy",
+              "\n",
+              "cr",
+              "align_right",
+              "nsfreq",
+              "\n",
+              "optext",
+              "align_right",
+              "afk",
+              "\n",
+              "vspace",
+              "traj",
+              "info",
+              "id",
+              "misc"
             ]
           }
         },
         {
           "name": "MDARR",
-          "conditions": { "isArrival": true },
-          "airports": ["LFMD"],
+          "conditions": {
+            "isArrival": true
+          },
+          "airports": [
+            "LFMD"
+          ],
           "priority": 1,
           "filtered": false,
           "style": {
@@ -742,18 +1431,42 @@
           },
           "taglayouts": {
             "extended_layout": [
-              "vspace", "modeshdg", "modesspd", "modesmach", "modessfl", "\n",
-              "vspace", "adep", "ades", "trans", "arrrwy", "\n",
-              "cr", "align_right", "nsfreq", "\n",
-              "optext", "align_right", "afk", "\n",
-              "vspace", "traj", "info", "id", "misc"
+              "vspace",
+              "modeshdg",
+              "modesspd",
+              "modesmach",
+              "modessfl",
+              "\n",
+              "vspace",
+              "adep",
+              "ades",
+              "trans",
+              "arrrwy",
+              "\n",
+              "cr",
+              "align_right",
+              "nsfreq",
+              "\n",
+              "optext",
+              "align_right",
+              "afk",
+              "\n",
+              "vspace",
+              "traj",
+              "info",
+              "id",
+              "misc"
             ]
           }
         },
         {
           "name": "IFRTRS",
-          "conditions": { "isIFR": true },
-          "airports": ["****"],
+          "conditions": {
+            "isIFR": true
+          },
+          "airports": [
+            "****"
+          ],
           "priority": 5,
           "filtered": true,
           "style": {
@@ -767,8 +1480,12 @@
         },
         {
           "name": "VFRTRS",
-          "conditions": { "isVFR": true },
-          "airports": ["****"],
+          "conditions": {
+            "isVFR": true
+          },
+          "airports": [
+            "****"
+          ],
           "priority": 5,
           "filtered": true,
           "style": {
@@ -788,8 +1505,12 @@
       "rules": [
         {
           "name": "ARR",
-          "conditions": { "isArrival": true },
-          "airports": ["LFLL"],
+          "conditions": {
+            "isArrival": true
+          },
+          "airports": [
+            "LFLL"
+          ],
           "priority": 1,
           "filtered": false,
           "style": {
@@ -802,18 +1523,42 @@
           },
           "taglayouts": {
             "extended_layout": [
-              "vspace", "modeshdg", "modesspd", "modesmach", "modessfl", "\n",
-              "vspace", "adep", "ades", "deprwy", "sid", "\n",
-              "cr", "align_right", "nsfreq", "\n",
-              "optext", "align_right", "afk", "\n",
-              "vspace", "traj", "info", "id", "misc"
+              "vspace",
+              "modeshdg",
+              "modesspd",
+              "modesmach",
+              "modessfl",
+              "\n",
+              "vspace",
+              "adep",
+              "ades",
+              "deprwy",
+              "sid",
+              "\n",
+              "cr",
+              "align_right",
+              "nsfreq",
+              "\n",
+              "optext",
+              "align_right",
+              "afk",
+              "\n",
+              "vspace",
+              "traj",
+              "info",
+              "id",
+              "misc"
             ]
           }
         },
         {
           "name": "ARR",
-          "conditions": { "isArrival": true },
-          "airports": ["LFLU"],
+          "conditions": {
+            "isArrival": true
+          },
+          "airports": [
+            "LFLU"
+          ],
           "priority": 1,
           "filtered": false,
           "style": {
@@ -826,18 +1571,42 @@
           },
           "taglayouts": {
             "extended_layout": [
-              "vspace", "modeshdg", "modesspd", "modesmach", "modessfl", "\n",
-              "vspace", "adep", "ades", "deprwy", "sid", "\n",
-              "cr", "align_right", "nsfreq", "\n",
-              "optext", "align_right", "afk", "\n",
-              "vspace", "traj", "info", "id", "misc"
+              "vspace",
+              "modeshdg",
+              "modesspd",
+              "modesmach",
+              "modessfl",
+              "\n",
+              "vspace",
+              "adep",
+              "ades",
+              "deprwy",
+              "sid",
+              "\n",
+              "cr",
+              "align_right",
+              "nsfreq",
+              "\n",
+              "optext",
+              "align_right",
+              "afk",
+              "\n",
+              "vspace",
+              "traj",
+              "info",
+              "id",
+              "misc"
             ]
           }
         },
         {
           "name": "ARR",
-          "conditions": { "isArrival": true },
-          "airports": ["LFLY"],
+          "conditions": {
+            "isArrival": true
+          },
+          "airports": [
+            "LFLY"
+          ],
           "priority": 1,
           "filtered": false,
           "style": {
@@ -850,18 +1619,43 @@
           },
           "taglayouts": {
             "extended_layout": [
-              "vspace", "modeshdg", "modesspd", "modesmach", "modessfl", "\n",
-              "vspace", "adep", "ades", "deprwy", "sid", "\n",
-              "cr", "align_right", "nsfreq", "\n",
-              "optext", "align_right", "afk", "\n",
-              "vspace", "traj", "info", "id", "misc"
+              "vspace",
+              "modeshdg",
+              "modesspd",
+              "modesmach",
+              "modessfl",
+              "\n",
+              "vspace",
+              "adep",
+              "ades",
+              "deprwy",
+              "sid",
+              "\n",
+              "cr",
+              "align_right",
+              "nsfreq",
+              "\n",
+              "optext",
+              "align_right",
+              "afk",
+              "\n",
+              "vspace",
+              "traj",
+              "info",
+              "id",
+              "misc"
             ]
           }
         },
         {
           "name": "ARR",
-          "conditions": { "isArrival": true },
-          "airports": ["LFLB", "LFLP"],
+          "conditions": {
+            "isArrival": true
+          },
+          "airports": [
+            "LFLB",
+            "LFLP"
+          ],
           "priority": 1,
           "filtered": false,
           "style": {
@@ -874,18 +1668,42 @@
           },
           "taglayouts": {
             "extended_layout": [
-              "vspace", "modeshdg", "modesspd", "modesmach", "modessfl", "\n",
-              "vspace", "adep", "ades", "deprwy", "sid", "\n",
-              "cr", "align_right", "nsfreq", "\n",
-              "optext", "align_right", "afk", "\n",
-              "vspace", "traj", "info", "id", "misc"
+              "vspace",
+              "modeshdg",
+              "modesspd",
+              "modesmach",
+              "modessfl",
+              "\n",
+              "vspace",
+              "adep",
+              "ades",
+              "deprwy",
+              "sid",
+              "\n",
+              "cr",
+              "align_right",
+              "nsfreq",
+              "\n",
+              "optext",
+              "align_right",
+              "afk",
+              "\n",
+              "vspace",
+              "traj",
+              "info",
+              "id",
+              "misc"
             ]
           }
         },
         {
           "name": "ARR",
-          "conditions": { "isArrival": true },
-          "airports": ["LFLS"],
+          "conditions": {
+            "isArrival": true
+          },
+          "airports": [
+            "LFLS"
+          ],
           "priority": 1,
           "filtered": false,
           "style": {
@@ -898,18 +1716,42 @@
           },
           "taglayouts": {
             "extended_layout": [
-              "vspace", "modeshdg", "modesspd", "modesmach", "modessfl", "\n",
-              "vspace", "adep", "ades", "deprwy", "sid", "\n",
-              "cr", "align_right", "nsfreq", "\n",
-              "optext", "align_right", "afk", "\n",
-              "vspace", "traj", "info", "id", "misc"
+              "vspace",
+              "modeshdg",
+              "modesspd",
+              "modesmach",
+              "modessfl",
+              "\n",
+              "vspace",
+              "adep",
+              "ades",
+              "deprwy",
+              "sid",
+              "\n",
+              "cr",
+              "align_right",
+              "nsfreq",
+              "\n",
+              "optext",
+              "align_right",
+              "afk",
+              "\n",
+              "vspace",
+              "traj",
+              "info",
+              "id",
+              "misc"
             ]
           }
         },
         {
           "name": "DEP",
-          "conditions": { "isDeparture": true },
-          "airports": ["LFLL"],
+          "conditions": {
+            "isDeparture": true
+          },
+          "airports": [
+            "LFLL"
+          ],
           "priority": 2,
           "filtered": false,
           "style": {
@@ -922,18 +1764,42 @@
           },
           "taglayouts": {
             "extended_layout": [
-              "vspace", "modeshdg", "modesspd", "modesmach", "modessfl", "\n",
-              "vspace", "adep", "ades", "trans", "arrrwy", "\n",
-              "cr", "align_right", "nsfreq", "\n",
-              "optext", "align_right", "afk", "\n",
-              "vspace", "traj", "info", "id", "misc"
+              "vspace",
+              "modeshdg",
+              "modesspd",
+              "modesmach",
+              "modessfl",
+              "\n",
+              "vspace",
+              "adep",
+              "ades",
+              "trans",
+              "arrrwy",
+              "\n",
+              "cr",
+              "align_right",
+              "nsfreq",
+              "\n",
+              "optext",
+              "align_right",
+              "afk",
+              "\n",
+              "vspace",
+              "traj",
+              "info",
+              "id",
+              "misc"
             ]
           }
         },
         {
           "name": "DEP",
-          "conditions": { "isDeparture": true },
-          "airports": ["LFLY"],
+          "conditions": {
+            "isDeparture": true
+          },
+          "airports": [
+            "LFLY"
+          ],
           "priority": 2,
           "filtered": false,
           "style": {
@@ -946,18 +1812,43 @@
           },
           "taglayouts": {
             "extended_layout": [
-              "vspace", "modeshdg", "modesspd", "modesmach", "modessfl", "\n",
-              "vspace", "adep", "ades", "trans", "arrrwy", "\n",
-              "cr", "align_right", "nsfreq", "\n",
-              "optext", "align_right", "afk", "\n",
-              "vspace", "traj", "info", "id", "misc"
+              "vspace",
+              "modeshdg",
+              "modesspd",
+              "modesmach",
+              "modessfl",
+              "\n",
+              "vspace",
+              "adep",
+              "ades",
+              "trans",
+              "arrrwy",
+              "\n",
+              "cr",
+              "align_right",
+              "nsfreq",
+              "\n",
+              "optext",
+              "align_right",
+              "afk",
+              "\n",
+              "vspace",
+              "traj",
+              "info",
+              "id",
+              "misc"
             ]
           }
         },
         {
           "name": "DEP",
-          "conditions": { "isDeparture": true },
-          "airports": ["LFLB", "LFLP"],
+          "conditions": {
+            "isDeparture": true
+          },
+          "airports": [
+            "LFLB",
+            "LFLP"
+          ],
           "priority": 2,
           "filtered": false,
           "style": {
@@ -970,18 +1861,42 @@
           },
           "taglayouts": {
             "extended_layout": [
-              "vspace", "modeshdg", "modesspd", "modesmach", "modessfl", "\n",
-              "vspace", "adep", "ades", "trans", "arrrwy", "\n",
-              "cr", "align_right", "nsfreq", "\n",
-              "optext", "align_right", "afk", "\n",
-              "vspace", "traj", "info", "id", "misc"
+              "vspace",
+              "modeshdg",
+              "modesspd",
+              "modesmach",
+              "modessfl",
+              "\n",
+              "vspace",
+              "adep",
+              "ades",
+              "trans",
+              "arrrwy",
+              "\n",
+              "cr",
+              "align_right",
+              "nsfreq",
+              "\n",
+              "optext",
+              "align_right",
+              "afk",
+              "\n",
+              "vspace",
+              "traj",
+              "info",
+              "id",
+              "misc"
             ]
           }
         },
         {
           "name": "DEP",
-          "conditions": { "isDeparture": true },
-          "airports": ["LFLS"],
+          "conditions": {
+            "isDeparture": true
+          },
+          "airports": [
+            "LFLS"
+          ],
           "priority": 2,
           "filtered": false,
           "style": {
@@ -994,18 +1909,42 @@
           },
           "taglayouts": {
             "extended_layout": [
-              "vspace", "modeshdg", "modesspd", "modesmach", "modessfl", "\n",
-              "vspace", "adep", "ades", "trans", "arrrwy", "\n",
-              "cr", "align_right", "nsfreq", "\n",
-              "optext", "align_right", "afk", "\n",
-              "vspace", "traj", "info", "id", "misc"
+              "vspace",
+              "modeshdg",
+              "modesspd",
+              "modesmach",
+              "modessfl",
+              "\n",
+              "vspace",
+              "adep",
+              "ades",
+              "trans",
+              "arrrwy",
+              "\n",
+              "cr",
+              "align_right",
+              "nsfreq",
+              "\n",
+              "optext",
+              "align_right",
+              "afk",
+              "\n",
+              "vspace",
+              "traj",
+              "info",
+              "id",
+              "misc"
             ]
           }
         },
         {
           "name": "Tous IFR",
-          "conditions": { "isVFR": false },
-          "airports": ["****"],
+          "conditions": {
+            "isVFR": false
+          },
+          "airports": [
+            "****"
+          ],
           "priority": 5,
           "filtered": true,
           "style": {
@@ -1018,18 +1957,42 @@
           },
           "taglayouts": {
             "extended_layout": [
-              "vspace", "modeshdg", "modesspd", "modesmach", "modessfl", "\n",
-              "vspace", "adep", "ades", "trans", "arrrwy", "\n",
-              "cr", "align_right", "nsfreq", "\n",
-              "optext", "align_right", "afk", "\n",
-              "vspace", "traj", "info", "id", "misc"
+              "vspace",
+              "modeshdg",
+              "modesspd",
+              "modesmach",
+              "modessfl",
+              "\n",
+              "vspace",
+              "adep",
+              "ades",
+              "trans",
+              "arrrwy",
+              "\n",
+              "cr",
+              "align_right",
+              "nsfreq",
+              "\n",
+              "optext",
+              "align_right",
+              "afk",
+              "\n",
+              "vspace",
+              "traj",
+              "info",
+              "id",
+              "misc"
             ]
           }
         },
         {
           "name": "Tous IFR",
-          "conditions": { "isVFR": false },
-          "airports": ["LSGG"],
+          "conditions": {
+            "isVFR": false
+          },
+          "airports": [
+            "LSGG"
+          ],
           "priority": 4,
           "filtered": true,
           "style": {
@@ -1042,18 +2005,42 @@
           },
           "taglayouts": {
             "extended_layout": [
-              "vspace", "modeshdg", "modesspd", "modesmach", "modessfl", "\n",
-              "vspace", "adep", "ades", "trans", "arrrwy", "\n",
-              "cr", "align_right", "nsfreq", "\n",
-              "optext", "align_right", "afk", "\n",
-              "vspace", "traj", "info", "id", "misc"
+              "vspace",
+              "modeshdg",
+              "modesspd",
+              "modesmach",
+              "modessfl",
+              "\n",
+              "vspace",
+              "adep",
+              "ades",
+              "trans",
+              "arrrwy",
+              "\n",
+              "cr",
+              "align_right",
+              "nsfreq",
+              "\n",
+              "optext",
+              "align_right",
+              "afk",
+              "\n",
+              "vspace",
+              "traj",
+              "info",
+              "id",
+              "misc"
             ]
           }
         },
         {
           "name": "Tous VFR",
-          "conditions": { "isVFR": true },
-          "airports": ["****"],
+          "conditions": {
+            "isVFR": true
+          },
+          "airports": [
+            "****"
+          ],
           "priority": 5,
           "filtered": true,
           "style": {
@@ -1066,11 +2053,31 @@
           },
           "taglayouts": {
             "extended_layout": [
-              "vspace", "modeshdg", "modesspd", "modesmach", "modessfl", "\n",
-              "vspace", "adep", "ades", "trans", "arrrwy", "\n",
-              "cr", "align_right", "nsfreq", "\n",
-              "optext", "align_right", "afk", "\n",
-              "vspace", "traj", "info", "id", "misc"
+              "vspace",
+              "modeshdg",
+              "modesspd",
+              "modesmach",
+              "modessfl",
+              "\n",
+              "vspace",
+              "adep",
+              "ades",
+              "trans",
+              "arrrwy",
+              "\n",
+              "cr",
+              "align_right",
+              "nsfreq",
+              "\n",
+              "optext",
+              "align_right",
+              "afk",
+              "\n",
+              "vspace",
+              "traj",
+              "info",
+              "id",
+              "misc"
             ]
           }
         }

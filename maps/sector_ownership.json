@@ -1,6 +1,6 @@
 {
   "$schema": "../.github/schema/sector_ownership.schema.json",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "LFBB-BN": [
     "LFBB_CTR"
   ],

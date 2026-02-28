@@ -1,4 +1,4 @@
-version = "1.0.1"
+version = "1.0.2"
 config_repo = "AlexisBalzano/CoFrance-config-files/main"
 
 [api_urls]
