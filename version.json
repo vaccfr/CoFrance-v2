@@ -1,8 +1,8 @@
 {
   "$schema": "./.github/schema/version.schema.json",
   "plugin_version": "2.0.1",
-  "CoFrance.toml_version": "1.0.2",
-  "manifest.json_version": "1.0.2",
+  "CoFrance.toml_version": "1.0.3",
+  "manifest.json_version": "1.0.3",
   "sector_ownership.json_version": "1.0.1",
   "sector_levels.geojson_version": "1.0.1",
   "tma_filters.geojson_version": "1.0.1",
