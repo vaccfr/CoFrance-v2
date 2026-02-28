@@ -1,11 +1,12 @@
 {
   "$schema": "../.github/schema/manifest.schema.json",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "LFFF": [
     "Carte_Trajectoires_UIR",
     "Carte_Trajectoires_FIR"
   ],
   "LFEE": [
+    "Carte_Trajectoires_FRA",
     "Carte_Trajectoires_UIR"
   ],
   "LFBB": [

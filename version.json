@@ -9,5 +9,5 @@
 	"monitoring_zones.geojson_version": "1.0.1",
 	"tag_formats.json_version": "1.0.3",
 	"predefined_holds.json_version": "1.0.1",
-	"intention_codes.json_version": "1.0.2"
+	"intention_codes.json_version": "1.0.3"
 }

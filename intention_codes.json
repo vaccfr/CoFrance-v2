@@ -1,6 +1,6 @@
 {
   "$schema": "./.github/schema/intention_codes.schema.json",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "LFEE_": {
     "arrivals": [
       "LFST",
@@ -111,17 +111,41 @@
       "EDDT"
     ],
     "customCodes": {
-      "ADK": {
-        "waypoint": ["ADEKA"]
+      "ORY": {
+        "destination": ["LFPO"]
       },
-      "BUB": {
-        "waypoint": ["BUBLI"]
+      "CDG": {
+        "destination": ["LFPG"]
       },
       "BVA": {
         "destination": ["LFOB"]
       },
-      "CDG": {
-        "destination": ["LFPG"]
+      "LBG": {
+        "destination": ["LFPB"]
+      },
+      "PVN": {
+        "destination": ["LFPV", "LFPN"]
+      },
+      "GIM": {
+        "waypoint": ["GIMER"]
+      },
+      "KOV": {
+        "waypoint": ["KOVIN"]
+      },
+      "ADK": {
+        "waypoint": ["ADEKA"]
+      },
+      "ADT": {
+        "waypoint": ["ADUTO"]
+      },
+      "AVL": {
+        "waypoint": ["ARVOL"]
+      },
+      "BUB": {
+        "waypoint": ["BUBLI"]
+      },
+      "DIM": {
+        "waypoint": ["DIMAL"]
       },
       "EKS": {
         "waypoint": ["EKRAS"]
@@ -141,14 +165,8 @@
       "LAS": {
         "waypoint": ["LASIV"]
       },
-      "LBG": {
-        "destination": ["LFPB"]
-      },
       "LMG": {
         "waypoint": ["LMG"]
-      },
-      "LUM": {
-        "waypoint": ["LUMIL"]
       },
       "MMD": {
         "waypoint": ["MMD"]
@@ -159,14 +177,8 @@
       "ODB": {
         "waypoint": ["OEDBU", "OGULO"]
       },
-      "ORY": {
-        "destination": ["LFPO"]
-      },
       "PIX": {
         "waypoint": ["PIXIS"]
-      },
-      "PVN": {
-        "destination": ["LFPV", "LFPN"]
       },
       "RNX": {
         "waypoint": ["RANUX"]
@@ -182,12 +194,6 @@
       },
       "SSN": {
         "waypoint": ["SOSUN"]
-      },
-      "VEK": {
-        "waypoint": ["VEKIN"]
-      },
-      "VLK": {
-        "waypoint": ["VALKU"]
       },
       "TPR": {
         "waypoint": ["TEPRI"]
