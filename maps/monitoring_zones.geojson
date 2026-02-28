@@ -1,7 +1,7 @@
 {
   "$schema": "../.github/schema/monitoring_zones.schema.json",
   "type": "FeatureCollection",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "crs": {
     "type": "name",
     "properties": {
