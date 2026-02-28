@@ -6,7 +6,7 @@
   "sector_ownership.json_version": "1.0.1",
   "sector_levels.geojson_version": "1.0.1",
   "tma_filters.geojson_version": "1.0.1",
-  "monitoring_zones.geojson_version": "1.0.3",
+  "monitoring_zones.geojson_version": "1.0.4",
   "tag_formats.json_version": "1.0.5",
   "predefined_holds.json_version": "1.0.2",
   "intention_codes.json_version": "1.0.4"
