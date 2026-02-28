@@ -1,0 +1,236 @@
+name: Validate and auto-bump versions
+
+on:
+  push:
+    branches:
+      - dev
+
+permissions:
+  contents: write
+
+jobs:
+  validate-and-bump:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          persist-credentials: true
+
+      - name: Run validations
+        # Fail the job if validation fails.
+        run: |
+          python - <<'PY'
+          import os, sys, json, re
+          from jsonschema import Draft7Validator
+
+          repo_root = os.getcwd()
+          schema_dir = os.path.join(repo_root, '.github', 'schema')
+
+          def is_lf_subfolder(path):
+              # path is relative path with forward slashes on linux runner
+              parts = path.split(os.sep)
+              # expect maps/<folder>/...
+              return len(parts) >= 2 and parts[0] == 'maps' and re.match(r'^LF[A-Z0-9]+$', parts[1])
+
+          errors = []
+          validated = 0
+          for root, dirs, files in os.walk(repo_root):
+              # skip .git
+              if '.git' in root:
+                  continue
+              # skip schema folder itself
+              if os.path.commonpath([os.path.abspath(root), os.path.abspath(schema_dir)]) == os.path.abspath(schema_dir):
+                  continue
+              for fname in files:
+                  relpath = os.path.relpath(os.path.join(root, fname), repo_root)
+                  # normalize
+                  relposix = relpath.replace('\\', '/')
+
+                  # ignore CoFrance.toml explicitly
+                  if os.path.normpath(relpath) == 'CoFrance.toml':
+                      continue
+
+                  if not (fname.endswith('.json') or fname.endswith('.geojson')):
+                      continue
+
+                  # Determine schema path
+                  if is_lf_subfolder(relpath):
+                      schema_path = os.path.join(schema_dir, 'map.schema.json')
+                  else:
+                      schema_candidate = os.path.join(schema_dir, fname + '.schema.json')
+                      # support schema names like tag_formats.schema.json for tag_formats.json
+                      alt = os.path.join(schema_dir, os.path.splitext(fname)[0] + '.schema.json')
+                      if os.path.exists(schema_candidate):
+                          schema_path = schema_candidate
+                      elif os.path.exists(alt):
+                          schema_path = alt
+                      else:
+                          # also allow matching by removing extensions like .geojson -> .schema.json
+                          schema_path = None
+
+                  if not schema_path or not os.path.exists(schema_path):
+                      errors.append(f"No schema found for '{relposix}'. Expected schema at '.github/schema/{os.path.basename(fname)}.schema.json' or for LF* maps use 'map.schema.json'.")
+                      continue
+
+                  # load schema and instance
+                  try:
+                      with open(schema_path, 'r', encoding='utf-8') as sf:
+                          schema = json.load(sf)
+                  except Exception as e:
+                      errors.append(f"Failed to load schema '{os.path.relpath(schema_path, repo_root)}': {e}")
+                      continue
+
+                  try:
+                      with open(os.path.join(root, fname), 'r', encoding='utf-8') as df:
+                          instance = json.load(df)
+                  except Exception as e:
+                      errors.append(f"Failed to parse JSON '{relposix}': {e}")
+                      continue
+
+                  validator = Draft7Validator(schema)
+                  issues = sorted(validator.iter_errors(instance), key=lambda e: (list(e.path), e.message))
+                  if issues:
+                      errors.append(f"Validation errors for '{relposix}' against schema '{os.path.relpath(schema_path, repo_root)}':")
+                      for err in issues:
+                          path = '/'.join(map(str, err.absolute_path)) if err.absolute_path else '(root)'
+                          errors.append(f" - {path}: {err.message}")
+                  else:
+                      validated += 1
+
+          if errors:
+              print('\n'.join(errors))
+              print(f"\nValidation failed: {len(errors)} problem(s). Files validated successfully: {validated}")
+              sys.exit(1)
+          else:
+              print(f"All validated files OK. Files validated: {validated}")
+          PY
+
+
+      - name: Determine changed files
+        id: changed
+        run: |
+          set -euo pipefail
+          RANGE="${{ github.event.before }}..${{ github.sha }}"
+          # handle initial commit where before can be 000...0
+          if [ "${{ github.event.before }}" = "0000000000000000000000000000000000000000" ]; then
+            git fetch --no-tags --prune --unshallow || true
+            git diff --name-only $(git rev-list --max-parents=0 HEAD)..${{ github.sha }} > changed_files.txt || true
+          else
+            git diff --name-only $RANGE > changed_files.txt || true
+          fi
+          cat changed_files.txt
+          echo "changed_files<<EOF" >> $GITHUB_OUTPUT
+          cat changed_files.txt >> $GITHUB_OUTPUT
+          echo "EOF" >> $GITHUB_OUTPUT
+
+      - name: Bump versions and update files
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          set -euo pipefail
+          VERSION_FILE="version.json"
+          CHANGED="changed_files.txt"
+
+          # create changed_files.txt from output if not present
+          if [ ! -f "$CHANGED" ]; then
+            if [ -n "${{ steps.changed.outputs.changed_files || '' }}" ]; then
+              echo "${{ steps.changed.outputs.changed_files }}" | tr '\n' '\n' > "$CHANGED"
+            else
+              echo "" > "$CHANGED"
+            fi
+          fi
+
+          bumped=false
+
+          bump_custom() {
+            local v="$1"
+            IFS='.' read -r major minor patch <<< "$v"
+            major=${major:-0}; minor=${minor:-0}; patch=${patch:-0}
+            patch=$((patch + 1))
+            if [ "$patch" -ge 10 ]; then
+              patch=0
+              minor=$((minor + 1))
+            fi
+            if [ "$minor" -ge 10 ]; then
+              minor=0
+              major=$((major + 1))
+            fi
+            echo "${major}.${minor}.${patch}"
+          }
+
+          # Ensure version.json exists
+          if [ ! -f "$VERSION_FILE" ]; then
+            echo "version.json not found in repo root. Exiting." >&2
+            exit 1
+          fi
+
+          while IFS= read -r path || [ -n "$path" ]; do
+            [ -z "$path" ] && continue
+            # Only consider files inside repo (ignore .github workflow changes etc. if desired)
+            filename=$(basename "$path")
+            key="${filename}_version"
+
+            # If version.json has the corresponding key, bump it
+            if jq -e --arg k "$key" 'has($k)' "$VERSION_FILE" >/dev/null 2>&1; then
+              oldv=$(jq -r --arg k "$key" '.[$k]' "$VERSION_FILE")
+              newv=$(bump_custom "$oldv")
+              echo "Bumping $key in $VERSION_FILE: $oldv -> $newv"
+              tmp=$(mktemp)
+              jq --arg k "$key" --arg v "$newv" '.[$k]=$v' "$VERSION_FILE" > "$tmp" && mv "$tmp" "$VERSION_FILE"
+              bumped=true
+            else
+              echo "No $key in $VERSION_FILE, skipping bump there."
+            fi
+
+            # Also attempt to bump an internal version inside the modified file itself.
+            # For JSON-like files (.json, .geojson) try keys: "version" then "$key".
+            lowerpath=$(echo "$path" | tr '[:upper:]' '[:lower:]')
+            if [[ "$lowerpath" == *.json ]] || [[ "$lowerpath" == *.geojson ]]; then
+              # Try 'version' key
+              if jq -e 'has("version")' "$path" >/dev/null 2>&1; then
+                oldv=$(jq -r '.version' "$path")
+                newv=$(bump_custom "$oldv")
+                echo "Bumping 'version' in $path: $oldv -> $newv"
+                tmp=$(mktemp)
+                jq --arg v "$newv" '.version=$v' "$path" > "$tmp" && mv "$tmp" "$path"
+                bumped=true
+              elif jq -e --arg k "$key" 'has($k)' "$path" >/dev/null 2>&1; then
+                oldv=$(jq -r --arg k "$key" '.[$k]' "$path")
+                newv=$(bump_custom "$oldv")
+                echo "Bumping '$key' in $path: $oldv -> $newv"
+                tmp=$(mktemp)
+                jq --arg k "$key" --arg v "$newv" '.[$k]=$v' "$path" > "$tmp" && mv "$tmp" "$path"
+                bumped=true
+              else
+                echo "No 'version' or '$key' in $path to bump."
+              fi
+
+            elif [[ "$lowerpath" == *.toml ]]; then
+              # For TOML, look for a top-level version = "x.y.z"
+              if grep -qE '^\s*version\s*=\s*"[0-9]+\.[0-9]+\.[0-9]+"' "$path"; then
+                oldv=$(grep -E '^\s*version\s*=\s*"[0-9]+\.[0-9]+\.[0-9]+"' "$path" | head -n1 | sed -E 's/.*"([0-9]+\.[0-9]+\.[0-9]+)".*/\1/')
+                newv=$(bump_custom "$oldv")
+                echo "Bumping TOML version in $path: $oldv -> $newv"
+                sed -E -i "0,/^\s*version\s*=\s*\"[0-9]+\.[0-9]+\.[0-9]+\"/s//version = \"$newv\"/" "$path"
+                bumped=true
+              else
+                echo "No TOML 'version' key found in $path."
+              fi
+            else
+              echo "File $path not JSON/TOML — skipping internal file bump."
+            fi
+
+          done < "$CHANGED"
+
+          if [ "$bumped" = true ]; then
+            rm -f "$CHANGED"
+            git config user.name "github-actions[bot]"
+            git config user.email "github-actions[bot]@users.noreply.github.com"
+            git add -A
+            git commit -m "chore: auto-bump versions for changed files [ci skip]" || echo "No changes to commit"
+            git push origin HEAD:"${GITHUB_REF#refs/heads/}"
+          else
+            echo "No version changes were made."
+          fi
