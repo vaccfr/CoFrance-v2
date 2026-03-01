@@ -47,6 +47,7 @@
                     "lowerAlt": { "type": "number" },
                     "ownership": { "type": "string", "pattern": "^[A-Z0-9-_]+$" },
                     "prefixCallsign": { "type": "string" },
+                    "darkLabel": { "type": "boolean" },
                     "combine": {
                       "type": "array",
                       "items": { "type": "string" }
