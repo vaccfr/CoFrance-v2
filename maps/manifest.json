@@ -23,7 +23,10 @@
     "Carte_Trajectoires_UIR"
   ],
   "LFMM": [
-    "Trajectoires_Nords_FRA",
+    "0_Fake_Background",
+    "Trajectoires_Nord_FRA",
+    "Trajectoires_Sud_FRA",
+    "Limites_Secteurs_UIR",
     "Fond_Secteurs"
   ],
   "LFPG": [

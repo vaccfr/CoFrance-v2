@@ -320,8 +320,30 @@
       "LFKF",
       "LFKB",
       "LEPA",
+      "LEIB",
+      "LEBL",
       "LSGG"
-    ]
+    ],
+    "customCodes": {
+      "NILDU":{"waypoint":["NILDU"]},
+      "MAMES":{"waypoint":["MAMES"]},
+      "VATIR":{"waypoint":["VATIR"]},
+      "MUREN":{"waypoint":["MUR"]},
+      "SORAS":{"waypoint":["SOR"]},
+      "RIXOT":{"waypoint":["RIX"]},
+      "TORTU":{"waypoint":["TOR"]},
+      "NOSTA":{"waypoint":["NOSTA"]},
+      "MOULE":{"waypoint":["MOULE"]},
+      "DOKAR":{"waypoint":["DOK"]},
+      "PELOS":{"waypoint":["PEL"]},
+      "IRMAR":{"waypoint":["IRM"]},
+      "IDAVO":{"waypoint":["IDAVO"]},
+      "LOGNI":{"waypoint":["LOGNI"]},
+      "MOPEM":{"waypoint":["MOPEM"]},
+      "TIS":{"waypoint":["TIS"]},
+      "REPSI":{"waypoint":["REP"]},
+      "FJR":{"waypoint":["FJR"]}
+    }
   },
   "LFRR_": {
     "arrivals": [
