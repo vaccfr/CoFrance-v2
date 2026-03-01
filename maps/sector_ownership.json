@@ -1,6 +1,6 @@
 {
-  "$schema": "../.github/schema/sector_ownership.schema.json",
-  "version": "1.0.1",
+  "$schema": "https://raw.githubusercontent.com/alexisBalzano/CoFrance-config-files/main/.github/schema/sector_ownership.schema.json",
+  "version": "1.0.2",
   "LFBB-BN": [
     "LFBB_CTR"
   ],

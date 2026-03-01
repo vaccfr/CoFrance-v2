@@ -1,6 +1,6 @@
 {
-  "$schema": "./.github/schema/tag_formats.schema.json",
-  "version": "1.0.5",
+  "$schema": "https://raw.githubusercontent.com/alexisBalzano/CoFrance-config-files/main/.github/schema/tag_formats.schema.json",
+  "version": "1.0.6",
   "tag_formats": [
     {
       "name": "default",
@@ -13,17 +13,17 @@
           "name": "RNSB",
           "conditions": {
             "isArrival": true,
-            "isIFR": true
+            "isIFR": true,
+            "airports": [
+              "LFPG"
+            ],
+            "arrival_runways": [
+              "08L",
+              "08R",
+              "26L",
+              "26R"
+            ]
           },
-          "airports": [
-            "LFPG"
-          ],
-          "arrival_runways": [
-            "08L",
-            "08R",
-            "26L",
-            "26R"
-          ],
           "priority": 1,
           "filtered": false,
           "style": {
@@ -67,17 +67,17 @@
         {
           "name": "RNSB",
           "conditions": {
-            "isArrival": true
+            "isArrival": true,
+            "airports": [
+              "LFPG"
+            ],
+            "arrival_runways": [
+              "09L",
+              "09R",
+              "27L",
+              "27R"
+            ]
           },
-          "airports": [
-            "LFPG"
-          ],
-          "arrival_runways": [
-            "09L",
-            "09R",
-            "27L",
-            "27R"
-          ],
           "priority": 1,
           "filtered": false,
           "style": {
@@ -121,11 +121,11 @@
         {
           "name": "RNSB",
           "conditions": {
-            "isArrival": true
+            "isArrival": true,
+            "airports": [
+              "LFPB"
+            ]
           },
-          "airports": [
-            "LFPB"
-          ],
           "priority": 1,
           "filtered": false,
           "style": {
@@ -169,11 +169,11 @@
         {
           "name": "RNSB",
           "conditions": {
-            "isArrival": true
+            "isArrival": true,
+            "airports": [
+              "LFPG"
+            ]
           },
-          "airports": [
-            "LFPG"
-          ],
           "priority": 2,
           "filtered": false,
           "style": {
@@ -217,12 +217,12 @@
         {
           "name": "D",
           "conditions": {
-            "isDeparture": true
+            "isDeparture": true,
+            "airports": [
+              "LFPG",
+              "LFPB"
+            ]
           },
-          "airports": [
-            "LFPG",
-            "LFPB"
-          ],
           "priority": 3,
           "filtered": false,
           "style": {
@@ -266,11 +266,11 @@
         {
           "name": "OAT",
           "conditions": {
-            "isArrival": true
+            "isArrival": true,
+            "airports": [
+              "LFPO"
+            ]
           },
-          "airports": [
-            "LFPO"
-          ],
           "priority": 1,
           "filtered": false,
           "style": {
@@ -314,13 +314,13 @@
         {
           "name": "OAT",
           "conditions": {
-            "isDeparture": true
+            "isDeparture": true,
+            "airports": [
+              "LFPO",
+              "LFPN",
+              "LFPV"
+            ]
           },
-          "airports": [
-            "LFPO",
-            "LFPN",
-            "LFPV"
-          ],
           "priority": 3,
           "filtered": false,
           "style": {
@@ -365,12 +365,12 @@
           "name": "OAT",
           "conditions": {
             "isArrival": true,
-            "isIFR": true
+            "isIFR": true,
+            "airports": [
+              "LFPT",
+              "LFOB"
+            ]
           },
-          "airports": [
-            "LFPT",
-            "LFOB"
-          ],
           "priority": 1,
           "filtered": false,
           "style": {
@@ -415,12 +415,12 @@
           "name": "OAT",
           "conditions": {
             "isDeparture": true,
-            "isIFR": true
+            "isIFR": true,
+            "airports": [
+              "LFPT",
+              "LFOB"
+            ]
           },
-          "airports": [
-            "LFPT",
-            "LFOB"
-          ],
           "priority": 3,
           "filtered": false,
           "style": {
@@ -465,12 +465,12 @@
           "name": "GP",
           "conditions": {
             "isDeparture": true,
-            "isArrival": true
+            "isArrival": true,
+            "airports": [
+              "LFPG",
+              "LFPB"
+            ]
           },
-          "airports": [
-            "LFPG",
-            "LFPB"
-          ],
           "priority": 0,
           "filtered": false,
           "style": {
@@ -515,13 +515,13 @@
           "name": "GP",
           "conditions": {
             "isDeparture": true,
-            "isArrival": true
+            "isArrival": true,
+            "airports": [
+              "LFPO",
+              "LFPN",
+              "LFPV"
+            ]
           },
-          "airports": [
-            "LFPO",
-            "LFPN",
-            "LFPV"
-          ],
           "priority": 0,
           "filtered": false,
           "style": {
@@ -585,12 +585,12 @@
         {
           "name": "V",
           "conditions": {
-            "isArrival": true
+            "isArrival": true,
+            "airports": [
+              "LFPN",
+              "LFPV"
+            ]
           },
-          "airports": [
-            "LFPN",
-            "LFPV"
-          ],
           "priority": 1,
           "filtered": false,
           "style": {
@@ -604,9 +604,6 @@
         },
         {
           "name": "X",
-          "airports": [
-            "****"
-          ],
           "priority": 5,
           "filtered": true,
           "style": {
@@ -626,18 +623,17 @@
     },
     {
       "name": "Orly",
-      "global_settings": {},
       "rules": [
         {
           "name": "M",
           "conditions": {
-            "isDeparture": true
+            "isDeparture": true,
+            "airports": [
+              "LFPO",
+              "LFPN",
+              "LFPV"
+            ]
           },
-          "airports": [
-            "LFPO",
-            "LFPN",
-            "LFPV"
-          ],
           "priority": 3,
           "filtered": false,
           "style": {
@@ -681,11 +677,11 @@
         {
           "name": "O",
           "conditions": {
-            "isArrival": true
+            "isArrival": true,
+            "airports": [
+              "LFPO"
+            ]
           },
-          "airports": [
-            "LFPO"
-          ],
           "priority": 1,
           "filtered": false,
           "style": {
@@ -729,12 +725,12 @@
         {
           "name": "V",
           "conditions": {
-            "isArrival": true
+            "isArrival": true,
+            "airports": [
+              "LFPN",
+              "LFPV"
+            ]
           },
-          "airports": [
-            "LFPN",
-            "LFPV"
-          ],
           "priority": 1,
           "filtered": false,
           "style": {
@@ -778,12 +774,12 @@
         {
           "name": "E",
           "conditions": {
-            "isDeparture": true
+            "isDeparture": true,
+            "airports": [
+              "LFPG",
+              "LFPB"
+            ]
           },
-          "airports": [
-            "LFPG",
-            "LFPB"
-          ],
           "priority": 3,
           "filtered": false,
           "style": {
@@ -827,11 +823,11 @@
         {
           "name": "G",
           "conditions": {
-            "isArrival": true
+            "isArrival": true,
+            "airports": [
+              "LFPG"
+            ]
           },
-          "airports": [
-            "LFPG"
-          ],
           "priority": 2,
           "filtered": false,
           "style": {
@@ -921,13 +917,13 @@
           "name": "P",
           "conditions": {
             "isArrival": true,
-            "isDeparture": true
+            "isDeparture": true,
+            "airports": [
+              "LFPO",
+              "LFPN",
+              "LFPV"
+            ]
           },
-          "airports": [
-            "LFPO",
-            "LFPN",
-            "LFPV"
-          ],
           "priority": 0,
           "filtered": false,
           "style": {
@@ -971,11 +967,11 @@
         {
           "name": "K",
           "conditions": {
-            "isArrival": true
+            "isArrival": true,
+            "airports": [
+              "LFPB"
+            ]
           },
-          "airports": [
-            "LFPB"
-          ],
           "priority": 1,
           "filtered": false,
           "style": {
@@ -1018,9 +1014,6 @@
         },
         {
           "name": "X",
-          "airports": [
-            "****"
-          ],
           "priority": 5,
           "filtered": true,
           "style": {
@@ -1065,16 +1058,15 @@
     },
     {
       "name": "IRMA",
-      "global_settings": {},
       "rules": [
         {
           "name": "DEP",
           "conditions": {
-            "isDeparture": true
+            "isDeparture": true,
+            "airports": [
+              "LF**"
+            ]
           },
-          "airports": [
-            "LF**"
-          ],
           "priority": 1,
           "filtered": false,
           "style": {
@@ -1118,11 +1110,11 @@
         {
           "name": "ARR",
           "conditions": {
-            "isArrival": true
+            "isArrival": true,
+            "airports": [
+              "LF**"
+            ]
           },
-          "airports": [
-            "LF**"
-          ],
           "priority": 1,
           "filtered": false,
           "style": {
@@ -1167,16 +1159,15 @@
     },
     {
       "name": "Nice",
-      "global_settings": {},
       "rules": [
         {
           "name": "DEP",
           "conditions": {
-            "isDeparture": true
+            "isDeparture": true,
+            "airports": [
+              "LFMN"
+            ]
           },
-          "airports": [
-            "LFMN"
-          ],
           "priority": 1,
           "filtered": false,
           "style": {
@@ -1220,11 +1211,11 @@
         {
           "name": "ARR",
           "conditions": {
-            "isArrival": true
+            "isArrival": true,
+            "airports": [
+              "LFMN"
+            ]
           },
-          "airports": [
-            "LFMN"
-          ],
           "priority": 1,
           "filtered": false,
           "style": {
@@ -1268,13 +1259,13 @@
         {
           "name": "SATDEP",
           "conditions": {
-            "isDeparture": true
+            "isDeparture": true,
+            "airports": [
+              "LFMD",
+              "LFTH",
+              "LFMC"
+            ]
           },
-          "airports": [
-            "LFMD",
-            "LFTH",
-            "LFMC"
-          ],
           "priority": 1,
           "filtered": false,
           "style": {
@@ -1318,11 +1309,11 @@
         {
           "name": "THARR",
           "conditions": {
-            "isArrival": true
+            "isArrival": true,
+            "airports": [
+              "LFTH"
+            ]
           },
-          "airports": [
-            "LFTH"
-          ],
           "priority": 1,
           "filtered": false,
           "style": {
@@ -1366,11 +1357,11 @@
         {
           "name": "MCARR",
           "conditions": {
-            "isArrival": true
+            "isArrival": true,
+            "airports": [
+              "LFTH"
+            ]
           },
-          "airports": [
-            "LFTH"
-          ],
           "priority": 1,
           "filtered": false,
           "style": {
@@ -1414,11 +1405,11 @@
         {
           "name": "MDARR",
           "conditions": {
-            "isArrival": true
+            "isArrival": true,
+            "airports": [
+              "LFMD"
+            ]
           },
-          "airports": [
-            "LFMD"
-          ],
           "priority": 1,
           "filtered": false,
           "style": {
@@ -1464,9 +1455,6 @@
           "conditions": {
             "isIFR": true
           },
-          "airports": [
-            "****"
-          ],
           "priority": 5,
           "filtered": true,
           "style": {
@@ -1483,9 +1471,6 @@
           "conditions": {
             "isVFR": true
           },
-          "airports": [
-            "****"
-          ],
           "priority": 5,
           "filtered": true,
           "style": {
@@ -1501,16 +1486,15 @@
     },
     {
       "name": "Lyon",
-      "global_settings": {},
       "rules": [
         {
           "name": "ARR",
           "conditions": {
-            "isArrival": true
+            "isArrival": true,
+            "airports": [
+              "LFLL"
+            ]
           },
-          "airports": [
-            "LFLL"
-          ],
           "priority": 1,
           "filtered": false,
           "style": {
@@ -1554,11 +1538,11 @@
         {
           "name": "ARR",
           "conditions": {
-            "isArrival": true
+            "isArrival": true,
+            "airports": [
+              "LFLU"
+            ]
           },
-          "airports": [
-            "LFLU"
-          ],
           "priority": 1,
           "filtered": false,
           "style": {
@@ -1602,11 +1586,11 @@
         {
           "name": "ARR",
           "conditions": {
-            "isArrival": true
+            "isArrival": true,
+            "airports": [
+              "LFLY"
+            ]
           },
-          "airports": [
-            "LFLY"
-          ],
           "priority": 1,
           "filtered": false,
           "style": {
@@ -1650,12 +1634,12 @@
         {
           "name": "ARR",
           "conditions": {
-            "isArrival": true
+            "isArrival": true,
+            "airports": [
+              "LFLB",
+              "LFLP"
+            ]
           },
-          "airports": [
-            "LFLB",
-            "LFLP"
-          ],
           "priority": 1,
           "filtered": false,
           "style": {
@@ -1699,11 +1683,11 @@
         {
           "name": "ARR",
           "conditions": {
-            "isArrival": true
+            "isArrival": true,
+            "airports": [
+              "LFLS"
+            ]
           },
-          "airports": [
-            "LFLS"
-          ],
           "priority": 1,
           "filtered": false,
           "style": {
@@ -1747,11 +1731,11 @@
         {
           "name": "DEP",
           "conditions": {
-            "isDeparture": true
+            "isDeparture": true,
+            "airports": [
+              "LFLL"
+            ]
           },
-          "airports": [
-            "LFLL"
-          ],
           "priority": 2,
           "filtered": false,
           "style": {
@@ -1795,11 +1779,11 @@
         {
           "name": "DEP",
           "conditions": {
-            "isDeparture": true
+            "isDeparture": true,
+            "airports": [
+              "LFLY"
+            ]
           },
-          "airports": [
-            "LFLY"
-          ],
           "priority": 2,
           "filtered": false,
           "style": {
@@ -1843,12 +1827,12 @@
         {
           "name": "DEP",
           "conditions": {
-            "isDeparture": true
+            "isDeparture": true,
+            "airports": [
+              "LFLB",
+              "LFLP"
+            ]
           },
-          "airports": [
-            "LFLB",
-            "LFLP"
-          ],
           "priority": 2,
           "filtered": false,
           "style": {
@@ -1892,11 +1876,11 @@
         {
           "name": "DEP",
           "conditions": {
-            "isDeparture": true
+            "isDeparture": true,
+            "airports": [
+              "LFLS"
+            ]
           },
-          "airports": [
-            "LFLS"
-          ],
           "priority": 2,
           "filtered": false,
           "style": {
@@ -1942,9 +1926,6 @@
           "conditions": {
             "isVFR": false
           },
-          "airports": [
-            "****"
-          ],
           "priority": 5,
           "filtered": true,
           "style": {
@@ -1988,11 +1969,11 @@
         {
           "name": "Tous IFR",
           "conditions": {
-            "isVFR": false
+            "isVFR": false,
+            "airports": [
+              "LSGG"
+            ]
           },
-          "airports": [
-            "LSGG"
-          ],
           "priority": 4,
           "filtered": true,
           "style": {
@@ -2038,9 +2019,6 @@
           "conditions": {
             "isVFR": true
           },
-          "airports": [
-            "****"
-          ],
           "priority": 5,
           "filtered": true,
           "style": {

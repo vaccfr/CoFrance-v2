@@ -1,8 +1,8 @@
 {
-  "$schema": "../.github/schema/tma_filters.schema.json",
+  "$schema": "https://raw.githubusercontent.com/alexisBalzano/CoFrance-config-files/main/.github/schema/tma_filters.schema.json",
   "type": "FeatureCollection",
   "name": "pintade_aoi",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "crs": {
     "type": "name",
     "properties": {

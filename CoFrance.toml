@@ -1,4 +1,4 @@
-version = "1.0.2"
+version = "1.0.3"
 config_repo = "AlexisBalzano/CoFrance-config-files/main"
 
 [api_urls]
@@ -15,7 +15,7 @@ neighbor_sectors_callsigns = [ "LO", "ED", "EB", "LS", "LI", "LE", "EG" ]
 
 [tag_layout]
 lines = [
-    "gs", "aspd", "scratchpad", "vz", "atyp", "hold", "eat",
+    "gs", "aspd", "scratchpad", "vz", "atyp", "hold", "eat", "coordination",
     "notification", "sequence", "lost", "stca", "tct", "\n",
     "contact_flag", "callsign", "cpdlc_flag", "comms", "sector", "rfl", "group", "\n",
     "afl", "tendency", "cfl", "wpt", "ahdg", "\n",

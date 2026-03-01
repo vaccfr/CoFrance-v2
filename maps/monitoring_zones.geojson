@@ -1,7 +1,7 @@
 {
-  "$schema": "../.github/schema/monitoring_zones.schema.json",
+  "$schema": "https://raw.githubusercontent.com/alexisBalzano/CoFrance-config-files/main/.github/schema/monitoring_zones.schema.json",
   "type": "FeatureCollection",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "crs": {
     "type": "name",
     "properties": {
