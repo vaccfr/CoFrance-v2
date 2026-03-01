@@ -1,6 +1,6 @@
 {
   "$schema": "https://raw.githubusercontent.com/alexisBalzano/CoFrance-config-files/main/.github/schema/tag_formats.schema.json",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "tag_formats": [
     {
       "name": "default",

@@ -2,12 +2,12 @@
   "$schema": "./.github/schema/version.schema.json",
   "plugin_version": "2.0.1",
   "CoFrance.toml_version": "1.0.3",
-  "manifest.json_version": "1.0.4",
-  "sector_ownership.json_version": "1.0.1",
-  "sector_levels.geojson_version": "1.0.1",
-  "tma_filters.geojson_version": "1.0.1",
-  "monitoring_zones.geojson_version": "1.0.4",
-  "tag_formats.json_version": "1.0.5",
-  "predefined_holds.json_version": "1.0.2",
-  "intention_codes.json_version": "1.0.4"
+  "manifest.json_version": "1.0.5",
+  "sector_ownership.json_version": "1.0.2",
+  "sector_levels.geojson_version": "1.0.2",
+  "tma_filters.geojson_version": "1.0.2",
+  "monitoring_zones.geojson_version": "1.0.5",
+  "tag_formats.json_version": "1.0.6",
+  "predefined_holds.json_version": "1.0.3",
+  "intention_codes.json_version": "1.0.5"
 }

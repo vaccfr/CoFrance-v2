@@ -1,6 +1,6 @@
 {
   "$schema": "https://raw.githubusercontent.com/alexisBalzano/CoFrance-config-files/main/.github/schema/manifest.schema.json",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "LFFF": [
     "Carte_Trajectoires_UIR",
     "Carte_Trajectoires_FIR",
