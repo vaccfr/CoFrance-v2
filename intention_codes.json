@@ -1,6 +1,6 @@
 {
   "$schema": "https://raw.githubusercontent.com/alexisBalzano/CoFrance-config-files/main/.github/schema/intention_codes.schema.json",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "LFEE_": {
     "arrivals": [
       "LFST",
@@ -325,24 +325,96 @@
       "LSGG"
     ],
     "customCodes": {
-      "NILDU":{"waypoint":["NILDU"]},
-      "MAMES":{"waypoint":["MAMES"]},
-      "VATIR":{"waypoint":["VATIR"]},
-      "MUREN":{"waypoint":["MUR"]},
-      "SORAS":{"waypoint":["SOR"]},
-      "RIXOT":{"waypoint":["RIX"]},
-      "TORTU":{"waypoint":["TOR"]},
-      "NOSTA":{"waypoint":["NOSTA"]},
-      "MOULE":{"waypoint":["MOULE"]},
-      "DOKAR":{"waypoint":["DOK"]},
-      "PELOS":{"waypoint":["PEL"]},
-      "IRMAR":{"waypoint":["IRM"]},
-      "IDAVO":{"waypoint":["IDAVO"]},
-      "LOGNI":{"waypoint":["LOGNI"]},
-      "MOPEM":{"waypoint":["MOPEM"]},
-      "TIS":{"waypoint":["TIS"]},
-      "REPSI":{"waypoint":["REP"]},
-      "FJR":{"waypoint":["FJR"]}
+      "NILDU": {
+        "waypoint": [
+          "NILDU"
+        ]
+      },
+      "MAMES": {
+        "waypoint": [
+          "MAMES"
+        ]
+      },
+      "VATIR": {
+        "waypoint": [
+          "VATIR"
+        ]
+      },
+      "MUREN": {
+        "waypoint": [
+          "MUR"
+        ]
+      },
+      "SORAS": {
+        "waypoint": [
+          "SOR"
+        ]
+      },
+      "RIXOT": {
+        "waypoint": [
+          "RIX"
+        ]
+      },
+      "TORTU": {
+        "waypoint": [
+          "TOR"
+        ]
+      },
+      "NOSTA": {
+        "waypoint": [
+          "NOSTA"
+        ]
+      },
+      "MOULE": {
+        "waypoint": [
+          "MOULE"
+        ]
+      },
+      "DOKAR": {
+        "waypoint": [
+          "DOK"
+        ]
+      },
+      "PELOS": {
+        "waypoint": [
+          "PEL"
+        ]
+      },
+      "IRMAR": {
+        "waypoint": [
+          "IRM"
+        ]
+      },
+      "IDAVO": {
+        "waypoint": [
+          "IDAVO"
+        ]
+      },
+      "LOGNI": {
+        "waypoint": [
+          "LOGNI"
+        ]
+      },
+      "MOPEM": {
+        "waypoint": [
+          "MOPEM"
+        ]
+      },
+      "TIS": {
+        "waypoint": [
+          "TIS"
+        ]
+      },
+      "REPSI": {
+        "waypoint": [
+          "REP"
+        ]
+      },
+      "FJR": {
+        "waypoint": [
+          "FJR"
+        ]
+      }
     }
   },
   "LFRR_": {
