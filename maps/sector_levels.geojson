@@ -1,1543 +1,2034 @@
 {
-"$schema": "../.github/schema/sector_levels.schema.json",
-"type": "FeatureCollection",
-"name": "sector_levels",
-"version": "1.0.3",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{
-  "type": "Feature",
-  "properties": {
-      "size": 20,
-    "name": "TE-West",
-    "layers": [
-        {
+  "$schema": "https://raw.githubusercontent.com/alexisBalzano/CoFrance-config-files/main/.github/schema/sector_levels.schema.json",
+  "type": "FeatureCollection",
+  "name": "sector_levels",
+  "version": "1.0.4",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "size": 20,
+        "name": "TE-West",
+        "layers": [
+          {
             "upperAlt": 660,
             "lowerAlt": 265,
             "ownership": "LFEE-UR",
             "prefixCallsign": "PAR_",
             "combine": []
-        },
-        {
+          },
+          {
             "upperAlt": 265,
             "lowerAlt": 115,
             "ownership": "LFFF-TE",
             "combine": []
-        }
-    ]
-  },
-  "geometry": { "type": "Point", "coordinates": [ 3.704889515995612, 49.818575219277704 ] }
-},
-{
-  "type": "Feature",
-  "properties": {
-      "size": 20,
-    "name": "TE-AP",
-    "layers": [
-        {
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.704889515995612,
+          49.818575219277704
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "size": 20,
+        "name": "TE-AP",
+        "layers": [
+          {
             "upperAlt": 660,
             "lowerAlt": 315,
             "ownership": "LFEE-XR",
             "prefixCallsign": "PAR_",
             "combine": []
-        },
-        {
+          },
+          {
             "upperAlt": 315,
             "lowerAlt": 265,
             "ownership": "LFFF-AP",
             "combine": []
-        },
-        {
+          },
+          {
             "upperAlt": 265,
             "lowerAlt": 115,
             "ownership": "LFFF-TE",
             "combine": []
-        }
-    ]
-  },
-  "geometry": { "type": "Point", "coordinates": [ 4.357082619298638, 49.777545347782528 ] }
-},
-{
-  "type": "Feature",
-  "properties": {
-      "size": 20,
-    "name": "TM-AP",
-    "layers": [
-        {
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.357082619298638,
+          49.777545347782528
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "size": 20,
+        "name": "TM-AP",
+        "layers": [
+          {
             "upperAlt": 660,
             "lowerAlt": 315,
             "ownership": "LFEE-XR",
             "prefixCallsign": "PAR_",
             "combine": []
-        },
-        {
+          },
+          {
             "upperAlt": 315,
             "lowerAlt": 265,
             "ownership": "LFFF-AP",
             "combine": []
-        },
-        {
+          },
+          {
             "upperAlt": 265,
             "lowerAlt": 115,
             "ownership": "LFFF-TM",
             "combine": []
-        }
-    ]
-  },
-  "geometry": { "type": "Point", "coordinates": [ 4.7, 49.22 ] }
-},
-{
-  "type": "Feature",
-  "properties": {
-      "size": 20,
-    "name": "TPUK",
-    "layers": [
-        {
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7,
+          49.22
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "size": 20,
+        "name": "TPUK",
+        "layers": [
+          {
             "upperAlt": 660,
             "lowerAlt": 295,
             "ownership": "LFRR-QS",
             "prefixCallsign": "PAR_",
             "combine": []
-        },
-        {
+          },
+          {
             "upperAlt": 295,
             "lowerAlt": 115,
             "ownership": "LFFF-TP",
             "prefixCallsign": "PAR_",
             "combine": []
-        }
-    ]
-  },
-  "geometry": { "type": "Point", "coordinates": [ 0.574946975151511, 49.60384506967015 ] }
-},
-{
-  "type": "Feature",
-  "properties": {
-      "size": 20,
-    "name": "THUZ",
-    "layers": [
-        {
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.574946975151511,
+          49.60384506967015
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "size": 20,
+        "name": "THUZ",
+        "layers": [
+          {
             "upperAlt": 660,
             "lowerAlt": 295,
             "ownership": "LFRR-XS",
             "prefixCallsign": "PAR_",
             "combine": []
-        },
-        {
+          },
+          {
             "upperAlt": 295,
             "lowerAlt": 115,
             "ownership": "LFFF-TH",
             "prefixCallsign": "PAR_",
             "combine": []
-        }
-    ]
-  },
-  "geometry": { "type": "Point", "coordinates": [ 0.52, 48.85
-   ] }
-},
-{
-  "type": "Feature",
-  "properties": {
-      "size": 20,
-    "name": "OG",
-    "layers": [
-        {
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.52,
+          48.85
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "size": 20,
+        "name": "OG",
+        "layers": [
+          {
             "upperAlt": 660,
             "lowerAlt": 305,
             "ownership": "LFRR-XS",
             "prefixCallsign": "PAR_",
             "combine": []
-        },
-        {
+          },
+          {
             "upperAlt": 305,
             "lowerAlt": 115,
             "ownership": "LFFF-OG",
             "prefixCallsign": "PAR_",
             "combine": []
-        }
-    ]
-  },
-  "geometry": { "type": "Point", "coordinates": [ 0.571748818077032, 47.654329189121 ] }
-},
-{
-  "type": "Feature",
-  "properties": {
-      "size": 20,
-    "name": "DG-UZ",
-    "layers": [
-        {
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.571748818077032,
+          47.654329189121
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "size": 20,
+        "name": "DG-UZ",
+        "layers": [
+          {
             "upperAlt": 295,
             "lowerAlt": 265,
             "ownership": "LFFF-TH",
             "combine": []
-        },
-        {
+          },
+          {
             "upperAlt": 265,
             "lowerAlt": 115,
             "ownership": "LFFF-DG",
             "combine": []
-        }
-    ]
-  },
-  "geometry": { "type": "Point", "coordinates": [ 2.45, 48.61 ] }
-},
-{
-  "type": "Feature",
-  "properties": {
-      "size": 20,
-    "name": "LMH-South",
-    "layers": [
-        {
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.45,
+          48.61
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "size": 20,
+        "name": "LMH-South",
+        "layers": [
+          {
             "upperAlt": 660,
             "lowerAlt": 315,
             "ownership": "LFFF-HP",
             "combine": []
-        },
-        {
+          },
+          {
             "upperAlt": 315,
             "lowerAlt": 195,
             "ownership": "LFFF-UT",
             "combine": []
-        }
-    ]
-  },
-  "geometry": { "type": "Point", "coordinates": [ 4.400757874581322, 47.037558909038118 ] }
-},
-{
-  "type": "Feature",
-  "properties": {
-      "size": 20,
-    "name": "LMH-West",
-    "layers": [
-        {
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.400757874581322,
+          47.037558909038118
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "size": 20,
+        "name": "LMH-West",
+        "layers": [
+          {
             "upperAlt": 660,
             "lowerAlt": 315,
             "ownership": "LFFF-HP",
             "combine": []
-        },
-        {
+          },
+          {
             "upperAlt": 315,
             "lowerAlt": 265,
             "ownership": "LFFF-PU",
             "combine": []
-        },
-        {
+          },
+          {
             "upperAlt": 265,
             "lowerAlt": 195,
             "ownership": "LFFF-UP",
             "combine": []
-        },
-        {
+          },
+          {
             "upperAlt": 195,
             "lowerAlt": 115,
             "ownership": "LFFF-S",
             "combine": []
-        }
-    ]
-  },
-  "geometry": { "type": "Point", "coordinates": [ 3.516787866388365, 47.213856935054615 ] }
-},
-{
-  "type": "Feature",
-  "properties": {
-      "size": 20,
-    "name": "LMH-North",
-    "layers": [
-        {
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.516787866388365,
+          47.213856935054615
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "size": 20,
+        "name": "LMH-North",
+        "layers": [
+          {
             "upperAlt": 660,
             "lowerAlt": 315,
             "ownership": "LFFF-HP",
             "combine": []
-        },
-        {
+          },
+          {
             "upperAlt": 315,
             "lowerAlt": 265,
             "ownership": "LFFF-PU",
             "combine": []
-        },
-        {
+          },
+          {
             "upperAlt": 265,
             "lowerAlt": 115,
             "ownership": "LFFF-DG",
             "combine": []
-        }
-    ]
-  },
-  "geometry": { "type": "Point", "coordinates": [ 3.054448610640141, 47.861867791376717 ] }
-},
-{
-  "type": "Feature",
-  "properties": {
-      "size": 20,
-    "name": "UJ-West",
-    "layers": [
-        {
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.054448610640141,
+          47.861867791376717
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "size": 20,
+        "name": "UJ-West",
+        "layers": [
+          {
             "upperAlt": 660,
             "lowerAlt": 385,
             "ownership": "LFEE-KD",
             "combine": []
-        },
-        {
+          },
+          {
             "upperAlt": 385,
             "lowerAlt": 195,
             "ownership": "LFFF-UJ",
             "combine": []
-        }
-    ]
-  },
-  "geometry": { "type": "Point", "coordinates": [ 5.0530577777778, 47.126044722222 ] }
-},
-{
-  "type": "Feature",
-  "properties": {
-      "size": 15,
-    "name": "UJ-East",
-    "layers": [
-        {
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.0530577777778,
+          47.126044722222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "size": 15,
+        "name": "UJ-East",
+        "layers": [
+          {
             "upperAlt": 660,
             "lowerAlt": 355,
             "ownership": "LFEE-KD",
             "combine": []
-        },
-        {
+          },
+          {
             "upperAlt": 355,
             "lowerAlt": 195,
             "ownership": "LFFF-UJ",
             "darkLabel": true,
             "combine": []
-        }
-    ]
-  },
-  "geometry": { "type": "Point", "coordinates": [ 5.6324911111111, 47.412085833333 ] }
-},
-{
-  "type": "Feature",
-  "properties": {
-      "size": 20,
-    "name": "TL",
-    "layers": [
-        {
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.6324911111111,
+          47.412085833333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "size": 20,
+        "name": "TL",
+        "layers": [
+          {
             "upperAlt": 660,
             "lowerAlt": 265,
             "ownership": "LFEE-UF",
             "prefixCallsign": "PAR_",
             "combine": []
-        },
-        {
+          },
+          {
             "upperAlt": 265,
             "lowerAlt": 115,
             "ownership": "LFFF-TL",
             "combine": []
-        }
-    ]
-  },
-  "geometry": { "type": "Point", "coordinates": [ 4.585915769805568, 48.592087653538563 ] }
-},
-{
-  "type": "Feature",
-  "properties": {
-      "size": 20,
-    "name": "AORS",
-    "layers": [
-        {
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.585915769805568,
+          48.592087653538563
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "size": 20,
+        "name": "AORS",
+        "layers": [
+          {
             "upperAlt": 660,
             "lowerAlt": 345,
             "ownership": "LFEE-KD",
             "combine": []
-        },
-        {
+          },
+          {
             "upperAlt": 345,
             "lowerAlt": 115,
             "ownership": "LFFF-AO",
             "combine": []
-        }
-    ]
-  },
-  "geometry": { "type": "Point", "coordinates": [ 3.9532358333333, 48.1032675 ] }
-},
-{
-  "type": "Feature",
-  "properties": {
-      "size": 12,
-    "name": "AORS2",
-    "layers": [
-        {
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.9532358333333,
+          48.1032675
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "size": 12,
+        "name": "AORS2",
+        "layers": [
+          {
             "upperAlt": 660,
             "lowerAlt": 345,
             "ownership": "LFEE-KD",
             "prefixCallsign": "PAR_",
             "combine": []
-        },
-        {
+          },
+          {
             "upperAlt": 345,
             "lowerAlt": 195,
             "ownership": "LFFF-AO",
             "combine": []
-        }
-    ]
-  },
-  "geometry": { "type": "Point", "coordinates": [ 4.9160833333333, 47.77 ] }
-},
-{
-  "type": "Feature",
-  "properties": {
-      "size": 20,
-    "name": "TNTB",
-    "layers": [
-        {
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.9160833333333,
+          47.77
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "size": 20,
+        "name": "TNTB",
+        "layers": [
+          {
             "upperAlt": 660,
             "lowerAlt": 265,
             "ownership": "LFEE-UN",
             "prefixCallsign": "PAR_",
             "combine": []
-        },
-        {
+          },
+          {
             "upperAlt": 265,
             "lowerAlt": 115,
             "ownership": "LFFF-TN",
             "combine": []
-        }
-    ]
-  },
-  "geometry": { "type": "Point", "coordinates": [ 2.6080108333333, 49.999865833333 ] }
-},
-{
-  "type": "Feature",
-  "properties": {
-      "size": 20,
-    "name": "DG-South",
-    "layers": [
-        {
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.6080108333333,
+          49.999865833333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "size": 20,
+        "name": "DG-South",
+        "layers": [
+          {
             "upperAlt": 265,
             "lowerAlt": 115,
             "ownership": "LFFF-DG",
             "combine": []
-        }
-    ]
-  },
-  "geometry": { "type": "Point", "coordinates": [ 2.18767919451196, 47.723048869186769 ] }
-},
-{
-    "type": "Feature",
-    "properties": {
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.18767919451196,
+          47.723048869186769
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "XR",
         "size": 20,
-        "combine": ["TE-AP"],
-    "layers": [
-        {
+        "combine": [
+          "TE-AP"
+        ],
+        "layers": [
+          {
             "upperAlt": 660,
             "lowerAlt": 315,
             "ownership": "LFEE-XR"
-        }
-    ]
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.612238789717392,
+          49.34464524439025
+        ]
+      }
     },
-    "geometry": { "type": "Point", "coordinates": [ 4.612238789717392, 49.34464524439025 ] } },
-{
-    "type": "Feature",
-    "properties": {
+    {
+      "type": "Feature",
+      "properties": {
         "name": "UR",
         "size": 20,
-        "combine": ["TE-West"],
-    "layers": [
-        {
+        "combine": [
+          "TE-West"
+        ],
+        "layers": [
+          {
             "upperAlt": 660,
             "lowerAlt": 265,
             "ownership": "LFEE-UR",
             "combine": []
-        }
-    ]
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.378593061899366,
+          49.464057507644419
+        ]
+      }
     },
-    "geometry": { "type": "Point", "coordinates": [ 3.378593061899366, 49.464057507644419 ] } },
-{
-    "type": "Feature",
-    "properties": {
+    {
+      "type": "Feature",
+      "properties": {
         "name": "UE",
         "size": 20,
-    "layers": [
-        {
+        "layers": [
+          {
             "upperAlt": 660,
             "lowerAlt": 195,
             "ownership": "LFEE-UE",
             "combine": []
-        }
-    ]
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.597081649028061,
+          48.606519441320806
+        ]
+      }
     },
-    "geometry": { "type": "Point", "coordinates": [ 6.597081649028061, 48.606519441320806 ] } },
-{
-    "type": "Feature",
-    "properties": {
+    {
+      "type": "Feature",
+      "properties": {
         "name": "UH",
         "size": 20,
-    "layers": [
-        {
+        "layers": [
+          {
             "upperAlt": 660,
             "lowerAlt": 195,
             "ownership": "LFEE-UH",
             "combine": []
-        }
-    ]
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.433515390055321,
+          47.583904503023021
+        ]
+      }
     },
-    "geometry": { "type": "Point", "coordinates": [ 6.433515390055321, 47.583904503023021 ] } },
-{
-    "type": "Feature",
-    "properties": {
+    {
+      "type": "Feature",
+      "properties": {
         "name": "UB",
         "size": 20,
-        "combine": ["TNTB"],
-    "layers": [
-        {
+        "combine": [
+          "TNTB"
+        ],
+        "layers": [
+          {
             "upperAlt": 660,
             "lowerAlt": 265,
             "ownership": "LFEE-UE",
             "combine": []
-        }
-    ]
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.553405073924051,
+          50.545028743445613
+        ]
+      }
     },
-    "geometry": { "type": "Point", "coordinates": [ 2.553405073924051, 50.545028743445613 ] } },
-{
-    "type": "Feature",
-    "properties": {
+    {
+      "type": "Feature",
+      "properties": {
         "name": "UN",
         "size": 20,
-        "combine": ["TNTB"],
-    "layers": [
-        {
+        "combine": [
+          "TNTB"
+        ],
+        "layers": [
+          {
             "upperAlt": 660,
             "lowerAlt": 265,
             "ownership": "LFEE-UN",
             "combine": []
-        }
-    ]
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.238965979133061,
+          49.729476296618003
+        ]
+      }
     },
-    "geometry": { "type": "Point", "coordinates": [ 2.238965979133061, 49.729476296618003 ] } },
-{
-    "type": "Feature",
-    "properties": {
+    {
+      "type": "Feature",
+      "properties": {
         "name": "LFEE_Deleg_FF",
         "size": 14,
-        "combine": ["TNTB"],
-    "layers": [
-        {
+        "combine": [
+          "TNTB"
+        ],
+        "layers": [
+          {
             "upperAlt": 660,
             "lowerAlt": 195,
             "ownership": "LFEE-UB",
             "combine": []
-        }
-    ]
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.909810474162684,
+          50.874821914483562
+        ]
+      }
     },
-    "geometry": { "type": "Point", "coordinates": [ 1.909810474162684, 50.874821914483562 ] } },
-{
-    "type": "Feature",
-    "properties": {
+    {
+      "type": "Feature",
+      "properties": {
         "name": "UF1",
         "size": 20,
-        "combine": ["TL"],
-    "layers": [
-        {
+        "combine": [
+          "TL"
+        ],
+        "layers": [
+          {
             "upperAlt": 660,
             "lowerAlt": 265,
             "ownership": "LFEE-UF",
             "combine": []
-        }
-    ]
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.731675556358186,
+          48.471550618216462
+        ]
+      }
     },
-    "geometry": { "type": "Point", "coordinates": [ 4.731675556358186, 48.471550618216462 ] } },
-{
-    "type": "Feature",
-    "properties": {
+    {
+      "type": "Feature",
+      "properties": {
         "name": "UF2",
         "size": 20,
-    "layers": [
-        {
+        "layers": [
+          {
             "upperAlt": 660,
             "lowerAlt": 195,
             "ownership": "LFEE-UF",
             "combine": []
-        }
-    ]
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.416618819430338,
+          47.992379650262762
+        ]
+      }
     },
-    "geometry": { "type": "Point", "coordinates": [ 5.416618819430338, 47.992379650262762 ] } },
-{
-    "type": "Feature",
-    "properties": {
+    {
+      "type": "Feature",
+      "properties": {
         "name": "UE-LUX",
         "size": 20,
-    "layers": [
-        {
+        "layers": [
+          {
             "upperAlt": 245,
             "lowerAlt": 195,
             "ownership": "LFEE-UE",
             "combine": []
-        }
-    ]
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.263103299454128,
+          49.275006352814266
+        ]
+      }
     },
-    "geometry": { "type": "Point", "coordinates": [ 6.263103299454128, 49.275006352814266 ] } },
-{
-    "type": "Feature",
-    "properties": {
+    {
+      "type": "Feature",
+      "properties": {
         "name": "LFBB-X",
         "size": 20,
-    "layers": [
-        {
+        "layers": [
+          {
             "upperAlt": 660,
             "lowerAlt": 195,
             "ownership": "LFBB-X",
             "combine": []
-        }
-    ]
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.420001436823757,
+          44.658526342947845
+        ]
+      }
     },
-    "geometry": { "type": "Point", "coordinates": [ 1.420001436823757, 44.658526342947845 ] } },
-{
-    "type": "Feature",
-    "properties": {
+    {
+      "type": "Feature",
+      "properties": {
         "name": "LFBB-N",
         "size": 20,
-    "layers": [
-        {
+        "layers": [
+          {
             "upperAlt": 660,
             "lowerAlt": 195,
             "ownership": "LFBB-N",
             "combine": []
-        }
-    ]
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.172054100711323,
+          43.181315872669934
+        ]
+      }
     },
-    "geometry": { "type": "Point", "coordinates": [ 1.172054100711323, 43.181315872669934 ] } },
-{
-    "type": "Feature",
-    "properties": {
+    {
+      "type": "Feature",
+      "properties": {
         "name": "LFBB-Z",
         "size": 20,
-    "layers": [
-        {
+        "layers": [
+          {
             "upperAlt": 660,
             "lowerAlt": 195,
             "ownership": "LFBB-Z",
             "combine": []
-        }
-    ]
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.715062615126799,
+          44.417312462945269
+        ]
+      }
     },
-    "geometry": { "type": "Point", "coordinates": [ -0.715062615126799, 44.417312462945269 ] } },
-{
-    "type": "Feature",
-    "properties": {
+    {
+      "type": "Feature",
+      "properties": {
         "name": "LFBB-H",
         "size": 20,
-    "layers": [
-        {
+        "layers": [
+          {
             "upperAlt": 660,
             "lowerAlt": 195,
             "ownership": "LFBB-H",
             "combine": []
-        }
-    ]
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.072921483472262,
+          43.944073589192179
+        ]
+      }
     },
-    "geometry": { "type": "Point", "coordinates": [ 3.072921483472262, 43.944073589192179 ] } },
-{
-    "type": "Feature",
-    "properties": {
+    {
+      "type": "Feature",
+      "properties": {
         "name": "LFBB-T",
         "size": 20,
-    "layers": [
-        {
+        "layers": [
+          {
             "upperAlt": 660,
             "lowerAlt": 195,
             "ownership": "LFBB-T",
             "combine": []
-        }
-    ]
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.434272623897399,
+          45.481977320729705
+        ]
+      }
     },
-    "geometry": { "type": "Point", "coordinates": [ 3.434272623897399, 45.481977320729705 ] } },
-{
-    "type": "Feature",
-    "properties": {
+    {
+      "type": "Feature",
+      "properties": {
         "name": "LFBB-P2",
         "size": 20,
-    "layers": [
-        {
+        "layers": [
+          {
             "upperAlt": 660,
             "lowerAlt": 195,
             "ownership": "LFBB-P",
             "combine": []
-        }
-    ]
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.755321722464894,
+          46.880392059543951
+        ]
+      }
     },
-    "geometry": { "type": "Point", "coordinates": [ 2.755321722464894, 46.880392059543951 ] } },
-{
-    "type": "Feature",
-    "properties": {
+    {
+      "type": "Feature",
+      "properties": {
         "name": "LFBB-L",
         "size": 20,
-    "layers": [
-        {
+        "layers": [
+          {
             "upperAlt": 660,
             "lowerAlt": 195,
             "ownership": "LFBB-L",
             "combine": []
-        }
-    ]
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.294222491479777,
+          45.721164385393024
+        ]
+      }
     },
-    "geometry": { "type": "Point", "coordinates": [ 1.294222491479777, 45.721164385393024 ] } },
-{
-    "type": "Feature",
-    "properties": {
+    {
+      "type": "Feature",
+      "properties": {
         "name": "LFBB-R",
         "size": 20,
-    "layers": [
-        {
+        "layers": [
+          {
             "upperAlt": 660,
             "lowerAlt": 195,
             "ownership": "LFBB-R",
             "combine": []
-        }
-    ]
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.263459554951875,
+          45.624784797334982
+        ]
+      }
     },
-    "geometry": { "type": "Point", "coordinates": [ 0.263459554951875, 45.624784797334982 ] } },
-{
-    "type": "Feature",
-    "properties": {
+    {
+      "type": "Feature",
+      "properties": {
         "name": "LFBB-P1",
         "size": 20,
-    "layers": [
-        {
+        "layers": [
+          {
             "upperAlt": 660,
             "lowerAlt": 265,
             "ownership": "LFBB-P",
             "combine": []
-        }
-    ]
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.310134605362495,
+          47.697684229798128
+        ]
+      }
     },
-    "geometry": { "type": "Point", "coordinates": [ 2.310134605362495, 47.697684229798128 ] } },
-{
-  "type": "Feature",
-  "properties": {
-    "name": "W",
-    "size": 24,
-    "layers": [
-        {
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "W",
+        "size": 24,
+        "layers": [
+          {
             "upperAlt": 660,
             "lowerAlt": 375,
             "ownership": "LFRR-WU",
             "prefixCallsign": "LFRR_",
             "combine": []
-        },
-        {
+          },
+          {
             "upperAlt": 375,
             "lowerAlt": 355,
             "ownership": "LFRR-WI",
             "prefixCallsign": "LFRR_",
             "combine": []
-        },
-        {
+          },
+          {
             "upperAlt": 355,
             "lowerAlt": 0,
             "ownership": "LFRR-WS",
             "prefixCallsign": "LFRR_",
             "combine": []
-        }
-    ]
-  },
-  "geometry": { "type": "Point", "coordinates": [ -7.383814086325263, 48.504023143890932 ] } },
-{
-  "type": "Feature",
-  "properties": {
-    "name": "V",
-    "size": 24,
-    "layers": [
-        {
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.383814086325263,
+          48.504023143890932
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "V",
+        "size": 24,
+        "layers": [
+          {
             "upperAlt": 660,
             "lowerAlt": 375,
             "ownership": "LFRR-VU",
             "prefixCallsign": "LFRR_",
             "combine": []
-        },
-        {
+          },
+          {
             "upperAlt": 375,
             "lowerAlt": 355,
             "ownership": "LFRR-VI",
             "prefixCallsign": "LFRR_",
             "combine": []
-        },
-        {
+          },
+          {
             "upperAlt": 355,
             "lowerAlt": 195,
             "ownership": "LFRR-VS",
             "prefixCallsign": "LFRR_",
             "combine": []
-        }
-    ]
-  },
-  "geometry": { "type": "Point", "coordinates": [ -3.927460936844089, 49.244659683060880 ] } },
-{
-  "type": "Feature",
-  "properties": {
-    "name": "M",
-    "size": 15,
-    "layers": [
-        {
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.927460936844089,
+          49.244659683060880
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "M",
+        "size": 15,
+        "layers": [
+          {
             "upperAlt": 660,
             "lowerAlt": 365,
             "ownership": "LFRR-MU",
             "prefixCallsign": "LFRR_",
             "combine": []
-        },
-        {
+          },
+          {
             "upperAlt": 365,
             "lowerAlt": 345,
             "ownership": "LFRR-MI",
             "prefixCallsign": "LFRR_",
             "combine": []
-        },
-        {
+          },
+          {
             "upperAlt": 345,
             "lowerAlt": 295,
             "ownership": "LFRR-MS",
             "prefixCallsign": "LFRR_",
             "combine": []
-        }
-    ]
-  },
-  "geometry": { "type": "Point", "coordinates": [ 1.454160070053285, 49.604371929383972 ] } },
-{
-  "type": "Feature",
-  "properties": {
-    "name": "Q",
-    "size": 15,
-    "layers": [
-        {
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.454160070053285,
+          49.604371929383972
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Q",
+        "size": 15,
+        "layers": [
+          {
             "upperAlt": 660,
             "lowerAlt": 365,
             "ownership": "LFRR-QU",
             "prefixCallsign": "LFRR_",
             "combine": []
-        },
-        {
+          },
+          {
             "upperAlt": 365,
             "lowerAlt": 345,
             "ownership": "LFRR-QI",
             "prefixCallsign": "LFRR_",
             "combine": []
-        },
-        {
+          },
+          {
             "upperAlt": 345,
             "lowerAlt": 295,
             "ownership": "LFRR-QS",
             "prefixCallsign": "LFRR_",
             "combine": []
-        }
-    ]
-  },
-  "geometry": { "type": "Point", "coordinates": [ 0.702399194133624, 49.263269188185730 ] } },
-{
-  "type": "Feature",
-  "properties": {
-    "name": "Z",
-    "size": 24,
-    "layers": [
-        {
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.702399194133624,
+          49.263269188185730
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Z",
+        "size": 24,
+        "layers": [
+          {
             "upperAlt": 660,
             "lowerAlt": 365,
             "ownership": "LFRR-ZU",
             "prefixCallsign": "LFRR_",
             "combine": []
-        },
-        {
+          },
+          {
             "upperAlt": 365,
             "lowerAlt": 345,
             "ownership": "LFRR-ZI",
             "prefixCallsign": "LFRR_",
             "combine": []
-        },
-        {
+          },
+          {
             "upperAlt": 345,
             "lowerAlt": 295,
             "ownership": "LFRR-ZS",
             "prefixCallsign": "LFRR_",
             "combine": []
-        }
-    ]
-  },
-  "geometry": { "type": "Point", "coordinates": [ 1.87203492817635, 48.422147366088089 ] } },
-{
-  "type": "Feature",
-  "properties": {
-    "name": "XS1",
-    "size": 24,
-    "layers": [
-        {
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.87203492817635,
+          48.422147366088089
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "XS1",
+        "size": 24,
+        "layers": [
+          {
             "upperAlt": 660,
             "lowerAlt": 365,
             "ownership": "LFRR-XU",
             "prefixCallsign": "LFRR_",
             "combine": []
-        },
-        {
+          },
+          {
             "upperAlt": 365,
             "lowerAlt": 345,
             "ownership": "LFRR-XI",
             "prefixCallsign": "LFRR_",
             "combine": []
-        },
-        {
+          },
+          {
             "upperAlt": 345,
             "lowerAlt": 295,
             "ownership": "LFRR-XS",
             "prefixCallsign": "LFRR_",
             "combine": []
-        }
-    ]
-  },
-  "geometry": { "type": "Point", "coordinates": [ 1.128207384204956, 48.193201186283004 ] } },
-{
-  "type": "Feature",
-  "properties": {
-    "name": "XS2",
-    "size": 15,
-    "layers": [
-        {
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.128207384204956,
+          48.193201186283004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "XS2",
+        "size": 15,
+        "layers": [
+          {
             "upperAlt": 660,
             "lowerAlt": 365,
             "ownership": "LFRR-XU",
             "prefixCallsign": "LFRR_",
             "combine": []
-        },
-        {
+          },
+          {
             "upperAlt": 365,
             "lowerAlt": 345,
             "ownership": "LFRR-XI",
             "prefixCallsign": "LFRR_",
             "combine": []
-        },
-        {
+          },
+          {
             "upperAlt": 345,
             "lowerAlt": 305,
             "ownership": "LFRR-XS",
             "prefixCallsign": "LFRR_",
             "combine": []
-        }
-    ]
-  },
-  "geometry": { "type": "Point", "coordinates": [ 0.849740988755291, 47.310901906426202 ] } },
-{
-  "type": "Feature",
-  "properties": {
-    "name": "A",
-    "size": 24,
-    "layers": [
-        {
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.849740988755291,
+          47.310901906426202
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "A",
+        "size": 24,
+        "layers": [
+          {
             "upperAlt": 660,
             "lowerAlt": 365,
             "ownership": "LFRR-AU",
             "prefixCallsign": "LFRR_",
             "combine": []
-        },
-        {
+          },
+          {
             "upperAlt": 365,
             "lowerAlt": 345,
             "ownership": "LFRR-AI",
             "prefixCallsign": "LFRR_",
             "combine": []
-        },
-        {
+          },
+          {
             "upperAlt": 345,
             "lowerAlt": 0,
             "ownership": "LFRR-AS",
             "prefixCallsign": "LFRR_",
             "combine": []
-        }
-    ]
-  },
-  "geometry": { "type": "Point", "coordinates": [ -7.786482121564948, 45.555303599881113 ] } },
-{
-  "type": "Feature",
-  "properties": {
-    "name": "G",
-    "size": 24,
-    "layers": [
-        {
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.786482121564948,
+          45.555303599881113
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "G",
+        "size": 24,
+        "layers": [
+          {
             "upperAlt": 660,
             "lowerAlt": 365,
             "ownership": "LFRR-GU",
             "prefixCallsign": "LFRR_",
             "combine": []
-        },
-        {
+          },
+          {
             "upperAlt": 365,
             "lowerAlt": 345,
             "ownership": "LFRR-GI",
             "prefixCallsign": "LFRR_",
             "combine": []
-        },
-        {
+          },
+          {
             "upperAlt": 345,
             "lowerAlt": 0,
             "ownership": "LFRR-GS",
             "prefixCallsign": "LFRR_",
             "combine": []
-        }
-    ]
-  },
-  "geometry": { "type": "Point", "coordinates": [ -3.476554797195971, 44.506224375481436 ] } },
-{
-  "type": "Feature",
-  "properties": {
-    "name": "N",
-    "size": 24,
-    "layers": [
-        {
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.476554797195971,
+          44.506224375481436
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "N",
+        "size": 24,
+        "layers": [
+          {
             "upperAlt": 660,
             "lowerAlt": 375,
             "ownership": "LFRR-NU",
             "prefixCallsign": "LFRR_",
             "combine": []
-        },
-        {
+          },
+          {
             "upperAlt": 375,
             "lowerAlt": 355,
             "ownership": "LFRR-NI",
             "prefixCallsign": "LFRR_",
             "combine": []
-        },
-        {
+          },
+          {
             "upperAlt": 355,
             "lowerAlt": 325,
             "ownership": "LFRR-NF",
             "prefixCallsign": "LFRR_",
             "combine": []
-        },
-        {
+          },
+          {
             "upperAlt": 325,
             "lowerAlt": 195,
             "ownership": "LFRR-NS",
             "prefixCallsign": "LFRR_",
             "combine": []
-        }
-    ]
-  },
-  "geometry": { "type": "Point", "coordinates": [ -1.7906491666667, 46.462795 ] } },
-{
-  "type": "Feature",
-  "properties": {
-    "name": "K",
-    "size": 24,
-    "layers": [
-        {
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.7906491666667,
+          46.462795
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "K",
+        "size": 24,
+        "layers": [
+          {
             "upperAlt": 660,
             "lowerAlt": 375,
             "ownership": "LFRR-KU",
             "prefixCallsign": "LFRR_",
             "combine": []
-        },
-        {
+          },
+          {
             "upperAlt": 375,
             "lowerAlt": 355,
             "ownership": "LFRR-KI",
             "prefixCallsign": "LFRR_",
             "combine": []
-        },
-        {
+          },
+          {
             "upperAlt": 355,
             "lowerAlt": 195,
             "ownership": "LFRR-KS",
             "prefixCallsign": "LFRR_",
             "combine": []
-        }
-    ]
-  },
-  "geometry": { "type": "Point", "coordinates": [ -4.044306170440944, 47.804900893797039 ] } },
-{
-  "type": "Feature",
-  "properties": {
-    "name": "J",
-    "size": 24,
-    "layers": [
-        {
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.044306170440944,
+          47.804900893797039
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "J",
+        "size": 24,
+        "layers": [
+          {
             "upperAlt": 660,
             "lowerAlt": 375,
             "ownership": "LFRR-JU",
             "prefixCallsign": "LFRR_",
             "combine": []
-        },
-        {
+          },
+          {
             "upperAlt": 375,
             "lowerAlt": 355,
             "ownership": "LFRR-JI",
             "prefixCallsign": "LFRR_",
             "combine": []
-        },
-        {
+          },
+          {
             "upperAlt": 355,
             "lowerAlt": 325,
             "ownership": "LFRR-JF",
             "prefixCallsign": "LFRR_",
             "combine": []
-        },
-        {
+          },
+          {
             "upperAlt": 325,
             "lowerAlt": 195,
             "ownership": "LFRR-JS",
             "prefixCallsign": "LFRR_",
             "combine": []
-        }
-    ]
-  },
-  "geometry": { "type": "Point", "coordinates": [ -0.523640443527359, 49.590140932473665 ] }
-},
-{
-  "type": "Feature",
-  "properties": {
-    "name": "LFMM-G",
-    "size": 24,
-    "layers": [
-        {
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.523640443527359,
+          49.590140932473665
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "LFMM-G",
+        "size": 24,
+        "layers": [
+          {
             "upperAlt": 660,
             "lowerAlt": 245,
             "ownership": "LFMM-G",
             "combine": []
-        }
-    ]
-  },
-  "geometry": { "type": "Point", "coordinates": [ 3.9, 46.116107777778 ] }
-},
-{
-  "type": "Feature",
-  "properties": {
-    "name": "LFMM-Y",
-    "size": 24,
-    "layers": [
-        {
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.9,
+          46.116107777778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "LFMM-Y",
+        "size": 24,
+        "layers": [
+          {
             "upperAlt": 660,
             "lowerAlt": 245,
             "ownership": "LFMM-Y",
             "combine": []
-        }
-    ]
-  },
-  "geometry": { "type": "Point", "coordinates": [ 5.4995680555556, 45.396689444444 ] }
-},
-{
-  "type": "Feature",
-  "properties": {
-    "name": "LFMM-B",
-    "size": 24,
-    "layers": [
-        {
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4995680555556,
+          45.396689444444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "LFMM-B",
+        "size": 24,
+        "layers": [
+          {
             "upperAlt": 660,
             "lowerAlt": 245,
             "ownership": "LFMM-B",
             "combine": []
-        },
-        {
+          },
+          {
             "upperAlt": 245,
             "lowerAlt": 0,
             "ownership": "LFMM-MN",
             "darkLabel": true,
             "combine": []
-        }
-    ]
-  },
-  "geometry": { "type": "Point", "coordinates": [ 6.6629188888889, 44.184155555556 ] }
-},
-{
-  "type": "Feature",
-  "properties": {
-    "name": "LFMM-A1",
-    "size": 24,
-    "layers": [
-        {
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6629188888889,
+          44.184155555556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "LFMM-A1",
+        "size": 24,
+        "layers": [
+          {
             "upperAlt": 660,
             "lowerAlt": 195,
             "ownership": "LFMM-A",
             "combine": []
-        }
-    ]
-  },
-  "geometry": { "type": "Point", "coordinates": [ 5.6510808333333, 44.808812777778 ] }
-},
-{
-  "type": "Feature",
-  "properties": {
-    "name": "LFMM-A2",
-    "size": 14,
-    "layers": [
-        {
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.6510808333333,
+          44.808812777778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "LFMM-A2",
+        "size": 14,
+        "layers": [
+          {
             "upperAlt": 660,
             "lowerAlt": 245,
             "ownership": "LFMM-A"
-        },
-        {
+          },
+          {
             "upperAlt": 245,
             "lowerAlt": 195,
             "darkLabel": true,
             "ownership": "LFMM-W"
-        },
-        {
+          },
+          {
             "upperAlt": 195,
             "lowerAlt": 0,
             "darkLabel": true,
             "ownership": "LFMM-MO"
-        }
-    ]
-  },
-  "geometry": { "type": "Point", "coordinates": [ 5.20, 44.621263888889 ] }
-},
-{
-  "type": "Feature",
-  "properties": {
-    "name": "LFMM-E",
-    "size": 24,
-    "layers": [
-        {
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.20,
+          44.621263888889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "LFMM-E",
+        "size": 24,
+        "layers": [
+          {
             "upperAlt": 660,
             "lowerAlt": 245,
             "ownership": "LFMM-E",
             "combine": []
-        },
-        {
+          },
+          {
             "upperAlt": 245,
             "lowerAlt": 0,
             "ownership": "LFMM-MN",
             "darkLabel": true,
             "combine": []
-        }
-    ]
-  },
-  "geometry": { "type": "Point", "coordinates": [ 8.0342419444444, 43.441731111111 ] }
-},
-{
-  "type": "Feature",
-  "properties": {
-    "name": "LFMM-K",
-    "size": 24,
-    "layers": [
-        {
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.0342419444444,
+          43.441731111111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "LFMM-K",
+        "size": 24,
+        "layers": [
+          {
             "upperAlt": 660,
             "lowerAlt": 245,
             "ownership": "LFMM-K",
             "combine": []
-        },
-        {
+          },
+          {
             "upperAlt": 245,
             "lowerAlt": 0,
             "ownership": "LFMM-BT",
             "darkLabel": true,
             "combine": []
-        }
-    ]
-  },
-  "geometry": { "type": "Point", "coordinates": [ 9.4902102777778, 42.761447777778 ] }
-},
-{
-  "type": "Feature",
-  "properties": {
-    "name": "LFMM-MN",
-    "size": 24,
-    "combine": ["LFMM-Y"],
-    "layers": [
-        {
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4902102777778,
+          42.761447777778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "LFMM-MN",
+        "size": 24,
+        "combine": [
+          "LFMM-Y"
+        ],
+        "layers": [
+          {
             "upperAlt": 195,
             "lowerAlt": 0,
             "ownership": "LFMM-MN"
-        }
-    ]
-  },
-  "geometry": { "type": "Point", "coordinates": [ 5.8339344444444, 44.425132777778 ] }
-},
-{
-  "type": "Feature",
-  "properties": {
-    "name": "LFMM-ST",
-    "size": 24,
-    "combine": ["LFMM-A2"],
-    "layers": [
-        {
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.8339344444444,
+          44.425132777778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "LFMM-ST",
+        "size": 24,
+        "combine": [
+          "LFMM-A2"
+        ],
+        "layers": [
+          {
             "upperAlt": 245,
             "lowerAlt": 0,
             "darkLabel": true,
             "ownership": "LFMM-ST"
-        }
-    ]
-  },
-  "geometry": { "type": "Point", "coordinates": [ 5.6344866666667, 43.917536944444 ] }
-},
-{
-  "type": "Feature",
-  "properties": {
-    "name": "LFMM-M",
-    "size": 24,
-    "layers": [
-        {
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.6344866666667,
+          43.917536944444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "LFMM-M",
+        "size": 24,
+        "layers": [
+          {
             "upperAlt": 660,
             "lowerAlt": 245,
             "ownership": "LFMM-M",
             "combine": []
-        },
-        {
+          },
+          {
             "upperAlt": 245,
             "lowerAlt": 0,
             "ownership": "LFMM-ML",
             "darkLabel": true,
             "combine": []
-        }
-    ]
-  },
-  "geometry": { "type": "Point", "coordinates": [ 4.4705297222222, 42.702132222222 ] }
-},
-{
-  "type": "Feature",
-  "properties": {
-    "name": "LFMM-LS1",
-    "size": 24,
-    "layers": [
-        {
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.4705297222222,
+          42.702132222222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "LFMM-LS1",
+        "size": 24,
+        "layers": [
+          {
             "upperAlt": 195,
             "lowerAlt": 0,
             "ownership": "LFMM-LS",
             "combine": []
-        }
-    ]
-  },
-  "geometry": { "type": "Point", "coordinates": [ 3.3961644444444, 45.257093333333 ] }
-},
-{
-  "type": "Feature",
-  "properties": {
-    "name": "LFMM-ML1",
-    "size": 24,
-    "layers": [
-        {
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3961644444444,
+          45.257093333333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "LFMM-ML1",
+        "size": 24,
+        "layers": [
+          {
             "upperAlt": 195,
             "lowerAlt": 0,
             "ownership": "LFMM-ML",
             "combine": []
-        }
-    ]
-  },
-  "geometry": { "type": "Point", "coordinates": [ 3.1593202777778, 43.9431325 ] }
-},
-{
-  "type": "Feature",
-  "properties": {
-    "name": "LFMM-LO1",
-    "size": 20,
-    "layers": [
-        {
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.1593202777778,
+          43.9431325
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "LFMM-LO1",
+        "size": 20,
+        "layers": [
+          {
             "upperAlt": 195,
             "lowerAlt": 0,
             "ownership": "LFMM-LO",
             "combine": []
-        }
-    ]
-  },
-  "geometry": { "type": "Point", "coordinates": [ 3.2199525, 46.104830833333 ] }
-},
-{
-  "type": "Feature",
-  "properties": {
-    "name": "LFMM-LO2",
-    "size": 20,
-    "layers": [
-        {
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.2199525,
+          46.104830833333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "LFMM-LO2",
+        "size": 20,
+        "layers": [
+          {
             "upperAlt": 245,
             "lowerAlt": 0,
             "ownership": "LFMM-LO",
             "darkLabel": true,
             "combine": []
-        }
-    ]
-  },
-  "geometry": { "type": "Point", "coordinates": [ 4.1133038888889, 46.165925555556 ] }
-},
-{
-  "type": "Feature",
-  "properties": {
-    "name": "LFMM-LO2",
-    "size": 20,
-    "combine": ["LFMM-G"],
-    "layers": [
-        {
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.1133038888889,
+          46.165925555556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "LFMM-LO2",
+        "size": 20,
+        "combine": [
+          "LFMM-G"
+        ],
+        "layers": [
+          {
             "upperAlt": 245,
             "lowerAlt": 0,
             "ownership": "LFMM-LO",
             "darkLabel": true,
             "combine": []
-        }
-    ]
-  },
-  "geometry": { "type": "Point", "coordinates": [ 4.8612327777778, 45.544512777778 ] }
-},
-{
-  "type": "Feature",
-  "properties": {
-    "name": "LFMM-LE2",
-    "size": 20,
-    "combine": ["LFMM-Y"],
-    "layers": [
-        {
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8612327777778,
+          45.544512777778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "LFMM-LE2",
+        "size": 20,
+        "combine": [
+          "LFMM-Y"
+        ],
+        "layers": [
+          {
             "upperAlt": 245,
             "lowerAlt": 0,
             "ownership": "LFMM-LE",
             "darkLabel": true,
             "combine": []
-        }
-    ]
-  },
-  "geometry": { "type": "Point", "coordinates": [ 4.8612327777778, 45.544512777778 ] }
-},
-{
-  "type": "Feature",
-  "properties": {
-    "name": "LFMM-LS2",
-    "size": 20,
-    "combine": ["LFMM-G"],
-    "layers": [
-        {
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8612327777778,
+          45.544512777778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "LFMM-LS2",
+        "size": 20,
+        "combine": [
+          "LFMM-G"
+        ],
+        "layers": [
+          {
             "upperAlt": 245,
             "lowerAlt": 0,
             "ownership": "LFMM-LS",
             "darkLabel": true,
             "combine": []
-        }
-    ]
-  },
-  "geometry": { "type": "Point", "coordinates": [ 6.2449013888889, 45.299218333333 ] }
-},
-{
-  "type": "Feature",
-  "properties": {
-    "name": "LFMM-LO1-2",
-    "size": 20,
-    "layers": [
-        {
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.2449013888889,
+          45.299218333333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "LFMM-LO1-2",
+        "size": 20,
+        "layers": [
+          {
             "upperAlt": 195,
             "lowerAlt": 0,
             "ownership": "LFMM-LO",
             "combine": []
-        }
-    ]
-  },
-  "geometry": { "type": "Point", "coordinates": [ 5.6213511111111, 44.833158888889 ] }
-},
-{
-  "type": "Feature",
-  "properties": {
-    "name": "LFMM-F",
-    "size": 24,
-    "layers": [
-        {
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.6213511111111,
+          44.833158888889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "LFMM-F",
+        "size": 24,
+        "layers": [
+          {
             "upperAlt": 660,
             "lowerAlt": 245,
             "ownership": "LFMM-F",
             "combine": []
-        },
-        {
+          },
+          {
             "upperAlt": 245,
             "lowerAlt": 0,
             "ownership": "LFMM-ML",
             "darkLabel": true,
             "combine": []
-        }
-    ]
-  },
-  "geometry": { "type": "Point", "coordinates": [ 5.0895594444444, 41.913012777778 ] }
-},
-{
-  "type": "Feature",
-  "properties": {
-    "name": "LFMM-D",
-    "size": 24,
-    "layers": [
-        {
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.0895594444444,
+          41.913012777778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "LFMM-D",
+        "size": 24,
+        "layers": [
+          {
             "upperAlt": 660,
             "lowerAlt": 245,
             "ownership": "LFMM-DH",
             "combine": []
-        },
-        {
+          },
+          {
             "upperAlt": 245,
             "lowerAlt": 0,
             "ownership": "LFMM-DL",
             "darkLabel": true,
             "combine": []
-        }
-    ]
-  },
-  "geometry": { "type": "Point", "coordinates": [ 5.4984272222222, 41.350470833333 ] }
-},
-{
-  "type": "Feature",
-  "properties": {
-    "name": "LFMM-Z",
-    "size": 24,
-    "layers": [
-        {
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4984272222222,
+          41.350470833333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "LFMM-Z",
+        "size": 24,
+        "layers": [
+          {
             "upperAlt": 660,
             "lowerAlt": 245,
             "ownership": "LFMM-ZH",
             "combine": []
-        },
-        {
+          },
+          {
             "upperAlt": 245,
             "lowerAlt": 0,
             "ownership": "LFMM-ZL",
             "darkLabel": true,
             "combine": []
-        }
-    ]
-  },
-  "geometry": { "type": "Point", "coordinates": [ 6.8247547222222, 39.970280833333 ] }
-},
-{
-  "type": "Feature",
-  "properties": {
-    "name": "LFMM-W",
-    "size": 24,
-    "layers": [
-        {
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8247547222222,
+          39.970280833333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "LFMM-W",
+        "size": 24,
+        "layers": [
+          {
             "upperAlt": 660,
             "lowerAlt": 195,
             "ownership": "LFMM-W"
-        },
-        {
+          },
+          {
             "upperAlt": 195,
             "lowerAlt": 0,
             "ownership": "LFMM-MO"
-        }
-    ]
-  },
-  "geometry": { "type": "Point", "coordinates": [ 4.8214386111111, 44.994542777778 ] }
-},
-{
-  "type": "Feature",
-  "properties": {
-    "name": "LFMM-MO",
-    "size": 24,
-    "combine": ["LFMM-W"],
-    "layers": [
-        {
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8214386111111,
+          44.994542777778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "LFMM-MO",
+        "size": 24,
+        "combine": [
+          "LFMM-W"
+        ],
+        "layers": [
+          {
             "upperAlt": 195,
             "lowerAlt": 0,
             "ownership": "LFMM-MO"
-        }
-    ]
-  },
-  "geometry": { "type": "Point", "coordinates": [ 4.486915, 44.389767777778 ] }
-},
-{
-  "type": "Feature",
-  "properties": {
-    "name": "LFMM-LO-175",
-    "size": 14,
-    "combine": ["LFMM-LO"],
-    "layers": [
-        {
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.486915,
+          44.389767777778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "LFMM-LO-175",
+        "size": 14,
+        "combine": [
+          "LFMM-LO"
+        ],
+        "layers": [
+          {
             "upperAlt": 175,
             "lowerAlt": 0,
             "ownership": "LFMM-LO"
-        }
-    ]
-  },
-  "geometry": { "type": "Point", "coordinates": [ 6.5079944444444, 45.601848055556 ] }
-}
-
-]
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.5079944444444,
+          45.601848055556
+        ]
+      }
+    }
+  ]
 }
