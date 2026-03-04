@@ -1154,6 +1154,67 @@
               "misc"
             ]
           }
+        },
+        {
+          "name": "IFR",
+          "conditions": {
+            "isVFR": false,
+            "flightState": ["ASSUMED", "TRANSFERREDOUT"]
+          },
+          "priority": 5,
+          "filtered": true,
+          "style": {
+            "field_highlight_color": "#BDA5D7",
+            "hovered_field_color": "#6A6A6A",
+            "draw_detailed_background": false,
+            "draw_hovered_field": true,
+            "track_symbol": "triangle",
+            "track_symbol_fill": false,
+            "history_trail_symbol": "dots",
+            "track_symbol_subtext": "",
+            "foreground_color": "#ffffff",
+            "background_color": "#ffffff"
+          }
+        },
+        {
+          "name": "IFR",
+          "conditions": {
+            "isVFR": false
+          },
+          "priority": 5,
+          "filtered": true,
+          "style": {
+            "field_highlight_color": "#BDA5D7",
+            "hovered_field_color": "#6A6A6A",
+            "draw_detailed_background": false,
+            "draw_hovered_field": true,
+            "track_symbol": "triangle",
+            "track_symbol_fill": false,
+            "history_trail_symbol": "dots",
+            "track_symbol_subtext": "",
+            "foreground_color": "#8e8e8e",
+            "background_color": "#8e8e8e"
+          }
+        },
+        {
+          "name": "VFR",
+          "conditions": {
+            "isVFR": true
+          },
+          "priority": 5,
+          "filtered": true,
+          "style": {
+            "field_highlight_color": "#BDA5D7",
+            "hovered_field_color": "#6A6A6A",
+            "draw_detailed_background": false,
+            "draw_hovered_field": true,
+            "track_symbol": "triangle",
+            "track_symbol_fill": false,
+            "history_trail_symbol": "dots",
+            "track_symbol_subtext": "",
+            "foreground_color": "#8e8e8e",
+            "background_color": "#8e8e8e"
+          }
         }
       ]
     },
