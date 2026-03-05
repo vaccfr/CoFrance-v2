@@ -117,10 +117,10 @@
                     "flightstate": {
                       "type": "array",
                       "items": {
-                        "type": "string"
+                        "type": "string",
+                        "enum": ["unconcerned", "notified", "transferin", "assumed", "transferredout", "monitored", "ghost"]
                       },
-                      "description": "Flightstate of the flight (OR)",
-                      "enum": ["unconcerned", "notified", "transferin", "assumed", "transferredout", "monitored", "ghost"]
+                      "description": "Flightstate of the flight (OR)"
                     }
                   }
                 },
