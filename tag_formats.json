@@ -1,6 +1,6 @@
 {
   "$schema": "https://raw.githubusercontent.com/alexisBalzano/CoFrance-config-files/main/.github/schema/tag_formats.schema.json",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "tag_formats": [
     {
       "name": "default",
@@ -1154,6 +1154,70 @@
               "misc"
             ]
           }
+        },
+        {
+          "name": "IFR",
+          "conditions": {
+            "isVFR": false
+          },
+          "flightstate": [
+            "assumed",
+            "transferredout"
+          ],
+          "priority": 5,
+          "filtered": true,
+          "style": {
+            "field_highlight_color": "#BDA5D7",
+            "hovered_field_color": "#6A6A6A",
+            "draw_detailed_background": false,
+            "draw_hovered_field": true,
+            "track_symbol": "triangle",
+            "track_symbol_fill": false,
+            "history_trail_symbol": "dots",
+            "track_symbol_subtext": "",
+            "foreground_color": "#ffffff",
+            "background_color": "#ffffff"
+          }
+        },
+        {
+          "name": "IFR",
+          "conditions": {
+            "isVFR": false
+          },
+          "priority": 6,
+          "filtered": true,
+          "style": {
+            "field_highlight_color": "#BDA5D7",
+            "hovered_field_color": "#6A6A6A",
+            "draw_detailed_background": false,
+            "draw_hovered_field": true,
+            "track_symbol": "triangle",
+            "track_symbol_fill": false,
+            "history_trail_symbol": "dots",
+            "track_symbol_subtext": "",
+            "foreground_color": "#8e8e8e",
+            "background_color": "#8e8e8e"
+          }
+        },
+        {
+          "name": "VFR",
+          "conditions": {
+            "isVFR": true
+          },
+          "priority": 6,
+          "filtered": true,
+          "style": {
+            "field_highlight_color": "#BDA5D7",
+            "hovered_field_color": "#6A6A6A",
+            "draw_detailed_background": false,
+            "draw_hovered_field": true,
+            "track_symbol": "triangle",
+            "track_symbol_fill": false,
+            "history_trail_symbol": "dots",
+            "track_symbol_subtext": "",
+            "foreground_color": "#8e8e8e",
+            "background_color": "#8e8e8e"
+          }
         }
       ]
     },
@@ -1504,35 +1568,6 @@
             "track_symbol_subtext": "",
             "foreground_color": "#0cc665",
             "background_color": "#07793d"
-          },
-          "taglayouts": {
-            "extended_layout": [
-              "vspace",
-              "modeshdg",
-              "modesspd",
-              "modesmach",
-              "modessfl",
-              "\n",
-              "vspace",
-              "adep",
-              "ades",
-              "deprwy",
-              "sid",
-              "\n",
-              "cr",
-              "align_right",
-              "nsfreq",
-              "\n",
-              "optext",
-              "align_right",
-              "afk",
-              "\n",
-              "vspace",
-              "traj",
-              "info",
-              "id",
-              "misc"
-            ]
           }
         },
         {
@@ -1552,35 +1587,6 @@
             "track_symbol_subtext": "U",
             "foreground_color": "#2baf11",
             "background_color": "#186209"
-          },
-          "taglayouts": {
-            "extended_layout": [
-              "vspace",
-              "modeshdg",
-              "modesspd",
-              "modesmach",
-              "modessfl",
-              "\n",
-              "vspace",
-              "adep",
-              "ades",
-              "deprwy",
-              "sid",
-              "\n",
-              "cr",
-              "align_right",
-              "nsfreq",
-              "\n",
-              "optext",
-              "align_right",
-              "afk",
-              "\n",
-              "vspace",
-              "traj",
-              "info",
-              "id",
-              "misc"
-            ]
           }
         },
         {
@@ -1600,35 +1606,6 @@
             "track_symbol_subtext": "Y",
             "foreground_color": "#2baf11",
             "background_color": "#186209"
-          },
-          "taglayouts": {
-            "extended_layout": [
-              "vspace",
-              "modeshdg",
-              "modesspd",
-              "modesmach",
-              "modessfl",
-              "\n",
-              "vspace",
-              "adep",
-              "ades",
-              "deprwy",
-              "sid",
-              "\n",
-              "cr",
-              "align_right",
-              "nsfreq",
-              "\n",
-              "optext",
-              "align_right",
-              "afk",
-              "\n",
-              "vspace",
-              "traj",
-              "info",
-              "id",
-              "misc"
-            ]
           }
         },
         {
@@ -1649,35 +1626,6 @@
             "track_symbol_subtext": "B",
             "foreground_color": "#2baf11",
             "background_color": "#186209"
-          },
-          "taglayouts": {
-            "extended_layout": [
-              "vspace",
-              "modeshdg",
-              "modesspd",
-              "modesmach",
-              "modessfl",
-              "\n",
-              "vspace",
-              "adep",
-              "ades",
-              "deprwy",
-              "sid",
-              "\n",
-              "cr",
-              "align_right",
-              "nsfreq",
-              "\n",
-              "optext",
-              "align_right",
-              "afk",
-              "\n",
-              "vspace",
-              "traj",
-              "info",
-              "id",
-              "misc"
-            ]
           }
         },
         {
@@ -1697,35 +1645,6 @@
             "track_symbol_subtext": "S",
             "foreground_color": "#2baf11",
             "background_color": "#186209"
-          },
-          "taglayouts": {
-            "extended_layout": [
-              "vspace",
-              "modeshdg",
-              "modesspd",
-              "modesmach",
-              "modessfl",
-              "\n",
-              "vspace",
-              "adep",
-              "ades",
-              "deprwy",
-              "sid",
-              "\n",
-              "cr",
-              "align_right",
-              "nsfreq",
-              "\n",
-              "optext",
-              "align_right",
-              "afk",
-              "\n",
-              "vspace",
-              "traj",
-              "info",
-              "id",
-              "misc"
-            ]
           }
         },
         {
@@ -1745,35 +1664,6 @@
             "track_symbol_subtext": "",
             "foreground_color": "#cc787f",
             "background_color": "#995a5f"
-          },
-          "taglayouts": {
-            "extended_layout": [
-              "vspace",
-              "modeshdg",
-              "modesspd",
-              "modesmach",
-              "modessfl",
-              "\n",
-              "vspace",
-              "adep",
-              "ades",
-              "trans",
-              "arrrwy",
-              "\n",
-              "cr",
-              "align_right",
-              "nsfreq",
-              "\n",
-              "optext",
-              "align_right",
-              "afk",
-              "\n",
-              "vspace",
-              "traj",
-              "info",
-              "id",
-              "misc"
-            ]
           }
         },
         {
@@ -1793,35 +1683,6 @@
             "track_symbol_subtext": "Y",
             "foreground_color": "#c4779e",
             "background_color": "#915874"
-          },
-          "taglayouts": {
-            "extended_layout": [
-              "vspace",
-              "modeshdg",
-              "modesspd",
-              "modesmach",
-              "modessfl",
-              "\n",
-              "vspace",
-              "adep",
-              "ades",
-              "trans",
-              "arrrwy",
-              "\n",
-              "cr",
-              "align_right",
-              "nsfreq",
-              "\n",
-              "optext",
-              "align_right",
-              "afk",
-              "\n",
-              "vspace",
-              "traj",
-              "info",
-              "id",
-              "misc"
-            ]
           }
         },
         {
@@ -1842,35 +1703,6 @@
             "track_symbol_subtext": "B",
             "foreground_color": "#c4779e",
             "background_color": "#915874"
-          },
-          "taglayouts": {
-            "extended_layout": [
-              "vspace",
-              "modeshdg",
-              "modesspd",
-              "modesmach",
-              "modessfl",
-              "\n",
-              "vspace",
-              "adep",
-              "ades",
-              "trans",
-              "arrrwy",
-              "\n",
-              "cr",
-              "align_right",
-              "nsfreq",
-              "\n",
-              "optext",
-              "align_right",
-              "afk",
-              "\n",
-              "vspace",
-              "traj",
-              "info",
-              "id",
-              "misc"
-            ]
           }
         },
         {
@@ -1890,35 +1722,6 @@
             "track_symbol_subtext": "S",
             "foreground_color": "#c4779e",
             "background_color": "#915874"
-          },
-          "taglayouts": {
-            "extended_layout": [
-              "vspace",
-              "modeshdg",
-              "modesspd",
-              "modesmach",
-              "modessfl",
-              "\n",
-              "vspace",
-              "adep",
-              "ades",
-              "trans",
-              "arrrwy",
-              "\n",
-              "cr",
-              "align_right",
-              "nsfreq",
-              "\n",
-              "optext",
-              "align_right",
-              "afk",
-              "\n",
-              "vspace",
-              "traj",
-              "info",
-              "id",
-              "misc"
-            ]
           }
         },
         {
@@ -1935,35 +1738,6 @@
             "track_symbol_subtext": "",
             "foreground_color": "#00adbc",
             "background_color": "#007e89"
-          },
-          "taglayouts": {
-            "extended_layout": [
-              "vspace",
-              "modeshdg",
-              "modesspd",
-              "modesmach",
-              "modessfl",
-              "\n",
-              "vspace",
-              "adep",
-              "ades",
-              "trans",
-              "arrrwy",
-              "\n",
-              "cr",
-              "align_right",
-              "nsfreq",
-              "\n",
-              "optext",
-              "align_right",
-              "afk",
-              "\n",
-              "vspace",
-              "traj",
-              "info",
-              "id",
-              "misc"
-            ]
           }
         },
         {
@@ -1983,35 +1757,6 @@
             "track_symbol_subtext": "",
             "foreground_color": "#9187c1",
             "background_color": "#6a638e"
-          },
-          "taglayouts": {
-            "extended_layout": [
-              "vspace",
-              "modeshdg",
-              "modesspd",
-              "modesmach",
-              "modessfl",
-              "\n",
-              "vspace",
-              "adep",
-              "ades",
-              "trans",
-              "arrrwy",
-              "\n",
-              "cr",
-              "align_right",
-              "nsfreq",
-              "\n",
-              "optext",
-              "align_right",
-              "afk",
-              "\n",
-              "vspace",
-              "traj",
-              "info",
-              "id",
-              "misc"
-            ]
           }
         },
         {
@@ -2028,35 +1773,6 @@
             "track_symbol_subtext": "",
             "foreground_color": "#a99200",
             "background_color": "#756500"
-          },
-          "taglayouts": {
-            "extended_layout": [
-              "vspace",
-              "modeshdg",
-              "modesspd",
-              "modesmach",
-              "modessfl",
-              "\n",
-              "vspace",
-              "adep",
-              "ades",
-              "trans",
-              "arrrwy",
-              "\n",
-              "cr",
-              "align_right",
-              "nsfreq",
-              "\n",
-              "optext",
-              "align_right",
-              "afk",
-              "\n",
-              "vspace",
-              "traj",
-              "info",
-              "id",
-              "misc"
-            ]
           }
         }
       ]

@@ -1,13 +1,13 @@
 {
   "$schema": "./.github/schema/version.schema.json",
   "plugin_version": "2.0.1",
-  "CoFrance.toml_version": "1.0.3",
+  "CoFrance.toml_version": "1.0.5",
   "manifest.json_version": "1.0.6",
   "sector_ownership.json_version": "1.0.2",
   "sector_levels.geojson_version": "1.0.3",
   "tma_filters.geojson_version": "1.0.2",
   "monitoring_zones.geojson_version": "1.0.5",
-  "tag_formats.json_version": "1.0.6",
+  "tag_formats.json_version": "1.0.7",
   "predefined_holds.json_version": "1.0.3",
   "intention_codes.json_version": "1.0.6"
 }
