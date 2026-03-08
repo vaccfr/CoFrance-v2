@@ -1,6 +1,6 @@
 {
   "$schema": "https://raw.githubusercontent.com/alexisBalzano/CoFrance-config-files/main/.github/schema/tag_formats.schema.json",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "tag_formats": [
     {
       "name": "default",
@@ -1176,7 +1176,7 @@
             "history_trail_symbol": "dots",
             "track_symbol_subtext": "",
             "foreground_color": "#ffffff",
-            "background_color": "#ffffff"
+            "background_color": "#656565"
           }
         },
         {
