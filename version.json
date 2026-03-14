@@ -8,6 +8,6 @@
   "tma_filters.geojson_version": "1.0.2",
   "monitoring_zones.geojson_version": "1.0.5",
   "tag_formats.json_version": "1.1.0",
-  "predefined_holds.json_version": "1.0.3",
-  "intention_codes.json_version": "1.0.6"
+  "predefined_holds.json_version": "1.0.4",
+  "intention_codes.json_version": "1.0.7"
 }

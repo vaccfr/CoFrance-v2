@@ -1,6 +1,6 @@
 {
   "$schema": "https://raw.githubusercontent.com/alexisBalzano/CoFrance-config-files/main/.github/schema/intention_codes.schema.json",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "LFEE_": {
     "arrivals": [
       "LFST",
@@ -177,11 +177,6 @@
           "LFPN"
         ]
       },
-      "GIM": {
-        "waypoint": [
-          "GIMER"
-        ]
-      },
       "KOV": {
         "waypoint": [
           "KOVIN"
@@ -299,6 +294,11 @@
       "TPR": {
         "waypoint": [
           "TEPRI"
+        ]
+      },
+      "GIM": {
+        "waypoint": [
+          "GIMER"
         ]
       }
     }

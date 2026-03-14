@@ -1,6 +1,6 @@
 {
   "$schema": "https://raw.githubusercontent.com/alexisBalzano/CoFrance-config-files/main/.github/schema/predefined_holds.schema.json",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "PAR_": {
     "MOPAR": {
       "upperfl": 160,
@@ -68,7 +68,7 @@
     },
     "NERAS": {
       "upperfl": 140,
-      "lowerfl": 3000
+      "lowerfl": 30
     },
     "MUS": {
       "upperfl": 140,
@@ -110,7 +110,7 @@
   "LFMN_": {
     "NERAS": {
       "upperfl": 140,
-      "lowerfl": 3000
+      "lowerfl": 30
     },
     "MUS": {
       "upperfl": 140,
