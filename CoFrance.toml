@@ -94,10 +94,6 @@ ui_list_bg = [41, 57, 59]
 ui_list_active = [30, 30, 30]
 ui_list_hovered = [124, 174, 206]
 
-ui_input_border = [102, 101, 101]
-ui_input_bg = [60, 67, 73]
-ui_input_text = [176, 179, 180]
-
 tooltip_bg = [238, 239, 209]
 tooltip_borders = [105, 105, 91]
 
@@ -121,6 +117,14 @@ listbox_item_selected = [30, 30, 30]
 listbox_item_selected_text = [200, 200, 200]
 listbox_item_disabled_bg = [50, 53, 55]
 listbox_item_disabled_text = [100, 100, 100]
+
+# Edit Box colors
+edit_box_text_unfocused = [176, 179, 180]
+edit_box_text_focused = [80, 80, 80]
+edit_box_border_focused = [188, 188, 188]
+edit_box_border_unfocused = [102, 101, 101]
+edit_box_background_focused = [220, 220, 220]
+edit_box_background_unfocused = [60, 67, 73]
 
 # Button colors
 button_background = [70, 70, 70]
