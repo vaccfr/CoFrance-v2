@@ -1,0 +1,43 @@
+{
+  "$schema": "https://raw.githubusercontent.com/alexisBalzano/CoFrance-config-files/main/.github/schema/views.schema.json",
+  "version": "1.0.0",
+  "LFFF": {
+    "RPAW": {
+      "center": [
+        49.5923575,
+        1.1510775
+      ],
+      "zoom": 3
+    },
+    "RPAE": {
+      "center": [
+        48.115728611111,
+        4.7162430555556
+      ],
+      "zoom": 3
+    },
+    "PAR": {
+      "center": [
+        48.933717222222,
+        2.4691566666667
+      ],
+      "zoom": 0
+    }
+  },
+  "LFEE": {
+    "EEN": {
+      "center": [
+        49.767640555556,
+        3.5410883333333
+      ],
+      "zoom": 7
+    },
+    "EE": {
+      "center": [
+        48.64689,
+        5.8437566666667
+      ],
+      "zoom": 2
+    }
+  }
+}
