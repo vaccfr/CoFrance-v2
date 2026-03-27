@@ -1,6 +1,6 @@
 {
   "$schema": "./.github/schema/version.schema.json",
-  "plugin_version": "2.0.6",
+  "plugin_version": "2.0.7",
   "CoFrance.toml_version": "1.0.6",
   "manifest.json_version": "1.0.6",
   "sector_ownership.json_version": "1.0.3",
@@ -9,5 +9,6 @@
   "monitoring_zones.geojson_version": "1.0.5",
   "tag_formats.json_version": "1.1.0",
   "predefined_holds.json_version": "1.0.4",
-  "intention_codes.json_version": "1.0.7"
+  "intention_codes.json_version": "1.0.7",
+  "views.json_version": "0.9.9"
 }
