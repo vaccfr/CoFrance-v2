@@ -1,6 +1,6 @@
 {
   "$schema": "https://raw.githubusercontent.com/alexisBalzano/CoFrance-config-files/main/.github/schema/predefined_holds.schema.json",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "PAR_": {
     "MOPAR": {
       "upperfl": 160,

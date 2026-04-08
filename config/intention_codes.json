@@ -1,6 +1,6 @@
 {
   "$schema": "https://raw.githubusercontent.com/alexisBalzano/CoFrance-config-files/main/.github/schema/intention_codes.schema.json",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "LFEE_": {
     "arrivals": [
       "LFST",
