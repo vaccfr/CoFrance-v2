@@ -11,6 +11,6 @@
   "predefined_holds.json_version": "1.0.5",
   "intention_codes.json_version": "1.0.8",
   "views.json_version": "1.0.2",
-  "CoFrance-Normal.tff_version": "1.0.0",
-  "CoFrance-Bold.tff_version": "1.0.0"
+  "CoFrance-Normal.ttf_version": "0.9.9",
+  "CoFrance-Bold.ttf_version": "0.9.9"
 }
