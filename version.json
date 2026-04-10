@@ -1,6 +1,6 @@
 {
   "$schema": "./.github/schema/version.schema.json",
-  "plugin_version": "2.0.9",
+  "plugin_version": "2.1.0",
   "CoFrance.toml_version": "1.0.8",
   "manifest.json_version": "1.0.6",
   "sector_ownership.json_version": "1.0.3",
@@ -11,7 +11,7 @@
   "predefined_holds.json_version": "1.0.5",
   "intention_codes.json_version": "1.0.8",
   "views.json_version": "1.0.2",
-  "CoFrance-Normal.ttf_version": "0.9.9",
-  "CoFrance-Bold.ttf_version": "0.9.9",
+  "CoFrance-Normal.ttf_version": "1.0.0",
+  "CoFrance-Bold.ttf_version": "1.0.0",
   "sounds_version": "1.0.0"
 }
