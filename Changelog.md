@@ -1,5 +1,11 @@
 # CoFrance v2.1.2 Changelog
 
+### Fixes
+- Recompiled Binary
+
+
+# CoFrance v2.1.2 Changelog
+
 ### Improvements
 - Increased Radar pointer safety
 
