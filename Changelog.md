@@ -1,3 +1,14 @@
+# CoFrance v2.1.5 Changelog
+
+### Improvements
+- Further improvements on tag Anti-Overlap
+
+### Fixes
+- Fixed AFK tag field tooltip not resetting
+- Fixed Assigned squawk format issue when empty
+- Fixed Joystick buttons making modifier key stuck
+
+
 # CoFrance v2.1.4 Changelog
 
 ### Improvements
