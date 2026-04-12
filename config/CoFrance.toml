@@ -1,6 +1,10 @@
 version = "1.0.8"
 config_repo = "vaccfr/CoFrance-v2/main"
 
+[paths]
+airline_filepath = "../../ICAO/ICAO_Airlines.txt"
+ese_folderpath = "../../../"
+
 [api_urls]
 ecfmp_api_url = "https://pintade.vatsim.fr/dataplatform/api/v1/current/ecfmp/flow-measures?active_only=true&current=true"
 area_api_url = "localhost:3000/api/areas/all"
