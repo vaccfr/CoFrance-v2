@@ -1,4 +1,4 @@
-version = "1.0.8"
+version = "1.0.9"
 config_repo = "vaccfr/CoFrance-v2/main"
 
 [paths]
