@@ -2,7 +2,7 @@
   "$schema": "./.github/schema/version.schema.json",
   "branch": "beta",
   "plugin_version": "2.1.4",
-  "CoFrance.toml_version": "1.0.8",
+  "CoFrance.toml_version": "1.0.9",
   "manifest.json_version": "1.0.6",
   "sector_ownership.json_version": "1.0.3",
   "sector_levels.geojson_version": "1.0.3",
