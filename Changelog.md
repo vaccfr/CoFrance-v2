@@ -2,6 +2,8 @@
 
 ### Improvements
 - Further improvements on tag Anti-Overlap
+- Airline File path now use standardised paths in CoFrance.toml
+- ESE File path now use standardised paths in CoFrance.toml
 
 ### Fixes
 - Fixed AFK tag field tooltip not resetting
