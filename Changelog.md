@@ -9,6 +9,7 @@
 - Fixed AFK tag field tooltip not resetting
 - Fixed Assigned squawk format issue when empty
 - Fixed Joystick buttons making modifier key stuck
+- Fixed popup open positions to work on secondary screens
 
 
 # CoFrance v2.1.4 Changelog
