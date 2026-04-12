@@ -9,7 +9,7 @@
   "tma_filters.geojson_version": "1.0.3",
   "monitoring_zones.geojson_version": "1.0.5",
   "tag_formats.json_version": "1.1.1",
-  "predefined_holds.json_version": "1.0.5",
+  "predefined_holds.json_version": "1.0.6",
   "intention_codes.json_version": "1.0.8",
   "views.json_version": "1.0.2",
   "CoFrance-Normal.ttf_version": "1.0.0",
