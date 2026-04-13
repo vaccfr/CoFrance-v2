@@ -2,14 +2,15 @@
 
 ### Improvements
 - Further improvements on tag Anti-Overlap
-- Airline File path now use standardised paths in CoFrance.toml
-- ESE File path now use standardised paths in CoFrance.toml
+
+### Additions
 
 ### Fixes
 - Fixed AFK tag field tooltip not resetting
 - Fixed Assigned squawk format issue when empty
 - Fixed Joystick buttons making modifier key stuck
-- Fixed popup open positions to work on secondary screens
+- Fixed Popup open positions to work on secondary screens
+- Fixed SHRQ remaining on tag once transfer accepted
 
 
 # CoFrance v2.1.4 Changelog
