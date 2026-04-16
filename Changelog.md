@@ -11,6 +11,7 @@
 - Fixed Joystick buttons making modifier key stuck
 - Fixed Popup open positions to work on secondary screens
 - Fixed SHRQ remaining on tag once transfer accepted
+- Fixed Flight Group Filter window closed state not saved
 
 
 # CoFrance v2.1.4 Changelog
