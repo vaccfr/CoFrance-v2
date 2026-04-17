@@ -5,6 +5,7 @@
 - REL notification now auto acknowledge 10 seconds after accepted transfer
 
 ### Additions
+- Added ASPD & AHDG coordination
 
 ### Fixes
 - Fixed AFK tag field tooltip not resetting
