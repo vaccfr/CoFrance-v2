@@ -2,6 +2,7 @@
 
 ### Improvements
 - Further improvements on tag Anti-Overlap
+- REL notification now auto acknowledge 10 seconds after accepted transfer
 
 ### Additions
 
