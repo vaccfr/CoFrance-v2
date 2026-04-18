@@ -35,7 +35,15 @@
             "background_color": "#966868"
           },
           "taglayouts": {
-            "extended_layout": [
+            "tag_layout": [
+              "gs", "aspd", "scratchpad", "vz", "atyp", "hold", "eat", "coordination",
+              "notification", "sequence", "lost", "stca", "tct", "\n",
+              "contact_flag", "callsign", "cpdlc_flag", "comms", "sector", "rfl", "group", "\n",
+              "afl", "tendency", "cfl", "wpt", "ahdg", "\n",
+              "xfl", "hfl", "copx", "intention", "arrrwy", "\n",
+              "cpdlc_rqst", "cpdlc_rqst_number"
+            ],
+              "extended_layout": [
               "vspace",
               "modeshdg",
               "modesspd",
@@ -89,6 +97,14 @@
             "background_color": "#967986"
           },
           "taglayouts": {
+            "tag_layout": [
+              "gs", "aspd", "scratchpad", "vz", "atyp", "hold", "eat", "coordination",
+              "notification", "sequence", "lost", "stca", "tct", "\n",
+              "contact_flag", "callsign", "cpdlc_flag", "comms", "sector", "rfl", "group", "\n",
+              "afl", "tendency", "cfl", "wpt", "ahdg", "\n",
+              "xfl", "hfl", "copx", "intention", "arrrwy", "\n",
+              "cpdlc_rqst", "cpdlc_rqst_number"
+            ],
             "extended_layout": [
               "vspace",
               "modeshdg",
@@ -137,6 +153,14 @@
             "background_color": "#A374B0"
           },
           "taglayouts": {
+            "tag_layout": [
+              "gs", "aspd", "scratchpad", "vz", "atyp", "hold", "eat", "coordination",
+              "notification", "sequence", "lost", "stca", "tct", "\n",
+              "contact_flag", "callsign", "cpdlc_flag", "comms", "sector", "rfl", "group", "\n",
+              "afl", "tendency", "cfl", "wpt", "ahdg", "\n",
+              "xfl", "hfl", "copx", "intention", "arrrwy", "\n",
+              "cpdlc_rqst", "cpdlc_rqst_number"
+            ],
             "extended_layout": [
               "vspace",
               "modeshdg",
@@ -185,6 +209,14 @@
             "background_color": "#D4D4B9"
           },
           "taglayouts": {
+            "tag_layout": [
+              "gs", "aspd", "scratchpad", "vz", "atyp", "hold", "eat", "coordination",
+              "notification", "sequence", "lost", "stca", "tct", "\n",
+              "contact_flag", "callsign", "cpdlc_flag", "comms", "sector", "rfl", "group", "\n",
+              "afl", "tendency", "cfl", "wpt", "ahdg", "\n",
+              "xfl", "hfl", "copx", "intention", "arrrwy", "\n",
+              "cpdlc_rqst", "cpdlc_rqst_number"
+            ],
             "extended_layout": [
               "vspace",
               "modeshdg",
@@ -282,6 +314,14 @@
             "background_color": "#967552"
           },
           "taglayouts": {
+            "tag_layout": [
+              "gs", "aspd", "scratchpad", "vz", "atyp", "hold", "eat", "coordination",
+              "notification", "sequence", "lost", "stca", "tct", "\n",
+              "contact_flag", "callsign", "cpdlc_flag", "comms", "sector", "rfl", "group", "\n",
+              "afl", "tendency", "cfl", "wpt", "ahdg", "\n",
+              "xfl", "hfl", "copx", "intention", "arrrwy", "\n",
+              "cpdlc_rqst", "cpdlc_rqst_number"
+            ],
             "extended_layout": [
               "vspace",
               "modeshdg",
@@ -382,6 +422,14 @@
             "background_color": "#967552"
           },
           "taglayouts": {
+            "tag_layout": [
+              "gs", "aspd", "scratchpad", "vz", "atyp", "hold", "eat", "coordination",
+              "notification", "sequence", "lost", "stca", "tct", "\n",
+              "contact_flag", "callsign", "cpdlc_flag", "comms", "sector", "rfl", "group", "\n",
+              "afl", "tendency", "cfl", "wpt", "ahdg", "\n",
+              "xfl", "hfl", "copx", "intention", "arrrwy", "\n",
+              "cpdlc_rqst", "cpdlc_rqst_number"
+            ],
             "extended_layout": [
               "vspace",
               "modeshdg",
@@ -482,6 +530,14 @@
             "background_color": "#878776  "
           },
           "taglayouts": {
+            "tag_layout": [
+              "gs", "aspd", "scratchpad", "vz", "atyp", "hold", "eat", "coordination",
+              "notification", "sequence", "lost", "stca", "tct", "\n",
+              "contact_flag", "callsign", "cpdlc_flag", "comms", "sector", "rfl", "group", "\n",
+              "afl", "tendency", "cfl", "wpt", "ahdg", "\n",
+              "xfl", "hfl", "copx", "intention", "arrrwy", "\n",
+              "cpdlc_rqst", "cpdlc_rqst_number"
+            ],
             "extended_layout": [
               "vspace",
               "modeshdg",
@@ -533,6 +589,14 @@
             "background_color": "#878776"
           },
           "taglayouts": {
+            "tag_layout": [
+              "gs", "aspd", "scratchpad", "vz", "atyp", "hold", "eat", "coordination",
+              "notification", "sequence", "lost", "stca", "tct", "\n",
+              "contact_flag", "callsign", "cpdlc_flag", "comms", "sector", "rfl", "group", "\n",
+              "afl", "tendency", "cfl", "wpt", "ahdg", "\n",
+              "xfl", "hfl", "copx", "intention", "arrrwy", "\n",
+              "cpdlc_rqst", "cpdlc_rqst_number"
+            ],
             "extended_layout": [
               "vspace",
               "modeshdg",
@@ -693,6 +757,14 @@
             "background_color": "#ab706a"
           },
           "taglayouts": {
+            "tag_layout": [
+              "gs", "aspd", "scratchpad", "vz", "atyp", "hold", "eat", "coordination",
+              "notification", "sequence", "lost", "stca", "tct", "\n",
+              "contact_flag", "callsign", "cpdlc_flag", "comms", "sector", "rfl", "group", "\n",
+              "afl", "tendency", "cfl", "wpt", "ahdg", "\n",
+              "xfl", "hfl", "copx", "intention", "arrrwy", "\n",
+              "cpdlc_rqst", "cpdlc_rqst_number"
+            ],
             "extended_layout": [
               "vspace",
               "modeshdg",
@@ -742,6 +814,14 @@
             "background_color": "#a071ad"
           },
           "taglayouts": {
+            "tag_layout": [
+              "gs", "aspd", "scratchpad", "vz", "atyp", "hold", "eat", "coordination",
+              "notification", "sequence", "lost", "stca", "tct", "\n",
+              "contact_flag", "callsign", "cpdlc_flag", "comms", "sector", "rfl", "group", "\n",
+              "afl", "tendency", "cfl", "wpt", "ahdg", "\n",
+              "xfl", "hfl", "copx", "intention", "arrrwy", "\n",
+              "cpdlc_rqst", "cpdlc_rqst_number"
+            ],
             "extended_layout": [
               "vspace",
               "modeshdg",
@@ -839,6 +919,14 @@
             "background_color": "#857b60"
           },
           "taglayouts": {
+            "tag_layout": [
+              "gs", "aspd", "scratchpad", "vz", "atyp", "hold", "eat", "coordination",
+              "notification", "sequence", "lost", "stca", "tct", "\n",
+              "contact_flag", "callsign", "cpdlc_flag", "comms", "sector", "rfl", "group", "\n",
+              "afl", "tendency", "cfl", "wpt", "ahdg", "\n",
+              "xfl", "hfl", "copx", "intention", "arrrwy", "\n",
+              "cpdlc_rqst", "cpdlc_rqst_number"
+            ],
             "extended_layout": [
               "vspace",
               "modeshdg",
@@ -935,6 +1023,14 @@
             "background_color": "#797c79"
           },
           "taglayouts": {
+            "tag_layout": [
+              "gs", "aspd", "scratchpad", "vz", "atyp", "hold", "eat", "coordination",
+              "notification", "sequence", "lost", "stca", "tct", "\n",
+              "contact_flag", "callsign", "cpdlc_flag", "comms", "sector", "rfl", "group", "\n",
+              "afl", "tendency", "cfl", "wpt", "ahdg", "\n",
+              "xfl", "hfl", "copx", "intention", "arrrwy", "\n",
+              "cpdlc_rqst", "cpdlc_rqst_number"
+            ],
             "extended_layout": [
               "vspace",
               "modeshdg",
@@ -983,6 +1079,14 @@
             "background_color": "#2d6f21"
           },
           "taglayouts": {
+            "tag_layout": [
+              "gs", "aspd", "scratchpad", "vz", "atyp", "hold", "eat", "coordination",
+              "notification", "sequence", "lost", "stca", "tct", "\n",
+              "contact_flag", "callsign", "cpdlc_flag", "comms", "sector", "rfl", "group", "\n",
+              "afl", "tendency", "cfl", "wpt", "ahdg", "\n",
+              "xfl", "hfl", "copx", "intention", "arrrwy", "\n",
+              "cpdlc_rqst", "cpdlc_rqst_number"
+            ],
             "extended_layout": [
               "vspace",
               "modeshdg",
@@ -1126,6 +1230,14 @@
             "background_color": "#4B8FA5"
           },
           "taglayouts": {
+            "tag_layout": [
+              "gs", "aspd", "scratchpad", "vz", "atyp", "hold", "eat", "coordination",
+              "notification", "sequence", "lost", "stca", "tct", "\n",
+              "contact_flag", "callsign", "cpdlc_flag", "comms", "sector", "rfl", "group", "\n",
+              "afl", "tendency", "cfl", "wpt", "ahdg", "\n",
+              "xfl", "hfl", "copx", "intention", "arrrwy", "\n",
+              "cpdlc_rqst", "cpdlc_rqst_number"
+            ],
             "extended_layout": [
               "vspace",
               "modeshdg",
@@ -1291,6 +1403,14 @@
             "background_color": "#667f5a"
           },
           "taglayouts": {
+            "tag_layout": [
+              "gs", "aspd", "scratchpad", "vz", "atyp", "hold", "eat", "coordination",
+              "notification", "sequence", "lost", "stca", "tct", "\n",
+              "contact_flag", "callsign", "cpdlc_flag", "comms", "sector", "rfl", "group", "\n",
+              "afl", "tendency", "cfl", "wpt", "ahdg", "\n",
+              "xfl", "hfl", "copx", "intention", "arrrwy", "\n",
+              "cpdlc_rqst", "cpdlc_rqst_number"
+            ],
             "extended_layout": [
               "vspace",
               "modeshdg",
@@ -1389,6 +1509,14 @@
             "background_color": "#597e1f"
           },
           "taglayouts": {
+            "tag_layout": [
+              "gs", "aspd", "scratchpad", "vz", "atyp", "hold", "eat", "coordination",
+              "notification", "sequence", "lost", "stca", "tct", "\n",
+              "contact_flag", "callsign", "cpdlc_flag", "comms", "sector", "rfl", "group", "\n",
+              "afl", "tendency", "cfl", "wpt", "ahdg", "\n",
+              "xfl", "hfl", "copx", "intention", "arrrwy", "\n",
+              "cpdlc_rqst", "cpdlc_rqst_number"
+            ],
             "extended_layout": [
               "vspace",
               "modeshdg",
@@ -1437,6 +1565,14 @@
             "background_color": "#597e1f"
           },
           "taglayouts": {
+            "tag_layout": [
+              "gs", "aspd", "scratchpad", "vz", "atyp", "hold", "eat", "coordination",
+              "notification", "sequence", "lost", "stca", "tct", "\n",
+              "contact_flag", "callsign", "cpdlc_flag", "comms", "sector", "rfl", "group", "\n",
+              "afl", "tendency", "cfl", "wpt", "ahdg", "\n",
+              "xfl", "hfl", "copx", "intention", "arrrwy", "\n",
+              "cpdlc_rqst", "cpdlc_rqst_number"
+            ],
             "extended_layout": [
               "vspace",
               "modeshdg",
@@ -1485,6 +1621,14 @@
             "background_color": "#597e1f"
           },
           "taglayouts": {
+            "tag_layout": [
+              "gs", "aspd", "scratchpad", "vz", "atyp", "hold", "eat", "coordination",
+              "notification", "sequence", "lost", "stca", "tct", "\n",
+              "contact_flag", "callsign", "cpdlc_flag", "comms", "sector", "rfl", "group", "\n",
+              "afl", "tendency", "cfl", "wpt", "ahdg", "\n",
+              "xfl", "hfl", "copx", "intention", "arrrwy", "\n",
+              "cpdlc_rqst", "cpdlc_rqst_number"
+            ],
             "extended_layout": [
               "vspace",
               "modeshdg",
@@ -1568,6 +1712,43 @@
             "track_symbol_subtext": "",
             "foreground_color": "#0cc665",
             "background_color": "#07793d"
+          },
+          "taglayouts": {
+            "tag_layout": [
+              "gs", "aspd", "scratchpad", "vz", "atyp", "hold", "eat", "coordination",
+              "notification", "sequence", "lost", "stca", "tct", "\n",
+              "contact_flag", "callsign", "cpdlc_flag", "comms", "sector", "rfl", "group", "\n",
+              "afl", "tendency", "cfl", "wpt", "ahdg", "\n",
+              "xfl", "hfl", "copx", "intention", "arrrwy", "\n",
+              "cpdlc_rqst", "cpdlc_rqst_number"
+            ],
+            "extended_layout": [
+              "vspace",
+              "modeshdg",
+              "modesspd",
+              "modesmach",
+              "modessfl",
+              "\n",
+              "vspace",
+              "adep",
+              "ades",
+              "trans",
+              "arrrwy",
+              "\n",
+              "cr",
+              "align_right",
+              "nsfreq",
+              "\n",
+              "optext",
+              "align_right",
+              "afk",
+              "\n",
+              "vspace",
+              "traj",
+              "info",
+              "id",
+              "misc"
+            ]
           }
         },
         {
@@ -1587,6 +1768,43 @@
             "track_symbol_subtext": "U",
             "foreground_color": "#2baf11",
             "background_color": "#186209"
+          },
+          "taglayouts": {
+            "tag_layout": [
+              "gs", "aspd", "scratchpad", "vz", "atyp", "hold", "eat", "coordination",
+              "notification", "sequence", "lost", "stca", "tct", "\n",
+              "contact_flag", "callsign", "cpdlc_flag", "comms", "sector", "rfl", "group", "\n",
+              "afl", "tendency", "cfl", "wpt", "ahdg", "\n",
+              "xfl", "hfl", "copx", "intention", "arrrwy", "\n",
+              "cpdlc_rqst", "cpdlc_rqst_number"
+            ],
+            "extended_layout": [
+              "vspace",
+              "modeshdg",
+              "modesspd",
+              "modesmach",
+              "modessfl",
+              "\n",
+              "vspace",
+              "adep",
+              "ades",
+              "trans",
+              "arrrwy",
+              "\n",
+              "cr",
+              "align_right",
+              "nsfreq",
+              "\n",
+              "optext",
+              "align_right",
+              "afk",
+              "\n",
+              "vspace",
+              "traj",
+              "info",
+              "id",
+              "misc"
+            ]
           }
         },
         {
@@ -1606,6 +1824,43 @@
             "track_symbol_subtext": "Y",
             "foreground_color": "#2baf11",
             "background_color": "#186209"
+          },
+          "taglayouts": {
+            "tag_layout": [
+              "gs", "aspd", "scratchpad", "vz", "atyp", "hold", "eat", "coordination",
+              "notification", "sequence", "lost", "stca", "tct", "\n",
+              "contact_flag", "callsign", "cpdlc_flag", "comms", "sector", "rfl", "group", "\n",
+              "afl", "tendency", "cfl", "wpt", "ahdg", "\n",
+              "xfl", "hfl", "copx", "intention", "arrrwy", "\n",
+              "cpdlc_rqst", "cpdlc_rqst_number"
+            ],
+            "extended_layout": [
+              "vspace",
+              "modeshdg",
+              "modesspd",
+              "modesmach",
+              "modessfl",
+              "\n",
+              "vspace",
+              "adep",
+              "ades",
+              "trans",
+              "arrrwy",
+              "\n",
+              "cr",
+              "align_right",
+              "nsfreq",
+              "\n",
+              "optext",
+              "align_right",
+              "afk",
+              "\n",
+              "vspace",
+              "traj",
+              "info",
+              "id",
+              "misc"
+            ]
           }
         },
         {
@@ -1626,6 +1881,43 @@
             "track_symbol_subtext": "B",
             "foreground_color": "#2baf11",
             "background_color": "#186209"
+          },
+          "taglayouts": {
+            "tag_layout": [
+              "gs", "aspd", "scratchpad", "vz", "atyp", "hold", "eat", "coordination",
+              "notification", "sequence", "lost", "stca", "tct", "\n",
+              "contact_flag", "callsign", "cpdlc_flag", "comms", "sector", "rfl", "group", "\n",
+              "afl", "tendency", "cfl", "wpt", "ahdg", "\n",
+              "xfl", "hfl", "copx", "intention", "arrrwy", "\n",
+              "cpdlc_rqst", "cpdlc_rqst_number"
+            ],
+            "extended_layout": [
+              "vspace",
+              "modeshdg",
+              "modesspd",
+              "modesmach",
+              "modessfl",
+              "\n",
+              "vspace",
+              "adep",
+              "ades",
+              "trans",
+              "arrrwy",
+              "\n",
+              "cr",
+              "align_right",
+              "nsfreq",
+              "\n",
+              "optext",
+              "align_right",
+              "afk",
+              "\n",
+              "vspace",
+              "traj",
+              "info",
+              "id",
+              "misc"
+            ]
           }
         },
         {
@@ -1645,6 +1937,43 @@
             "track_symbol_subtext": "S",
             "foreground_color": "#2baf11",
             "background_color": "#186209"
+          },
+          "taglayouts": {
+            "tag_layout": [
+              "gs", "aspd", "scratchpad", "vz", "atyp", "hold", "eat", "coordination",
+              "notification", "sequence", "lost", "stca", "tct", "\n",
+              "contact_flag", "callsign", "cpdlc_flag", "comms", "sector", "rfl", "group", "\n",
+              "afl", "tendency", "cfl", "wpt", "ahdg", "\n",
+              "xfl", "hfl", "copx", "intention", "arrrwy", "\n",
+              "cpdlc_rqst", "cpdlc_rqst_number"
+            ],
+            "extended_layout": [
+              "vspace",
+              "modeshdg",
+              "modesspd",
+              "modesmach",
+              "modessfl",
+              "\n",
+              "vspace",
+              "adep",
+              "ades",
+              "trans",
+              "arrrwy",
+              "\n",
+              "cr",
+              "align_right",
+              "nsfreq",
+              "\n",
+              "optext",
+              "align_right",
+              "afk",
+              "\n",
+              "vspace",
+              "traj",
+              "info",
+              "id",
+              "misc"
+            ]
           }
         },
         {

@@ -1,3 +1,16 @@
+# CoFrance v2.1.6 Changelog
+
+### Improvements
+- ARRRWY now shows on detailed tag for arrival aircraft when an Approach Tag Format is selected
+- Setting Window automatically open if CoFrance_Preference.toml not found on startup
+
+### Additions
+- Added ARRRWY coordination
+
+### Fixes
+- Fixed route stuck drawn after closing popupWaypoint if was temp or auto flight leg
+
+
 # CoFrance v2.1.5 Changelog
 
 ### Improvements
