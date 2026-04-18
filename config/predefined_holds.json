@@ -1,6 +1,6 @@
 {
   "$schema": "https://raw.githubusercontent.com/alexisBalzano/CoFrance-config-files/main/.github/schema/predefined_holds.schema.json",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "PAR_": {
     "MOPAR": {
       "upperfl": 160,
@@ -20,6 +20,10 @@
     },
     "OKIPA": {
       "upperfl": 190,
+      "lowerfl": 70
+    },
+    "OKRIX": {
+      "upperfl": 240,
       "lowerfl": 70
     },
     "MOLBA": {

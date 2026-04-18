@@ -1,3 +1,22 @@
+# CoFrance v2.1.5 Changelog
+
+### Improvements
+- Further improvements on tag Anti-Overlap
+- REL notification now auto acknowledge 10 seconds after accepted transfer
+- Added sound to ASPD & AHDG coordinations
+
+### Additions
+- Added ASPD & AHDG coordination
+
+### Fixes
+- Fixed AFK tag field tooltip not resetting
+- Fixed Assigned squawk format issue when empty
+- Fixed Joystick buttons making modifier key stuck
+- Fixed Popup open positions to work on secondary screens
+- Fixed SHRQ remaining on tag once transfer accepted
+- Fixed Flight Group Filter window closed state not saved
+
+
 # CoFrance v2.1.4 Changelog
 
 ### Improvements
