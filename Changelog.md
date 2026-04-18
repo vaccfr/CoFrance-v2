@@ -6,6 +6,7 @@
 
 ### Additions
 - Added ASPD & AHDG coordination
+- Added sound to ASPD & AHDG coordinations
 
 ### Fixes
 - Fixed AFK tag field tooltip not resetting
