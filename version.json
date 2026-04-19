@@ -1,7 +1,7 @@
 {
   "$schema": "./.github/schema/version.schema.json",
   "branch": "main",
-  "plugin_version": "2.1.5",
+  "plugin_version": "2.1.6",
   "CoFrance.toml_version": "1.0.9",
   "manifest.json_version": "1.0.6",
   "sector_ownership.json_version": "1.0.3",
