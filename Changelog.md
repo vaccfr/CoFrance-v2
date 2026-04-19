@@ -1,3 +1,19 @@
+# CoFrance v2.1.7 Changelog
+
+### Additions
+- Added MINCLN ASPD option
+- Added CAPS hotkey to convert hover QDM to static
+
+### Fixes
+- Fixed Man Trf SCH list ordering
+- Fixed HOP button being togglable on assumed aircraft
+- Fixed MIN/MAX ASPD
+- Fixed DEP Runway assignation
+- Fixed auto REL acknowledge
+- Fixed Deleted flights remaining in Holding List
+- Fixed Man Trf Popup Next Sector not being first
+
+
 # CoFrance v2.1.6 Changelog
 
 ### Improvements
