@@ -22,10 +22,10 @@
                     "width": 0.26,
                     "opacity": 1,
                     "dashArray": null
-                },
-                "fid": 2
+                }
             },
             "geometry": {
+                "type": "MultiPolygon",
                 "coordinates": [
                     [
                         [
@@ -891,8 +891,7 @@
                             ]
                         ]
                     ]
-                ],
-                "type": "MultiPolygon"
+                ]
             }
         },
         {
@@ -915,6 +914,7 @@
                 "fid": 1
             },
             "geometry": {
+                "type": "MultiLineString",
                 "coordinates": [
                     [
                         [
@@ -932,32 +932,7 @@
                             43.59433975633629,
                             0
                         ]
-                    ]
-                ],
-                "type": "MultiLineString"
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Nice RNP22 ECL Dot",
-                "lineStyle": {
-                    "color": [
-                        179,
-                        179,
-                        179
                     ],
-                    "width": 0.26,
-                    "opacity": 1,
-                    "dashArray": [
-                        2.5,
-                        2.5
-                    ]
-                },
-                "fid": 2
-            },
-            "geometry": {
-                "coordinates": [
                     [
                         [
                             7.580404812170983,
@@ -969,32 +944,7 @@
                             43.50769906897434,
                             0
                         ]
-                    ]
-                ],
-                "type": "MultiLineString"
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Nice RNP22 ECL Dot",
-                "lineStyle": {
-                    "color": [
-                        179,
-                        179,
-                        179
                     ],
-                    "width": 0.26,
-                    "opacity": 1,
-                    "dashArray": [
-                        2.5,
-                        2.5
-                    ]
-                },
-                "fid": 3
-            },
-            "geometry": {
-                "coordinates": [
                     [
                         [
                             7.691061527534503,
@@ -1006,32 +956,7 @@
                             43.4516507410056,
                             0
                         ]
-                    ]
-                ],
-                "type": "MultiLineString"
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Nice RNP22 ECL Dot",
-                "lineStyle": {
-                    "color": [
-                        179,
-                        179,
-                        179
                     ],
-                    "width": 0.26,
-                    "opacity": 1,
-                    "dashArray": [
-                        2.5,
-                        2.5
-                    ]
-                },
-                "fid": 4
-            },
-            "geometry": {
-                "coordinates": [
                     [
                         [
                             7.394449462837992,
@@ -1043,32 +968,7 @@
                             43.603681060731475,
                             0
                         ]
-                    ]
-                ],
-                "type": "MultiLineString"
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Nice RNP22 ECL Dot",
-                "lineStyle": {
-                    "color": [
-                        179,
-                        179,
-                        179
                     ],
-                    "width": 0.26,
-                    "opacity": 1,
-                    "dashArray": [
-                        2.5,
-                        2.5
-                    ]
-                },
-                "fid": 5
-            },
-            "geometry": {
-                "coordinates": [
                     [
                         [
                             7.257959197543275,
@@ -1096,8 +996,7 @@
                             0
                         ]
                     ]
-                ],
-                "type": "MultiLineString"
+                ]
             }
         },
         {
@@ -1117,6 +1016,7 @@
                 "fid": 1
             },
             "geometry": {
+                "type": "MultiLineString",
                 "coordinates": [
                     [
                         [
@@ -1131,29 +1031,7 @@
                             7.532099929957915,
                             43.585186224476615
                         ]
-                    ]
-                ],
-                "type": "MultiLineString"
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Nice RNP22 ECL Solid",
-                "lineStyle": {
-                    "color": [
-                        179,
-                        179,
-                        179
                     ],
-                    "width": 0.26,
-                    "opacity": 1,
-                    "dashArray": null
-                },
-                "fid": 2
-            },
-            "geometry": {
-                "coordinates": [
                     [
                         [
                             7.412748157745635,
@@ -1168,60 +1046,38 @@
                             43.60585324924961
                         ]
                     ]
-                ],
-                "type": "MultiLineString"
+                ]
             }
         },
         {
             "type": "Feature",
             "properties": {
                 "name": "Nice RNP22 Procedure Points",
-                "markerStyle": {
+                "pointStyle": {
+                    "type": "circle_cross",
                     "color": [
                         128,
                         128,
                         128
                     ],
-                    "size": "large",
-                    "opacity": 0
-                },
-                "fid": 1
+                    "size": "medium",
+                    "opacity": 1
+                }
             },
             "geometry": {
+                "type": "MultiPoint",
                 "coordinates": [
                     [
                         7.490805833,
                         43.580638889,
                         0
-                    ]
-                ],
-                "type": "MultiPoint"
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Nice RNP22 Procedure Points",
-                "markerStyle": {
-                    "color": [
-                        128,
-                        128,
-                        128
                     ],
-                    "size": "large",
-                    "opacity": 0
-                },
-                "fid": 2
-            },
-            "geometry": {
-                "coordinates": [
                     [
                         7.510471944,
                         43.498527778,
                         0
                     ]
-                ],
-                "type": "MultiPoint"
+                ]
             }
         }
     ]
