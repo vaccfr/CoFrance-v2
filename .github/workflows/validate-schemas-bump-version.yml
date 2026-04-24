@@ -144,6 +144,23 @@ jobs:
 
           bumped=false
 
+
+          bump_custom() {
+            local v="$1"
+            IFS='.' read -r major minor patch <<< "$v"
+            major=${major:-0}; minor=${minor:-0}; patch=${patch:-0}
+            patch=$((patch + 1))
+            if [ "$patch" -ge 10 ]; then
+              patch=0
+              minor=$((minor + 1))
+            fi
+            if [ "$minor" -ge 10 ]; then
+              minor=0
+              major=$((major + 1))
+            fi
+            echo "${major}.${minor}.${patch}"
+          }
+
           # Ensure version.json exists
           if [ ! -f "$VERSION_FILE" ]; then
             echo "version.json not found in repo root. Exiting." >&2
