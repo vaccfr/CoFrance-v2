@@ -1,0 +1,23 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Aircrafts schema",
+  "description": "Schema for Aircrafts.json",
+  "type": "object",
+  "properties": {
+    "$schema": {
+      "type": "string",
+      "description": "Schema identifier (instance may include this)"
+    }
+  },
+  "additionalProperties": {
+    "type": "object",
+    "description": "object containing aircraft information",
+    "properties": {
+      "RECAT": {
+        "type": "string",
+        "description": "RECAT category for the aircraft (e.g. 'A', 'B', 'C', etc.)"
+      }
+    },
+    "required": ["RECAT"]
+  }
+}
