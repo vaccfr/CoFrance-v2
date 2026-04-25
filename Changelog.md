@@ -1,3 +1,11 @@
+# CoFrance v2.1.9 Changelog
+
+### Improvements
+- Per Ring customization
+- Side menu panels now auto close on outside click
+- Range Rings now saved in ASR file
+
+
 # CoFrance v2.1.8 Changelog
 
 ### Improvements
