@@ -4,7 +4,7 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Nice SIV Autoroute",
+                "name": "Nice Autoroute",
                 "lineStyle": {
                     "color": [
                         140,
@@ -1366,7 +1366,7 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "BT",
+                "name": "Nice VFR Points",
                 "pointStyle": {
                     "type": "cross",
                     "color": [
@@ -1381,859 +1381,158 @@
             "geometry": {
                 "type": "MultiPoint",
                 "coordinates": [
-                    6.39583333,
-                    43.08
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "CL",
-                "pointStyle": {
-                    "type": "cross",
-                    "color": [
-                        98,
-                        100,
-                        128
+                    [
+                        6.39583333,
+                        43.08
                     ],
-                    "size": "medium",
-                    "opacity": 1
-                }
-            },
-            "geometry": {
-                "type": "MultiPoint",
-                "coordinates": [
-                    6.29472222,
-                    43.11027778
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "CT",
-                "pointStyle": {
-                    "type": "cross",
-                    "color": [
-                        98,
-                        100,
-                        128
+                    [
+                        6.29472222,
+                        43.11027778
                     ],
-                    "size": "medium",
-                    "opacity": 1
-                }
-            },
-            "geometry": {
-                "type": "MultiPoint",
-                "coordinates": [
-                    6.23888889,
-                    42.96416667
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "DG",
-                "pointStyle": {
-                    "type": "cross",
-                    "color": [
-                        98,
-                        100,
-                        128
+                    [
+                        6.23888889,
+                        42.96416667
                     ],
-                    "size": "medium",
-                    "opacity": 1
-                }
-            },
-            "geometry": {
-                "type": "MultiPoint",
-                "coordinates": [
-                    6.18361111,
-                    43.15777778
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "DR",
-                "pointStyle": {
-                    "type": "cross",
-                    "color": [
-                        98,
-                        100,
-                        128
+                    [
+                        6.18361111,
+                        43.15777778
                     ],
-                    "size": "medium",
-                    "opacity": 1
-                }
-            },
-            "geometry": {
-                "type": "MultiPoint",
-                "coordinates": [
-                    6.85555556,
-                    43.39833333
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "EA",
-                "pointStyle": {
-                    "type": "cross",
-                    "color": [
-                        98,
-                        100,
-                        128
+                    [
+                        6.85555556,
+                        43.39833333
                     ],
-                    "size": "medium",
-                    "opacity": 1
-                }
-            },
-            "geometry": {
-                "type": "MultiPoint",
-                "coordinates": [
-                    7.34555556,
-                    43.65472222
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "EC",
-                "pointStyle": {
-                    "type": "cross",
-                    "color": [
-                        98,
-                        100,
-                        128
+                    [
+                        7.34555556,
+                        43.65472222
                     ],
-                    "size": "medium",
-                    "opacity": 1
-                }
-            },
-            "geometry": {
-                "type": "MultiPoint",
-                "coordinates": [
-                    7.42694444,
-                    43.70138889
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "EM",
-                "pointStyle": {
-                    "type": "cross",
-                    "color": [
-                        98,
-                        100,
-                        128
+                    [
+                        7.42694444,
+                        43.70138889
                     ],
-                    "size": "medium",
-                    "opacity": 1
-                }
-            },
-            "geometry": {
-                "type": "MultiPoint",
-                "coordinates": [
-                    6.59277778,
-                    43.26388889
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "ET",
-                "pointStyle": {
-                    "type": "cross",
-                    "color": [
-                        98,
-                        100,
-                        128
+                    [
+                        6.59277778,
+                        43.26388889
                     ],
-                    "size": "medium",
-                    "opacity": 1
-                }
-            },
-            "geometry": {
-                "type": "MultiPoint",
-                "coordinates": [
-                    6.61805556,
-                    43.16138889
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "EW",
-                "pointStyle": {
-                    "type": "cross",
-                    "color": [
-                        98,
-                        100,
-                        128
+                    [
+                        6.61805556,
+                        43.16138889
                     ],
-                    "size": "medium",
-                    "opacity": 1
-                }
-            },
-            "geometry": {
-                "type": "MultiPoint",
-                "coordinates": [
-                    6.98,
-                    43.66
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "HA1",
-                "pointStyle": {
-                    "type": "cross",
-                    "color": [
-                        98,
-                        100,
-                        128
+                    [
+                        6.98,
+                        43.66
                     ],
-                    "size": "medium",
-                    "opacity": 1
-                }
-            },
-            "geometry": {
-                "type": "MultiPoint",
-                "coordinates": [
-                    6.58638889,
-                    43.25277778
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "HA2",
-                "pointStyle": {
-                    "type": "cross",
-                    "color": [
-                        98,
-                        100,
-                        128
+                    [
+                        6.58638889,
+                        43.25277778
                     ],
-                    "size": "medium",
-                    "opacity": 1
-                }
-            },
-            "geometry": {
-                "type": "MultiPoint",
-                "coordinates": [
-                    6.58416667,
-                    43.23888889
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "HA3",
-                "pointStyle": {
-                    "type": "cross",
-                    "color": [
-                        98,
-                        100,
-                        128
+                    [
+                        6.58416667,
+                        43.23888889
                     ],
-                    "size": "medium",
-                    "opacity": 1
-                }
-            },
-            "geometry": {
-                "type": "MultiPoint",
-                "coordinates": [
-                    6.55944444,
-                    43.22888889
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "HD1",
-                "pointStyle": {
-                    "type": "cross",
-                    "color": [
-                        98,
-                        100,
-                        128
+                    [
+                        6.55944444,
+                        43.22888889
                     ],
-                    "size": "medium",
-                    "opacity": 1
-                }
-            },
-            "geometry": {
-                "type": "MultiPoint",
-                "coordinates": [
-                    6.55388889,
-                    43.2225
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "HD2",
-                "pointStyle": {
-                    "type": "cross",
-                    "color": [
-                        98,
-                        100,
-                        128
+                    [
+                        6.55388889,
+                        43.2225
                     ],
-                    "size": "medium",
-                    "opacity": 1
-                }
-            },
-            "geometry": {
-                "type": "MultiPoint",
-                "coordinates": [
-                    6.62222222,
-                    43.20666667
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "HD3",
-                "pointStyle": {
-                    "type": "cross",
-                    "color": [
-                        98,
-                        100,
-                        128
+                    [
+                        6.62222222,
+                        43.20666667
                     ],
-                    "size": "medium",
-                    "opacity": 1
-                }
-            },
-            "geometry": {
-                "type": "MultiPoint",
-                "coordinates": [
-                    6.66722222,
-                    43.20138889
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "HE",
-                "pointStyle": {
-                    "type": "cross",
-                    "color": [
-                        98,
-                        100,
-                        128
+                    [
+                        6.66722222,
+                        43.20138889
                     ],
-                    "size": "medium",
-                    "opacity": 1
-                }
-            },
-            "geometry": {
-                "type": "MultiPoint",
-                "coordinates": [
-                    6.97027778,
-                    43.54416667
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "HV",
-                "pointStyle": {
-                    "type": "cross",
-                    "color": [
-                        98,
-                        100,
-                        128
+                    [
+                        6.97027778,
+                        43.54416667
                     ],
-                    "size": "medium",
-                    "opacity": 1
-                }
-            },
-            "geometry": {
-                "type": "MultiPoint",
-                "coordinates": [
-                    7.01666667,
-                    43.52555556
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "HW",
-                "pointStyle": {
-                    "type": "cross",
-                    "color": [
-                        98,
-                        100,
-                        128
+                    [
+                        7.01666667,
+                        43.52555556
                     ],
-                    "size": "medium",
-                    "opacity": 1
-                }
-            },
-            "geometry": {
-                "type": "MultiPoint",
-                "coordinates": [
-                    6.95861111,
-                    43.53777778
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "LC",
-                "pointStyle": {
-                    "type": "cross",
-                    "color": [
-                        98,
-                        100,
-                        128
+                    [
+                        6.95861111,
+                        43.53777778
                     ],
-                    "size": "medium",
-                    "opacity": 1
-                }
-            },
-            "geometry": {
-                "type": "MultiPoint",
-                "coordinates": [
-                    6.99777778,
-                    43.58583333
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "MR",
-                "pointStyle": {
-                    "type": "cross",
-                    "color": [
-                        98,
-                        100,
-                        128
+                    [
+                        6.99777778,
+                        43.58583333
                     ],
-                    "size": "medium",
-                    "opacity": 1
-                }
-            },
-            "geometry": {
-                "type": "MultiPoint",
-                "coordinates": [
-                    6.11583333,
-                    43.16277778
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "NA",
-                "pointStyle": {
-                    "type": "cross",
-                    "color": [
-                        98,
-                        100,
-                        128
+                    [
+                        6.11583333,
+                        43.16277778
                     ],
-                    "size": "medium",
-                    "opacity": 1
-                }
-            },
-            "geometry": {
-                "type": "MultiPoint",
-                "coordinates": [
-                    7.18888889,
-                    43.75
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "NB",
-                "pointStyle": {
-                    "type": "cross",
-                    "color": [
-                        98,
-                        100,
-                        128
+                    [
+                        7.18888889,
+                        43.75
                     ],
-                    "size": "medium",
-                    "opacity": 1
-                }
-            },
-            "geometry": {
-                "type": "MultiPoint",
-                "coordinates": [
-                    7.18666667,
-                    43.6975
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "PF",
-                "pointStyle": {
-                    "type": "cross",
-                    "color": [
-                        98,
-                        100,
-                        128
+                    [
+                        7.18666667,
+                        43.6975
                     ],
-                    "size": "medium",
-                    "opacity": 1
-                }
-            },
-            "geometry": {
-                "type": "MultiPoint",
-                "coordinates": [
-                    7.07777778,
-                    43.53944444
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "PT",
-                "pointStyle": {
-                    "type": "cross",
-                    "color": [
-                        98,
-                        100,
-                        128
+                    [
+                        7.07777778,
+                        43.53944444
                     ],
-                    "size": "medium",
-                    "opacity": 1
-                }
-            },
-            "geometry": {
-                "type": "MultiPoint",
-                "coordinates": [
-                    5.81666667,
-                    43.04166667
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "SA",
-                "pointStyle": {
-                    "type": "cross",
-                    "color": [
-                        98,
-                        100,
-                        128
+                    [
+                        5.81666667,
+                        43.04166667
                     ],
-                    "size": "medium",
-                    "opacity": 1
-                }
-            },
-            "geometry": {
-                "type": "MultiPoint",
-                "coordinates": [
-                    7.04694444,
-                    43.48888889
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "SB",
-                "pointStyle": {
-                    "type": "cross",
-                    "color": [
-                        98,
-                        100,
-                        128
+                    [
+                        7.04694444,
+                        43.48888889
                     ],
-                    "size": "medium",
-                    "opacity": 1
-                }
-            },
-            "geometry": {
-                "type": "MultiPoint",
-                "coordinates": [
-                    7.14511111,
-                    43.53525
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "SV",
-                "pointStyle": {
-                    "type": "cross",
-                    "color": [
-                        98,
-                        100,
-                        128
+                    [
+                        7.14511111,
+                        43.53525
                     ],
-                    "size": "medium",
-                    "opacity": 1
-                }
-            },
-            "geometry": {
-                "type": "MultiPoint",
-                "coordinates": [
-                    7.03166667,
-                    43.5075
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "SW",
-                "pointStyle": {
-                    "type": "cross",
-                    "color": [
-                        98,
-                        100,
-                        128
+                    [
+                        7.03166667,
+                        43.5075
                     ],
-                    "size": "medium",
-                    "opacity": 1
-                }
-            },
-            "geometry": {
-                "type": "MultiPoint",
-                "coordinates": [
-                    6.935,
-                    43.43583333
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "TA",
-                "pointStyle": {
-                    "type": "cross",
-                    "color": [
-                        98,
-                        100,
-                        128
+                    [
+                        6.935,
+                        43.43583333
                     ],
-                    "size": "medium",
-                    "opacity": 1
-                }
-            },
-            "geometry": {
-                "type": "MultiPoint",
-                "coordinates": [
-                    7.00166667,
-                    43.53666667
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "TE",
-                "pointStyle": {
-                    "type": "cross",
-                    "color": [
-                        98,
-                        100,
-                        128
+                    [
+                        7.00166667,
+                        43.53666667
                     ],
-                    "size": "medium",
-                    "opacity": 1
-                }
-            },
-            "geometry": {
-                "type": "MultiPoint",
-                "coordinates": [
-                    7.3025,
-                    43.63719444
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "TS",
-                "pointStyle": {
-                    "type": "cross",
-                    "color": [
-                        98,
-                        100,
-                        128
+                    [
+                        7.3025,
+                        43.63719444
                     ],
-                    "size": "medium",
-                    "opacity": 1
-                }
-            },
-            "geometry": {
-                "type": "MultiPoint",
-                "coordinates": [
-                    7.22783333,
-                    43.58888889
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "VC",
-                "pointStyle": {
-                    "type": "cross",
-                    "color": [
-                        98,
-                        100,
-                        128
+                    [
+                        7.22783333,
+                        43.58888889
                     ],
-                    "size": "medium",
-                    "opacity": 1
-                }
-            },
-            "geometry": {
-                "type": "MultiPoint",
-                "coordinates": [
-                    6.28027778,
-                    43.19166667
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "WA",
-                "pointStyle": {
-                    "type": "cross",
-                    "color": [
-                        98,
-                        100,
-                        128
+                    [
+                        6.28027778,
+                        43.19166667
                     ],
-                    "size": "medium",
-                    "opacity": 1
-                }
-            },
-            "geometry": {
-                "type": "MultiPoint",
-                "coordinates": [
-                    7.14547222,
-                    43.66697222
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "WD",
-                "pointStyle": {
-                    "type": "cross",
-                    "color": [
-                        98,
-                        100,
-                        128
+                    [
+                        7.14547222,
+                        43.66697222
                     ],
-                    "size": "medium",
-                    "opacity": 1
-                }
-            },
-            "geometry": {
-                "type": "MultiPoint",
-                "coordinates": [
-                    6.80666667,
-                    43.52111111
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "WL",
-                "pointStyle": {
-                    "type": "cross",
-                    "color": [
-                        98,
-                        100,
-                        128
+                    [
+                        6.80666667,
+                        43.52111111
                     ],
-                    "size": "medium",
-                    "opacity": 1
-                }
-            },
-            "geometry": {
-                "type": "MultiPoint",
-                "coordinates": [
-                    6.79388889,
-                    43.55388889
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "WN",
-                "pointStyle": {
-                    "type": "cross",
-                    "color": [
-                        98,
-                        100,
-                        128
+                    [
+                        6.79388889,
+                        43.55388889
                     ],
-                    "size": "medium",
-                    "opacity": 1
-                }
-            },
-            "geometry": {
-                "type": "MultiPoint",
-                "coordinates": [
-                    7.19722222,
-                    43.66833333
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "WT",
-                "pointStyle": {
-                    "type": "cross",
-                    "color": [
-                        98,
-                        100,
-                        128
+                    [
+                        7.19722222,
+                        43.66833333
                     ],
-                    "size": "medium",
-                    "opacity": 1
-                }
-            },
-            "geometry": {
-                "type": "MultiPoint",
-                "coordinates": [
-                    5.60444444,
-                    43.14416667
+                    [
+                        5.60444444,
+                        43.14416667
+                    ]
                 ]
             }
         }

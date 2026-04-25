@@ -25,7 +25,6 @@
                 }
             },
             "geometry": {
-                "type": "MultiPolygon",
                 "coordinates": [
                     [
                         [
@@ -546,7 +545,8 @@
                             ]
                         ]
                     ]
-                ]
+                ],
+                "type": "MultiPolygon"
             }
         },
         {
@@ -568,7 +568,6 @@
                 }
             },
             "geometry": {
-                "type": "MultiLineString",
                 "coordinates": [
                     [
                         [
@@ -581,7 +580,31 @@
                             43.42746339795537,
                             0
                         ]
+                    ]
+                ],
+                "type": "MultiLineString"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Nice ILS04 ECL Dot",
+                "lineStyle": {
+                    "color": [
+                        179,
+                        179,
+                        179
                     ],
+                    "width": 0.26,
+                    "opacity": 1,
+                    "dashArray": [
+                        2.5,
+                        2.5
+                    ]
+                }
+            },
+            "geometry": {
+                "coordinates": [
                     [
                         [
                             6.9306427613083645,
@@ -593,7 +616,31 @@
                             43.493599832814446,
                             0
                         ]
+                    ]
+                ],
+                "type": "MultiLineString"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Nice ILS04 ECL Dot",
+                "lineStyle": {
+                    "color": [
+                        179,
+                        179,
+                        179
                     ],
+                    "width": 0.26,
+                    "opacity": 1,
+                    "dashArray": [
+                        2.5,
+                        2.5
+                    ]
+                }
+            },
+            "geometry": {
+                "coordinates": [
                     [
                         [
                             7.004853182254207,
@@ -605,7 +652,31 @@
                             43.61988984341052,
                             0
                         ]
+                    ]
+                ],
+                "type": "MultiLineString"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Nice ILS04 ECL Dot",
+                "lineStyle": {
+                    "color": [
+                        179,
+                        179,
+                        179
                     ],
+                    "width": 0.26,
+                    "opacity": 1,
+                    "dashArray": [
+                        2.5,
+                        2.5
+                    ]
+                }
+            },
+            "geometry": {
+                "coordinates": [
                     [
                         [
                             7.174520488871197,
@@ -618,7 +689,8 @@
                             0
                         ]
                     ]
-                ]
+                ],
+                "type": "MultiLineString"
             }
         },
         {
@@ -637,7 +709,6 @@
                 }
             },
             "geometry": {
-                "type": "MultiLineString",
                 "coordinates": [
                     [
                         [
@@ -650,7 +721,28 @@
                             43.4426942470534,
                             0
                         ]
+                    ]
+                ],
+                "type": "MultiLineString"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Nice ILS04 ECL Solid",
+                "lineStyle": {
+                    "color": [
+                        179,
+                        179,
+                        179
                     ],
+                    "width": 0.26,
+                    "opacity": 1,
+                    "dashArray": null
+                }
+            },
+            "geometry": {
+                "coordinates": [
                     [
                         [
                             6.955313350226763,
@@ -662,7 +754,28 @@
                             43.47067851082668,
                             0
                         ]
+                    ]
+                ],
+                "type": "MultiLineString"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Nice ILS04 ECL Solid",
+                "lineStyle": {
+                    "color": [
+                        179,
+                        179,
+                        179
                     ],
+                    "width": 0.26,
+                    "opacity": 1,
+                    "dashArray": null
+                }
+            },
+            "geometry": {
+                "coordinates": [
                     [
                         [
                             7.032795504929555,
@@ -674,7 +787,28 @@
                             43.51188882510422,
                             0
                         ]
+                    ]
+                ],
+                "type": "MultiLineString"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Nice ILS04 ECL Solid",
+                "lineStyle": {
+                    "color": [
+                        179,
+                        179,
+                        179
                     ],
+                    "width": 0.26,
+                    "opacity": 1,
+                    "dashArray": null
+                }
+            },
+            "geometry": {
+                "coordinates": [
                     [
                         [
                             7.032795504929555,
@@ -687,7 +821,8 @@
                             0
                         ]
                     ]
-                ]
+                ],
+                "type": "MultiLineString"
             }
         },
         {
@@ -702,18 +837,18 @@
                         128
                     ],
                     "size": "medium",
-                    "opacity": 1
+                    "opacity": 0
                 }
             },
             "geometry": {
-                "type": "MultiPoint",
                 "coordinates": [
                     [
                         6.955313350226763,
                         43.47067851082669,
                         0
                     ]
-                ]
+                ],
+                "type": "MultiPoint"
             }
         }
     ]
