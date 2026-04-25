@@ -7,10 +7,12 @@
                 "name": "Nice RNP04 Vectoring Cone",
                 "activation": {
                     "activeRunways": {
-                        "LFMN": [
-                            "04L",
-                            "04R"
-                        ]
+                        "LFMN": {
+                            "arr": [
+                                "04L",
+                                "04R"
+                            ]
+                        }
                     }
                 },
                 "fillStyle": {
@@ -373,10 +375,12 @@
                 "name": "Nice RNP04 ECL Dot",
                 "activation": {
                     "activeRunways": {
-                        "LFMN": [
-                            "04L",
-                            "04R"
-                        ]
+                        "LFMN": {
+                            "arr": [
+                                "04L",
+                                "04R"
+                            ]
+                        }
                     }
                 },
                 "lineStyle": {
@@ -477,10 +481,12 @@
                 "name": "Nice RNP04 ECL Solid",
                 "activation": {
                     "activeRunways": {
-                        "LFMN": [
-                            "04L",
-                            "04R"
-                        ]
+                        "LFMN": {
+                            "arr": [
+                                "04L",
+                                "04R"
+                            ]
+                        }
                     }
                 },
                 "lineStyle": {
@@ -535,10 +541,12 @@
                 "name": "Nice RNP04 Procedure Points",
                 "activation": {
                     "activeRunways": {
-                        "LFMN": [
-                            "04L",
-                            "04R"
-                        ]
+                        "LFMN": {
+                            "arr": [
+                                "04L",
+                                "04R"
+                            ]
+                        }
                     }
                 },
                 "pointStyle": {

@@ -7,10 +7,12 @@
                 "name": "Nice RNP22 Vectoring Cone",
                 "activation": {
                     "activeRunways": {
-                        "LFMN": [
-                            "22L",
-                            "22R"
-                        ]
+                        "LFMN": {
+                            "arr": [
+                                "22L",
+                                "22R"
+                            ]
+                        }
                     }
                 },
                 "fillStyle": {
@@ -438,10 +440,12 @@
                 "name": "Nice RNP22 ECL Dot",
                 "activation": {
                     "activeRunways": {
-                        "LFMN": [
-                            "22L",
-                            "22R"
-                        ]
+                        "LFMN": {
+                            "arr": [
+                                "22L",
+                                "22R"
+                            ]
+                        }
                     }
                 },
                 "lineStyle": {
@@ -551,10 +555,12 @@
                 "name": "Nice RNP22 ECL Solid",
                 "activation": {
                     "activeRunways": {
-                        "LFMN": [
-                            "22L",
-                            "22R"
-                        ]
+                        "LFMN": {
+                            "arr": [
+                                "22L",
+                                "22R"
+                            ]
+                        }
                     }
                 },
                 "lineStyle": {
@@ -609,10 +615,12 @@
                 "name": "Nice RNP22 Procedure Points",
                 "activation": {
                     "activeRunways": {
-                        "LFMN": [
-                            "22L",
-                            "22R"
-                        ]
+                        "LFMN": {
+                            "arr": [
+                                "22L",
+                                "22R"
+                            ]
+                        }
                     }
                 },
                 "pointStyle": {

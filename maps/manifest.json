@@ -34,6 +34,15 @@
     "Carte_EL",
     "0_Fond_EGA"
   ],
+  "LFMN": [
+    "0_CCA_Nice_BaseMap",
+    "1_CCA_Nice_ILS04",
+    "1_CCA_Nice_RNP04",
+    "1_CCA_Nice_RNP22",
+    "2_CCA_Nice_Commons",
+    "3_CCA_Nice_VFR",
+    "4_CCA_Nice_AMSR"
+  ],
   "LFXX": [
     "Coastlines",
     "Coastlines_blue",
