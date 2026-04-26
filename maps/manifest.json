@@ -29,10 +29,17 @@
     "Limites_Secteurs_UIR",
     "Fond_Secteurs"
   ],
-  "LFPG": [
-    "Carte_WL",
-    "Carte_EL",
-    "0_Fond_EGA"
+  "LFLL": [
+    "0_CCA_Lyon_Basemap",
+    "1_CCA_Lyon_Cartes_LS_ILS09",
+    "1_CCA_Lyon_Cartes_LY_RNP16",
+    "1_CCA_Lyon_Cartes_LY_RNP34",
+    "1_CCA_Lyon_Cartes_LL_QFU17",
+    "1_CCA_Lyon_Cartes_LL_QFU35",
+    "1_CCA_Lyon_Cartes_LB_QFU18",
+    "2_CCA_Lyon_Cartes_VFR",
+    "3_CCA_Lyon_Cartes_AMSR_Lyon",
+    "3_CCA_Lyon_Cartes_AMSR_Chambery"
   ],
   "LFMN": [
     "0_CCA_Nice_Basemap",
@@ -42,6 +49,11 @@
     "2_CCA_Nice_Commons",
     "3_CCA_Nice_VFR",
     "4_CCA_Nice_AMSR"
+    ],
+  "LFPG": [
+    "Carte_WL",
+    "Carte_EL",
+    "0_Fond_EGA"
   ],
   "LFXX": [
     "Coastlines",
