@@ -1,3 +1,11 @@
+# CoFrance v2.2.0 Changelog
+
+### Fixes
+- Fixed RMP & FSS sector not detected by the plugin
+- Fixed Window Framing on Tag Filtered out
+- Fixed OCL notification on flight exiting OCA
+
+
 # CoFrance v2.1.9 Changelog
 
 ### Improvements
