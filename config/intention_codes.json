@@ -1,6 +1,6 @@
 {
   "$schema": "https://raw.githubusercontent.com/alexisBalzano/CoFrance-config-files/main/.github/schema/intention_codes.schema.json",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "LFEE_": {
     "arrivals": [
       "LFST",
@@ -431,5 +431,179 @@
       "LFRG",
       "LFOP"
     ]
+  },
+  "LFBB_": {
+    "customCodes": {
+      "FUZAP": {
+        "waypoint": [
+          "FUZAP"
+        ]
+      },
+      "AGN": {
+        "waypoint": [
+          "AGN"
+        ]
+      },
+      "ADIMO": {
+        "waypoint": [
+          "ADIMO"
+        ]
+      },
+      "BOGRO": {
+        "waypoint": [
+          "BOGRO"
+        ]
+      },
+      "ASPET": {
+        "waypoint": [
+          "ASPET"
+        ]
+      },
+      "NARAK": {
+        "waypoint": [
+          "NARAK"
+        ]
+      },
+      "LIBRU": {
+        "waypoint": [
+          "LIBRU"
+        ]
+      },
+      "VAGNA": {
+        "waypoint": [
+          "VAGNA"
+        ]
+      },
+      "DIRAX": {
+        "waypoint": [
+          "DIRAX"
+        ]
+      },
+      "ETPAR": {
+        "waypoint": [
+          "ETPAR"
+        ]
+      },
+      "MAGEC": {
+        "waypoint": [
+          "MAGEC"
+        ]
+      },
+      "SOVOS": {
+        "waypoint": [
+          "SOVOS"
+        ]
+      },
+      "BTZ": {
+        "waypoint": [
+          "BTZ"
+        ]
+      },
+      "PPN": {
+        "waypoint": [
+          "PPN"
+        ]
+      },
+      "PERDU": {
+        "waypoint": [
+          "PERDU"
+        ]
+      },
+      "ANETO": {
+        "waypoint": [
+          "ANETO"
+        ]
+      },
+      "TIVLI": {
+        "waypoint": [
+          "TIVLI"
+        ]
+      },
+      "PUMAL": {
+        "waypoint": [
+          "PUMAL"
+        ]
+      },
+      "IBRAP": {
+        "waypoint": [
+          "IBRAP"
+        ]
+      },
+      "GEANT": {
+        "waypoint": [
+          "GEANT"
+        ]
+      },
+      "ALBER": {
+        "waypoint": [
+          "ALBER"
+        ]
+      },
+      "KANIG": {
+        "waypoint": [
+          "KANIG"
+        ]
+      },
+      "TUPAR": {
+        "waypoint": [
+          "TUPAR"
+        ]
+      },
+      "GALOF": {
+        "waypoint": [
+          "GALOF"
+        ]
+      },
+      "BOKNO": {
+        "waypoint": [
+          "BOKNO"
+        ]
+      },
+      "AMB": {
+        "waypoint": [
+          "AMB"
+        ]
+      },
+      "PEPAX": {
+        "waypoint": [
+          "PEPAX"
+        ]
+      },
+      "POI": {
+        "waypoint": [
+          "POI"
+        ]
+      },
+      "MOU": {
+        "waypoint": [
+          "MOU"
+        ]
+      },
+      "TIS": {
+        "waypoint": [
+          "TIS"
+        ]
+      },
+      "LERGA": {
+        "waypoint": [
+          "LERGA"
+        ]
+      },
+      "TITVA": {
+        "waypoint": [
+          "TITVA"
+        ]
+      },
+      "FJR": {
+        "waypoint": [
+          "FJR"
+        ]
+      },
+      "MANAK": {
+        "waypoint": [
+          "MANAK"
+        ]
+      }
+    }
   }
 }
