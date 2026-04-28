@@ -10,7 +10,7 @@
   "monitoring_zones.geojson_version": "1.0.5",
   "tag_formats.json_version": "1.1.2",
   "predefined_holds.json_version": "1.0.6",
-  "intention_codes.json_version": "1.0.8",
+  "intention_codes.json_version": "1.0.9",
   "views.json_version": "1.0.2",
   "CoFrance-Normal.ttf_version": "1.0.0",
   "CoFrance-Bold.ttf_version": "1.0.0",
