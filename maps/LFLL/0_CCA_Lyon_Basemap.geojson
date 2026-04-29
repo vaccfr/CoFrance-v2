@@ -10879,7 +10879,7 @@
             "properties": {
                 "name": "CCA Lyon FIX Triangle/Circle",
                 "pointStyle": {
-                    "type": "triangle_circle",
+                    "type": "triangle_with_circle_rings",
                     "color": [
                         98,
                         100,
