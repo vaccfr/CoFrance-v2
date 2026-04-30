@@ -2278,7 +2278,7 @@
           }
         },
         {
-          "name": "SATDEP",
+          "name": "S.DEP",
           "conditions": {
             "isDeparture": true,
             "airports": [
@@ -2331,7 +2331,7 @@
           }
         },
         {
-          "name": "SATARR",
+          "name": "S.ARR",
           "conditions": {
             "isArrival": true,
             "airports": [
@@ -2384,7 +2384,7 @@
           }
         },
         {
-          "name": "IFRTRS",
+          "name": "T.IFR",
           "conditions": {
             "isIFR": true
           },
@@ -2400,7 +2400,7 @@
           }
         },
         {
-          "name": "VFRTRS",
+          "name": "T.VFR",
           "conditions": {
             "isVFR": true
           },
