@@ -1,0 +1,59 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ECL RWY29",
+                "activation": {
+                    "activeRunways": {
+                        "LFBD": {
+                            "arr": [
+                                "29"
+                            ]
+                        }
+                    }
+                },
+                "lineStyle": {
+                    "color": [
+                        191,
+                        191,
+                        191
+                    ],
+                    "width": 2,
+                    "opacity": 1,
+                    "dashArray": null
+                }
+            },
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            -0.6998997219999997,
+                            44.825410833
+                        ],
+                        [
+                            -0.00472851506079076,
+                            44.67936892821583
+                        ]
+                    ],
+                    [
+                        [
+                            -0.4085946034465814,
+                            44.790276926990984
+                        ],
+                        [
+                            -0.4522693818013858,
+                            44.77343084670187
+                        ],
+                        [
+                            -0.4287993284910635,
+                            44.74276259504252
+                        ]
+                    ]
+                ]
+            }
+        }
+    ]
+}

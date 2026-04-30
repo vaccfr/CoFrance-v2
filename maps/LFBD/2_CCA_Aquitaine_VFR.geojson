@@ -1,0 +1,473 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "uuid": "Aquitaine VFR Point",
+                "textStyle": {
+                    "color": [
+                        222,
+                        222,
+                        222
+                    ],
+                    "fontFamily": "Arial",
+                    "fontSize": 9,
+                    "fontWeight": 600,
+                    "text": "W"
+                }
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        -1.1461111111,
+                        45.6593055556
+                    ],
+                    [
+                        -1.2136111111,
+                        44.5891666667
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uuid": "Aquitaine VFR Point",
+                "textStyle": {
+                    "color": [
+                        222,
+                        222,
+                        222
+                    ],
+                    "fontFamily": "Arial",
+                    "fontSize": 9,
+                    "fontWeight": 600,
+                    "text": "N"
+                }
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        -0.9725,
+                        45.7088888889
+                    ],
+                    [
+                        -0.7969444444,
+                        45.0288888889
+                    ],
+                    [
+                        -1.1269444444,
+                        44.6033333333
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uuid": "Aquitaine VFR Point",
+                "textStyle": {
+                    "color": [
+                        222,
+                        222,
+                        222
+                    ],
+                    "fontFamily": "Arial",
+                    "fontSize": 9,
+                    "fontWeight": 600,
+                    "text": "NE"
+                }
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        -0.8352777778,
+                        45.6891666667
+                    ],
+                    [
+                        -0.6125,
+                        45.0083333333
+                    ],
+                    [
+                        -1.0483333333,
+                        44.6436111111
+                    ],
+                    [
+                        0.56075,
+                        44.9194166667
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uuid": "Aquitaine VFR Point",
+                "textStyle": {
+                    "color": [
+                        222,
+                        222,
+                        222
+                    ],
+                    "fontFamily": "Arial",
+                    "fontSize": 9,
+                    "fontWeight": 600,
+                    "text": "SE"
+                }
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        -0.815,
+                        45.5958333333
+                    ],
+                    [
+                        -0.5041666667,
+                        44.7458333333
+                    ],
+                    [
+                        0.6071944444,
+                        44.7303055556
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uuid": "Aquitaine VFR Point",
+                "textStyle": {
+                    "color": [
+                        222,
+                        222,
+                        222
+                    ],
+                    "fontFamily": "Arial",
+                    "fontSize": 9,
+                    "fontWeight": 600,
+                    "text": "S"
+                }
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        -0.9922222222,
+                        45.5772222222
+                    ],
+                    [
+                        -0.6902777778,
+                        44.7166666667
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uuid": "Aquitaine VFR Point",
+                "textStyle": {
+                    "color": [
+                        222,
+                        222,
+                        222
+                    ],
+                    "fontFamily": "Arial",
+                    "fontSize": 9,
+                    "fontWeight": 600,
+                    "text": "NW"
+                }
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        -0.8808333333,
+                        44.9755555556
+                    ],
+                    [
+                        0.4303611111,
+                        44.93125
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uuid": "Aquitaine VFR Point",
+                "textStyle": {
+                    "color": [
+                        222,
+                        222,
+                        222
+                    ],
+                    "fontFamily": "Arial",
+                    "fontSize": 9,
+                    "fontWeight": 600,
+                    "text": "NA"
+                }
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        -0.7472222222,
+                        44.9075
+                    ],
+                    [
+                        0.5486666667,
+                        44.8754444444
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uuid": "Aquitaine VFR Point",
+                "textStyle": {
+                    "color": [
+                        222,
+                        222,
+                        222
+                    ],
+                    "fontFamily": "Arial",
+                    "fontSize": 9,
+                    "fontWeight": 600,
+                    "text": "EA"
+                }
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        -0.6688888889,
+                        44.8936111111
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uuid": "Aquitaine VFR Point",
+                "textStyle": {
+                    "color": [
+                        222,
+                        222,
+                        222
+                    ],
+                    "fontFamily": "Arial",
+                    "fontSize": 9,
+                    "fontWeight": 600,
+                    "text": "SW"
+                }
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        -0.77,
+                        44.7041666667
+                    ],
+                    [
+                        0.3964166667,
+                        44.6676944444
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uuid": "Aquitaine VFR Point",
+                "textStyle": {
+                    "color": [
+                        222,
+                        222,
+                        222
+                    ],
+                    "fontFamily": "Arial",
+                    "fontSize": 9,
+                    "fontWeight": 600,
+                    "text": "SA"
+                }
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        -0.6916666667,
+                        44.775
+                    ],
+                    [
+                        0.5218611111,
+                        44.7751944444
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uuid": "Aquitaine VFR Point",
+                "textStyle": {
+                    "color": [
+                        222,
+                        222,
+                        222
+                    ],
+                    "fontFamily": "Arial",
+                    "fontSize": 9,
+                    "fontWeight": 600,
+                    "text": "OA"
+                }
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        -0.7711111111,
+                        44.7697222222
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uuid": "Aquitaine VFR Point",
+                "textStyle": {
+                    "color": [
+                        222,
+                        222,
+                        222
+                    ],
+                    "fontFamily": "Arial",
+                    "fontSize": 9,
+                    "fontWeight": 600,
+                    "text": "E"
+                }
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        -1.0055555556,
+                        44.6333333333
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uuid": "Aquitaine VFR Point",
+                "textStyle": {
+                    "color": [
+                        222,
+                        222,
+                        222
+                    ],
+                    "fontFamily": "Arial",
+                    "fontSize": 9,
+                    "fontWeight": 600,
+                    "text": "P"
+                }
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        -1.2305555556,
+                        44.5680555556
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uuid": "Aquitaine VFR Point",
+                "textStyle": {
+                    "color": [
+                        222,
+                        222,
+                        222
+                    ],
+                    "fontFamily": "Arial",
+                    "fontSize": 9,
+                    "fontWeight": 600,
+                    "text": "SD"
+                }
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        -1.2233333333,
+                        44.5730555556
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uuid": "Aquitaine VFR Point",
+                "textStyle": {
+                    "color": [
+                        222,
+                        222,
+                        222
+                    ],
+                    "fontFamily": "Arial",
+                    "fontSize": 9,
+                    "fontWeight": 600,
+                    "text": "O2"
+                }
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        -1.225,
+                        44.45
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uuid": "Aquitaine VFR Point",
+                "textStyle": {
+                    "color": [
+                        222,
+                        222,
+                        222
+                    ],
+                    "fontFamily": "Arial",
+                    "fontSize": 9,
+                    "fontWeight": 600,
+                    "text": "OS"
+                }
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        -1.15,
+                        44.4166666667
+                    ]
+                ]
+            }
+        }
+    ]
+}
