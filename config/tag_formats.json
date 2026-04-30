@@ -2478,7 +2478,210 @@
             "track_symbol_fill": false,
             "history_trail_symbol": "dots",
             "track_symbol_subtext": "",
+            "foreground_color": "#ffff00",
+            "background_color": "#737300"
+          }
+        },
+        {
+          "name": "IFR",
+          "conditions": {
+            "isVFR": false
+          },
+          "priority": 6,
+          "filtered": true,
+          "style": {
+            "field_highlight_color": "#BDA5D7",
+            "hovered_field_color": "#6A6A6A",
+            "draw_detailed_background": false,
+            "draw_hovered_field": true,
+            "track_symbol": "triangle",
+            "track_symbol_fill": false,
+            "history_trail_symbol": "dots",
+            "track_symbol_subtext": "",
             "foreground_color": "#cfcf00",
+            "background_color": "#737300"
+          }
+        },
+        {
+          "name": "VFR",
+          "conditions": {
+            "isVFR": true
+          },
+          "priority": 6,
+          "filtered": true,
+          "style": {
+            "field_highlight_color": "#BDA5D7",
+            "hovered_field_color": "#6A6A6A",
+            "draw_detailed_background": false,
+            "draw_hovered_field": true,
+            "track_symbol": "triangle",
+            "track_symbol_fill": false,
+            "history_trail_symbol": "dots",
+            "track_symbol_subtext": "",
+            "foreground_color": "#cfcf00",
+            "background_color": "#737300"
+          }
+        }
+      ]
+    },
+    {
+      "name": "IRMA Limoges",
+      "rules": [
+        {
+          "name": "DEP",
+          "conditions": {
+            "isDeparture": true,
+            "airports": [
+              "LF**"
+            ]
+          },
+          "priority": 1,
+          "filtered": false,
+          "style": {
+            "track_symbol": "triangle",
+            "track_symbol_fill": false,
+            "history_trail_symbol": "dots",
+            "track_symbol_subtext": "",
+            "foreground_color": "#cfcf00",
+            "background_color": "#737300"
+          },
+          "taglayouts": {
+            "extended_layout": [
+              "vspace",
+              "modeshdg",
+              "modesspd",
+              "modesmach",
+              "modessfl",
+              "\n",
+              "vspace",
+              "adep",
+              "ades",
+              "deprwy",
+              "sid",
+              "\n",
+              "cr",
+              "align_right",
+              "nsfreq",
+              "\n",
+              "optext",
+              "align_right",
+              "afk",
+              "\n",
+              "vspace",
+              "traj",
+              "info",
+              "id",
+              "misc"
+            ]
+          }
+        },
+        {
+          "name": "ARR",
+          "conditions": {
+            "isArrival": true,
+            "airports": [
+              "LF**"
+            ]
+          },
+          "priority": 1,
+          "filtered": false,
+          "style": {
+            "track_symbol": "triangle",
+            "track_symbol_fill": false,
+            "history_trail_symbol": "dots",
+            "track_symbol_subtext": "",
+            "foreground_color": "#cfcf00",
+            "background_color": "#737300"
+          },
+          "taglayouts": {
+            "tag_layout": [
+              "gs",
+              "aspd",
+              "scratchpad",
+              "vz",
+              "atyp",
+              "hold",
+              "eat",
+              "coordination",
+              "notification",
+              "sequence",
+              "lost",
+              "stca",
+              "tct",
+              "\n",
+              "contact_flag",
+              "callsign",
+              "cpdlc_flag",
+              "comms",
+              "sector",
+              "rfl",
+              "group",
+              "\n",
+              "afl",
+              "tendency",
+              "cfl",
+              "wpt",
+              "ahdg",
+              "\n",
+              "xfl",
+              "hfl",
+              "copx",
+              "intention",
+              "arrrwy",
+              "\n",
+              "cpdlc_rqst",
+              "cpdlc_rqst_number"
+            ],
+            "extended_layout": [
+              "vspace",
+              "modeshdg",
+              "modesspd",
+              "modesmach",
+              "modessfl",
+              "\n",
+              "vspace",
+              "adep",
+              "ades",
+              "trans",
+              "arrrwy",
+              "\n",
+              "cr",
+              "align_right",
+              "nsfreq",
+              "\n",
+              "optext",
+              "align_right",
+              "afk",
+              "\n",
+              "vspace",
+              "traj",
+              "info",
+              "id",
+              "misc"
+            ]
+          }
+        },
+        {
+          "name": "IFR",
+          "conditions": {
+            "isVFR": false,
+            "flightstate": [
+              "assumed",
+              "transferredout"
+            ]
+          },
+          "priority": 5,
+          "filtered": true,
+          "style": {
+            "field_highlight_color": "#BDA5D7",
+            "hovered_field_color": "#6A6A6A",
+            "draw_detailed_background": false,
+            "draw_hovered_field": true,
+            "track_symbol": "triangle",
+            "track_symbol_fill": false,
+            "history_trail_symbol": "dots",
+            "track_symbol_subtext": "",
+            "foreground_color": "#ffff00",
             "background_color": "#737300"
           }
         },

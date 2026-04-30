@@ -1,0 +1,323 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "uuid": "Limoges VFR Point",
+                "textStyle": {
+                    "color": [
+                        146,
+                        138,
+                        142
+                    ],
+                    "fontFamily": "Arial",
+                    "fontSize": 14,
+                    "fontWeight": 600,
+                    "text": "NW"
+                }
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        0.1925,
+                        45.810556
+                    ],
+                    [
+                        1.033333,
+                        45.933333
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uuid": "Limoges VFR Point",
+                "textStyle": {
+                    "color": [
+                        146,
+                        138,
+                        142
+                    ],
+                    "fontFamily": "Arial",
+                    "fontSize": 14,
+                    "fontWeight": 600,
+                    "text": "NA"
+                }
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        0.192222,
+                        45.7775
+                    ],
+                    [
+                        1.52,
+                        45.098611
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uuid": "Limoges VFR Point",
+                "textStyle": {
+                    "color": [
+                        146,
+                        138,
+                        142
+                    ],
+                    "fontFamily": "Arial",
+                    "fontSize": 14,
+                    "fontWeight": 600,
+                    "text": "NE"
+                }
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        0.293611,
+                        45.793611
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uuid": "Limoges VFR Point",
+                "textStyle": {
+                    "color": [
+                        146,
+                        138,
+                        142
+                    ],
+                    "fontFamily": "Arial",
+                    "fontSize": 14,
+                    "fontWeight": 600,
+                    "text": "SE"
+                }
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        0.264722,
+                        45.7025
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uuid": "Limoges VFR Point",
+                "textStyle": {
+                    "color": [
+                        146,
+                        138,
+                        142
+                    ],
+                    "fontFamily": "Arial",
+                    "fontSize": 14,
+                    "fontWeight": 600,
+                    "text": "S"
+                }
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        0.259444,
+                        45.661111
+                    ],
+                    [
+                        1.277778,
+                        45.755556
+                    ],
+                    [
+                        1.501111,
+                        44.901667
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uuid": "Limoges VFR Point",
+                "textStyle": {
+                    "color": [
+                        146,
+                        138,
+                        142
+                    ],
+                    "fontFamily": "Arial",
+                    "fontSize": 14,
+                    "fontWeight": 600,
+                    "text": "SA"
+                }
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        0.150833,
+                        45.691944
+                    ],
+                    [
+                        1.239444,
+                        45.766667
+                    ],
+                    [
+                        1.526667,
+                        44.990556
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uuid": "Limoges VFR Point",
+                "textStyle": {
+                    "color": [
+                        146,
+                        138,
+                        142
+                    ],
+                    "fontFamily": "Arial",
+                    "fontSize": 14,
+                    "fontWeight": 600,
+                    "text": "W"
+                }
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        1.016667,
+                        45.883333
+                    ],
+                    [
+                        1.326944,
+                        44.975
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uuid": "Limoges VFR Point",
+                "textStyle": {
+                    "color": [
+                        146,
+                        138,
+                        142
+                    ],
+                    "fontFamily": "Arial",
+                    "fontSize": 14,
+                    "fontWeight": 600,
+                    "text": "WA"
+                }
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        1.083333,
+                        45.866667
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uuid": "Limoges VFR Point",
+                "textStyle": {
+                    "color": [
+                        146,
+                        138,
+                        142
+                    ],
+                    "fontFamily": "Arial",
+                    "fontSize": 14,
+                    "fontWeight": 600,
+                    "text": "E"
+                }
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        1.4,
+                        45.883333
+                    ],
+                    [
+                        1.608889,
+                        44.936944
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uuid": "Limoges VFR Point",
+                "textStyle": {
+                    "color": [
+                        146,
+                        138,
+                        142
+                    ],
+                    "fontFamily": "Arial",
+                    "fontSize": 14,
+                    "fontWeight": 600,
+                    "text": "EA"
+                }
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        1.293889,
+                        45.895
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uuid": "Limoges VFR Point",
+                "textStyle": {
+                    "color": [
+                        146,
+                        138,
+                        142
+                    ],
+                    "fontFamily": "Arial",
+                    "fontSize": 14,
+                    "fontWeight": 600,
+                    "text": "N"
+                }
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        1.485278,
+                        45.147222
+                    ]
+                ]
+            }
+        }
+    ]
+}

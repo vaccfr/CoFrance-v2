@@ -39,10 +39,25 @@
     "2_CCA_Aquitaine_VFR",
     "3_CCA_Aquitaine_AMG"
   ],
+  "LFBH": [
+    "0_CCA_La_Rochelle",
+    "1_CCA_La_Rochelle_VFR",
+    "2_CCA_La_Rochelle_AMSR"
+  ],
+  "LFBL": [
+    "0_CCA_Limoges",
+    "1_CCA_Limoges_VFR",
+    "2_CCA_Limoges_MVA"
+  ],
   "LFBO": [
-    "0_CCA_Toulouse_Basemap",
+    "0_CCA_Toulouse",
     "1_CCA_Toulouse_VFR",
     "2_CCA_Toulouse_AMSR"
+  ],
+  "LFBZ": [
+    "0_CCA_Biarritz",
+    "1_CCA_Biarritz_VFR",
+    "2_CCA_Biarritz_MVA"
   ],
   "LFPG": [
     "Carte_WL",
@@ -50,13 +65,13 @@
     "0_Fond_EGA"
   ],
   "LFMN": [
-    "0_CCA_Nice_Basemap",
-    "1_CCA_Nice_ILS04",
-    "1_CCA_Nice_RNP04",
-    "1_CCA_Nice_RNP22",
+    "0_CCA_Nice",
+    "1_CCA_Nice_QFU04_ILS",
+    "1_CCA_Nice_QFU04_RNP",
+    "1_CCA_Nice_QFU22_RNP",
     "2_CCA_Nice_Commons",
     "3_CCA_Nice_VFR",
-    "4_CCA_Nice_AMSR"
+    "4_CCA_Nice_AMG"
   ],
   "LFXX": [
     "Coastlines",
