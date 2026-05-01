@@ -1,0 +1,255 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "uuid": "Poitiers VFR Point",
+                "textStyle": {
+                    "color": [
+                        146,
+                        138,
+                        142
+                    ],
+                    "fontFamily": "Arial",
+                    "fontSize": 14,
+                    "fontWeight": 600,
+                    "text": "N"
+                }
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        0.266667,
+                        46.704167
+                    ],
+                    [
+                        1.6,
+                        46.972778
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uuid": "Poitiers VFR Point",
+                "textStyle": {
+                    "color": [
+                        146,
+                        138,
+                        142
+                    ],
+                    "fontFamily": "Arial",
+                    "fontSize": 14,
+                    "fontWeight": 600,
+                    "text": "E"
+                }
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        0.500556,
+                        46.558889
+                    ],
+                    [
+                        1.866667,
+                        46.831111
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uuid": "Poitiers VFR Point",
+                "textStyle": {
+                    "color": [
+                        146,
+                        138,
+                        142
+                    ],
+                    "fontFamily": "Arial",
+                    "fontSize": 14,
+                    "fontWeight": 600,
+                    "text": "EA"
+                }
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        0.394444,
+                        46.591667
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uuid": "Poitiers VFR Point",
+                "textStyle": {
+                    "color": [
+                        146,
+                        138,
+                        142
+                    ],
+                    "fontFamily": "Arial",
+                    "fontSize": 14,
+                    "fontWeight": 600,
+                    "text": "W"
+                }
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        0.170278,
+                        46.646667
+                    ],
+                    [
+                        1.530278,
+                        46.850556
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uuid": "Poitiers VFR Point",
+                "textStyle": {
+                    "color": [
+                        146,
+                        138,
+                        142
+                    ],
+                    "fontFamily": "Arial",
+                    "fontSize": 14,
+                    "fontWeight": 600,
+                    "text": "WA"
+                }
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        0.264167,
+                        46.628611
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uuid": "Poitiers VFR Point",
+                "textStyle": {
+                    "color": [
+                        146,
+                        138,
+                        142
+                    ],
+                    "fontFamily": "Arial",
+                    "fontSize": 14,
+                    "fontWeight": 600,
+                    "text": "S"
+                }
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        0.269444,
+                        46.448611
+                    ],
+                    [
+                        1.583333,
+                        46.699444
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uuid": "Poitiers VFR Point",
+                "textStyle": {
+                    "color": [
+                        146,
+                        138,
+                        142
+                    ],
+                    "fontFamily": "Arial",
+                    "fontSize": 14,
+                    "fontWeight": 600,
+                    "text": "SE"
+                }
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        1.830556,
+                        46.741667
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uuid": "Poitiers VFR Point",
+                "textStyle": {
+                    "color": [
+                        146,
+                        138,
+                        142
+                    ],
+                    "fontFamily": "Arial",
+                    "fontSize": 14,
+                    "fontWeight": 600,
+                    "text": "NE"
+                }
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        1.948611,
+                        46.940278
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uuid": "Poitiers VFR Point",
+                "textStyle": {
+                    "color": [
+                        146,
+                        138,
+                        142
+                    ],
+                    "fontFamily": "Arial",
+                    "fontSize": 14,
+                    "fontWeight": 600,
+                    "text": "NW"
+                }
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        1.598611,
+                        46.914722
+                    ]
+                ]
+            }
+        }
+    ]
+}

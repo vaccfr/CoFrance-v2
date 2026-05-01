@@ -44,6 +44,11 @@
     "1_CCA_La_Rochelle_VFR",
     "2_CCA_La_Rochelle_AMSR"
   ],
+  "LFBI": [
+    "0_CCA_Poitiers",
+    "1_CCA_Poitiers_VFR",
+    "2_CCA_Poitiers_AMSR"
+  ],
   "LFBL": [
     "0_CCA_Limoges",
     "1_CCA_Limoges_VFR",
