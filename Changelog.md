@@ -1,3 +1,33 @@
+# CoFrance v2.2.1 Changelog
+
+### Improvements
+- Replaced VA button via CL button in CFL popup
+- Improved window hiding when changing focus
+- Potential fix to ECFMP API errors
+- Left click on sequence number now opens sequence popup
+- Improved CoFrance_Preference.toml not found error message
+- Clicking Flight in list now selects it in euroscope
+
+### Additions
+- Added LOC/FTRK option in AHDG popup
+- Added possibilty to release tag without cleaning using modifier key
+- Added STCA Alert sound
+- Added Coordination Accepted/Refused notification
+- Added Waypoint lists
+- Added Ctrl+C, Ctrl+X, Ctrl+V support in edit boxes
+- Added new maps symbols
+
+### Fixes
+- Fixed CTD hazard on incomplete FP Window submit
+- Fixed CTD when closing departure list
+- Fixed AHDG popup width
+- Fixed right click detection
+- Fixed CoFrance Windows reappearing on AVISO when refocusing Euroscope
+- Fixed Combo box not being scrollable
+- Fixed crash hazard when opening man trf popup on no flightplan flight
+- Fixed tooltip flickering across draw calls
+
+
 # CoFrance v2.2.0 Changelog
 
 ### Fixes
