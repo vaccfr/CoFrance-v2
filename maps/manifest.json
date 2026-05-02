@@ -69,6 +69,11 @@
     "Carte_EL",
     "0_Fond_EGA"
   ],
+  "LFRN": [
+    "0_CCA_Rennes",
+    "1_CCA_Rennes_VFR",
+    "2_CCA_Rennes_MVA"
+  ],
   "LFMN": [
     "0_CCA_Nice",
     "1_CCA_Nice_QFU04_ILS",

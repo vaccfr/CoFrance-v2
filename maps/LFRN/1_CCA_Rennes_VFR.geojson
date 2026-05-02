@@ -1,0 +1,605 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "uuid": "Rennes VFR Point",
+                "textStyle": {
+                    "color": [
+                        110,
+                        119,
+                        103
+                    ],
+                    "fontFamily": "Arial",
+                    "fontSize": 14,
+                    "fontWeight": 600,
+                    "text": "NE"
+                }
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        -1.650278,
+                        48.185556
+                    ],
+                    [
+                        -1.843056,
+                        48.711389
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uuid": "Rennes VFR Point",
+                "textStyle": {
+                    "color": [
+                        110,
+                        119,
+                        103
+                    ],
+                    "fontFamily": "Arial",
+                    "fontSize": 14,
+                    "fontWeight": 600,
+                    "text": "SE"
+                }
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        -1.584444,
+                        47.981944
+                    ],
+                    [
+                        -2.001667,
+                        48.491389
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uuid": "Rennes VFR Point",
+                "textStyle": {
+                    "color": [
+                        110,
+                        119,
+                        103
+                    ],
+                    "fontFamily": "Arial",
+                    "fontSize": 14,
+                    "fontWeight": 600,
+                    "text": "S"
+                }
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        -1.743889,
+                        48.023056
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uuid": "Rennes VFR Point",
+                "textStyle": {
+                    "color": [
+                        110,
+                        119,
+                        103
+                    ],
+                    "fontFamily": "Arial",
+                    "fontSize": 14,
+                    "fontWeight": 600,
+                    "text": "SW"
+                }
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        -1.795278,
+                        47.969722
+                    ],
+                    [
+                        -2.232778,
+                        48.521944
+                    ],
+                    [
+                        -0.641389,
+                        49.078056
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uuid": "Rennes VFR Point",
+                "textStyle": {
+                    "color": [
+                        110,
+                        119,
+                        103
+                    ],
+                    "fontFamily": "Arial",
+                    "fontSize": 14,
+                    "fontWeight": 600,
+                    "text": "NW"
+                }
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        -1.830833,
+                        48.157778
+                    ],
+                    [
+                        -2.319167,
+                        48.687778
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uuid": "Rennes VFR Point",
+                "textStyle": {
+                    "color": [
+                        110,
+                        119,
+                        103
+                    ],
+                    "fontFamily": "Arial",
+                    "fontSize": 14,
+                    "fontWeight": 600,
+                    "text": "N"
+                }
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        -1.758333,
+                        48.125
+                    ],
+                    [
+                        -2.072222,
+                        48.676944
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uuid": "Rennes VFR Point",
+                "textStyle": {
+                    "color": [
+                        110,
+                        119,
+                        103
+                    ],
+                    "fontFamily": "Arial",
+                    "fontSize": 14,
+                    "fontWeight": 600,
+                    "text": "E"
+                }
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        -1.566667,
+                        48.116667
+                    ],
+                    [
+                        -1.973056,
+                        48.536944
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uuid": "Rennes VFR Point",
+                "textStyle": {
+                    "color": [
+                        110,
+                        119,
+                        103
+                    ],
+                    "fontFamily": "Arial",
+                    "fontSize": 14,
+                    "fontWeight": 600,
+                    "text": "NB"
+                }
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        -2.025833,
+                        48.618889
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uuid": "Rennes VFR Point",
+                "textStyle": {
+                    "color": [
+                        110,
+                        119,
+                        103
+                    ],
+                    "fontFamily": "Arial",
+                    "fontSize": 14,
+                    "fontWeight": 600,
+                    "text": "WJ"
+                }
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        -2.214722,
+                        48.5725
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uuid": "Rennes VFR Point",
+                "textStyle": {
+                    "color": [
+                        110,
+                        119,
+                        103
+                    ],
+                    "fontFamily": "Arial",
+                    "fontSize": 14,
+                    "fontWeight": 600,
+                    "text": "EK"
+                }
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        -0.275556,
+                        49.223889
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uuid": "Rennes VFR Point",
+                "textStyle": {
+                    "color": [
+                        110,
+                        119,
+                        103
+                    ],
+                    "fontFamily": "Arial",
+                    "fontSize": 14,
+                    "fontWeight": 600,
+                    "text": "EY"
+                }
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        -0.253889,
+                        49.140833
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uuid": "Rennes VFR Point",
+                "textStyle": {
+                    "color": [
+                        110,
+                        119,
+                        103
+                    ],
+                    "fontFamily": "Arial",
+                    "fontSize": 14,
+                    "fontWeight": 600,
+                    "text": "NK"
+                }
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        -0.403333,
+                        49.211944
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uuid": "Rennes VFR Point",
+                "textStyle": {
+                    "color": [
+                        110,
+                        119,
+                        103
+                    ],
+                    "fontFamily": "Arial",
+                    "fontSize": 14,
+                    "fontWeight": 600,
+                    "text": "SC"
+                }
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        -0.512222,
+                        49.099167
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uuid": "Rennes VFR Point",
+                "textStyle": {
+                    "color": [
+                        110,
+                        119,
+                        103
+                    ],
+                    "fontFamily": "Arial",
+                    "fontSize": 14,
+                    "fontWeight": 600,
+                    "text": "SK"
+                }
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        -0.492222,
+                        48.993889
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uuid": "Rennes VFR Point",
+                "textStyle": {
+                    "color": [
+                        110,
+                        119,
+                        103
+                    ],
+                    "fontFamily": "Arial",
+                    "fontSize": 14,
+                    "fontWeight": 600,
+                    "text": "W"
+                }
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        -0.864444,
+                        49.193611
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uuid": "Rennes VFR Point",
+                "textStyle": {
+                    "color": [
+                        110,
+                        119,
+                        103
+                    ],
+                    "fontFamily": "Arial",
+                    "fontSize": 14,
+                    "fontWeight": 600,
+                    "text": "ED"
+                }
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        0.2725,
+                        49.436667
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uuid": "Rennes VFR Point",
+                "textStyle": {
+                    "color": [
+                        110,
+                        119,
+                        103
+                    ],
+                    "fontFamily": "Arial",
+                    "fontSize": 14,
+                    "fontWeight": 600,
+                    "text": "SD"
+                }
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        0.199167,
+                        49.275
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uuid": "Rennes VFR Point",
+                "textStyle": {
+                    "color": [
+                        110,
+                        119,
+                        103
+                    ],
+                    "fontFamily": "Arial",
+                    "fontSize": 14,
+                    "fontWeight": 600,
+                    "text": "WD"
+                }
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        0.045,
+                        49.339167
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uuid": "Rennes VFR Point",
+                "textStyle": {
+                    "color": [
+                        110,
+                        119,
+                        103
+                    ],
+                    "fontFamily": "Arial",
+                    "fontSize": 14,
+                    "fontWeight": 600,
+                    "text": "EG"
+                }
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        0.490556,
+                        49.360833
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uuid": "Rennes VFR Point",
+                "textStyle": {
+                    "color": [
+                        110,
+                        119,
+                        103
+                    ],
+                    "fontFamily": "Arial",
+                    "fontSize": 14,
+                    "fontWeight": 600,
+                    "text": "SG"
+                }
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        0.216111,
+                        49.214722
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uuid": "Rennes VFR Point",
+                "textStyle": {
+                    "color": [
+                        110,
+                        119,
+                        103
+                    ],
+                    "fontFamily": "Arial",
+                    "fontSize": 14,
+                    "fontWeight": 600,
+                    "text": "WG"
+                }
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        -0.102222,
+                        49.285556
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uuid": "Rennes VFR Point",
+                "textStyle": {
+                    "color": [
+                        110,
+                        119,
+                        103
+                    ],
+                    "fontFamily": "Arial",
+                    "fontSize": 14,
+                    "fontWeight": 600,
+                    "text": "NG"
+                }
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        0.372778,
+                        49.439167
+                    ]
+                ]
+            }
+        }
+    ]
+}
