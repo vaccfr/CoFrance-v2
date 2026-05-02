@@ -1,3 +1,13 @@
+# CoFrance v2.2.2 Changelog
+
+### Improvements
+- Selecting flight in list now update dynamic DyP flight
+- STCA Alert sound now defaults to false
+
+### Fixes
+- Fixed CTD on AVISOs
+
+
 # CoFrance v2.2.1 Changelog
 
 ### Improvements
