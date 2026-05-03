@@ -4,12 +4,12 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Chambery AMSR",
+                "name": "Chambery MVA",
                 "lineStyle": {
                     "color": [
-                        68,
-                        105,
-                        99
+                        232,
+                        124,
+                        0
                     ],
                     "width": 2.5,
                     "opacity": 1,
@@ -703,12 +703,12 @@
         {
             "type": "Feature",
             "properties": {
-                "uuid": "Chambery AMSR Altitudes",
+                "uuid": "Chambery MVA Altitudes",
                 "textStyle": {
                     "color": [
-                        68,
-                        105,
-                        99
+                        232,
+                        124,
+                        0
                     ],
                     "fontFamily": "Arial",
                     "fontSize": 18,
@@ -729,12 +729,12 @@
         {
             "type": "Feature",
             "properties": {
-                "uuid": "Chambery AMSR Altitudes",
+                "uuid": "Chambery MVA Altitudes",
                 "textStyle": {
                     "color": [
-                        68,
-                        105,
-                        99
+                        232,
+                        124,
+                        0
                     ],
                     "fontFamily": "Arial",
                     "fontSize": 18,
@@ -755,12 +755,12 @@
         {
             "type": "Feature",
             "properties": {
-                "uuid": "Chambery AMSR Altitudes",
+                "uuid": "Chambery MVA Altitudes",
                 "textStyle": {
                     "color": [
-                        68,
-                        105,
-                        99
+                        232,
+                        124,
+                        0
                     ],
                     "fontFamily": "Arial",
                     "fontSize": 18,
@@ -781,12 +781,12 @@
         {
             "type": "Feature",
             "properties": {
-                "uuid": "Chambery AMSR Altitudes",
+                "uuid": "Chambery MVA Altitudes",
                 "textStyle": {
                     "color": [
-                        68,
-                        105,
-                        99
+                        232,
+                        124,
+                        0
                     ],
                     "fontFamily": "Arial",
                     "fontSize": 18,
@@ -807,12 +807,12 @@
         {
             "type": "Feature",
             "properties": {
-                "uuid": "Chambery AMSR Altitudes",
+                "uuid": "Chambery MVA Altitudes",
                 "textStyle": {
                     "color": [
-                        68,
-                        105,
-                        99
+                        232,
+                        124,
+                        0
                     ],
                     "fontFamily": "Arial",
                     "fontSize": 18,
@@ -833,12 +833,12 @@
         {
             "type": "Feature",
             "properties": {
-                "uuid": "Chambery AMSR Altitudes",
+                "uuid": "Chambery MVA Altitudes",
                 "textStyle": {
                     "color": [
-                        68,
-                        105,
-                        99
+                        232,
+                        124,
+                        0
                     ],
                     "fontFamily": "Arial",
                     "fontSize": 18,

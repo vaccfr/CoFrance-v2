@@ -54,6 +54,12 @@
     "1_CCA_Toulouse_VFR",
     "2_CCA_Toulouse_AMSR"
   ],
+  "LFLL": [
+    "0_CCA_Lyon",
+    "1_CCA_Lyon_VFR",
+    "2_CCA_Lyon_AMSR_Lyon",
+    "2_CCA_Lyon_MVA_Chambery"
+  ],
   "LFBZ": [
     "0_CCA_Biarritz",
     "1_CCA_Biarritz_VFR",

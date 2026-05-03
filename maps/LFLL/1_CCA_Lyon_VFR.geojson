@@ -1,0 +1,833 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "uuid": "Lyon VFR Point",
+                "textStyle": {
+                    "color": [
+                        140,
+                        153,
+                        130
+                    ],
+                    "fontFamily": "Arial",
+                    "fontSize": 12,
+                    "fontWeight": 600,
+                    "text": "N"
+                }
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        4.801111,
+                        45.891944
+                    ],
+                    [
+                        6.107222,
+                        46.034444
+                    ],
+                    [
+                        5.2975,
+                        45.468889
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uuid": "Lyon VFR Point",
+                "textStyle": {
+                    "color": [
+                        140,
+                        153,
+                        130
+                    ],
+                    "fontFamily": "Arial",
+                    "fontSize": 12,
+                    "fontWeight": 600,
+                    "text": "NA"
+                }
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        4.913333,
+                        45.856944
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uuid": "Lyon VFR Point",
+                "textStyle": {
+                    "color": [
+                        140,
+                        153,
+                        130
+                    ],
+                    "fontFamily": "Arial",
+                    "fontSize": 12,
+                    "fontWeight": 600,
+                    "text": "NW"
+                }
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        4.833333,
+                        45.845
+                    ],
+                    [
+                        6.033333,
+                        45.966667
+                    ],
+                    [
+                        5.0325,
+                        45.445
+                    ],
+                    [
+                        4.876667,
+                        44.998611
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uuid": "Lyon VFR Point",
+                "textStyle": {
+                    "color": [
+                        140,
+                        153,
+                        130
+                    ],
+                    "fontFamily": "Arial",
+                    "fontSize": 12,
+                    "fontWeight": 600,
+                    "text": "S"
+                }
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        4.796667,
+                        45.589722
+                    ],
+                    [
+                        5.246389,
+                        45.251667
+                    ],
+                    [
+                        4.826389,
+                        44.776111
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uuid": "Lyon VFR Point",
+                "textStyle": {
+                    "color": [
+                        140,
+                        153,
+                        130
+                    ],
+                    "fontFamily": "Arial",
+                    "fontSize": 12,
+                    "fontWeight": 600,
+                    "text": "SA"
+                }
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        4.840556,
+                        45.649722
+                    ],
+                    [
+                        4.871667,
+                        44.873889
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uuid": "Lyon VFR Point",
+                "textStyle": {
+                    "color": [
+                        140,
+                        153,
+                        130
+                    ],
+                    "fontFamily": "Arial",
+                    "fontSize": 12,
+                    "fontWeight": 600,
+                    "text": "MS"
+                }
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        5.023333,
+                        45.723333
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uuid": "Lyon VFR Point",
+                "textStyle": {
+                    "color": [
+                        140,
+                        153,
+                        130
+                    ],
+                    "fontFamily": "Arial",
+                    "fontSize": 12,
+                    "fontWeight": 600,
+                    "text": "TW"
+                }
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        5.070556,
+                        45.717
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uuid": "Lyon VFR Point",
+                "textStyle": {
+                    "color": [
+                        140,
+                        153,
+                        130
+                    ],
+                    "fontFamily": "Arial",
+                    "fontSize": 12,
+                    "fontWeight": 600,
+                    "text": "TE"
+                }
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        5.115,
+                        45.725
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uuid": "Lyon VFR Point",
+                "textStyle": {
+                    "color": [
+                        140,
+                        153,
+                        130
+                    ],
+                    "fontFamily": "Arial",
+                    "fontSize": 12,
+                    "fontWeight": 600,
+                    "text": "MC"
+                }
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        5.153889,
+                        45.729167
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uuid": "Lyon VFR Point",
+                "textStyle": {
+                    "color": [
+                        140,
+                        153,
+                        130
+                    ],
+                    "fontFamily": "Arial",
+                    "fontSize": 12,
+                    "fontWeight": 600,
+                    "text": "EA"
+                }
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        5.229722,
+                        45.723056
+                    ],
+                    [
+                        6.228333,
+                        45.895833
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uuid": "Lyon VFR Point",
+                "textStyle": {
+                    "color": [
+                        140,
+                        153,
+                        130
+                    ],
+                    "fontFamily": "Arial",
+                    "fontSize": 12,
+                    "fontWeight": 600,
+                    "text": "NE"
+                }
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        6.2575,
+                        46.044722
+                    ],
+                    [
+                        5.523889,
+                        45.447778
+                    ],
+                    [
+                        5.096944,
+                        45.025833
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uuid": "Lyon VFR Point",
+                "textStyle": {
+                    "color": [
+                        140,
+                        153,
+                        130
+                    ],
+                    "fontFamily": "Arial",
+                    "fontSize": 12,
+                    "fontWeight": 600,
+                    "text": "W"
+                }
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        5.920556,
+                        45.901667
+                    ],
+                    [
+                        5.053611,
+                        45.323889
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uuid": "Lyon VFR Point",
+                "textStyle": {
+                    "color": [
+                        140,
+                        153,
+                        130
+                    ],
+                    "fontFamily": "Arial",
+                    "fontSize": 12,
+                    "fontWeight": 600,
+                    "text": "ALBY"
+                }
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        6.020278,
+                        45.816667
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uuid": "Lyon VFR Point",
+                "textStyle": {
+                    "color": [
+                        140,
+                        153,
+                        130
+                    ],
+                    "fontFamily": "Arial",
+                    "fontSize": 12,
+                    "fontWeight": 600,
+                    "text": "SJ"
+                }
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        6.174167,
+                        45.844167
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uuid": "Lyon VFR Point",
+                "textStyle": {
+                    "color": [
+                        140,
+                        153,
+                        130
+                    ],
+                    "fontFamily": "Arial",
+                    "fontSize": 12,
+                    "fontWeight": 600,
+                    "text": "E"
+                }
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        6.168056,
+                        45.935278
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uuid": "Lyon VFR Point",
+                "textStyle": {
+                    "color": [
+                        140,
+                        153,
+                        130
+                    ],
+                    "fontFamily": "Arial",
+                    "fontSize": 12,
+                    "fontWeight": 600,
+                    "text": "HN"
+                }
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        6.128333,
+                        45.933333
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uuid": "Lyon VFR Point",
+                "textStyle": {
+                    "color": [
+                        140,
+                        153,
+                        130
+                    ],
+                    "fontFamily": "Arial",
+                    "fontSize": 12,
+                    "fontWeight": 600,
+                    "text": "HM"
+                }
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        6.115833,
+                        45.921389
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uuid": "Lyon VFR Point",
+                "textStyle": {
+                    "color": [
+                        140,
+                        153,
+                        130
+                    ],
+                    "fontFamily": "Arial",
+                    "fontSize": 12,
+                    "fontWeight": 600,
+                    "text": "HS"
+                }
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        6.087778,
+                        45.896944
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uuid": "Lyon VFR Point",
+                "textStyle": {
+                    "color": [
+                        140,
+                        153,
+                        130
+                    ],
+                    "fontFamily": "Arial",
+                    "fontSize": 12,
+                    "fontWeight": 600,
+                    "text": "EY"
+                }
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        5.923889,
+                        45.714167
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uuid": "Lyon VFR Point",
+                "textStyle": {
+                    "color": [
+                        140,
+                        153,
+                        130
+                    ],
+                    "fontFamily": "Arial",
+                    "fontSize": 12,
+                    "fontWeight": 600,
+                    "text": "NL"
+                }
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        5.828889,
+                        45.805833
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uuid": "Lyon VFR Point",
+                "textStyle": {
+                    "color": [
+                        140,
+                        153,
+                        130
+                    ],
+                    "fontFamily": "Arial",
+                    "fontSize": 12,
+                    "fontWeight": 600,
+                    "text": "SB"
+                }
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        5.956667,
+                        45.543056
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uuid": "Lyon VFR Point",
+                "textStyle": {
+                    "color": [
+                        140,
+                        153,
+                        130
+                    ],
+                    "fontFamily": "Arial",
+                    "fontSize": 12,
+                    "fontWeight": 600,
+                    "text": "SM"
+                }
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        6.023611,
+                        45.483889
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uuid": "Lyon VFR Point",
+                "textStyle": {
+                    "color": [
+                        140,
+                        153,
+                        130
+                    ],
+                    "fontFamily": "Arial",
+                    "fontSize": 12,
+                    "fontWeight": 600,
+                    "text": "SW"
+                }
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        5.831111,
+                        45.555556
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uuid": "Lyon VFR Point",
+                "textStyle": {
+                    "color": [
+                        140,
+                        153,
+                        130
+                    ],
+                    "fontFamily": "Arial",
+                    "fontSize": 12,
+                    "fontWeight": 600,
+                    "text": "WA"
+                }
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        5.846944,
+                        45.692778
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uuid": "Lyon VFR Point",
+                "textStyle": {
+                    "color": [
+                        140,
+                        153,
+                        130
+                    ],
+                    "fontFamily": "Arial",
+                    "fontSize": 12,
+                    "fontWeight": 600,
+                    "text": "WB"
+                }
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        5.705556,
+                        45.758056
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uuid": "Lyon VFR Point",
+                "textStyle": {
+                    "color": [
+                        140,
+                        153,
+                        130
+                    ],
+                    "fontFamily": "Arial",
+                    "fontSize": 12,
+                    "fontWeight": 600,
+                    "text": "WC"
+                }
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        5.779167,
+                        45.843056
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uuid": "Lyon VFR Point",
+                "textStyle": {
+                    "color": [
+                        140,
+                        153,
+                        130
+                    ],
+                    "fontFamily": "Arial",
+                    "fontSize": 12,
+                    "fontWeight": 600,
+                    "text": "WG"
+                }
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        5.631667,
+                        45.598056
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uuid": "Lyon VFR Point",
+                "textStyle": {
+                    "color": [
+                        140,
+                        153,
+                        130
+                    ],
+                    "fontFamily": "Arial",
+                    "fontSize": 12,
+                    "fontWeight": 600,
+                    "text": "PU"
+                }
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        5.555833,
+                        45.471944
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uuid": "Lyon VFR Point",
+                "textStyle": {
+                    "color": [
+                        140,
+                        153,
+                        130
+                    ],
+                    "fontFamily": "Arial",
+                    "fontSize": 12,
+                    "fontWeight": 600,
+                    "text": "VN"
+                }
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        5.625,
+                        45.360278
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uuid": "Lyon VFR Point",
+                "textStyle": {
+                    "color": [
+                        140,
+                        153,
+                        130
+                    ],
+                    "fontFamily": "Arial",
+                    "fontSize": 12,
+                    "fontWeight": 600,
+                    "text": "SE"
+                }
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        5.6175,
+                        45.309722
+                    ]
+                ]
+            }
+        }
+    ]
+}
