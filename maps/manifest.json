@@ -75,6 +75,11 @@
     "1_CCA_Seine_VFR",
     "2_CCA_Seine_AMG"
   ],
+  "LFQQ": [
+    "0_CCA_Lille",
+    "1_CCA_Lille_VFR",
+    "2_CCA_Lille_MVA"
+  ],
   "LFRB": [
     "0_CCA_Iroise",
     "1_CCA_Iroise_VFR",

@@ -1,0 +1,519 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "uuid": "Lille VFR Point",
+                "textStyle": {
+                    "color": [
+                        226,
+                        226,
+                        226
+                    ],
+                    "fontFamily": "Arial",
+                    "fontSize": 14,
+                    "fontWeight": 600,
+                    "text": "AC"
+                }
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        0.905278,
+                        49.448056
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uuid": "Lille VFR Point",
+                "textStyle": {
+                    "color": [
+                        226,
+                        226,
+                        226
+                    ],
+                    "fontFamily": "Arial",
+                    "fontSize": 14,
+                    "fontWeight": 600,
+                    "text": "NW"
+                }
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        0.956389,
+                        49.5475
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uuid": "Lille VFR Point",
+                "textStyle": {
+                    "color": [
+                        226,
+                        226,
+                        226
+                    ],
+                    "fontFamily": "Arial",
+                    "fontSize": 14,
+                    "fontWeight": 600,
+                    "text": "N"
+                }
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        1.145,
+                        49.489722
+                    ],
+                    [
+                        2.929167,
+                        50.645278
+                    ],
+                    [
+                        2.563889,
+                        50.775278
+                    ],
+                    [
+                        1.5675,
+                        50.740556
+                    ],
+                    [
+                        2.662222,
+                        50.065556
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uuid": "Lille VFR Point",
+                "textStyle": {
+                    "color": [
+                        226,
+                        226,
+                        226
+                    ],
+                    "fontFamily": "Arial",
+                    "fontSize": 14,
+                    "fontWeight": 600,
+                    "text": "E"
+                }
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        1.358889,
+                        49.358611
+                    ],
+                    [
+                        1.845556,
+                        50.443611
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uuid": "Lille VFR Point",
+                "textStyle": {
+                    "color": [
+                        226,
+                        226,
+                        226
+                    ],
+                    "fontFamily": "Arial",
+                    "fontSize": 14,
+                    "fontWeight": 600,
+                    "text": "S"
+                }
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        1.237222,
+                        49.312222
+                    ],
+                    [
+                        2.704167,
+                        50.435278
+                    ],
+                    [
+                        1.647778,
+                        50.418056
+                    ],
+                    [
+                        2.834722,
+                        49.873889
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uuid": "Lille VFR Point",
+                "textStyle": {
+                    "color": [
+                        226,
+                        226,
+                        226
+                    ],
+                    "fontFamily": "Arial",
+                    "fontSize": 14,
+                    "fontWeight": 600,
+                    "text": "W"
+                }
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        0.999167,
+                        49.31
+                    ],
+                    [
+                        2.793056,
+                        50.522778
+                    ],
+                    [
+                        2.408056,
+                        50.646111
+                    ],
+                    [
+                        2.511667,
+                        49.886944
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uuid": "Lille VFR Point",
+                "textStyle": {
+                    "color": [
+                        226,
+                        226,
+                        226
+                    ],
+                    "fontFamily": "Arial",
+                    "fontSize": 14,
+                    "fontWeight": 600,
+                    "text": "SB"
+                }
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        1.137222,
+                        49.268056
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uuid": "Lille VFR Point",
+                "textStyle": {
+                    "color": [
+                        226,
+                        226,
+                        226
+                    ],
+                    "fontFamily": "Arial",
+                    "fontSize": 14,
+                    "fontWeight": 600,
+                    "text": "NG"
+                }
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        3.113333,
+                        50.603056
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uuid": "Lille VFR Point",
+                "textStyle": {
+                    "color": [
+                        226,
+                        226,
+                        226
+                    ],
+                    "fontFamily": "Arial",
+                    "fontSize": 14,
+                    "fontWeight": 600,
+                    "text": "SE"
+                }
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        3.227778,
+                        50.471111
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uuid": "Lille VFR Point",
+                "textStyle": {
+                    "color": [
+                        226,
+                        226,
+                        226
+                    ],
+                    "fontFamily": "Arial",
+                    "fontSize": 14,
+                    "fontWeight": 600,
+                    "text": "SA"
+                }
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        3.133611,
+                        50.518333
+                    ],
+                    [
+                        2.650556,
+                        50.541111
+                    ],
+                    [
+                        2.759722,
+                        49.923889
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uuid": "Lille VFR Point",
+                "textStyle": {
+                    "color": [
+                        226,
+                        226,
+                        226
+                    ],
+                    "fontFamily": "Arial",
+                    "fontSize": 14,
+                    "fontWeight": 600,
+                    "text": "SW"
+                }
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        2.971389,
+                        50.457222
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uuid": "Lille VFR Point",
+                "textStyle": {
+                    "color": [
+                        226,
+                        226,
+                        226
+                    ],
+                    "fontFamily": "Arial",
+                    "fontSize": 14,
+                    "fontWeight": 600,
+                    "text": "NA"
+                }
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        2.570833,
+                        50.683333
+                    ],
+                    [
+                        1.576667,
+                        50.635278
+                    ],
+                    [
+                        2.673333,
+                        50.016111
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uuid": "Lille VFR Point",
+                "textStyle": {
+                    "color": [
+                        226,
+                        226,
+                        226
+                    ],
+                    "fontFamily": "Arial",
+                    "fontSize": 14,
+                    "fontWeight": 600,
+                    "text": "NE"
+                }
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        2.843333,
+                        50.683889
+                    ],
+                    [
+                        1.742778,
+                        50.635556
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uuid": "Lille VFR Point",
+                "textStyle": {
+                    "color": [
+                        226,
+                        226,
+                        226
+                    ],
+                    "fontFamily": "Arial",
+                    "fontSize": 14,
+                    "fontWeight": 600,
+                    "text": "EA"
+                }
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        2.745,
+                        50.640833
+                    ],
+                    [
+                        1.719444,
+                        50.490556
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uuid": "Lille VFR Point",
+                "textStyle": {
+                    "color": [
+                        226,
+                        226,
+                        226
+                    ],
+                    "fontFamily": "Arial",
+                    "fontSize": 14,
+                    "fontWeight": 600,
+                    "text": "WA"
+                }
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        2.551111,
+                        50.626389
+                    ],
+                    [
+                        2.6325,
+                        49.905556
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uuid": "Lille VFR Point",
+                "textStyle": {
+                    "color": [
+                        226,
+                        226,
+                        226
+                    ],
+                    "fontFamily": "Arial",
+                    "fontSize": 14,
+                    "fontWeight": 600,
+                    "text": "EB"
+                }
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        2.775,
+                        50.575278
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uuid": "Lille VFR Point",
+                "textStyle": {
+                    "color": [
+                        226,
+                        226,
+                        226
+                    ],
+                    "fontFamily": "Arial",
+                    "fontSize": 14,
+                    "fontWeight": 600,
+                    "text": "NB"
+                }
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        1.578889,
+                        50.580833
+                    ]
+                ]
+            }
+        }
+    ]
+}
