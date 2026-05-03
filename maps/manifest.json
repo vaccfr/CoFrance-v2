@@ -69,6 +69,12 @@
     "Carte_EL",
     "0_Fond_EGA"
   ],
+  "LFPM": [
+    "0_CCA_Seine",
+    "1_CCA_Seine_EGA_Limits",
+    "1_CCA_Seine_VFR",
+    "2_CCA_Seine_AMG"
+  ],
   "LFRB": [
     "0_CCA_Iroise",
     "1_CCA_Iroise_VFR",

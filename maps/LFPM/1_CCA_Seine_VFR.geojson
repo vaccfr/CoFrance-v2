@@ -1,0 +1,13 @@
+{"type":"FeatureCollection","features":[
+{"type":"Feature","properties":{"uuid":"Seine VFR Point","textStyle":{"color":[240,148,255],"fontFamily":"Arial","fontSize":14,"fontWeight":600,"text":"N"}},"geometry":{"type":"MultiPoint","coordinates":[[0.67,47.570833],[2.720556,48.694167],[4.286111,48.911944]]}},
+{"type":"Feature","properties":{"uuid":"Seine VFR Point","textStyle":{"color":[240,148,255],"fontFamily":"Arial","fontSize":14,"fontWeight":600,"text":"NE"}},"geometry":{"type":"MultiPoint","coordinates":[[0.899722,47.590278]]}},
+{"type":"Feature","properties":{"uuid":"Seine VFR Point","textStyle":{"color":[240,148,255],"fontFamily":"Arial","fontSize":14,"fontWeight":600,"text":"E"}},"geometry":{"type":"MultiPoint","coordinates":[[0.836667,47.424444]]}},
+{"type":"Feature","properties":{"uuid":"Seine VFR Point","textStyle":{"color":[240,148,255],"fontFamily":"Arial","fontSize":14,"fontWeight":600,"text":"W"}},"geometry":{"type":"MultiPoint","coordinates":[[0.638611,47.440278],[3.9,48.727222]]}},
+{"type":"Feature","properties":{"uuid":"Seine VFR Point","textStyle":{"color":[240,148,255],"fontFamily":"Arial","fontSize":14,"fontWeight":600,"text":"SW"}},"geometry":{"type":"MultiPoint","coordinates":[[0.558333,47.303611],[4.192222,48.735]]}},
+{"type":"Feature","properties":{"uuid":"Seine VFR Point","textStyle":{"color":[240,148,255],"fontFamily":"Arial","fontSize":14,"fontWeight":600,"text":"S1"}},"geometry":{"type":"MultiPoint","coordinates":[[0.693333,47.329722]]}},
+{"type":"Feature","properties":{"uuid":"Seine VFR Point","textStyle":{"color":[240,148,255],"fontFamily":"Arial","fontSize":14,"fontWeight":600,"text":"S"}},"geometry":{"type":"MultiPoint","coordinates":[[0.784722,47.281944],[4.173333,48.670833]]}},
+{"type":"Feature","properties":{"uuid":"Seine VFR Point","textStyle":{"color":[240,148,255],"fontFamily":"Arial","fontSize":14,"fontWeight":600,"text":"SM"}},"geometry":{"type":"MultiPoint","coordinates":[[2.701944,48.486667]]}},
+{"type":"Feature","properties":{"uuid":"Seine VFR Point","textStyle":{"color":[240,148,255],"fontFamily":"Arial","fontSize":14,"fontWeight":600,"text":"B"}},"geometry":{"type":"MultiPoint","coordinates":[[2.468889,48.571389]]}},
+{"type":"Feature","properties":{"uuid":"Seine VFR Point","textStyle":{"color":[240,148,255],"fontFamily":"Arial","fontSize":14,"fontWeight":600,"text":"N1"}},"geometry":{"type":"MultiPoint","coordinates":[[4.224167,48.823889]]}},
+{"type":"Feature","properties":{"uuid":"Seine VFR Point","textStyle":{"color":[240,148,255],"fontFamily":"Arial","fontSize":14,"fontWeight":600,"text":"WA"}},"geometry":{"type":"MultiPoint","coordinates":[[4.062222,48.7475]]}}
+]}

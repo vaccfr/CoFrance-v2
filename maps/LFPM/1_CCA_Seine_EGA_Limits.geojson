@@ -1,0 +1,343 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "uuid": "Seine EGA Airspace Limits Altitudes",
+                "textStyle": {
+                    "color": [
+                        186,
+                        25,
+                        0
+                    ],
+                    "fontFamily": "Arial",
+                    "fontSize": 12,
+                    "fontWeight": 600,
+                    "text": "FL85"
+                }
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        0.9025183333333333,
+                        48.15566472222222
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uuid": "Seine EGA Airspace Limits Altitudes",
+                "textStyle": {
+                    "color": [
+                        186,
+                        25,
+                        0
+                    ],
+                    "fontFamily": "Arial",
+                    "fontSize": 12,
+                    "fontWeight": 600,
+                    "text": "FL65"
+                }
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        1.4081530555555555,
+                        48.33678888888889
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uuid": "Seine EGA Airspace Limits Altitudes",
+                "textStyle": {
+                    "color": [
+                        186,
+                        25,
+                        0
+                    ],
+                    "fontFamily": "Arial",
+                    "fontSize": 12,
+                    "fontWeight": 600,
+                    "text": "3500"
+                }
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        1.616931388888889,
+                        48.814695
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uuid": "Seine EGA Airspace Limits Altitudes",
+                "textStyle": {
+                    "color": [
+                        186,
+                        25,
+                        0
+                    ],
+                    "fontFamily": "Arial",
+                    "fontSize": 12,
+                    "fontWeight": 600,
+                    "text": "2500"
+                }
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        1.8289716666666667,
+                        48.70558388888889
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uuid": "Seine EGA Airspace Limits Altitudes",
+                "textStyle": {
+                    "color": [
+                        186,
+                        25,
+                        0
+                    ],
+                    "fontFamily": "Arial",
+                    "fontSize": 12,
+                    "fontWeight": 600,
+                    "text": "2500"
+                }
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        1.9464094444444444,
+                        48.51354861111111
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uuid": "Seine EGA Airspace Limits Altitudes",
+                "textStyle": {
+                    "color": [
+                        186,
+                        25,
+                        0
+                    ],
+                    "fontFamily": "Arial",
+                    "fontSize": 12,
+                    "fontWeight": 600,
+                    "text": "1500"
+                }
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        2.2367416666666666,
+                        48.583379722222226
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uuid": "Seine EGA Airspace Limits Altitudes",
+                "textStyle": {
+                    "color": [
+                        186,
+                        25,
+                        0
+                    ],
+                    "fontFamily": "Arial",
+                    "fontSize": 12,
+                    "fontWeight": 600,
+                    "text": "2500"
+                }
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        2.5760063888888887,
+                        48.45462861111111
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uuid": "Seine EGA Airspace Limits Altitudes",
+                "textStyle": {
+                    "color": [
+                        186,
+                        25,
+                        0
+                    ],
+                    "fontFamily": "Arial",
+                    "fontSize": 12,
+                    "fontWeight": 600,
+                    "text": "3500"
+                }
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        2.6673466666666665,
+                        48.600837500000004
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uuid": "Seine EGA Airspace Limits Altitudes",
+                "textStyle": {
+                    "color": [
+                        186,
+                        25,
+                        0
+                    ],
+                    "fontFamily": "Arial",
+                    "fontSize": 12,
+                    "fontWeight": 600,
+                    "text": "4500"
+                }
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        2.8467655555555558,
+                        48.43935305555555
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uuid": "Seine EGA Airspace Limits Altitudes",
+                "textStyle": {
+                    "color": [
+                        186,
+                        25,
+                        0
+                    ],
+                    "fontFamily": "Arial",
+                    "fontSize": 12,
+                    "fontWeight": 600,
+                    "text": "FL65"
+                }
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        3.417643611111111,
+                        48.410984166666665
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uuid": "Seine EGA Airspace Limits Altitudes",
+                "textStyle": {
+                    "color": [
+                        186,
+                        25,
+                        0
+                    ],
+                    "fontFamily": "Arial",
+                    "fontSize": 12,
+                    "fontWeight": 600,
+                    "text": "FL85"
+                }
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        3.681878611111111,
+                        48.24731777777778
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uuid": "Seine EGA Airspace Limits Altitudes",
+                "textStyle": {
+                    "color": [
+                        186,
+                        25,
+                        0
+                    ],
+                    "fontFamily": "Arial",
+                    "fontSize": 12,
+                    "fontWeight": 600,
+                    "text": "4500"
+                }
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        3.5709649999999997,
+                        48.96308583333334
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uuid": "Seine EGA Airspace Limits Altitudes",
+                "textStyle": {
+                    "color": [
+                        186,
+                        25,
+                        0
+                    ],
+                    "fontFamily": "Arial",
+                    "fontSize": 12,
+                    "fontWeight": 600,
+                    "text": "3500"
+                }
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        3.313254444444444,
+                        49.096201111111114
+                    ]
+                ]
+            }
+        }
+    ]
+}
