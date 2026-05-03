@@ -99,11 +99,8 @@
   "LFMN": [
     "0_CCA_Nice",
     "1_CCA_Nice_QFU04_ILS",
-    "1_CCA_Nice_QFU04_RNP",
-    "1_CCA_Nice_QFU22_RNP",
-    "2_CCA_Nice_Commons",
-    "3_CCA_Nice_VFR",
-    "4_CCA_Nice_AMG"
+    "2_CCA_Nice_VFR",
+    "3_CCA_Nice_AMG"
   ],
   "LFOB": [
     "0_CCA_Beauvais",
