@@ -69,6 +69,11 @@
     "Carte_EL",
     "0_Fond_EGA"
   ],
+  "LFRB": [
+    "0_CCA_Iroise",
+    "1_CCA_Iroise_VFR",
+    "2_CCA_Iroise_MVA"
+  ],
   "LFRN": [
     "0_CCA_Rennes",
     "1_CCA_Rennes_VFR",

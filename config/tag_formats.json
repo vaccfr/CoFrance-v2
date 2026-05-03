@@ -2322,6 +2322,183 @@
       ]
     },
     {
+      "name": "IRMA Iroise",
+      "rules": [
+        {
+          "name": "DEP",
+          "conditions": {
+            "isDeparture": true,
+            "airports": [
+              "LFRB",
+              "LFRO",
+              "LFRQ",
+              "LFRU"
+            ]
+          },
+          "priority": 1,
+          "filtered": false,
+          "style": {
+            "track_symbol": "circle",
+            "track_symbol_fill": false,
+            "history_trail_symbol": "circle",
+            "track_symbol_subtext": "",
+            "foreground_color": "#ffff00",
+            "background_color": "#8f8f00"
+          },
+          "taglayouts": {
+            "extended_layout": [
+              "vspace",
+              "modeshdg",
+              "modesspd",
+              "modesmach",
+              "modessfl",
+              "\n",
+              "vspace",
+              "adep",
+              "ades",
+              "deprwy",
+              "sid",
+              "\n",
+              "cr",
+              "align_right",
+              "nsfreq",
+              "\n",
+              "optext",
+              "align_right",
+              "afk",
+              "\n",
+              "vspace",
+              "traj",
+              "info",
+              "id",
+              "misc"
+            ]
+          }
+        },
+        {
+          "name": "ARR",
+          "conditions": {
+            "isArrival": true,
+            "airports": [
+              "LFRB",
+              "LFRO",
+              "LFRQ",
+              "LFRU"
+            ]
+          },
+          "priority": 1,
+          "filtered": false,
+          "style": {
+            "track_symbol": "circle",
+            "track_symbol_fill": false,
+            "history_trail_symbol": "circle",
+            "track_symbol_subtext": "",
+            "foreground_color": "#ffff00",
+            "background_color": "#8f8f00"
+          },
+          "taglayouts": {
+            "tag_layout": [
+              "gs",
+              "aspd",
+              "scratchpad",
+              "vz",
+              "atyp",
+              "hold",
+              "eat",
+              "coordination",
+              "notification",
+              "sequence",
+              "lost",
+              "stca",
+              "tct",
+              "\n",
+              "contact_flag",
+              "callsign",
+              "cpdlc_flag",
+              "comms",
+              "sector",
+              "rfl",
+              "group",
+              "\n",
+              "afl",
+              "tendency",
+              "cfl",
+              "wpt",
+              "ahdg",
+              "\n",
+              "xfl",
+              "hfl",
+              "copx",
+              "intention",
+              "arrrwy",
+              "\n",
+              "cpdlc_rqst",
+              "cpdlc_rqst_number"
+            ],
+            "extended_layout": [
+              "vspace",
+              "modeshdg",
+              "modesspd",
+              "modesmach",
+              "modessfl",
+              "\n",
+              "vspace",
+              "adep",
+              "ades",
+              "trans",
+              "arrrwy",
+              "\n",
+              "cr",
+              "align_right",
+              "nsfreq",
+              "\n",
+              "optext",
+              "align_right",
+              "afk",
+              "\n",
+              "vspace",
+              "traj",
+              "info",
+              "id",
+              "misc"
+            ]
+          }
+        },
+        {
+          "name": "T.IFR",
+          "conditions": {
+            "isIFR": true
+          },
+          "priority": 5,
+          "filtered": true,
+          "style": {
+            "track_symbol": "circle",
+            "track_symbol_fill": false,
+            "history_trail_symbol": "circle",
+            "track_symbol_subtext": "",
+            "foreground_color": "#ffb2b4",
+            "background_color": "#946869"
+          }
+        },
+        {
+          "name": "T.VFR",
+          "conditions": {
+            "isVFR": true
+          },
+          "priority": 5,
+          "filtered": true,
+          "style": {
+            "track_symbol": "circle",
+            "track_symbol_fill": false,
+            "history_trail_symbol": "circle",
+            "track_symbol_subtext": "",
+            "foreground_color": "#3cab71",
+            "background_color": "#1d5236"
+          }
+        }
+      ]
+    },
+    {
       "name": "IRMA La Rochelle",
       "rules": [
         {
