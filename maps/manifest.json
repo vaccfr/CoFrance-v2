@@ -79,6 +79,12 @@
     "1_CCA_Rennes_VFR",
     "2_CCA_Rennes_MVA"
   ],
+  "LFRS": [
+    "0_CCA_Nantes",
+    "1_CCA_Nantes_SUP_AIP_LeMans",
+    "2_CCA_Nantes_VFR",
+    "3_CCA_Nantes_MVA"
+  ],
   "LFMN": [
     "0_CCA_Nice",
     "1_CCA_Nice_QFU04_ILS",

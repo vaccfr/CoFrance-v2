@@ -2702,6 +2702,281 @@
       ]
     },
     {
+      "name": "IRMA Nantes",
+      "rules": [
+        {
+          "name": "DEP",
+          "conditions": {
+            "isDeparture": true,
+            "airports": [
+              "LFRS"
+            ]
+          },
+          "priority": 1,
+          "filtered": false,
+          "style": {
+            "track_symbol": "triangle",
+            "track_symbol_fill": false,
+            "history_trail_symbol": "circle",
+            "track_symbol_subtext": "",
+            "foreground_color": "#e6e645",
+            "background_color": "#6b6b1f"
+          },
+          "taglayouts": {
+            "extended_layout": [
+              "vspace",
+              "modeshdg",
+              "modesspd",
+              "modesmach",
+              "modessfl",
+              "\n",
+              "vspace",
+              "adep",
+              "ades",
+              "deprwy",
+              "sid",
+              "\n",
+              "cr",
+              "align_right",
+              "nsfreq",
+              "\n",
+              "optext",
+              "align_right",
+              "afk",
+              "\n",
+              "vspace",
+              "traj",
+              "info",
+              "id",
+              "misc"
+            ]
+          }
+        },
+        {
+          "name": "ARR",
+          "conditions": {
+            "isArrival": true,
+            "airports": [
+              "LFRS"
+            ]
+          },
+          "priority": 1,
+          "filtered": false,
+          "style": {
+            "track_symbol": "triangle",
+            "track_symbol_fill": false,
+            "history_trail_symbol": "circle",
+            "track_symbol_subtext": "",
+            "foreground_color": "#e6e645",
+            "background_color": "#6b6b1f"
+          },
+          "taglayouts": {
+            "tag_layout": [
+              "gs",
+              "aspd",
+              "scratchpad",
+              "vz",
+              "atyp",
+              "hold",
+              "eat",
+              "coordination",
+              "notification",
+              "sequence",
+              "lost",
+              "stca",
+              "tct",
+              "\n",
+              "contact_flag",
+              "callsign",
+              "cpdlc_flag",
+              "comms",
+              "sector",
+              "rfl",
+              "group",
+              "\n",
+              "afl",
+              "tendency",
+              "cfl",
+              "wpt",
+              "ahdg",
+              "\n",
+              "xfl",
+              "hfl",
+              "copx",
+              "intention",
+              "arrrwy",
+              "\n",
+              "cpdlc_rqst",
+              "cpdlc_rqst_number"
+            ],
+            "extended_layout": [
+              "vspace",
+              "modeshdg",
+              "modesspd",
+              "modesmach",
+              "modessfl",
+              "\n",
+              "vspace",
+              "adep",
+              "ades",
+              "trans",
+              "arrrwy",
+              "\n",
+              "cr",
+              "align_right",
+              "nsfreq",
+              "\n",
+              "optext",
+              "align_right",
+              "afk",
+              "\n",
+              "vspace",
+              "traj",
+              "info",
+              "id",
+              "misc"
+            ]
+          }
+        },
+        {
+          "name": "S.DEP",
+          "conditions": {
+            "isDeparture": true,
+            "isIFR": true,
+            "airports": [
+              "LFJR",
+              "LFRI",
+              "LFRM",
+              "LFRZ"
+            ]
+          },
+          "priority": 1,
+          "filtered": false,
+          "style": {
+            "track_symbol": "triangle",
+            "track_symbol_fill": false,
+            "history_trail_symbol": "circle",
+            "track_symbol_subtext": "",
+            "foreground_color": "#e6b800",
+            "background_color": "#806600"
+          },
+          "taglayouts": {
+            "extended_layout": [
+              "vspace",
+              "modeshdg",
+              "modesspd",
+              "modesmach",
+              "modessfl",
+              "\n",
+              "vspace",
+              "adep",
+              "ades",
+              "trans",
+              "arrrwy",
+              "\n",
+              "cr",
+              "align_right",
+              "nsfreq",
+              "\n",
+              "optext",
+              "align_right",
+              "afk",
+              "\n",
+              "vspace",
+              "traj",
+              "info",
+              "id",
+              "misc"
+            ]
+          }
+        },
+        {
+          "name": "S.ARR",
+          "conditions": {
+            "isArrival": true,
+            "isIFR": true,
+            "airports": [
+              "LFJR",
+              "LFRI",
+              "LFRM",
+              "LFRZ"
+            ]
+          },
+          "priority": 1,
+          "filtered": false,
+          "style": {
+            "track_symbol": "triangle",
+            "track_symbol_fill": false,
+            "history_trail_symbol": "circle",
+            "track_symbol_subtext": "",
+            "foreground_color": "#e6b800",
+            "background_color": "#806600"
+          },
+          "taglayouts": {
+            "extended_layout": [
+              "vspace",
+              "modeshdg",
+              "modesspd",
+              "modesmach",
+              "modessfl",
+              "\n",
+              "vspace",
+              "adep",
+              "ades",
+              "trans",
+              "arrrwy",
+              "\n",
+              "cr",
+              "align_right",
+              "nsfreq",
+              "\n",
+              "optext",
+              "align_right",
+              "afk",
+              "\n",
+              "vspace",
+              "traj",
+              "info",
+              "id",
+              "misc"
+            ]
+          }
+        },
+        {
+          "name": "T.IFR",
+          "conditions": {
+            "isIFR": true
+          },
+          "priority": 5,
+          "filtered": true,
+          "style": {
+            "track_symbol": "triangle",
+            "track_symbol_fill": false,
+            "history_trail_symbol": "circle",
+            "track_symbol_subtext": "",
+            "foreground_color": "#ababab",
+            "background_color": "#525252"
+          }
+        },
+        {
+          "name": "T.VFR",
+          "conditions": {
+            "isVFR": true
+          },
+          "priority": 5,
+          "filtered": true,
+          "style": {
+            "track_symbol": "triangle",
+            "track_symbol_fill": false,
+            "history_trail_symbol": "circle",
+            "track_symbol_subtext": "",
+            "foreground_color": "#ababab",
+            "background_color": "#525252"
+          }
+        }
+      ]
+    },
+    {
       "name": "IRMA Poitiers/Limoges",
       "rules": [
         {

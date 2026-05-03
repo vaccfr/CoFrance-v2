@@ -1,0 +1,359 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "uuid": "Nantes VFR Point",
+                "textStyle": {
+                    "color": [
+                        152,
+                        152,
+                        152
+                    ],
+                    "fontFamily": "Arial",
+                    "fontSize": 14,
+                    "fontWeight": 600,
+                    "text": "E"
+                }
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        -1.449167,
+                        47.096389
+                    ],
+                    [
+                        -2.028333,
+                        47.281667
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uuid": "Nantes VFR Point",
+                "textStyle": {
+                    "color": [
+                        152,
+                        152,
+                        152
+                    ],
+                    "fontFamily": "Arial",
+                    "fontSize": 14,
+                    "fontWeight": 600,
+                    "text": "E1"
+                }
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        -1.021111,
+                        47.372222
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uuid": "Nantes VFR Point",
+                "textStyle": {
+                    "color": [
+                        152,
+                        152,
+                        152
+                    ],
+                    "fontFamily": "Arial",
+                    "fontSize": 14,
+                    "fontWeight": 600,
+                    "text": "E2"
+                }
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        -1.268889,
+                        47.083889
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uuid": "Nantes VFR Point",
+                "textStyle": {
+                    "color": [
+                        152,
+                        152,
+                        152
+                    ],
+                    "fontFamily": "Arial",
+                    "fontSize": 14,
+                    "fontWeight": 600,
+                    "text": "E3"
+                }
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        -1.417222,
+                        46.838056
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uuid": "Nantes VFR Point",
+                "textStyle": {
+                    "color": [
+                        152,
+                        152,
+                        152
+                    ],
+                    "fontFamily": "Arial",
+                    "fontSize": 14,
+                    "fontWeight": 600,
+                    "text": "NE"
+                }
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        -1.390556,
+                        47.152222
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uuid": "Nantes VFR Point",
+                "textStyle": {
+                    "color": [
+                        152,
+                        152,
+                        152
+                    ],
+                    "fontFamily": "Arial",
+                    "fontSize": 14,
+                    "fontWeight": 600,
+                    "text": "NW"
+                }
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        -1.685278,
+                        47.257222
+                    ],
+                    [
+                        -2.316944,
+                        47.449722
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uuid": "Nantes VFR Point",
+                "textStyle": {
+                    "color": [
+                        152,
+                        152,
+                        152
+                    ],
+                    "fontFamily": "Arial",
+                    "fontSize": 14,
+                    "fontWeight": 600,
+                    "text": "W"
+                }
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        -1.786389,
+                        47.207222
+                    ],
+                    [
+                        -2.298611,
+                        47.234167
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uuid": "Nantes VFR Point",
+                "textStyle": {
+                    "color": [
+                        152,
+                        152,
+                        152
+                    ],
+                    "fontFamily": "Arial",
+                    "fontSize": 14,
+                    "fontWeight": 600,
+                    "text": "W1"
+                }
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        -1.5,
+                        47.440556
+                    ],
+                    [
+                        -2.255556,
+                        47.278611
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uuid": "Nantes VFR Point",
+                "textStyle": {
+                    "color": [
+                        152,
+                        152,
+                        152
+                    ],
+                    "fontFamily": "Arial",
+                    "fontSize": 14,
+                    "fontWeight": 600,
+                    "text": "W2"
+                }
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        -1.878056,
+                        47.291667
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uuid": "Nantes VFR Point",
+                "textStyle": {
+                    "color": [
+                        152,
+                        152,
+                        152
+                    ],
+                    "fontFamily": "Arial",
+                    "fontSize": 14,
+                    "fontWeight": 600,
+                    "text": "W3"
+                }
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        -1.9525,
+                        47.043333
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uuid": "Nantes VFR Point",
+                "textStyle": {
+                    "color": [
+                        152,
+                        152,
+                        152
+                    ],
+                    "fontFamily": "Arial",
+                    "fontSize": 14,
+                    "fontWeight": 600,
+                    "text": "W4"
+                }
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        -1.880833,
+                        46.846944
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uuid": "Nantes VFR Point",
+                "textStyle": {
+                    "color": [
+                        152,
+                        152,
+                        152
+                    ],
+                    "fontFamily": "Arial",
+                    "fontSize": 14,
+                    "fontWeight": 600,
+                    "text": "SW"
+                }
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        -1.788611,
+                        47.107778
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uuid": "Nantes VFR Point",
+                "textStyle": {
+                    "color": [
+                        152,
+                        152,
+                        152
+                    ],
+                    "fontFamily": "Arial",
+                    "fontSize": 14,
+                    "fontWeight": 600,
+                    "text": "N"
+                }
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        -2.090278,
+                        47.446389
+                    ]
+                ]
+            }
+        }
+    ]
+}
