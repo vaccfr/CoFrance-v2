@@ -4,7 +4,7 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "AMG",
+                "name": "Aquitaine AMG",
                 "lineStyle": {
                     "color": [
                         255,
@@ -657,7 +657,7 @@
         {
             "type": "Feature",
             "properties": {
-                "uuid": "AMG Text",
+                "uuid": "Aquitaine AMG Text",
                 "textStyle": {
                     "color": [
                         255,
@@ -699,7 +699,7 @@
         {
             "type": "Feature",
             "properties": {
-                "uuid": "AMG Text",
+                "uuid": "Aquitaine AMG Text",
                 "textStyle": {
                     "color": [
                         255,
@@ -731,7 +731,7 @@
         {
             "type": "Feature",
             "properties": {
-                "uuid": "AMG Text",
+                "uuid": "Aquitaine AMG Text",
                 "textStyle": {
                     "color": [
                         255,
