@@ -54,6 +54,11 @@
     "1_CCA_Toulouse_VFR",
     "2_CCA_Toulouse_AMSR"
   ],
+  "LFKJ": [
+    "0_CCA_Ajaccio",
+    "1_CCA_Ajaccio_VFR",
+    "2_CCA_Ajaccio_AMSR"
+  ],
   "LFLL": [
     "0_CCA_Lyon",
     "1_CCA_Lyon_VFR",

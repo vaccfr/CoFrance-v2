@@ -1,0 +1,603 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "uuid": "Figari VFR Point",
+                "textStyle": {
+                    "color": [
+                        0,
+                        215,
+                        2
+                    ],
+                    "fontFamily": "Arial",
+                    "fontSize": 14,
+                    "fontWeight": 600,
+                    "text": "N"
+                }
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        8.747222,
+                        42.047222
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uuid": "Figari VFR Point",
+                "textStyle": {
+                    "color": [
+                        0,
+                        215,
+                        2
+                    ],
+                    "fontFamily": "Arial",
+                    "fontSize": 14,
+                    "fontWeight": 600,
+                    "text": "NV"
+                }
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        9.113889,
+                        42.109722
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uuid": "Figari VFR Point",
+                "textStyle": {
+                    "color": [
+                        0,
+                        215,
+                        2
+                    ],
+                    "fontFamily": "Arial",
+                    "fontSize": 14,
+                    "fontWeight": 600,
+                    "text": "NW"
+                }
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        8.516389,
+                        42.121111
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uuid": "Figari VFR Point",
+                "textStyle": {
+                    "color": [
+                        0,
+                        215,
+                        2
+                    ],
+                    "fontFamily": "Arial",
+                    "fontSize": 14,
+                    "fontWeight": 600,
+                    "text": "NWA"
+                }
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        8.727778,
+                        41.961944
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uuid": "Figari VFR Point",
+                "textStyle": {
+                    "color": [
+                        0,
+                        215,
+                        2
+                    ],
+                    "fontFamily": "Arial",
+                    "fontSize": 14,
+                    "fontWeight": 600,
+                    "text": "NZ"
+                }
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        8.893333,
+                        42.018333
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uuid": "Figari VFR Point",
+                "textStyle": {
+                    "color": [
+                        0,
+                        215,
+                        2
+                    ],
+                    "fontFamily": "Arial",
+                    "fontSize": 14,
+                    "fontWeight": 600,
+                    "text": "S"
+                }
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        8.723333,
+                        41.661944
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uuid": "Figari VFR Point",
+                "textStyle": {
+                    "color": [
+                        0,
+                        215,
+                        2
+                    ],
+                    "fontFamily": "Arial",
+                    "fontSize": 14,
+                    "fontWeight": 600,
+                    "text": "SA"
+                }
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        8.658333,
+                        41.738889
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uuid": "Figari VFR Point",
+                "textStyle": {
+                    "color": [
+                        0,
+                        215,
+                        2
+                    ],
+                    "fontFamily": "Arial",
+                    "fontSize": 14,
+                    "fontWeight": 600,
+                    "text": "SB"
+                }
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        8.791667,
+                        41.853611
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uuid": "Figari VFR Point",
+                "textStyle": {
+                    "color": [
+                        0,
+                        215,
+                        2
+                    ],
+                    "fontFamily": "Arial",
+                    "fontSize": 14,
+                    "fontWeight": 600,
+                    "text": "SC"
+                }
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        8.799167,
+                        41.904167
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uuid": "Figari VFR Point",
+                "textStyle": {
+                    "color": [
+                        0,
+                        215,
+                        2
+                    ],
+                    "fontFamily": "Arial",
+                    "fontSize": 14,
+                    "fontWeight": 600,
+                    "text": "SEA"
+                }
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        8.848333,
+                        41.810278
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uuid": "Figari VFR Point",
+                "textStyle": {
+                    "color": [
+                        0,
+                        215,
+                        2
+                    ],
+                    "fontFamily": "Arial",
+                    "fontSize": 14,
+                    "fontWeight": 600,
+                    "text": "W"
+                }
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        8.588056,
+                        41.875556
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uuid": "Figari VFR Point",
+                "textStyle": {
+                    "color": [
+                        0,
+                        215,
+                        2
+                    ],
+                    "fontFamily": "Arial",
+                    "fontSize": 14,
+                    "fontWeight": 600,
+                    "text": "WA"
+                }
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        8.704722,
+                        41.897222
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uuid": "Figari VFR Point",
+                "textStyle": {
+                    "color": [
+                        0,
+                        215,
+                        2
+                    ],
+                    "fontFamily": "Arial",
+                    "fontSize": 14,
+                    "fontWeight": 600,
+                    "text": "EF"
+                }
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        9.277222,
+                        41.464167
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uuid": "Figari VFR Point",
+                "textStyle": {
+                    "color": [
+                        0,
+                        215,
+                        2
+                    ],
+                    "fontFamily": "Arial",
+                    "fontSize": 14,
+                    "fontWeight": 600,
+                    "text": "EAF"
+                }
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        9.372222,
+                        41.5925
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uuid": "Figari VFR Point",
+                "textStyle": {
+                    "color": [
+                        0,
+                        215,
+                        2
+                    ],
+                    "fontFamily": "Arial",
+                    "fontSize": 14,
+                    "fontWeight": 600,
+                    "text": "AS"
+                }
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        9.406944,
+                        41.713889
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uuid": "Figari VFR Point",
+                "textStyle": {
+                    "color": [
+                        0,
+                        215,
+                        2
+                    ],
+                    "fontFamily": "Arial",
+                    "fontSize": 14,
+                    "fontWeight": 600,
+                    "text": "NEF"
+                }
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        9.299167,
+                        41.722778
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uuid": "Figari VFR Point",
+                "textStyle": {
+                    "color": [
+                        0,
+                        215,
+                        2
+                    ],
+                    "fontFamily": "Arial",
+                    "fontSize": 14,
+                    "fontWeight": 600,
+                    "text": "NF"
+                }
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        9.208333,
+                        41.666667
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uuid": "Figari VFR Point",
+                "textStyle": {
+                    "color": [
+                        0,
+                        215,
+                        2
+                    ],
+                    "fontFamily": "Arial",
+                    "fontSize": 14,
+                    "fontWeight": 600,
+                    "text": "NWF"
+                }
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        9.041389,
+                        41.564722
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uuid": "Figari VFR Point",
+                "textStyle": {
+                    "color": [
+                        0,
+                        215,
+                        2
+                    ],
+                    "fontFamily": "Arial",
+                    "fontSize": 14,
+                    "fontWeight": 600,
+                    "text": "WF"
+                }
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        8.928889,
+                        41.495556
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uuid": "Figari VFR Point",
+                "textStyle": {
+                    "color": [
+                        0,
+                        215,
+                        2
+                    ],
+                    "fontFamily": "Arial",
+                    "fontSize": 14,
+                    "fontWeight": 600,
+                    "text": "WAF"
+                }
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        8.984167,
+                        41.475278
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uuid": "Figari VFR Point",
+                "textStyle": {
+                    "color": [
+                        0,
+                        215,
+                        2
+                    ],
+                    "fontFamily": "Arial",
+                    "fontSize": 14,
+                    "fontWeight": 600,
+                    "text": "SAF"
+                }
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        9.098611,
+                        41.392222
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uuid": "Figari VFR Point",
+                "textStyle": {
+                    "color": [
+                        0,
+                        215,
+                        2
+                    ],
+                    "fontFamily": "Arial",
+                    "fontSize": 14,
+                    "fontWeight": 600,
+                    "text": "SF"
+                }
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        9.144444,
+                        41.386944
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uuid": "Figari VFR Point",
+                "textStyle": {
+                    "color": [
+                        0,
+                        215,
+                        2
+                    ],
+                    "fontFamily": "Arial",
+                    "fontSize": 14,
+                    "fontWeight": 600,
+                    "text": "BF"
+                }
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        9.15,
+                        41.473333
+                    ]
+                ]
+            }
+        }
+    ]
+}
