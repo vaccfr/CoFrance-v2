@@ -70,6 +70,11 @@
     "2_CCA_Lyon_AMSR_Lyon",
     "2_CCA_Lyon_MVA_Chambery"
   ],
+  "LFML": [
+    "0_CCA_Provence",
+    "1_CCA_Provence_VFR",
+    "2_CCA_Provence_AMSR"
+  ],
   "LFBZ": [
     "0_CCA_Biarritz",
     "1_CCA_Biarritz_VFR",
