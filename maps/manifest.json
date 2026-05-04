@@ -64,11 +64,22 @@
     "1_CCA_Ajaccio_VFR",
     "2_CCA_Ajaccio_AMSR"
   ],
+  "LFLC": [
+    "0_CCA_Clermont",
+    "1_CCA_Clermont_VFR",
+    "2_CCA_Clermont_MVA",
+    "2_CCA_Clermont_Saint_Yan_AMG"
+  ],
   "LFLL": [
     "0_CCA_Lyon",
     "1_CCA_Lyon_VFR",
     "2_CCA_Lyon_AMSR_Lyon",
     "2_CCA_Lyon_MVA_Chambery"
+  ],
+  "LFLN": [
+    "0_CCA_Saint_Yan",
+    "1_CCA_Saint_Yan_VFR",
+    "2_CCA_Saint_Yan_AMG"
   ],
   "LFML": [
     "0_CCA_Provence",

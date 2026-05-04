@@ -1,0 +1,399 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "uuid": "Clermont VFR Point",
+                "textStyle": {
+                    "color": [
+                        212,
+                        174,
+                        255
+                    ],
+                    "fontFamily": "Arial",
+                    "fontSize": 14,
+                    "fontWeight": 600,
+                    "text": "NB"
+                }
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        3.216944,
+                        45.914167
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uuid": "Clermont VFR Point",
+                "textStyle": {
+                    "color": [
+                        212,
+                        174,
+                        255
+                    ],
+                    "fontFamily": "Arial",
+                    "fontSize": 14,
+                    "fontWeight": 600,
+                    "text": "NE"
+                }
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        3.474167,
+                        45.959722
+                    ],
+                    [
+                        4.453889,
+                        45.6325
+                    ],
+                    [
+                        4.239444,
+                        46.581944
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uuid": "Clermont VFR Point",
+                "textStyle": {
+                    "color": [
+                        212,
+                        174,
+                        255
+                    ],
+                    "fontFamily": "Arial",
+                    "fontSize": 14,
+                    "fontWeight": 600,
+                    "text": "NA"
+                }
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        3.160278,
+                        45.841389
+                    ],
+                    [
+                        4.231389,
+                        45.644167
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uuid": "Clermont VFR Point",
+                "textStyle": {
+                    "color": [
+                        212,
+                        174,
+                        255
+                    ],
+                    "fontFamily": "Arial",
+                    "fontSize": 14,
+                    "fontWeight": 600,
+                    "text": "S"
+                }
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        3.168611,
+                        45.653333
+                    ],
+                    [
+                        2.427778,
+                        44.277778
+                    ],
+                    [
+                        4.291667,
+                        45.392778
+                    ],
+                    [
+                        4.077778,
+                        46.203056
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uuid": "Clermont VFR Point",
+                "textStyle": {
+                    "color": [
+                        212,
+                        174,
+                        255
+                    ],
+                    "fontFamily": "Arial",
+                    "fontSize": 14,
+                    "fontWeight": 600,
+                    "text": "SE"
+                }
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        3.538333,
+                        45.754722
+                    ],
+                    [
+                        4.518333,
+                        45.473056
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uuid": "Clermont VFR Point",
+                "textStyle": {
+                    "color": [
+                        212,
+                        174,
+                        255
+                    ],
+                    "fontFamily": "Arial",
+                    "fontSize": 14,
+                    "fontWeight": 600,
+                    "text": "SB"
+                }
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        3.337222,
+                        45.7225
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uuid": "Clermont VFR Point",
+                "textStyle": {
+                    "color": [
+                        212,
+                        174,
+                        255
+                    ],
+                    "fontFamily": "Arial",
+                    "fontSize": 14,
+                    "fontWeight": 600,
+                    "text": "SA"
+                }
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        3.153056,
+                        45.734444
+                    ],
+                    [
+                        2.441111,
+                        44.344444
+                    ],
+                    [
+                        3.962778,
+                        46.334722
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uuid": "Clermont VFR Point",
+                "textStyle": {
+                    "color": [
+                        212,
+                        174,
+                        255
+                    ],
+                    "fontFamily": "Arial",
+                    "fontSize": 14,
+                    "fontWeight": 600,
+                    "text": "W"
+                }
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        2.236111,
+                        44.376111
+                    ],
+                    [
+                        4.125833,
+                        45.5575
+                    ],
+                    [
+                        3.793889,
+                        46.350556
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uuid": "Clermont VFR Point",
+                "textStyle": {
+                    "color": [
+                        212,
+                        174,
+                        255
+                    ],
+                    "fontFamily": "Arial",
+                    "fontSize": 14,
+                    "fontWeight": 600,
+                    "text": "N"
+                }
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        2.722778,
+                        44.471667
+                    ],
+                    [
+                        4.221389,
+                        45.739444
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uuid": "Clermont VFR Point",
+                "textStyle": {
+                    "color": [
+                        212,
+                        174,
+                        255
+                    ],
+                    "fontFamily": "Arial",
+                    "fontSize": 14,
+                    "fontWeight": 600,
+                    "text": "E"
+                }
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        2.742,
+                        44.4075
+                    ],
+                    [
+                        4.275,
+                        46.433889
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uuid": "Clermont VFR Point",
+                "textStyle": {
+                    "color": [
+                        212,
+                        174,
+                        255
+                    ],
+                    "fontFamily": "Arial",
+                    "fontSize": 14,
+                    "fontWeight": 600,
+                    "text": "EA"
+                }
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        2.604167,
+                        44.408056
+                    ],
+                    [
+                        4.140833,
+                        46.44
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uuid": "Clermont VFR Point",
+                "textStyle": {
+                    "color": [
+                        212,
+                        174,
+                        255
+                    ],
+                    "fontFamily": "Arial",
+                    "fontSize": 14,
+                    "fontWeight": 600,
+                    "text": "WA"
+                }
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        3.900833,
+                        46.406944
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uuid": "Clermont VFR Point",
+                "textStyle": {
+                    "color": [
+                        212,
+                        174,
+                        255
+                    ],
+                    "fontFamily": "Arial",
+                    "fontSize": 14,
+                    "fontWeight": 600,
+                    "text": "NW"
+                }
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        3.816111,
+                        46.506667
+                    ]
+                ]
+            }
+        }
+    ]
+}
