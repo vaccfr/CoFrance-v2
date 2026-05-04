@@ -118,6 +118,11 @@
     "2_CCA_Nice_VFR",
     "3_CCA_Nice_AMG"
   ],
+  "LFMT": [
+    "0_CCA_Montpellier",
+    "1_CCA_Montpellier_VFR",
+    "2_CCA_Montpellier_AMSR"
+  ],
   "LFOB": [
     "0_CCA_Beauvais",
     "1_CCA_Beauvais_VFR",

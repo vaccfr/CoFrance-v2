@@ -1,0 +1,1049 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "uuid": "Montpellier VFR Point",
+                "textStyle": {
+                    "color": [
+                        244,
+                        246,
+                        255
+                    ],
+                    "fontFamily": "Arial",
+                    "fontSize": 12,
+                    "fontWeight": 600,
+                    "text": "NL"
+                }
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        3.055833,
+                        42.910278
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uuid": "Montpellier VFR Point",
+                "textStyle": {
+                    "color": [
+                        244,
+                        246,
+                        255
+                    ],
+                    "fontFamily": "Arial",
+                    "fontSize": 12,
+                    "fontWeight": 600,
+                    "text": "NF"
+                }
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        2.998611,
+                        42.876667
+                    ],
+                    [
+                        4.02,
+                        43.714722
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uuid": "Montpellier VFR Point",
+                "textStyle": {
+                    "color": [
+                        244,
+                        246,
+                        255
+                    ],
+                    "fontFamily": "Arial",
+                    "fontSize": 12,
+                    "fontWeight": 600,
+                    "text": "E"
+                }
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        3.038611,
+                        42.778889
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uuid": "Montpellier VFR Point",
+                "textStyle": {
+                    "color": [
+                        244,
+                        246,
+                        255
+                    ],
+                    "fontFamily": "Arial",
+                    "fontSize": 12,
+                    "fontWeight": 600,
+                    "text": "EA"
+                }
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        2.986944,
+                        42.763889
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uuid": "Montpellier VFR Point",
+                "textStyle": {
+                    "color": [
+                        244,
+                        246,
+                        255
+                    ],
+                    "fontFamily": "Arial",
+                    "fontSize": 12,
+                    "fontWeight": 600,
+                    "text": "PC"
+                }
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        3.0375,
+                        42.703056
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uuid": "Montpellier VFR Point",
+                "textStyle": {
+                    "color": [
+                        244,
+                        246,
+                        255
+                    ],
+                    "fontFamily": "Arial",
+                    "fontSize": 12,
+                    "fontWeight": 600,
+                    "text": "SC"
+                }
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        3.039167,
+                        42.619722
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uuid": "Montpellier VFR Point",
+                "textStyle": {
+                    "color": [
+                        244,
+                        246,
+                        255
+                    ],
+                    "fontFamily": "Arial",
+                    "fontSize": 12,
+                    "fontWeight": 600,
+                    "text": "MS"
+                }
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        2.860556,
+                        42.608333
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uuid": "Montpellier VFR Point",
+                "textStyle": {
+                    "color": [
+                        244,
+                        246,
+                        255
+                    ],
+                    "fontFamily": "Arial",
+                    "fontSize": 12,
+                    "fontWeight": 600,
+                    "text": "WS"
+                }
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        2.759167,
+                        42.681944
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uuid": "Montpellier VFR Point",
+                "textStyle": {
+                    "color": [
+                        244,
+                        246,
+                        255
+                    ],
+                    "fontFamily": "Arial",
+                    "fontSize": 12,
+                    "fontWeight": 600,
+                    "text": "WN"
+                }
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        2.68,
+                        42.788611
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uuid": "Montpellier VFR Point",
+                "textStyle": {
+                    "color": [
+                        244,
+                        246,
+                        255
+                    ],
+                    "fontFamily": "Arial",
+                    "fontSize": 12,
+                    "fontWeight": 600,
+                    "text": "PZ"
+                }
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        3.445278,
+                        43.474722
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uuid": "Montpellier VFR Point",
+                "textStyle": {
+                    "color": [
+                        244,
+                        246,
+                        255
+                    ],
+                    "fontFamily": "Arial",
+                    "fontSize": 12,
+                    "fontWeight": 600,
+                    "text": "NB"
+                }
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        3.236944,
+                        43.420556
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uuid": "Montpellier VFR Point",
+                "textStyle": {
+                    "color": [
+                        244,
+                        246,
+                        255
+                    ],
+                    "fontFamily": "Arial",
+                    "fontSize": 12,
+                    "fontWeight": 600,
+                    "text": "CG"
+                }
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        3.041667,
+                        43.331111
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uuid": "Montpellier VFR Point",
+                "textStyle": {
+                    "color": [
+                        244,
+                        246,
+                        255
+                    ],
+                    "fontFamily": "Arial",
+                    "fontSize": 12,
+                    "fontWeight": 600,
+                    "text": "AD"
+                }
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        3.24,
+                        43.212778
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uuid": "Montpellier VFR Point",
+                "textStyle": {
+                    "color": [
+                        244,
+                        246,
+                        255
+                    ],
+                    "fontFamily": "Arial",
+                    "fontSize": 12,
+                    "fontWeight": 600,
+                    "text": "SE"
+                }
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        3.505833,
+                        43.270556
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uuid": "Montpellier VFR Point",
+                "textStyle": {
+                    "color": [
+                        244,
+                        246,
+                        255
+                    ],
+                    "fontFamily": "Arial",
+                    "fontSize": 12,
+                    "fontWeight": 600,
+                    "text": "MZ"
+                }
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        3.576111,
+                        43.4425
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uuid": "Montpellier VFR Point",
+                "textStyle": {
+                    "color": [
+                        244,
+                        246,
+                        255
+                    ],
+                    "fontFamily": "Arial",
+                    "fontSize": 12,
+                    "fontWeight": 600,
+                    "text": "AM"
+                }
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        4.192778,
+                        43.563611
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uuid": "Montpellier VFR Point",
+                "textStyle": {
+                    "color": [
+                        244,
+                        246,
+                        255
+                    ],
+                    "fontFamily": "Arial",
+                    "fontSize": 12,
+                    "fontWeight": 600,
+                    "text": "ES"
+                }
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        4.141944,
+                        43.482778
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uuid": "Montpellier VFR Point",
+                "textStyle": {
+                    "color": [
+                        244,
+                        246,
+                        255
+                    ],
+                    "fontFamily": "Arial",
+                    "fontSize": 12,
+                    "fontWeight": 600,
+                    "text": "ER"
+                }
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        4.100833,
+                        43.578611
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uuid": "Montpellier VFR Point",
+                "textStyle": {
+                    "color": [
+                        244,
+                        246,
+                        255
+                    ],
+                    "fontFamily": "Arial",
+                    "fontSize": 12,
+                    "fontWeight": 600,
+                    "text": "SA"
+                }
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        4.2325,
+                        43.46
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uuid": "Montpellier VFR Point",
+                "textStyle": {
+                    "color": [
+                        244,
+                        246,
+                        255
+                    ],
+                    "fontFamily": "Arial",
+                    "fontSize": 12,
+                    "fontWeight": 600,
+                    "text": "N"
+                }
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        4.090278,
+                        43.791389
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uuid": "Montpellier VFR Point",
+                "textStyle": {
+                    "color": [
+                        244,
+                        246,
+                        255
+                    ],
+                    "fontFamily": "Arial",
+                    "fontSize": 12,
+                    "fontWeight": 600,
+                    "text": "NC"
+                }
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        4.003889,
+                        43.625278
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uuid": "Montpellier VFR Point",
+                "textStyle": {
+                    "color": [
+                        244,
+                        246,
+                        255
+                    ],
+                    "fontFamily": "Arial",
+                    "fontSize": 12,
+                    "fontWeight": 600,
+                    "text": "NE"
+                }
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        3.980833,
+                        43.68
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uuid": "Montpellier VFR Point",
+                "textStyle": {
+                    "color": [
+                        244,
+                        246,
+                        255
+                    ],
+                    "fontFamily": "Arial",
+                    "fontSize": 12,
+                    "fontWeight": 600,
+                    "text": "WF"
+                }
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        3.758056,
+                        43.634722
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uuid": "Montpellier VFR Point",
+                "textStyle": {
+                    "color": [
+                        244,
+                        246,
+                        255
+                    ],
+                    "fontFamily": "Arial",
+                    "fontSize": 12,
+                    "fontWeight": 600,
+                    "text": "PF"
+                }
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        3.869722,
+                        43.729167
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uuid": "Montpellier VFR Point",
+                "textStyle": {
+                    "color": [
+                        244,
+                        246,
+                        255
+                    ],
+                    "fontFamily": "Arial",
+                    "fontSize": 12,
+                    "fontWeight": 600,
+                    "text": "SW"
+                }
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        3.883611,
+                        43.5125
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uuid": "Montpellier VFR Point",
+                "textStyle": {
+                    "color": [
+                        244,
+                        246,
+                        255
+                    ],
+                    "fontFamily": "Arial",
+                    "fontSize": 12,
+                    "fontWeight": 600,
+                    "text": "WT"
+                }
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        3.792222,
+                        43.543611
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uuid": "Montpellier VFR Point",
+                "textStyle": {
+                    "color": [
+                        244,
+                        246,
+                        255
+                    ],
+                    "fontFamily": "Arial",
+                    "fontSize": 12,
+                    "fontWeight": 600,
+                    "text": "W"
+                }
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        3.830556,
+                        43.562222
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uuid": "Montpellier VFR Point",
+                "textStyle": {
+                    "color": [
+                        244,
+                        246,
+                        255
+                    ],
+                    "fontFamily": "Arial",
+                    "fontSize": 12,
+                    "fontWeight": 600,
+                    "text": "SF"
+                }
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        3.815278,
+                        43.466111
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uuid": "Montpellier VFR Point",
+                "textStyle": {
+                    "color": [
+                        244,
+                        246,
+                        255
+                    ],
+                    "fontFamily": "Arial",
+                    "fontSize": 12,
+                    "fontWeight": 600,
+                    "text": "AL"
+                }
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        4.5875,
+                        43.666389
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uuid": "Montpellier VFR Point",
+                "textStyle": {
+                    "color": [
+                        244,
+                        246,
+                        255
+                    ],
+                    "fontFamily": "Arial",
+                    "fontSize": 12,
+                    "fontWeight": 600,
+                    "text": "BC"
+                }
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        4.633333,
+                        43.830278
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uuid": "Montpellier VFR Point",
+                "textStyle": {
+                    "color": [
+                        244,
+                        246,
+                        255
+                    ],
+                    "fontFamily": "Arial",
+                    "fontSize": 12,
+                    "fontWeight": 600,
+                    "text": "ET"
+                }
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        4.259444,
+                        43.619167
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uuid": "Montpellier VFR Point",
+                "textStyle": {
+                    "color": [
+                        244,
+                        246,
+                        255
+                    ],
+                    "fontFamily": "Arial",
+                    "fontSize": 12,
+                    "fontWeight": 600,
+                    "text": "CA"
+                }
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        4.194722,
+                        43.779444
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uuid": "Montpellier VFR Point",
+                "textStyle": {
+                    "color": [
+                        244,
+                        246,
+                        255
+                    ],
+                    "fontFamily": "Arial",
+                    "fontSize": 12,
+                    "fontWeight": 600,
+                    "text": "AS"
+                }
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        4.213889,
+                        43.681944
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uuid": "Montpellier VFR Point",
+                "textStyle": {
+                    "color": [
+                        244,
+                        246,
+                        255
+                    ],
+                    "fontFamily": "Arial",
+                    "fontSize": 12,
+                    "fontWeight": 600,
+                    "text": "CS"
+                }
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        4.478333,
+                        43.952778
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uuid": "Montpellier VFR Point",
+                "textStyle": {
+                    "color": [
+                        244,
+                        246,
+                        255
+                    ],
+                    "fontFamily": "Arial",
+                    "fontSize": 12,
+                    "fontWeight": 600,
+                    "text": "SG"
+                }
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        4.432444,
+                        43.644175
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uuid": "Montpellier VFR Point",
+                "textStyle": {
+                    "color": [
+                        244,
+                        246,
+                        255
+                    ],
+                    "fontFamily": "Arial",
+                    "fontSize": 12,
+                    "fontWeight": 600,
+                    "text": "PA"
+                }
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        4.544542,
+                        43.69025
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uuid": "Montpellier VFR Point",
+                "textStyle": {
+                    "color": [
+                        244,
+                        246,
+                        255
+                    ],
+                    "fontFamily": "Arial",
+                    "fontSize": 12,
+                    "fontWeight": 600,
+                    "text": "BG"
+                }
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        4.514556,
+                        43.753306
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uuid": "Montpellier VFR Point",
+                "textStyle": {
+                    "color": [
+                        244,
+                        246,
+                        255
+                    ],
+                    "fontFamily": "Arial",
+                    "fontSize": 12,
+                    "fontWeight": 600,
+                    "text": "CZ"
+                }
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        4.328583,
+                        43.815139
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uuid": "Montpellier VFR Point",
+                "textStyle": {
+                    "color": [
+                        244,
+                        246,
+                        255
+                    ],
+                    "fontFamily": "Arial",
+                    "fontSize": 12,
+                    "fontWeight": 600,
+                    "text": "RD"
+                }
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        4.49725,
+                        43.8315
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uuid": "Montpellier VFR Point",
+                "textStyle": {
+                    "color": [
+                        244,
+                        246,
+                        255
+                    ],
+                    "fontFamily": "Arial",
+                    "fontSize": 12,
+                    "fontWeight": 600,
+                    "text": "UH"
+                }
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        4.267583,
+                        43.756056
+                    ]
+                ]
+            }
+        }
+    ]
+}
