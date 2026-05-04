@@ -1,3 +1,22 @@
+# CoFrance v2.2.3 Changelog
+
+### Improvements
+- Holding lists can now be opened if hold is assigned by another sector
+- Sector levels indicator in MM now displays correct ownership between bandbox and U sector
+
+### Additions
+- Added QDM reciprocal bearing
+
+### Fixes
+- Fixed exceptions when using AVISO radar screen
+- Fixed Flight tag being filtered when it should not
+- Fixed aircraft not being selected if clicking tag background
+- Fixed Dynamic maps not redrawing immediately after airport config change
+- Fixed Departure/Waypoint lists stacking on each other when changing ASR
+- Fixed text only message not appearing for drag heading
+- Fixed ECFMP API URL
+
+
 # CoFrance v2.2.2 Changelog
 
 ### Improvements
