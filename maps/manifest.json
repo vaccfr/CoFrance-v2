@@ -128,6 +128,11 @@
     "2_CCA_Nantes_VFR",
     "3_CCA_Nantes_MVA"
   ],
+  "LFSB": [
+    "0_CCA_Bale",
+    "1_CCA_Bale_VFR",
+    "2_CCA_Bale_AMSR"
+  ],
   "LFMN": [
     "0_CCA_Nice",
     "1_CCA_Nice_QFU04_ILS",

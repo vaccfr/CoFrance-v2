@@ -1,0 +1,225 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "uuid": "Bale VFR Point",
+                "textStyle": {
+                    "color": [
+                        207,
+                        230,
+                        236
+                    ],
+                    "fontFamily": "Arial",
+                    "fontSize": 12,
+                    "fontWeight": 600,
+                    "text": "E"
+                }
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        7.5725,
+                        47.619167
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uuid": "Bale VFR Point",
+                "textStyle": {
+                    "color": [
+                        207,
+                        230,
+                        236
+                    ],
+                    "fontFamily": "Arial",
+                    "fontSize": 12,
+                    "fontWeight": 600,
+                    "text": "N"
+                }
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        7.542778,
+                        47.815
+                    ],
+                    [
+                        5.381111,
+                        47.121944
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uuid": "Bale VFR Point",
+                "textStyle": {
+                    "color": [
+                        207,
+                        230,
+                        236
+                    ],
+                    "fontFamily": "Arial",
+                    "fontSize": 12,
+                    "fontWeight": 600,
+                    "text": "NE"
+                }
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        7.580833,
+                        47.7075
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uuid": "Bale VFR Point",
+                "textStyle": {
+                    "color": [
+                        207,
+                        230,
+                        236
+                    ],
+                    "fontFamily": "Arial",
+                    "fontSize": 12,
+                    "fontWeight": 600,
+                    "text": "S"
+                }
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        7.714722,
+                        47.526667
+                    ],
+                    [
+                        5.484444,
+                        47.023056
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uuid": "Bale VFR Point",
+                "textStyle": {
+                    "color": [
+                        207,
+                        230,
+                        236
+                    ],
+                    "fontFamily": "Arial",
+                    "fontSize": 12,
+                    "fontWeight": 600,
+                    "text": "W"
+                }
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        7.235833,
+                        47.6325
+                    ],
+                    [
+                        5.170125,
+                        47.032497
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uuid": "Bale VFR Point",
+                "textStyle": {
+                    "color": [
+                        207,
+                        230,
+                        236
+                    ],
+                    "fontFamily": "Arial",
+                    "fontSize": 12,
+                    "fontWeight": 600,
+                    "text": "WA"
+                }
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        7.381389,
+                        47.6
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uuid": "Bale VFR Point",
+                "textStyle": {
+                    "color": [
+                        207,
+                        230,
+                        236
+                    ],
+                    "fontFamily": "Arial",
+                    "fontSize": 12,
+                    "fontWeight": 600,
+                    "text": "WB"
+                }
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        7.495278,
+                        47.588889
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uuid": "Bale VFR Point",
+                "textStyle": {
+                    "color": [
+                        207,
+                        230,
+                        236
+                    ],
+                    "fontFamily": "Arial",
+                    "fontSize": 12,
+                    "fontWeight": 600,
+                    "text": "SE"
+                }
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        5.571403,
+                        46.852397
+                    ]
+                ]
+            }
+        }
+    ]
+}
