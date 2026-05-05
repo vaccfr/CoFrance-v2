@@ -1,0 +1,577 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "uuid": "Chambery VFR Point",
+                "textStyle": {
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ],
+                    "fontFamily": "Arial",
+                    "fontSize": 12,
+                    "fontWeight": 600,
+                    "text": "ALBY"
+                }
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        6.020278,
+                        45.816667
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uuid": "Chambery VFR Point",
+                "textStyle": {
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ],
+                    "fontFamily": "Arial",
+                    "fontSize": 12,
+                    "fontWeight": 600,
+                    "text": "EY"
+                }
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        5.923889,
+                        45.714167
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uuid": "Chambery VFR Point",
+                "textStyle": {
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ],
+                    "fontFamily": "Arial",
+                    "fontSize": 12,
+                    "fontWeight": 600,
+                    "text": "NL"
+                }
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        5.828889,
+                        45.805833
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uuid": "Chambery VFR Point",
+                "textStyle": {
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ],
+                    "fontFamily": "Arial",
+                    "fontSize": 12,
+                    "fontWeight": 600,
+                    "text": "SB"
+                }
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        5.956667,
+                        45.543056
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uuid": "Chambery VFR Point",
+                "textStyle": {
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ],
+                    "fontFamily": "Arial",
+                    "fontSize": 12,
+                    "fontWeight": 600,
+                    "text": "SM"
+                }
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        6.023611,
+                        45.483889
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uuid": "Chambery VFR Point",
+                "textStyle": {
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ],
+                    "fontFamily": "Arial",
+                    "fontSize": 12,
+                    "fontWeight": 600,
+                    "text": "SW"
+                }
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        5.831111,
+                        45.555556
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uuid": "Chambery VFR Point",
+                "textStyle": {
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ],
+                    "fontFamily": "Arial",
+                    "fontSize": 12,
+                    "fontWeight": 600,
+                    "text": "WA"
+                }
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        5.846944,
+                        45.692778
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uuid": "Chambery VFR Point",
+                "textStyle": {
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ],
+                    "fontFamily": "Arial",
+                    "fontSize": 12,
+                    "fontWeight": 600,
+                    "text": "WB"
+                }
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        5.705556,
+                        45.758056
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uuid": "Chambery VFR Point",
+                "textStyle": {
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ],
+                    "fontFamily": "Arial",
+                    "fontSize": 12,
+                    "fontWeight": 600,
+                    "text": "WC"
+                }
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        5.779167,
+                        45.843056
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uuid": "Chambery VFR Point",
+                "textStyle": {
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ],
+                    "fontFamily": "Arial",
+                    "fontSize": 12,
+                    "fontWeight": 600,
+                    "text": "WG"
+                }
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        5.631667,
+                        45.598056
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uuid": "Chambery VFR Point",
+                "textStyle": {
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ],
+                    "fontFamily": "Arial",
+                    "fontSize": 12,
+                    "fontWeight": 600,
+                    "text": "N"
+                }
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        6.107222,
+                        46.034444
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uuid": "Chambery VFR Point",
+                "textStyle": {
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ],
+                    "fontFamily": "Arial",
+                    "fontSize": 12,
+                    "fontWeight": 600,
+                    "text": "NE"
+                }
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        6.2575,
+                        46.044722
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uuid": "Chambery VFR Point",
+                "textStyle": {
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ],
+                    "fontFamily": "Arial",
+                    "fontSize": 12,
+                    "fontWeight": 600,
+                    "text": "E"
+                }
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        6.168056,
+                        45.935278
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uuid": "Chambery VFR Point",
+                "textStyle": {
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ],
+                    "fontFamily": "Arial",
+                    "fontSize": 12,
+                    "fontWeight": 600,
+                    "text": "NA"
+                }
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        6.131667,
+                        46.004444
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uuid": "Chambery VFR Point",
+                "textStyle": {
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ],
+                    "fontFamily": "Arial",
+                    "fontSize": 12,
+                    "fontWeight": 600,
+                    "text": "NW"
+                }
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        6.033333,
+                        45.966667
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uuid": "Chambery VFR Point",
+                "textStyle": {
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ],
+                    "fontFamily": "Arial",
+                    "fontSize": 12,
+                    "fontWeight": 600,
+                    "text": "W"
+                }
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        5.920556,
+                        45.901667
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uuid": "Chambery VFR Point",
+                "textStyle": {
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ],
+                    "fontFamily": "Arial",
+                    "fontSize": 12,
+                    "fontWeight": 600,
+                    "text": "SA"
+                }
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        6.076111,
+                        45.875556
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uuid": "Chambery VFR Point",
+                "textStyle": {
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ],
+                    "fontFamily": "Arial",
+                    "fontSize": 12,
+                    "fontWeight": 600,
+                    "text": "SJ"
+                }
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        6.174167,
+                        45.844167
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uuid": "Chambery VFR Point",
+                "textStyle": {
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ],
+                    "fontFamily": "Arial",
+                    "fontSize": 12,
+                    "fontWeight": 600,
+                    "text": "EA"
+                }
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        6.228333,
+                        45.895833
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uuid": "Chambery VFR Point",
+                "textStyle": {
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ],
+                    "fontFamily": "Arial",
+                    "fontSize": 12,
+                    "fontWeight": 600,
+                    "text": "HN"
+                }
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        6.128333,
+                        45.933333
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uuid": "Chambery VFR Point",
+                "textStyle": {
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ],
+                    "fontFamily": "Arial",
+                    "fontSize": 12,
+                    "fontWeight": 600,
+                    "text": "HM"
+                }
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        6.115833,
+                        45.921389
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uuid": "Chambery VFR Point",
+                "textStyle": {
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ],
+                    "fontFamily": "Arial",
+                    "fontSize": 12,
+                    "fontWeight": 600,
+                    "text": "HS"
+                }
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        6.087778,
+                        45.896944
+                    ]
+                ]
+            }
+        }
+    ]
+}

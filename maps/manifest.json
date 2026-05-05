@@ -64,6 +64,11 @@
     "1_CCA_Ajaccio_VFR",
     "2_CCA_Ajaccio_AMSR"
   ],
+  "LFLB": [
+    "0_CCA_Chambery",
+    "1_CCA_Chambery_VFR",
+    "2_CCA_Chambery_MVA"
+  ],
   "LFLC": [
     "0_CCA_Clermont",
     "1_CCA_Clermont_VFR",
