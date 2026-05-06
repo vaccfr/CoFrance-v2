@@ -91,6 +91,11 @@
     "1_CCA_Provence_VFR",
     "2_CCA_Provence_AMSR"
   ],
+  "LFBP": [
+    "0_CCA_Pyrenees",
+    "1_CCA_Pyrenees_VFR",
+    "2_CCA_Pyrenees_MVA"
+  ],
   "LFBZ": [
     "0_CCA_Biarritz",
     "1_CCA_Biarritz_VFR",
