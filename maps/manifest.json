@@ -26,7 +26,9 @@
   ],
   "LFRR": [
     "Carte_Trajectoires_UIR",
-    "Carte_VFR"
+    "0_Carte_APP",
+    "1_Carte_VFR",
+    "2_Carte_MVA"
   ],
   "LFMM": [
     "0_Fake_Background",
