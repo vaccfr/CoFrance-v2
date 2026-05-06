@@ -133,6 +133,11 @@
     "1_CCA_Bale_VFR",
     "2_CCA_Bale_AMSR"
   ],
+  "LFST": [
+    "0_CCA_Strasbourg",
+    "1_CCA_Strasbourg_VFR",
+    "2_CCA_Strasbourg_AMSR"
+  ],
   "LFMN": [
     "0_CCA_Nice",
     "1_CCA_Nice_QFU04_ILS",
