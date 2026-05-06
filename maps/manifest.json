@@ -4,6 +4,7 @@
   "LFFF": [
     "Carte_Trajectoires_UIR",
     "Carte_Trajectoires_FIR",
+    "Carte_VFR",
     "New\\0_Fond_Secteur",
     "New\\0_Fake_Background",
     "New\\Cartes_Dynamiques",
@@ -14,20 +15,26 @@
   ],
   "LFEE": [
     "Carte_Trajectoires_FRA",
-    "Carte_Trajectoires_UIR"
+    "Carte_Trajectoires_UIR",
+    "0_Carte_APP",
+    "1_Carte_VFR",
+    "2_Carte_AMSR"
   ],
   "LFBB": [
-    "Carte_Trajectoires_UIR"
+    "Carte_Trajectoires_UIR",
+    "Carte_VFR"
   ],
   "LFRR": [
-    "Carte_Trajectoires_UIR"
+    "Carte_Trajectoires_UIR",
+    "Carte_VFR"
   ],
   "LFMM": [
     "0_Fake_Background",
     "Trajectoires_Nord_FRA",
     "Trajectoires_Sud_FRA",
     "Limites_Secteurs_UIR",
-    "Fond_Secteurs"
+    "Fond_Secteurs",
+    "Carte_VFR"
   ],
   "LFBD": [
     "0_CCA_Aquitaine",
