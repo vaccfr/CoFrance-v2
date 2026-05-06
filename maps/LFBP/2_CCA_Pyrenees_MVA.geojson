@@ -7,11 +7,11 @@
                 "name": "Pyrenees MVA",
                 "lineStyle": {
                     "color": [
-                        45,
-                        116,
-                        179
+                        222,
+                        100,
+                        0
                     ],
-                    "width": 0.26,
+                    "width": 2,
                     "opacity": 1,
                     "dashArray": null
                 }
@@ -2858,9 +2858,9 @@
                 "uuid": "Pyrenees MVA Altitudes",
                 "textStyle": {
                     "color": [
-                        45,
-                        116,
-                        179
+                        222,
+                        100,
+                        0
                     ],
                     "fontFamily": "Arial",
                     "fontSize": 16,
@@ -2884,9 +2884,9 @@
                 "uuid": "Pyrenees MVA Altitudes",
                 "textStyle": {
                     "color": [
-                        45,
-                        116,
-                        179
+                        222,
+                        100,
+                        0
                     ],
                     "fontFamily": "Arial",
                     "fontSize": 16,
@@ -2910,9 +2910,9 @@
                 "uuid": "Pyrenees MVA Altitudes",
                 "textStyle": {
                     "color": [
-                        45,
-                        116,
-                        179
+                        222,
+                        100,
+                        0
                     ],
                     "fontFamily": "Arial",
                     "fontSize": 16,
@@ -2936,9 +2936,9 @@
                 "uuid": "Pyrenees MVA Altitudes",
                 "textStyle": {
                     "color": [
-                        45,
-                        116,
-                        179
+                        222,
+                        100,
+                        0
                     ],
                     "fontFamily": "Arial",
                     "fontSize": 16,
@@ -2962,9 +2962,9 @@
                 "uuid": "Pyrenees MVA Altitudes",
                 "textStyle": {
                     "color": [
-                        45,
-                        116,
-                        179
+                        222,
+                        100,
+                        0
                     ],
                     "fontFamily": "Arial",
                     "fontSize": 16,
@@ -2988,9 +2988,9 @@
                 "uuid": "Pyrenees MVA Altitudes",
                 "textStyle": {
                     "color": [
-                        45,
-                        116,
-                        179
+                        222,
+                        100,
+                        0
                     ],
                     "fontFamily": "Arial",
                     "fontSize": 16,
@@ -3014,9 +3014,9 @@
                 "uuid": "Pyrenees MVA Altitudes",
                 "textStyle": {
                     "color": [
-                        45,
-                        116,
-                        179
+                        222,
+                        100,
+                        0
                     ],
                     "fontFamily": "Arial",
                     "fontSize": 16,
@@ -3040,9 +3040,9 @@
                 "uuid": "Pyrenees MVA Altitudes",
                 "textStyle": {
                     "color": [
-                        45,
-                        116,
-                        179
+                        222,
+                        100,
+                        0
                     ],
                     "fontFamily": "Arial",
                     "fontSize": 16,
