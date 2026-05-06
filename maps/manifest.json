@@ -107,6 +107,13 @@
     "1_CCA_Seine_VFR",
     "2_CCA_Seine_AMG"
   ],
+  "LFPO": [
+    "0_EGA_Paris_Orly",
+    "1_EGA_Paris_Orly_EL",
+    "1_EGA_Paris_Orly_WL",
+    "2_EGA_Paris_Orly_IPGW",
+    "2_EGA_Paris_Orly_IPOW"
+  ],
   "LFQQ": [
     "0_CCA_Lille",
     "1_CCA_Lille_VFR",
