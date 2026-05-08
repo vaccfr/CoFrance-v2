@@ -2,21 +2,29 @@
   "$schema": "https://raw.githubusercontent.com/alexisBalzano/CoFrance-config-files/main/.github/schema/predefined_holds.schema.json",
   "version": "1.0.6",
   "PAR_": {
-    "MOPAR": {
-      "upperfl": 160,
-      "lowerfl": 70
-    },
-    "LORNI": {
-      "upperfl": 170,
+    "BANOX": {
+      "upperfl": 180,
       "lowerfl": 70
     },
     "ENORI": {
       "upperfl": 240,
       "lowerfl": 90
     },
-    "XERAM": {
-      "upperfl": 280,
-      "lowerfl": 200
+    "LORNI": {
+      "upperfl": 170,
+      "lowerfl": 70
+    },
+    "MOLBA": {
+      "upperfl": 140,
+      "lowerfl": 70
+    },
+    "MOPAR": {
+      "upperfl": 160,
+      "lowerfl": 70
+    },
+    "ODILO": {
+      "upperfl": 140,
+      "lowerfl": 70
     },
     "OKIPA": {
       "upperfl": 190,
@@ -26,28 +34,12 @@
       "upperfl": 240,
       "lowerfl": 70
     },
-    "MOLBA": {
-      "upperfl": 140,
-      "lowerfl": 70
-    },
-    "BANOX": {
-      "upperfl": 180,
-      "lowerfl": 70
-    },
-    "ODILO": {
-      "upperfl": 140,
-      "lowerfl": 70
+    "XERAM": {
+      "upperfl": 280,
+      "lowerfl": 200
     }
   },
   "LFEE_": {
-    "REM": {
-      "upperfl": 370,
-      "lowerfl": 320
-    },
-    "NANCY": {
-      "upperfl": 660,
-      "lowerfl": 0
-    },
     "ABUDA": {
       "upperfl": 370,
       "lowerfl": 200
@@ -56,47 +48,633 @@
       "upperfl": 660,
       "lowerfl": 270
     },
-    "VESAN": {
-      "upperfl": 370,
-      "lowerfl": 270
+    "NANCY": {
+      "upperfl": 660,
+      "lowerfl": 0
     },
     "RANUX": {
       "upperfl": 370,
       "lowerfl": 320
+    },
+    "REM": {
+      "upperfl": 370,
+      "lowerfl": 320
+    },
+    "VESAN": {
+      "upperfl": 370,
+      "lowerfl": 270
     }
   },
-  "LFMM_": {
-    "AMGEL": {
-      "upperfl": 170,
-      "lowerfl": 130
-    },
-    "NERAS": {
-      "upperfl": 140,
-      "lowerfl": 30
-    },
-    "MUS": {
+  "LFBB_": {
+    "ADIMO": {
       "upperfl": 140,
       "lowerfl": 80
     },
+    "FUZAP": {
+      "upperfl": 140,
+      "lowerfl": 80
+    },
+    "SULIT": {
+      "upperfl": 140,
+      "lowerfl": 80
+    },
+    "SURAS": {
+      "upperfl": 140,
+      "lowerfl": 80
+    }
+  },
+  "LFMM_": {
     "AMFOU": {
       "upperfl": 230,
       "lowerfl": 130
     },
-    "TALAR": {
-      "upperfl": 140,
-      "lowerfl": 80
+    "AMGEL": {
+      "upperfl": 170,
+      "lowerfl": 130
     },
     "ARBON": {
-      "upperfl": 140,
-      "lowerfl": 100
-    },
-    "GOMET": {
       "upperfl": 140,
       "lowerfl": 100
     },
     "DOLIV": {
       "upperfl": 140,
       "lowerfl": 80
+    },
+    "GEMKO": {
+      "upperfl": 110,
+      "lowerfl": 80
+    },
+    "GOMET": {
+      "upperfl": 140,
+      "lowerfl": 100
+    },
+    "LIPSU": {
+      "upperfl": 140,
+      "lowerfl": 40
+    },
+    "MUS": {
+      "upperfl": 140,
+      "lowerfl": 80
+    },
+    "NERAS": {
+      "upperfl": 140,
+      "lowerfl": 30
+    },
+    "RIKSI": {
+      "upperfl": 140,
+      "lowerfl": 80
+    },
+    "TALAR": {
+      "upperfl": 140,
+      "lowerfl": 80
+    }
+  },
+  "LFAC_": {
+    "TRACA": {
+      "upperfl": 40,
+      "lowerfl": 20
+    }
+  },
+  "LFAQ_": {
+    "ABY": {
+      "upperfl": 50,
+      "lowerfl": 30
+    },
+    "SULEX": {
+      "upperfl": 50,
+      "lowerfl": 30
+    }
+  },
+  "LFAT_": {
+    "EKLEB": {
+      "upperfl": 50,
+      "lowerfl": 20
+    },
+    "OKPEM": {
+      "upperfl": 50,
+      "lowerfl": 20
+    }
+  },
+  "LFBA_": {
+    "IBA29": {
+      "upperfl": 35,
+      "lowerfl": 25
+    }
+  },
+  "LFBD_": {
+    "DIRAX": {
+      "upperfl": 90,
+      "lowerfl": 50
+    },
+    "ETPAR": {
+      "upperfl": 120,
+      "lowerfl": 50
+    },
+    "LIBRU": {
+      "upperfl": 120,
+      "lowerfl": 50
+    },
+    "VAGNA": {
+      "upperfl": 120,
+      "lowerfl": 50
+    }
+  },
+  "LFBE_": {
+    "BE090": {
+      "upperfl": 50,
+      "lowerfl": 25
+    }
+  },
+  "LFBH_": {
+    "RL": {
+      "upperfl": 90,
+      "lowerfl": 25
+    }
+  },
+  "LFBI_": {
+    "BI032": {
+      "upperfl": 45,
+      "lowerfl": 30
+    },
+    "POI": {
+      "upperfl": 60,
+      "lowerfl": 30
+    }
+  },
+  "LFBK_": {
+    "BK416": {
+      "upperfl": 43,
+      "lowerfl": 33
+    }
+  },
+  "LFBL_": {
+    "IBL21": {
+      "upperfl": 90,
+      "lowerfl": 40
+    },
+    "MIGRA": {
+      "upperfl": 47,
+      "lowerfl": 37
+    }
+  },
+  "LFBN_": {
+    "NIGAG": {
+      "upperfl": 60,
+      "lowerfl": 25
+    }
+  },
+  "LFBO_": {
+    "ADIMO": {
+      "upperfl": 140,
+      "lowerfl": 80
+    },
+    "FUZAP": {
+      "upperfl": 140,
+      "lowerfl": 80
+    },
+    "SULIT": {
+      "upperfl": 140,
+      "lowerfl": 80
+    },
+    "SURAS": {
+      "upperfl": 140,
+      "lowerfl": 80
+    }
+  },
+  "LFBP_": {
+    "ATWIX": {
+      "upperfl": 120,
+      "lowerfl": 50
+    },
+    "PU": {
+      "upperfl": 40,
+      "lowerfl": 30
+    },
+    "TEPTI": {
+      "upperfl": 140,
+      "lowerfl": 50
+    }
+  },
+  "LFBR": {
+    "MUT": {
+      "upperfl": 80,
+      "lowerfl": 25
+    },
+    "XUREX": {
+      "upperfl": 50,
+      "lowerfl": 25
+    }
+  },
+  "LFBS_": {
+    "BRS": {
+      "upperfl": 50,
+      "lowerfl": 25
+    }
+  },
+  "LFBT_": {
+    "ATWIX": {
+      "upperfl": 120,
+      "lowerfl": 50
+    },
+    "BT400": {
+      "upperfl": 40,
+      "lowerfl": 30
+    },
+    "TBO": {
+      "upperfl": 40,
+      "lowerfl": 30
+    },
+    "TEPTI": {
+      "upperfl": 140,
+      "lowerfl": 50
+    },
+    "TL": {
+      "upperfl": 40,
+      "lowerfl": 30
+    }
+  },
+  "LFBU_": {
+    "GONPO": {
+      "upperfl": 70,
+      "lowerfl": 28
+    }
+  },
+  "LFBX_": {
+    "BX294": {
+      "upperfl": 50,
+      "lowerfl": 23
+    }
+  },
+  "LFBZ_": {
+    "BZ277": {
+      "upperfl": 70,
+      "lowerfl": 30
+    },
+    "OSGOT": {
+      "upperfl": 70,
+      "lowerfl": 30
+    },
+    "UREKU": {
+      "upperfl": 70,
+      "lowerfl": 30
+    }
+  },
+  "LFCC_": {
+    "ICC13": {
+      "upperfl": 40,
+      "lowerfl": 30
+    }
+  },
+  "LFCI_": {
+    "RW09": {
+      "upperfl": 70,
+      "lowerfl": 40
+    },
+    "RW27": {
+      "upperfl": 70,
+      "lowerfl": 40
+    }
+  },
+  "LFCK_": {
+    "ICK14": {
+      "upperfl": 80,
+      "lowerfl": 36
+    }
+  },
+  "LFCR_": {
+    "ICR13": {
+      "upperfl": 80,
+      "lowerfl": 46
+    },
+    "OGALO": {
+      "upperfl": 90,
+      "lowerfl": 52
+    }
+  },
+  "LFCY_": {
+    "CY286": {
+      "upperfl": 50,
+      "lowerfl": 20
+    }
+  },
+  "LFDJ_": {
+    "DJ902": {
+      "upperfl": 65,
+      "lowerfl": 55
+    },
+    "PMR": {
+      "upperfl": 80,
+      "lowerfl": 44
+    }
+  },
+  "LFDN_": {
+    "DN305": {
+      "upperfl": 80,
+      "lowerfl": 25
+    }
+  },
+  "LFGA_": {
+    "ALTIK": {
+      "upperfl": 110,
+      "lowerfl": 65
+    },
+    "HO": {
+      "upperfl": 80,
+      "lowerfl": 47
+    }
+  },
+  "LFGJ_": {
+    "DO": {
+      "upperfl": 60,
+      "lowerfl": 40
+    },
+    "GJ402": {
+      "upperfl": 60,
+      "lowerfl": 30
+    }
+  },
+  "LFJL_": {
+    "JL503": {
+      "upperfl": 70,
+      "lowerfl": 56
+    },
+    "MTZ": {
+      "upperfl": 110,
+      "lowerfl": 60
+    },
+    "QTQ": {
+      "upperfl": 70,
+      "lowerfl": 48
+    }
+  },
+  "LFJR_": {
+    "JR401": {
+      "upperfl": 50,
+      "lowerfl": 30
+    },
+    "JR502": {
+      "upperfl": 50,
+      "lowerfl": 30
+    }
+  },
+  "LFKB_": {
+    "BTA": {
+      "upperfl": 100,
+      "lowerfl": 52
+    },
+    "CAPCO": {
+      "upperfl": 140,
+      "lowerfl": 50
+    }
+  },
+  "LFKC_": {
+    "BISKI": {
+      "upperfl": 100,
+      "lowerfl": 30
+    },
+    "ILROU": {
+      "upperfl": 100,
+      "lowerfl": 30
+    }
+  },
+  "LFKF_": {
+    "GALDA": {
+      "upperfl": 80,
+      "lowerfl": 40
+    },
+    "MASAL": {
+      "upperfl": 80,
+      "lowerfl": 50
+    },
+    "PINAL": {
+      "upperfl": 90,
+      "lowerfl": 60
+    }
+  },
+  "LFKJ_": {
+    "HORRO": {
+      "upperfl": 80,
+      "lowerfl": 30
+    },
+    "IDDOL": {
+      "upperfl": 120,
+      "lowerfl": 40
+    },
+    "KJ601": {
+      "upperfl": 60,
+      "lowerfl": 50
+    }
+  },
+  "LFLB_": {
+    "BAGAP": {
+      "upperfl": 110,
+      "lowerfl": 71
+    },
+    "EKNOS": {
+      "upperfl": 140,
+      "lowerfl": 70
+    },
+    "GEVEA": {
+      "upperfl": 150,
+      "lowerfl": 70
+    },
+    "GOLEB": {
+      "upperfl": 240,
+      "lowerfl": 200
+    },
+    "GOVNA": {
+      "upperfl": 90,
+      "lowerfl": 65
+    },
+    "NEMOS": {
+      "upperfl": 230,
+      "lowerfl": 110
+    },
+    "OSMAS": {
+      "upperfl": 140,
+      "lowerfl": 100
+    },
+    "VADAR": {
+      "upperfl": 230,
+      "lowerfl": 100
+    }
+  },
+  "LFLC_": {
+    "AMDAS": {
+      "upperfl": 120,
+      "lowerfl": 90
+    },
+    "RIMOR": {
+      "upperfl": 100,
+      "lowerfl": 60
+    }
+  },
+  "LFLL_": {
+    "ARBON": {
+      "upperfl": 140,
+      "lowerfl": 70
+    },
+    "GOMET": {
+      "upperfl": 140,
+      "lowerfl": 100
+    },
+    "RIPTU": {
+      "upperfl": 140,
+      "lowerfl": 70
+    },
+    "TALAR": {
+      "upperfl": 140,
+      "lowerfl": 80
+    }
+  },
+  "LFLN_": {
+    "GURGO": {
+      "upperfl": 70,
+      "lowerfl": 37
+    },
+    "LN400": {
+      "upperfl": 140,
+      "lowerfl": 80
+    },
+    "MOU": {
+      "upperfl": 80,
+      "lowerfl": 40
+    },
+    "SN": {
+      "upperfl": 80,
+      "lowerfl": 37
+    }
+  },
+  "LFLP_": {
+    "GEVEA": {
+      "upperfl": 150,
+      "lowerfl": 70
+    },
+    "GOLEB": {
+      "upperfl": 240,
+      "lowerfl": 180
+    },
+    "NEMOS": {
+      "upperfl": 230,
+      "lowerfl": 110
+    },
+    "OSMAS": {
+      "upperfl": 140,
+      "lowerfl": 100
+    },
+    "OSRIM": {
+      "upperfl": 110,
+      "lowerfl": 71
+    },
+    "PIRUV": {
+      "upperfl": 90,
+      "lowerfl": 65
+    },
+    "RIPTU": {
+      "upperfl": 140,
+      "lowerfl": 70
+    },
+    "SOCOF": {
+      "upperfl": 90,
+      "lowerfl": 65
+    },
+    "VADAR": {
+      "upperfl": 230,
+      "lowerfl": 90
+    }
+  },
+  "LFLS_": {
+    "ARBON": {
+      "upperfl": 140,
+      "lowerfl": 70
+    },
+    "GOMET": {
+      "upperfl": 140,
+      "lowerfl": 100
+    },
+    "RIPTU": {
+      "upperfl": 140,
+      "lowerfl": 70
+    }
+  },
+  "LFLU_": {
+    "INKAH": {
+      "upperfl": 90,
+      "lowerfl": 40
+    },
+    "VARUX": {
+      "upperfl": 90,
+      "lowerfl": 40
+    }
+  },
+  "LFLX_": {
+    "CTX": {
+      "upperfl": 60,
+      "lowerfl": 30
+    }
+  },
+  "LFLY_": {
+    "ARBON": {
+      "upperfl": 140,
+      "lowerfl": 70
+    },
+    "GOMET": {
+      "upperfl": 140,
+      "lowerfl": 100
+    },
+    "RIPTU": {
+      "upperfl": 140,
+      "lowerfl": 70
+    },
+    "TALAR": {
+      "upperfl": 140,
+      "lowerfl": 80
+    }
+  },
+  "LFMA_": {
+    "ALM": {
+      "upperfl": 50,
+      "lowerfl": 30
+    }
+  },
+  "LFMD_": {
+    "AMFOU": {
+      "upperfl": 230,
+      "lowerfl": 130
+    },
+    "AMGEL": {
+      "upperfl": 170,
+      "lowerfl": 130
+    },
+    "INLOV": {
+      "upperfl": 170,
+      "lowerfl": 140
+    },
+    "MD414": {
+      "upperfl": 20,
+      "lowerfl": 15
+    },
+    "NEKIP": {
+      "upperfl": 110,
+      "lowerfl": 60
+    }
+  },
+  "LFMH_": {
+    "BELEP": {
+      "upperfl": 80,
+      "lowerfl": 47
+    }
+  },
+  "LFMK_": {
+    "MK400": {
+      "upperfl": 75,
+      "lowerfl": 35
+    }
+  },
+  "LFML_": {
+    "DOLIV": {
+      "upperfl": 140,
+      "lowerfl": 110
     },
     "GEMKO": {
       "upperfl": 110,
@@ -112,81 +690,491 @@
     }
   },
   "LFMN_": {
-    "NERAS": {
-      "upperfl": 140,
-      "lowerfl": 30
+    "AMFOU": {
+      "upperfl": 230,
+      "lowerfl": 130
+    },
+    "AMGEL": {
+      "upperfl": 170,
+      "lowerfl": 130
     },
     "MUS": {
       "upperfl": 140,
       "lowerfl": 80
+    },
+    "NERAS": {
+      "upperfl": 140,
+      "lowerfl": 70
     }
   },
-  "LFLL_": {
-    "RIPTU": {
+  "LFMP_": {
+    "BAMGO": {
+      "upperfl": 80,
+      "lowerfl": 50
+    },
+    "LANET": {
+      "upperfl": 80,
+      "lowerfl": 30
+    }
+  },
+  "LFMQ_": {
+    "GEMKO": {
+      "upperfl": 80,
+      "lowerfl": 50
+    }
+  },
+  "LFMT_": {
+    "ESPIG": {
+      "upperfl": 80,
+      "lowerfl": 20
+    },
+    "FG": {
+      "upperfl": 80,
+      "lowerfl": 20
+    },
+    "GIGNA": {
+      "upperfl": 110,
+      "lowerfl": 50
+    }
+  },
+  "LFMV_": {
+    "ORDIF": {
+      "upperfl": 70,
+      "lowerfl": 42
+    },
+    "VOJEL": {
+      "upperfl": 70,
+      "lowerfl": 30
+    }
+  },
+  "LFOB_": {
+    "BIBAX": {
+      "upperfl": 240,
+      "lowerfl": 150
+    },
+    "BOV": {
+      "upperfl": 50,
+      "lowerfl": 30
+    },
+    "BV": {
+      "upperfl": 50,
+      "lowerfl": 20
+    },
+    "EGOZE": {
+      "upperfl": 80,
+      "lowerfl": 30
+    },
+    "LORNI": {
+      "upperfl": 170,
+      "lowerfl": 70
+    },
+    "ROU": {
+      "upperfl": 190,
+      "lowerfl": 70
+    }
+  },
+  "LFOH_": {
+    "ABAMU": {
+      "upperfl": 50,
+      "lowerfl": 30
+    },
+    "USAPI": {
+      "upperfl": 60,
+      "lowerfl": 30
+    }
+  },
+  "LFOK_": {
+    "KELON": {
+      "upperfl": 50,
+      "lowerfl": 25
+    },
+    "OKBUK": {
+      "upperfl": 50,
+      "lowerfl": 25
+    },
+    "VAT": {
+      "upperfl": 50,
+      "lowerfl": 25
+    }
+  },
+  "LFOP_": {
+    "IDLAB": {
+      "upperfl": 60,
+      "lowerfl": 30
+    },
+    "NAKIB": {
+      "upperfl": 60,
+      "lowerfl": 30
+    },
+    "ROU": {
+      "upperfl": 60,
+      "lowerfl": 30
+    },
+    "VAQOQ": {
+      "upperfl": 60,
+      "lowerfl": 30
+    }
+  },
+  "LFOT_": {
+    "OTKIG": {
+      "upperfl": 110,
+      "lowerfl": 50
+    },
+    "OTKUR": {
+      "upperfl": 110,
+      "lowerfl": 50
+    }
+  },
+  "LFOV_": {
+    "ARNEV": {
+      "upperfl": 50,
+      "lowerfl": 21
+    },
+    "LADAV": {
+      "upperfl": 50,
+      "lowerfl": 35
+    }
+  },
+  "LFPG_": {
+    "BANOX": {
+      "upperfl": 180,
+      "lowerfl": 70
+    },
+    "BIBAX": {
+      "upperfl": 240,
+      "lowerfl": 150
+    },
+    "ENORI": {
+      "upperfl": 240,
+      "lowerfl": 90
+    },
+    "LORNI": {
+      "upperfl": 170,
+      "lowerfl": 70
+    },
+    "LUKIP": {
+      "upperfl": 240,
+      "lowerfl": 200
+    },
+    "MOPAR": {
+      "upperfl": 240,
+      "lowerfl": 70
+    },
+    "NANOP": {
+      "upperfl": 280,
+      "lowerfl": 70
+    },
+    "OKIPA": {
+      "upperfl": 190,
+      "lowerfl": 70
+    },
+    "ROMGO": {
+      "upperfl": 240,
+      "lowerfl": 70
+    },
+    "ROU": {
+      "upperfl": 190,
+      "lowerfl": 70
+    },
+    "XERAM": {
+      "upperfl": 280,
+      "lowerfl": 200
+    }
+  },
+  "LFPM_": {
+    "ADDOZ": {
+      "upperfl": 30,
+      "lowerfl": 20
+    },
+    "ATTUC": {
+      "upperfl": 50,
+      "lowerfl": 30
+    }
+  },
+  "LFPN_": {
+    "DIBES": {
+      "upperfl": 280,
+      "lowerfl": 200
+    },
+    "LORNI": {
+      "upperfl": 170,
+      "lowerfl": 70
+    },
+    "MOLBA": {
       "upperfl": 140,
       "lowerfl": 70
     },
-    "TALAR": {
+    "ODILO": {
       "upperfl": 140,
-      "lowerfl": 80
+      "lowerfl": 70
     },
-    "ARBON": {
-      "upperfl": 140,
-      "lowerfl": 100
+    "OKRIX": {
+      "upperfl": 240,
+      "lowerfl": 70
     },
-    "GOMET": {
-      "upperfl": 140,
-      "lowerfl": 100
+    "SOTIP": {
+      "upperfl": 240,
+      "lowerfl": 70
+    },
+    "XERAM": {
+      "upperfl": 280,
+      "lowerfl": 200
     }
   },
-  "LFML_": {
-    "DOLIV": {
-      "upperfl": 140,
-      "lowerfl": 80
+  "LFPO_": {
+    "CAD": {
+      "upperfl": 240,
+      "lowerfl": 70
     },
-    "GEMKO": {
+    "DIBES": {
+      "upperfl": 280,
+      "lowerfl": 200
+    },
+    "LORNI": {
+      "upperfl": 170,
+      "lowerfl": 70
+    },
+    "MOLBA": {
+      "upperfl": 140,
+      "lowerfl": 70
+    },
+    "ODILO": {
+      "upperfl": 140,
+      "lowerfl": 70
+    },
+    "OKRIX": {
+      "upperfl": 240,
+      "lowerfl": 70
+    },
+    "XERAM": {
+      "upperfl": 280,
+      "lowerfl": 200
+    }
+  },
+  "LFQQ_": {
+    "ASBAR": {
+      "upperfl": 100,
+      "lowerfl": 50
+    },
+    "ERNOD": {
+      "upperfl": 100,
+      "lowerfl": 50
+    },
+    "LEQ": {
+      "upperfl": 80,
+      "lowerfl": 20
+    }
+  },
+  "LFQT_": {
+    "LEQ": {
+      "upperfl": 50,
+      "lowerfl": 20
+    },
+    "MRV": {
+      "upperfl": 50,
+      "lowerfl": 20
+    },
+    "MVC": {
+      "upperfl": 50,
+      "lowerfl": 20
+    },
+    "ODENI": {
+      "upperfl": 50,
+      "lowerfl": 20
+    },
+    "OKSOK": {
+      "upperfl": 50,
+      "lowerfl": 25
+    }
+  },
+  "LFRB_": {
+    "BG": {
+      "upperfl": 60,
+      "lowerfl": 20
+    },
+    "ERCOZ": {
+      "upperfl": 100,
+      "lowerfl": 60
+    },
+    "MOKEB": {
+      "upperfl": 70,
+      "lowerfl": 60
+    },
+    "RB504": {
+      "upperfl": 60,
+      "lowerfl": 30
+    },
+    "SOVIM": {
+      "upperfl": 190,
+      "lowerfl": 60
+    }
+  },
+  "LFRC_": {
+    "NOSDU": {
+      "upperfl": 50,
+      "lowerfl": 30
+    }
+  },
+  "LFRD_": {
+    "ABOTI": {
+      "upperfl": 60,
+      "lowerfl": 30
+    },
+    "ADIDI": {
+      "upperfl": 60,
+      "lowerfl": 30
+    },
+    "ERTUN": {
+      "upperfl": 60,
+      "lowerfl": 30
+    }
+  },
+  "LFRI_": {
+    "RINED": {
+      "upperfl": 40,
+      "lowerfl": 30
+    },
+    "ROGEK": {
+      "upperfl": 40,
+      "lowerfl": 30
+    }
+  },
+  "LFRK_": {
+    "CAN": {
+      "upperfl": 60,
+      "lowerfl": 30
+    },
+    "CN": {
+      "upperfl": 60,
+      "lowerfl": 30
+    },
+    "CNE": {
+      "upperfl": 60,
+      "lowerfl": 30
+    },
+    "XASUD": {
+      "upperfl": 80,
+      "lowerfl": 30
+    }
+  },
+  "LFRM_": {
+    "MAPEB": {
+      "upperfl": 60,
+      "lowerfl": 30
+    }
+  },
+  "LFRN_": {
+    "ENOKI": {
+      "upperfl": 100,
+      "lowerfl": 70
+    },
+    "REN": {
+      "upperfl": 90,
+      "lowerfl": 20
+    }
+  },
+  "LFRO_": {
+    "AMOPO": {
+      "upperfl": 60,
+      "lowerfl": 30
+    }
+  },
+  "LFRQ_": {
+    "RQ404": {
+      "upperfl": 40,
+      "lowerfl": 30
+    }
+  },
+  "LFRS_": {
+    "LAROK": {
+      "upperfl": 140,
+      "lowerfl": 70
+    },
+    "NEDAN": {
+      "upperfl": 140,
+      "lowerfl": 70
+    },
+    "NITEM": {
+      "upperfl": 140,
+      "lowerfl": 70
+    },
+    "NORMI": {
+      "upperfl": 140,
+      "lowerfl": 70
+    }
+  },
+  "LFRU_": {
+    "ERCOZ": {
+      "upperfl": 90,
+      "lowerfl": 60
+    },
+    "MOKEB": {
+      "upperfl": 60,
+      "lowerfl": 30
+    }
+  },
+  "LFRZ_": {
+    "NITEM": {
+      "upperfl": 60,
+      "lowerfl": 30
+    }
+  },
+  "LFSB_": {
+    "ADOGA": {
+      "upperfl": 160,
+      "lowerfl": 100
+    },
+    "ALTIK": {
       "upperfl": 110,
-      "lowerfl": 80
+      "lowerfl": 55
     },
-    "RIKSI": {
+    "ARPUS": {
       "upperfl": 140,
-      "lowerfl": 80
+      "lowerfl": 100
     }
   },
-  "LFBB_": {
-    "FUZAP": {
-      "upperfl": 140,
-      "lowerfl": 80
-    },
-    "SURAS": {
-      "upperfl": 140,
-      "lowerfl": 80
-    },
-    "ADIMO": {
-      "upperfl": 140,
-      "lowerfl": 80
-    },
-    "SULIT": {
-      "upperfl": 140,
-      "lowerfl": 80
+  "LFSD_": {
+    "DJL": {
+      "upperfl": 60,
+      "lowerfl": 40
     }
   },
-  "LFBO_": {
-    "FUZAP": {
-      "upperfl": 140,
-      "lowerfl": 80
+  "LFSL_": {
+    "BSC": {
+      "upperfl": 70,
+      "lowerfl": 30
+    }
+  },
+  "LFST_": {
+    "BAKIX": {
+      "upperfl": 80,
+      "lowerfl": 70
     },
-    "SURAS": {
-      "upperfl": 140,
-      "lowerfl": 80
+    "IZPIQ": {
+      "upperfl": 150,
+      "lowerfl": 120
     },
-    "ADIMO": {
-      "upperfl": 140,
-      "lowerfl": 80
+    "LOPSU": {
+      "upperfl": 70,
+      "lowerfl": 55
     },
-    "SULIT": {
+    "SAV": {
       "upperfl": 140,
-      "lowerfl": 80
+      "lowerfl": 65
+    },
+    "STB40": {
+      "upperfl": 140,
+      "lowerfl": 90
+    },
+    "STS40": {
+      "upperfl": 140,
+      "lowerfl": 90
+    }
+  },
+  "LFTW_": {
+    "NG": {
+      "upperfl": 70,
+      "lowerfl": 40
     }
   }
 }
