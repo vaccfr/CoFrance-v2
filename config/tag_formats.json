@@ -3426,6 +3426,59 @@
           }
         }
       ]
+    },
+    {
+      "name": "Iroise",
+      "rules": [
+        {
+          "name": "IFR",
+          "conditions": {
+            "isIFR": true,
+            "airports": [
+              "LFRB",
+              "LFRU",
+              "LFRO",
+              "LFRQ"
+            ]
+          },
+          "priority": 1,
+          "filtered": false,
+          "style": {
+            "track_symbol": "circle",
+            "track_symbol_fill": false,
+            "history_trail_symbol": "circle",
+            "foreground_color": "#ffb2b4",
+            "background_color": "#b27c7d"
+          }
+        },
+        {
+          "name": "VFR",
+          "conditions": {
+            "isVFR": true
+          },
+          "priority": 4,
+          "filtered": false,
+          "style": {
+            "track_symbol": "circle",
+            "track_symbol_fill": false,
+            "history_trail_symbol": "circle",
+            "foreground_color": "#3cab71",
+            "background_color": "#2a774f"
+          }
+        },
+        {
+          "name": "UNKN",
+          "priority": 10,
+          "filtered": true,
+          "style": {
+            "track_symbol": "circle",
+            "track_symbol_fill": false,
+            "history_trail_symbol": "circle",
+            "foreground_color": "#ffffff",
+            "background_color": "#b3b3b3"
+          }
+        }
+      ]
     }
   ]
 }
