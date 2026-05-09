@@ -2233,570 +2233,6 @@
       ]
     },
     {
-      "name": "Lyon",
-      "rules": [
-        {
-          "name": "ARR",
-          "conditions": {
-            "isArrival": true,
-            "airports": [
-              "LFLL"
-            ]
-          },
-          "priority": 1,
-          "filtered": false,
-          "style": {
-            "track_symbol": "circle",
-            "track_symbol_fill": true,
-            "history_trail_symbol": "circle",
-            "track_symbol_subtext": "",
-            "foreground_color": "#0cc665",
-            "background_color": "#07793d"
-          },
-          "taglayouts": {
-            "tag_layout": [
-              "gs",
-              "aspd",
-              "scratchpad",
-              "vz",
-              "atyp",
-              "hold",
-              "eat",
-              "coordination",
-              "notification",
-              "sequence",
-              "lost",
-              "stca",
-              "tct",
-              "\n",
-              "contact_flag",
-              "callsign",
-              "cpdlc_flag",
-              "comms",
-              "sector",
-              "rfl",
-              "group",
-              "\n",
-              "afl",
-              "tendency",
-              "cfl",
-              "wpt",
-              "ahdg",
-              "\n",
-              "xfl",
-              "hfl",
-              "copx",
-              "intention",
-              "arrrwy",
-              "\n",
-              "cpdlc_rqst",
-              "cpdlc_rqst_number"
-            ],
-            "extended_layout": [
-              "vspace",
-              "modeshdg",
-              "modesspd",
-              "modesmach",
-              "modessfl",
-              "\n",
-              "vspace",
-              "adep",
-              "ades",
-              "trans",
-              "arrrwy",
-              "\n",
-              "cr",
-              "align_right",
-              "nsfreq",
-              "\n",
-              "optext",
-              "align_right",
-              "afk",
-              "\n",
-              "vspace",
-              "traj",
-              "info",
-              "id",
-              "misc"
-            ]
-          }
-        },
-        {
-          "name": "ARR",
-          "conditions": {
-            "isArrival": true,
-            "airports": [
-              "LFLU"
-            ]
-          },
-          "priority": 1,
-          "filtered": false,
-          "style": {
-            "track_symbol": "circle",
-            "track_symbol_fill": true,
-            "history_trail_symbol": "circle",
-            "track_symbol_subtext": "U",
-            "foreground_color": "#2baf11",
-            "background_color": "#186209"
-          },
-          "taglayouts": {
-            "tag_layout": [
-              "gs",
-              "aspd",
-              "scratchpad",
-              "vz",
-              "atyp",
-              "hold",
-              "eat",
-              "coordination",
-              "notification",
-              "sequence",
-              "lost",
-              "stca",
-              "tct",
-              "\n",
-              "contact_flag",
-              "callsign",
-              "cpdlc_flag",
-              "comms",
-              "sector",
-              "rfl",
-              "group",
-              "\n",
-              "afl",
-              "tendency",
-              "cfl",
-              "wpt",
-              "ahdg",
-              "\n",
-              "xfl",
-              "hfl",
-              "copx",
-              "intention",
-              "arrrwy",
-              "\n",
-              "cpdlc_rqst",
-              "cpdlc_rqst_number"
-            ],
-            "extended_layout": [
-              "vspace",
-              "modeshdg",
-              "modesspd",
-              "modesmach",
-              "modessfl",
-              "\n",
-              "vspace",
-              "adep",
-              "ades",
-              "trans",
-              "arrrwy",
-              "\n",
-              "cr",
-              "align_right",
-              "nsfreq",
-              "\n",
-              "optext",
-              "align_right",
-              "afk",
-              "\n",
-              "vspace",
-              "traj",
-              "info",
-              "id",
-              "misc"
-            ]
-          }
-        },
-        {
-          "name": "ARR",
-          "conditions": {
-            "isArrival": true,
-            "airports": [
-              "LFLY"
-            ]
-          },
-          "priority": 1,
-          "filtered": false,
-          "style": {
-            "track_symbol": "circle",
-            "track_symbol_fill": true,
-            "history_trail_symbol": "circle",
-            "track_symbol_subtext": "Y",
-            "foreground_color": "#2baf11",
-            "background_color": "#186209"
-          },
-          "taglayouts": {
-            "tag_layout": [
-              "gs",
-              "aspd",
-              "scratchpad",
-              "vz",
-              "atyp",
-              "hold",
-              "eat",
-              "coordination",
-              "notification",
-              "sequence",
-              "lost",
-              "stca",
-              "tct",
-              "\n",
-              "contact_flag",
-              "callsign",
-              "cpdlc_flag",
-              "comms",
-              "sector",
-              "rfl",
-              "group",
-              "\n",
-              "afl",
-              "tendency",
-              "cfl",
-              "wpt",
-              "ahdg",
-              "\n",
-              "xfl",
-              "hfl",
-              "copx",
-              "intention",
-              "arrrwy",
-              "\n",
-              "cpdlc_rqst",
-              "cpdlc_rqst_number"
-            ],
-            "extended_layout": [
-              "vspace",
-              "modeshdg",
-              "modesspd",
-              "modesmach",
-              "modessfl",
-              "\n",
-              "vspace",
-              "adep",
-              "ades",
-              "trans",
-              "arrrwy",
-              "\n",
-              "cr",
-              "align_right",
-              "nsfreq",
-              "\n",
-              "optext",
-              "align_right",
-              "afk",
-              "\n",
-              "vspace",
-              "traj",
-              "info",
-              "id",
-              "misc"
-            ]
-          }
-        },
-        {
-          "name": "ARR",
-          "conditions": {
-            "isArrival": true,
-            "airports": [
-              "LFLB",
-              "LFLP"
-            ]
-          },
-          "priority": 1,
-          "filtered": false,
-          "style": {
-            "track_symbol": "circle",
-            "track_symbol_fill": true,
-            "history_trail_symbol": "circle",
-            "track_symbol_subtext": "B",
-            "foreground_color": "#2baf11",
-            "background_color": "#186209"
-          },
-          "taglayouts": {
-            "tag_layout": [
-              "gs",
-              "aspd",
-              "scratchpad",
-              "vz",
-              "atyp",
-              "hold",
-              "eat",
-              "coordination",
-              "notification",
-              "sequence",
-              "lost",
-              "stca",
-              "tct",
-              "\n",
-              "contact_flag",
-              "callsign",
-              "cpdlc_flag",
-              "comms",
-              "sector",
-              "rfl",
-              "group",
-              "\n",
-              "afl",
-              "tendency",
-              "cfl",
-              "wpt",
-              "ahdg",
-              "\n",
-              "xfl",
-              "hfl",
-              "copx",
-              "intention",
-              "arrrwy",
-              "\n",
-              "cpdlc_rqst",
-              "cpdlc_rqst_number"
-            ],
-            "extended_layout": [
-              "vspace",
-              "modeshdg",
-              "modesspd",
-              "modesmach",
-              "modessfl",
-              "\n",
-              "vspace",
-              "adep",
-              "ades",
-              "trans",
-              "arrrwy",
-              "\n",
-              "cr",
-              "align_right",
-              "nsfreq",
-              "\n",
-              "optext",
-              "align_right",
-              "afk",
-              "\n",
-              "vspace",
-              "traj",
-              "info",
-              "id",
-              "misc"
-            ]
-          }
-        },
-        {
-          "name": "ARR",
-          "conditions": {
-            "isArrival": true,
-            "airports": [
-              "LFLS"
-            ]
-          },
-          "priority": 1,
-          "filtered": false,
-          "style": {
-            "track_symbol": "circle",
-            "track_symbol_fill": true,
-            "history_trail_symbol": "circle",
-            "track_symbol_subtext": "S",
-            "foreground_color": "#2baf11",
-            "background_color": "#186209"
-          },
-          "taglayouts": {
-            "tag_layout": [
-              "gs",
-              "aspd",
-              "scratchpad",
-              "vz",
-              "atyp",
-              "hold",
-              "eat",
-              "coordination",
-              "notification",
-              "sequence",
-              "lost",
-              "stca",
-              "tct",
-              "\n",
-              "contact_flag",
-              "callsign",
-              "cpdlc_flag",
-              "comms",
-              "sector",
-              "rfl",
-              "group",
-              "\n",
-              "afl",
-              "tendency",
-              "cfl",
-              "wpt",
-              "ahdg",
-              "\n",
-              "xfl",
-              "hfl",
-              "copx",
-              "intention",
-              "arrrwy",
-              "\n",
-              "cpdlc_rqst",
-              "cpdlc_rqst_number"
-            ],
-            "extended_layout": [
-              "vspace",
-              "modeshdg",
-              "modesspd",
-              "modesmach",
-              "modessfl",
-              "\n",
-              "vspace",
-              "adep",
-              "ades",
-              "trans",
-              "arrrwy",
-              "\n",
-              "cr",
-              "align_right",
-              "nsfreq",
-              "\n",
-              "optext",
-              "align_right",
-              "afk",
-              "\n",
-              "vspace",
-              "traj",
-              "info",
-              "id",
-              "misc"
-            ]
-          }
-        },
-        {
-          "name": "DEP",
-          "conditions": {
-            "isDeparture": true,
-            "airports": [
-              "LFLL"
-            ]
-          },
-          "priority": 2,
-          "filtered": false,
-          "style": {
-            "track_symbol": "circle",
-            "track_symbol_fill": true,
-            "history_trail_symbol": "circle",
-            "track_symbol_subtext": "",
-            "foreground_color": "#cc787f",
-            "background_color": "#995a5f"
-          }
-        },
-        {
-          "name": "DEP",
-          "conditions": {
-            "isDeparture": true,
-            "airports": [
-              "LFLY"
-            ]
-          },
-          "priority": 2,
-          "filtered": false,
-          "style": {
-            "track_symbol": "circle",
-            "track_symbol_fill": true,
-            "history_trail_symbol": "circle",
-            "track_symbol_subtext": "Y",
-            "foreground_color": "#c4779e",
-            "background_color": "#915874"
-          }
-        },
-        {
-          "name": "DEP",
-          "conditions": {
-            "isDeparture": true,
-            "airports": [
-              "LFLB",
-              "LFLP"
-            ]
-          },
-          "priority": 2,
-          "filtered": false,
-          "style": {
-            "track_symbol": "circle",
-            "track_symbol_fill": true,
-            "history_trail_symbol": "circle",
-            "track_symbol_subtext": "B",
-            "foreground_color": "#c4779e",
-            "background_color": "#915874"
-          }
-        },
-        {
-          "name": "DEP",
-          "conditions": {
-            "isDeparture": true,
-            "airports": [
-              "LFLS"
-            ]
-          },
-          "priority": 2,
-          "filtered": false,
-          "style": {
-            "track_symbol": "circle",
-            "track_symbol_fill": true,
-            "history_trail_symbol": "circle",
-            "track_symbol_subtext": "S",
-            "foreground_color": "#c4779e",
-            "background_color": "#915874"
-          }
-        },
-        {
-          "name": "Tous IFR",
-          "conditions": {
-            "isVFR": false
-          },
-          "priority": 5,
-          "filtered": true,
-          "style": {
-            "track_symbol": "circle",
-            "track_symbol_fill": true,
-            "history_trail_symbol": "circle",
-            "track_symbol_subtext": "",
-            "foreground_color": "#00adbc",
-            "background_color": "#007e89"
-          }
-        },
-        {
-          "name": "Tous IFR",
-          "conditions": {
-            "isVFR": false,
-            "airports": [
-              "LSGG"
-            ]
-          },
-          "priority": 4,
-          "filtered": true,
-          "style": {
-            "track_symbol": "circle",
-            "track_symbol_fill": true,
-            "history_trail_symbol": "circle",
-            "track_symbol_subtext": "",
-            "foreground_color": "#9187c1",
-            "background_color": "#6a638e"
-          }
-        },
-        {
-          "name": "Tous VFR",
-          "conditions": {
-            "isVFR": true
-          },
-          "priority": 5,
-          "filtered": true,
-          "style": {
-            "track_symbol": "circle",
-            "track_symbol_fill": true,
-            "history_trail_symbol": "circle",
-            "track_symbol_subtext": "",
-            "foreground_color": "#a99200",
-            "background_color": "#756500"
-          }
-        }
-      ]
-    },
-    {
       "name": "Ajaccio",
       "rules": [
         {
@@ -3582,6 +3018,676 @@
             "history_trail_symbol": "dots",
             "foreground_color": "#f9f8cb",
             "background_color": "#aeae8e"
+          }
+        }
+      ]
+    },
+    {
+      "name": "Limoges",
+      "rules": [
+        {
+          "name": "IFR",
+          "conditions": {
+            "isIFR": true,
+            "airports": [
+              "LFBL",
+              "LFBU",
+              "LFBK",
+              "LFSL"
+            ]
+          },
+          "priority": 1,
+          "filtered": false,
+          "style": {
+            "track_symbol": "diamond",
+            "track_symbol_fill": false,
+            "history_trail_symbol": "dots",
+            "foreground_color": "#fcd451",
+            "background_color": "#b09339"
+          }
+        },
+        {
+          "name": "VFR",
+          "conditions": {
+            "isVFR": true
+          },
+          "priority": 4,
+          "filtered": false,
+          "style": {
+            "track_symbol": "diamond",
+            "track_symbol_fill": false,
+            "history_trail_symbol": "dots",
+            "foreground_color": "#f5dd8e",
+            "background_color": "#ab9a63"
+          }
+        },
+        {
+          "name": "UNKN",
+          "priority": 10,
+          "filtered": true,
+          "style": {
+            "track_symbol": "diamond",
+            "track_symbol_fill": false,
+            "history_trail_symbol": "dots",
+            "foreground_color": "#7a786e",
+            "background_color": "#55544d"
+          }
+        }
+      ]
+    },
+    {
+      "name": "Lyon",
+      "rules": [
+        {
+          "name": "ARR",
+          "conditions": {
+            "isArrival": true,
+            "airports": [
+              "LFLL"
+            ]
+          },
+          "priority": 1,
+          "filtered": false,
+          "style": {
+            "track_symbol": "circle",
+            "track_symbol_fill": true,
+            "history_trail_symbol": "circle",
+            "track_symbol_subtext": "",
+            "foreground_color": "#0cc665",
+            "background_color": "#07793d"
+          },
+          "taglayouts": {
+            "tag_layout": [
+              "gs",
+              "aspd",
+              "scratchpad",
+              "vz",
+              "atyp",
+              "hold",
+              "eat",
+              "coordination",
+              "notification",
+              "sequence",
+              "lost",
+              "stca",
+              "tct",
+              "\n",
+              "contact_flag",
+              "callsign",
+              "cpdlc_flag",
+              "comms",
+              "sector",
+              "rfl",
+              "group",
+              "\n",
+              "afl",
+              "tendency",
+              "cfl",
+              "wpt",
+              "ahdg",
+              "\n",
+              "xfl",
+              "hfl",
+              "copx",
+              "intention",
+              "arrrwy",
+              "\n",
+              "cpdlc_rqst",
+              "cpdlc_rqst_number"
+            ],
+            "extended_layout": [
+              "vspace",
+              "modeshdg",
+              "modesspd",
+              "modesmach",
+              "modessfl",
+              "\n",
+              "vspace",
+              "adep",
+              "ades",
+              "trans",
+              "arrrwy",
+              "\n",
+              "cr",
+              "align_right",
+              "nsfreq",
+              "\n",
+              "optext",
+              "align_right",
+              "afk",
+              "\n",
+              "vspace",
+              "traj",
+              "info",
+              "id",
+              "misc"
+            ]
+          }
+        },
+        {
+          "name": "ARR",
+          "conditions": {
+            "isArrival": true,
+            "airports": [
+              "LFLU"
+            ]
+          },
+          "priority": 1,
+          "filtered": false,
+          "style": {
+            "track_symbol": "circle",
+            "track_symbol_fill": true,
+            "history_trail_symbol": "circle",
+            "track_symbol_subtext": "U",
+            "foreground_color": "#2baf11",
+            "background_color": "#186209"
+          },
+          "taglayouts": {
+            "tag_layout": [
+              "gs",
+              "aspd",
+              "scratchpad",
+              "vz",
+              "atyp",
+              "hold",
+              "eat",
+              "coordination",
+              "notification",
+              "sequence",
+              "lost",
+              "stca",
+              "tct",
+              "\n",
+              "contact_flag",
+              "callsign",
+              "cpdlc_flag",
+              "comms",
+              "sector",
+              "rfl",
+              "group",
+              "\n",
+              "afl",
+              "tendency",
+              "cfl",
+              "wpt",
+              "ahdg",
+              "\n",
+              "xfl",
+              "hfl",
+              "copx",
+              "intention",
+              "arrrwy",
+              "\n",
+              "cpdlc_rqst",
+              "cpdlc_rqst_number"
+            ],
+            "extended_layout": [
+              "vspace",
+              "modeshdg",
+              "modesspd",
+              "modesmach",
+              "modessfl",
+              "\n",
+              "vspace",
+              "adep",
+              "ades",
+              "trans",
+              "arrrwy",
+              "\n",
+              "cr",
+              "align_right",
+              "nsfreq",
+              "\n",
+              "optext",
+              "align_right",
+              "afk",
+              "\n",
+              "vspace",
+              "traj",
+              "info",
+              "id",
+              "misc"
+            ]
+          }
+        },
+        {
+          "name": "ARR",
+          "conditions": {
+            "isArrival": true,
+            "airports": [
+              "LFLY"
+            ]
+          },
+          "priority": 1,
+          "filtered": false,
+          "style": {
+            "track_symbol": "circle",
+            "track_symbol_fill": true,
+            "history_trail_symbol": "circle",
+            "track_symbol_subtext": "Y",
+            "foreground_color": "#2baf11",
+            "background_color": "#186209"
+          },
+          "taglayouts": {
+            "tag_layout": [
+              "gs",
+              "aspd",
+              "scratchpad",
+              "vz",
+              "atyp",
+              "hold",
+              "eat",
+              "coordination",
+              "notification",
+              "sequence",
+              "lost",
+              "stca",
+              "tct",
+              "\n",
+              "contact_flag",
+              "callsign",
+              "cpdlc_flag",
+              "comms",
+              "sector",
+              "rfl",
+              "group",
+              "\n",
+              "afl",
+              "tendency",
+              "cfl",
+              "wpt",
+              "ahdg",
+              "\n",
+              "xfl",
+              "hfl",
+              "copx",
+              "intention",
+              "arrrwy",
+              "\n",
+              "cpdlc_rqst",
+              "cpdlc_rqst_number"
+            ],
+            "extended_layout": [
+              "vspace",
+              "modeshdg",
+              "modesspd",
+              "modesmach",
+              "modessfl",
+              "\n",
+              "vspace",
+              "adep",
+              "ades",
+              "trans",
+              "arrrwy",
+              "\n",
+              "cr",
+              "align_right",
+              "nsfreq",
+              "\n",
+              "optext",
+              "align_right",
+              "afk",
+              "\n",
+              "vspace",
+              "traj",
+              "info",
+              "id",
+              "misc"
+            ]
+          }
+        },
+        {
+          "name": "ARR",
+          "conditions": {
+            "isArrival": true,
+            "airports": [
+              "LFLB",
+              "LFLP"
+            ]
+          },
+          "priority": 1,
+          "filtered": false,
+          "style": {
+            "track_symbol": "circle",
+            "track_symbol_fill": true,
+            "history_trail_symbol": "circle",
+            "track_symbol_subtext": "B",
+            "foreground_color": "#2baf11",
+            "background_color": "#186209"
+          },
+          "taglayouts": {
+            "tag_layout": [
+              "gs",
+              "aspd",
+              "scratchpad",
+              "vz",
+              "atyp",
+              "hold",
+              "eat",
+              "coordination",
+              "notification",
+              "sequence",
+              "lost",
+              "stca",
+              "tct",
+              "\n",
+              "contact_flag",
+              "callsign",
+              "cpdlc_flag",
+              "comms",
+              "sector",
+              "rfl",
+              "group",
+              "\n",
+              "afl",
+              "tendency",
+              "cfl",
+              "wpt",
+              "ahdg",
+              "\n",
+              "xfl",
+              "hfl",
+              "copx",
+              "intention",
+              "arrrwy",
+              "\n",
+              "cpdlc_rqst",
+              "cpdlc_rqst_number"
+            ],
+            "extended_layout": [
+              "vspace",
+              "modeshdg",
+              "modesspd",
+              "modesmach",
+              "modessfl",
+              "\n",
+              "vspace",
+              "adep",
+              "ades",
+              "trans",
+              "arrrwy",
+              "\n",
+              "cr",
+              "align_right",
+              "nsfreq",
+              "\n",
+              "optext",
+              "align_right",
+              "afk",
+              "\n",
+              "vspace",
+              "traj",
+              "info",
+              "id",
+              "misc"
+            ]
+          }
+        },
+        {
+          "name": "ARR",
+          "conditions": {
+            "isArrival": true,
+            "airports": [
+              "LFLS"
+            ]
+          },
+          "priority": 1,
+          "filtered": false,
+          "style": {
+            "track_symbol": "circle",
+            "track_symbol_fill": true,
+            "history_trail_symbol": "circle",
+            "track_symbol_subtext": "S",
+            "foreground_color": "#2baf11",
+            "background_color": "#186209"
+          },
+          "taglayouts": {
+            "tag_layout": [
+              "gs",
+              "aspd",
+              "scratchpad",
+              "vz",
+              "atyp",
+              "hold",
+              "eat",
+              "coordination",
+              "notification",
+              "sequence",
+              "lost",
+              "stca",
+              "tct",
+              "\n",
+              "contact_flag",
+              "callsign",
+              "cpdlc_flag",
+              "comms",
+              "sector",
+              "rfl",
+              "group",
+              "\n",
+              "afl",
+              "tendency",
+              "cfl",
+              "wpt",
+              "ahdg",
+              "\n",
+              "xfl",
+              "hfl",
+              "copx",
+              "intention",
+              "arrrwy",
+              "\n",
+              "cpdlc_rqst",
+              "cpdlc_rqst_number"
+            ],
+            "extended_layout": [
+              "vspace",
+              "modeshdg",
+              "modesspd",
+              "modesmach",
+              "modessfl",
+              "\n",
+              "vspace",
+              "adep",
+              "ades",
+              "trans",
+              "arrrwy",
+              "\n",
+              "cr",
+              "align_right",
+              "nsfreq",
+              "\n",
+              "optext",
+              "align_right",
+              "afk",
+              "\n",
+              "vspace",
+              "traj",
+              "info",
+              "id",
+              "misc"
+            ]
+          }
+        },
+        {
+          "name": "DEP",
+          "conditions": {
+            "isDeparture": true,
+            "airports": [
+              "LFLL"
+            ]
+          },
+          "priority": 2,
+          "filtered": false,
+          "style": {
+            "track_symbol": "circle",
+            "track_symbol_fill": true,
+            "history_trail_symbol": "circle",
+            "track_symbol_subtext": "",
+            "foreground_color": "#cc787f",
+            "background_color": "#995a5f"
+          }
+        },
+        {
+          "name": "DEP",
+          "conditions": {
+            "isDeparture": true,
+            "airports": [
+              "LFLY"
+            ]
+          },
+          "priority": 2,
+          "filtered": false,
+          "style": {
+            "track_symbol": "circle",
+            "track_symbol_fill": true,
+            "history_trail_symbol": "circle",
+            "track_symbol_subtext": "Y",
+            "foreground_color": "#c4779e",
+            "background_color": "#915874"
+          }
+        },
+        {
+          "name": "DEP",
+          "conditions": {
+            "isDeparture": true,
+            "airports": [
+              "LFLB",
+              "LFLP"
+            ]
+          },
+          "priority": 2,
+          "filtered": false,
+          "style": {
+            "track_symbol": "circle",
+            "track_symbol_fill": true,
+            "history_trail_symbol": "circle",
+            "track_symbol_subtext": "B",
+            "foreground_color": "#c4779e",
+            "background_color": "#915874"
+          }
+        },
+        {
+          "name": "DEP",
+          "conditions": {
+            "isDeparture": true,
+            "airports": [
+              "LFLS"
+            ]
+          },
+          "priority": 2,
+          "filtered": false,
+          "style": {
+            "track_symbol": "circle",
+            "track_symbol_fill": true,
+            "history_trail_symbol": "circle",
+            "track_symbol_subtext": "S",
+            "foreground_color": "#c4779e",
+            "background_color": "#915874"
+          }
+        },
+        {
+          "name": "Tous IFR",
+          "conditions": {
+            "isVFR": false
+          },
+          "priority": 5,
+          "filtered": true,
+          "style": {
+            "track_symbol": "circle",
+            "track_symbol_fill": true,
+            "history_trail_symbol": "circle",
+            "track_symbol_subtext": "",
+            "foreground_color": "#00adbc",
+            "background_color": "#007e89"
+          }
+        },
+        {
+          "name": "Tous IFR",
+          "conditions": {
+            "isVFR": false,
+            "airports": [
+              "LSGG"
+            ]
+          },
+          "priority": 4,
+          "filtered": true,
+          "style": {
+            "track_symbol": "circle",
+            "track_symbol_fill": true,
+            "history_trail_symbol": "circle",
+            "track_symbol_subtext": "",
+            "foreground_color": "#9187c1",
+            "background_color": "#6a638e"
+          }
+        },
+        {
+          "name": "Tous VFR",
+          "conditions": {
+            "isVFR": true
+          },
+          "priority": 5,
+          "filtered": true,
+          "style": {
+            "track_symbol": "circle",
+            "track_symbol_fill": true,
+            "history_trail_symbol": "circle",
+            "track_symbol_subtext": "",
+            "foreground_color": "#a99200",
+            "background_color": "#756500"
+          }
+        }
+      ]
+    },
+    {
+      "name": "Montpellier",
+      "rules": [
+        {
+          "name": "IFR",
+          "conditions": {
+            "isIFR": true,
+            "airports": [
+              "LFTW",
+              "LFMT",
+              "LFMU",
+              "LFMP"
+            ]
+          },
+          "priority": 1,
+          "filtered": false,
+          "style": {
+            "track_symbol": "square",
+            "track_symbol_fill": false,
+            "history_trail_symbol": "dots",
+            "foreground_color": "#ffffff",
+            "background_color": "#b3b3b3"
+          }
+        },
+        {
+          "name": "VFR",
+          "conditions": {
+            "isVFR": true
+          },
+          "priority": 4,
+          "filtered": false,
+          "style": {
+            "track_symbol": "square",
+            "track_symbol_fill": false,
+            "history_trail_symbol": "dots",
+            "foreground_color": "#97f4f2",
+            "background_color": "#6aa9a8"
+          }
+        },
+        {
+          "name": "UNKN",
+          "priority": 10,
+          "filtered": true,
+          "style": {
+            "track_symbol": "square",
+            "track_symbol_fill": false,
+            "history_trail_symbol": "dots",
+            "foreground_color": "#707070",
+            "background_color": "#4e4e4e"
           }
         }
       ]
