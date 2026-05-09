@@ -3479,6 +3479,112 @@
           }
         }
       ]
+    },
+    {
+      "name": "La Rochelle",
+      "rules": [
+        {
+          "name": "IFR",
+          "conditions": {
+            "isIFR": true,
+            "airports": [
+              "LFBH",
+              "LFDN"
+            ]
+          },
+          "priority": 1,
+          "filtered": false,
+          "style": {
+            "track_symbol": "triangle",
+            "track_symbol_fill": false,
+            "history_trail_symbol": "dots",
+            "foreground_color": "#f2dd71",
+            "background_color": "#a99a4f"
+          }
+        },
+        {
+          "name": "VFR",
+          "conditions": {
+            "isVFR": true
+          },
+          "priority": 4,
+          "filtered": false,
+          "style": {
+            "track_symbol": "triangle",
+            "track_symbol_fill": false,
+            "history_trail_symbol": "dots",
+            "foreground_color": "#f2dd71",
+            "background_color": "#a99a4f"
+          }
+        },
+        {
+          "name": "UNKN",
+          "priority": 10,
+          "filtered": true,
+          "style": {
+            "track_symbol": "triangle",
+            "track_symbol_fill": false,
+            "history_trail_symbol": "dots",
+            "foreground_color": "#f2dd71",
+            "background_color": "#a99a4f"
+          }
+        }
+      ]
+    },
+    {
+      "name": "Lille",
+      "rules": [
+        {
+          "name": "IFR",
+          "conditions": {
+            "isIFR": true,
+            "airports": [
+              "LFQQ",
+              "LFQT",
+              "LFAC",
+              "LFAT",
+              "LFAQ",
+              "LFOP"
+            ]
+          },
+          "priority": 1,
+          "filtered": false,
+          "style": {
+            "track_symbol": "square",
+            "track_symbol_fill": false,
+            "history_trail_symbol": "dots",
+            "foreground_color": "#d5a8cf",
+            "background_color": "#957591"
+          }
+        },
+        {
+          "name": "VFR",
+          "conditions": {
+            "isVFR": true
+          },
+          "priority": 4,
+          "filtered": false,
+          "style": {
+            "track_symbol": "square",
+            "track_symbol_fill": false,
+            "history_trail_symbol": "dots",
+            "foreground_color": "#77d7eb",
+            "background_color": "#5497a4"
+          }
+        },
+        {
+          "name": "UNKN",
+          "priority": 10,
+          "filtered": true,
+          "style": {
+            "track_symbol": "square",
+            "track_symbol_fill": false,
+            "history_trail_symbol": "dots",
+            "foreground_color": "#f9f8cb",
+            "background_color": "#aeae8e"
+          }
+        }
+      ]
     }
   ]
 }
