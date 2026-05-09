@@ -3087,6 +3087,90 @@
           }
         }
       ]
+    },
+    {
+      "name": "Bale",
+      "rules": [
+        {
+          "name": "DEP",
+          "conditions": {
+            "isDeparture": true,
+            "isIFR": true,
+            "airports": [
+              "LFSB",
+              "LFSD",
+              "LFGJ",
+              "LFGA"
+            ]
+          },
+          "priority": 3,
+          "filtered": false,
+          "style": {
+            "track_symbol": "diamond",
+            "track_symbol_fill": false,
+            "history_trail_symbol": "circle",
+            "foreground_color": "#e3b9b9",
+            "background_color": "#9e8181"
+          }
+        },
+        {
+          "name": "ARR",
+          "conditions": {
+            "isArrival": true,
+            "isIFR": true,
+            "airports": [
+              "LFSB",
+              "LFSD",
+              "LFGJ",
+              "LFGA"
+            ]
+          },
+          "priority": 1,
+          "filtered": false,
+          "style": {
+            "track_symbol": "diamond",
+            "track_symbol_fill": false,
+            "history_trail_symbol": "circle",
+            "foreground_color": "#dff5eb",
+            "background_color": "#9caf a4"
+          }
+        },
+        {
+          "name": "VFR",
+          "conditions": {
+            "isVFR": true
+          },
+          "priority": 4,
+          "filtered": false,
+          "style": {
+            "track_symbol": "diamond",
+            "track_symbol_fill": false,
+            "history_trail_symbol": "circle",
+            "foreground_color": "#f7f6f4",
+            "background_color": "#acabaa"
+          }
+        },
+        {
+          "name": "UNKN",
+          "conditions": {
+            "isIFR": true
+          },
+          "priority": 10,
+          "filtered": true,
+          "style": {
+            "field_highlight_color": "#BDA5D7",
+            "hovered_field_color": "#6A6A6A",
+            "draw_detailed_background": false,
+            "draw_hovered_field": true,
+            "track_symbol": "diamond",
+            "track_symbol_fill": false,
+            "history_trail_symbol": "circle",
+            "track_symbol_subtext": "",
+            "foreground_color": "#000000",
+            "background_color": "#000000"
+          }
+        }
+      ]
     }
   ]
 }
