@@ -2797,10 +2797,87 @@
       ]
     },
     {
-      "name": "IRMA Aquitaine",
+      "name": "Ajaccio",
       "rules": [
         {
-          "name": "BD",
+          "name": "DEP",
+          "conditions": {
+            "isDeparture": true,
+            "isIFR": true,
+            "airports": [
+              "LFKJ",
+              "LFKO",
+              "LFKF"
+            ]
+          },
+          "priority": 3,
+          "filtered": false,
+          "style": {
+            "track_symbol": "diamond",
+            "track_symbol_fill": false,
+            "history_trail_symbol": "dots",
+            "foreground_color": "#f6a6db",
+            "background_color": "#ac7499"
+          }
+        },
+        {
+          "name": "ARR",
+          "conditions": {
+            "isArrival": true,
+            "isIFR": true,
+            "airports": [
+              "LFKJ",
+              "LFKO",
+              "LFKF"
+            ]
+          },
+          "priority": 1,
+          "filtered": false,
+          "style": {
+            "track_symbol": "diamond",
+            "track_symbol_fill": false,
+            "history_trail_symbol": "dots",
+            "foreground_color": "#21e0f5",
+            "background_color": "#179ca9"
+          }
+        },
+        {
+          "name": "VFR",
+          "conditions": {
+            "isVFR": true
+          },
+          "priority": 4,
+          "filtered": false,
+          "style": {
+            "track_symbol": "diamond",
+            "track_symbol_fill": false,
+            "history_trail_symbol": "dots",
+            "foreground_color": "#38ee55",
+            "background_color": "#27a63b"
+          }
+        },
+        {
+          "name": "UNKN",
+          "conditions": {
+            "isIFR": true
+          },
+          "priority": 10,
+          "filtered": true,
+          "style": {
+            "track_symbol": "diamond",
+            "track_symbol_fill": false,
+            "history_trail_symbol": "dots",
+            "foreground_color": "#f0e2e0",
+            "background_color": "#a89e9c"
+          }
+        }
+      ]
+    },
+    {
+      "name": "Aquitaine",
+      "rules": [
+        {
+          "name": "BDD",
           "conditions": {
             "isDeparture": true,
             "isIFR": true,
@@ -2816,40 +2893,11 @@
             "history_trail_symbol": "dots",
             "track_symbol_subtext": "",
             "foreground_color": "#94cfff",
-            "background_color": "#4a6780"
-          },
-          "taglayouts": {
-            "extended_layout": [
-              "vspace",
-              "modeshdg",
-              "modesspd",
-              "modesmach",
-              "modessfl",
-              "\n",
-              "vspace",
-              "adep",
-              "ades",
-              "deprwy",
-              "sid",
-              "\n",
-              "cr",
-              "align_right",
-              "nsfreq",
-              "\n",
-              "optext",
-              "align_right",
-              "afk",
-              "\n",
-              "vspace",
-              "traj",
-              "info",
-              "id",
-              "misc"
-            ]
+            "background_color": "#688fae"
           }
         },
         {
-          "name": "SAT",
+          "name": "SATD",
           "conditions": {
             "isDeparture": true,
             "isIFR": true,
@@ -2868,40 +2916,11 @@
             "history_trail_symbol": "dots",
             "track_symbol_subtext": "",
             "foreground_color": "#63e8ff",
-            "background_color": "#307480"
-          },
-          "taglayouts": {
-            "extended_layout": [
-              "vspace",
-              "modeshdg",
-              "modesspd",
-              "modesmach",
-              "modessfl",
-              "\n",
-              "vspace",
-              "adep",
-              "ades",
-              "deprwy",
-              "sid",
-              "\n",
-              "cr",
-              "align_right",
-              "nsfreq",
-              "\n",
-              "optext",
-              "align_right",
-              "afk",
-              "\n",
-              "vspace",
-              "traj",
-              "info",
-              "id",
-              "misc"
-            ]
+            "background_color": "#4697a8"
           }
         },
         {
-          "name": "BD",
+          "name": "BDA",
           "conditions": {
             "isArrival": true,
             "isIFR": true,
@@ -2917,78 +2936,11 @@
             "history_trail_symbol": "dots",
             "track_symbol_subtext": "",
             "foreground_color": "#ffc9d3",
-            "background_color": "#73585d"
-          },
-          "taglayouts": {
-            "tag_layout": [
-              "gs",
-              "aspd",
-              "scratchpad",
-              "vz",
-              "atyp",
-              "hold",
-              "eat",
-              "coordination",
-              "notification",
-              "sequence",
-              "lost",
-              "stca",
-              "tct",
-              "\n",
-              "contact_flag",
-              "callsign",
-              "cpdlc_flag",
-              "comms",
-              "sector",
-              "rfl",
-              "group",
-              "\n",
-              "afl",
-              "tendency",
-              "cfl",
-              "wpt",
-              "ahdg",
-              "\n",
-              "xfl",
-              "hfl",
-              "copx",
-              "intention",
-              "arrrwy",
-              "\n",
-              "cpdlc_rqst",
-              "cpdlc_rqst_number"
-            ],
-            "extended_layout": [
-              "vspace",
-              "modeshdg",
-              "modesspd",
-              "modesmach",
-              "modessfl",
-              "\n",
-              "vspace",
-              "adep",
-              "ades",
-              "trans",
-              "arrrwy",
-              "\n",
-              "cr",
-              "align_right",
-              "nsfreq",
-              "\n",
-              "optext",
-              "align_right",
-              "afk",
-              "\n",
-              "vspace",
-              "traj",
-              "info",
-              "id",
-              "misc"
-            ]
+            "background_color": "#b28c94"
           }
         },
         {
-          "name": "SAT",
+          "name": "SATA",
           "conditions": {
             "isArrival": true,
             "isIFR": true,
@@ -3007,78 +2959,14 @@
             "history_trail_symbol": "dots",
             "track_symbol_subtext": "",
             "foreground_color": "#ff9ef5",
-            "background_color": "#80507b"
-          },
-          "taglayouts": {
-            "tag_layout": [
-              "gs",
-              "aspd",
-              "scratchpad",
-              "vz",
-              "atyp",
-              "hold",
-              "eat",
-              "coordination",
-              "notification",
-              "sequence",
-              "lost",
-              "stca",
-              "tct",
-              "\n",
-              "contact_flag",
-              "callsign",
-              "cpdlc_flag",
-              "comms",
-              "sector",
-              "rfl",
-              "group",
-              "\n",
-              "afl",
-              "tendency",
-              "cfl",
-              "wpt",
-              "ahdg",
-              "\n",
-              "xfl",
-              "hfl",
-              "copx",
-              "intention",
-              "arrrwy",
-              "\n",
-              "cpdlc_rqst",
-              "cpdlc_rqst_number"
-            ],
-            "extended_layout": [
-              "vspace",
-              "modeshdg",
-              "modesspd",
-              "modesmach",
-              "modessfl",
-              "\n",
-              "vspace",
-              "adep",
-              "ades",
-              "trans",
-              "arrrwy",
-              "\n",
-              "cr",
-              "align_right",
-              "nsfreq",
-              "\n",
-              "optext",
-              "align_right",
-              "afk",
-              "\n",
-              "vspace",
-              "traj",
-              "info",
-              "id",
-              "misc"
-            ]
+            "background_color": "#b26ea9"
           }
         },
         {
-          "name": "X",
+          "name": "TIFR",
+          "conditions": {
+            "isIFR": true
+          },
           "priority": 5,
           "filtered": true,
           "style": {
@@ -3087,85 +2975,11 @@
             "history_trail_symbol": "dots",
             "track_symbol_subtext": "",
             "foreground_color": "#e6e607",
-            "background_color": "#878704"
-          },
-          "taglayouts": {
-            "extended_layout": [
-              "vspace",
-              "modeshdg",
-              "modesspd",
-              "modesmach",
-              "modessfl",
-              "\n",
-              "vspace",
-              "adep",
-              "ades",
-              "trans",
-              "arrrwy",
-              "\n",
-              "cr",
-              "align_right",
-              "nsfreq",
-              "\n",
-              "optext",
-              "align_right",
-              "afk",
-              "\n",
-              "vspace",
-              "traj",
-              "info",
-              "id",
-              "misc"
-            ]
+            "background_color": "#a1a105"
           }
         },
         {
-          "name": "Z",
-          "conditions": {
-            "isVFR": true
-          },
-          "priority": 4,
-          "filtered": true,
-          "style": {
-            "track_symbol": "triangle",
-            "track_symbol_fill": false,
-            "history_trail_symbol": "dots",
-            "track_symbol_subtext": "",
-            "foreground_color": "#ccc4a1",
-            "background_color": "#595646"
-          },
-          "taglayouts": {
-            "extended_layout": [
-              "vspace",
-              "modeshdg",
-              "modesspd",
-              "modesmach",
-              "modessfl",
-              "\n",
-              "vspace",
-              "adep",
-              "ades",
-              "trans",
-              "arrrwy",
-              "\n",
-              "cr",
-              "align_right",
-              "nsfreq",
-              "\n",
-              "optext",
-              "align_right",
-              "afk",
-              "\n",
-              "vspace",
-              "traj",
-              "info",
-              "id",
-              "misc"
-            ]
-          }
-        },
-        {
-          "name": "Z",
+          "name": "TVFR",
           "conditions": {
             "isVFR": true,
             "squawk": [
@@ -3180,41 +2994,12 @@
             "track_symbol_fill": false,
             "history_trail_symbol": "dots",
             "track_symbol_subtext": "",
-            "foreground_color": "#4cff64",
-            "background_color": "#298c36"
-          },
-          "taglayouts": {
-            "extended_layout": [
-              "vspace",
-              "modeshdg",
-              "modesspd",
-              "modesmach",
-              "modessfl",
-              "\n",
-              "vspace",
-              "adep",
-              "ades",
-              "trans",
-              "arrrwy",
-              "\n",
-              "cr",
-              "align_right",
-              "nsfreq",
-              "\n",
-              "optext",
-              "align_right",
-              "afk",
-              "\n",
-              "vspace",
-              "traj",
-              "info",
-              "id",
-              "misc"
-            ]
+            "foreground_color": "#e6e607",
+            "background_color": "#a1a105"
           }
         },
         {
-          "name": "Z",
+          "name": "BEV",
           "conditions": {
             "isVFR": true,
             "airports": [
@@ -3224,44 +3009,81 @@
               "341*"
             ]
           },
-          "priority": 4,
-          "filtered": true,
+          "priority": 1,
+          "filtered": false,
           "style": {
             "track_symbol": "triangle",
             "track_symbol_fill": false,
             "history_trail_symbol": "dots",
             "track_symbol_subtext": "",
             "foreground_color": "#37de37",
-            "background_color": "#1f7d1f"
-          },
-          "taglayouts": {
-            "extended_layout": [
-              "vspace",
-              "modeshdg",
-              "modesspd",
-              "modesmach",
-              "modessfl",
-              "\n",
-              "vspace",
-              "adep",
-              "ades",
-              "trans",
-              "arrrwy",
-              "\n",
-              "cr",
-              "align_right",
-              "nsfreq",
-              "\n",
-              "optext",
-              "align_right",
-              "afk",
-              "\n",
-              "vspace",
-              "traj",
-              "info",
-              "id",
-              "misc"
+            "background_color": "#269b26"
+          }
+        },
+        {
+          "name": "VLOC",
+          "conditions": {
+            "isVFR": true,
+            "airports": [
+              "LFBD",
+              "LFBE",
+              "LFBS",
+              "LFBX",
+              "LFCH",
+              "LFCJ",
+              "LFCP",
+              "LFCS",
+              "LFCY",
+              "LFDF",
+              "LFDI",
+              "LFDK",
+              "LFDM",
+              "LFIK",
+              "LFIV"
             ]
+          },
+          "priority": 4,
+          "filtered": false,
+          "style": {
+            "track_symbol": "triangle",
+            "track_symbol_fill": false,
+            "history_trail_symbol": "dots",
+            "track_symbol_subtext": "",
+            "foreground_color": "#b2ffbd",
+            "background_color": "#7cb386"
+          }
+        },
+        {
+          "name": "SPEC",
+          "conditions": {
+            "squawk": [
+              "1270",
+              "1271",
+              "1272"
+            ]
+          },
+          "priority": 0,
+          "filtered": false,
+          "style": {
+            "track_symbol": "triangle",
+            "track_symbol_fill": false,
+            "history_trail_symbol": "dots",
+            "track_symbol_subtext": "",
+            "foreground_color": "#ff9b0f",
+            "background_color": "#b26c0a"
+          }
+        },
+        {
+          "name": "UNKN",
+          "priority": 10,
+          "filtered": true,
+          "style": {
+            "track_symbol": "triangle",
+            "track_symbol_fill": false,
+            "history_trail_symbol": "dots",
+            "track_symbol_subtext": "",
+            "foreground_color": "#ccc4a1",
+            "background_color": "#8f896f"
           }
         }
       ]
