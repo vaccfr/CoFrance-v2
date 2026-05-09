@@ -3691,6 +3691,79 @@
           }
         }
       ]
+    },
+    {
+      "name": "Nantes",
+      "rules": [
+        {
+          "name": "LFRS",
+          "conditions": {
+            "isIFR": true,
+            "airports": [
+              "LFRS"
+            ]
+          },
+          "priority": 1,
+          "filtered": false,
+          "style": {
+            "track_symbol": "square",
+            "track_symbol_fill": false,
+            "history_trail_symbol": "dots",
+            "foreground_color": "#e6e645",
+            "background_color": "#a1a131"
+          }
+        },
+        {
+          "name": "SAT",
+          "conditions": {
+            "isIFR": true,
+            "airports": [
+              "LFEA",
+              "LFRZ",
+              "LFRI",
+              "LFOU",
+              "LFJR",
+              "LFRM"
+            ]
+          },
+          "priority": 2,
+          "filtered": false,
+          "style": {
+            "track_symbol": "square",
+            "track_symbol_fill": false,
+            "history_trail_symbol": "dots",
+            "foreground_color": "#e6e645",
+            "background_color": "#a1a131"
+          }
+        },
+        {
+          "name": "VFR",
+          "conditions": {
+            "isVFR": true
+          },
+          "priority": 4,
+          "filtered": false,
+          "style": {
+            "track_symbol": "square",
+            "track_symbol_fill": false,
+            "history_trail_symbol": "dots",
+            "foreground_color": "#33cdff",
+            "background_color": "#248fad"
+          }
+        },
+        {
+          "name": "UNKN",
+          "priority": 10,
+          "filtered": true,
+          "style": {
+            "track_symbol": "square",
+            "track_symbol_fill": false,
+            "history_trail_symbol": "dots",
+            "foreground_color": "#ababab",
+            "background_color": "#777777"
+          }
+        }
+      ]
     }
   ]
 }
