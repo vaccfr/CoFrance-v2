@@ -3171,6 +3171,261 @@
           }
         }
       ]
+    },
+    {
+      "name": "Bastia",
+      "rules": [
+        {
+          "name": "DEP",
+          "conditions": {
+            "isDeparture": true,
+            "isIFR": true,
+            "airports": [
+              "LFKB",
+              "LFKC",
+              "LFKT",
+              "LFKG"
+            ]
+          },
+          "priority": 3,
+          "filtered": false,
+          "style": {
+            "track_symbol": "triangle",
+            "track_symbol_fill": false,
+            "history_trail_symbol": "dots",
+            "foreground_color": "#dd85a4",
+            "background_color": "#9b5d73"
+          }
+        },
+        {
+          "name": "ARR",
+          "conditions": {
+            "isArrival": true,
+            "isIFR": true,
+            "airports": [
+              "LFKB",
+              "LFKC",
+              "LFKT",
+              "LFKG"
+            ]
+          },
+          "priority": 1,
+          "filtered": false,
+          "style": {
+            "track_symbol": "triangle",
+            "track_symbol_fill": false,
+            "history_trail_symbol": "dots",
+            "foreground_color": "#dd85a4",
+            "background_color": "#9b5d73"
+          }
+        },
+        {
+          "name": "VFR",
+          "conditions": {
+            "isVFR": true
+          },
+          "priority": 4,
+          "filtered": false,
+          "style": {
+            "track_symbol": "triangle",
+            "track_symbol_fill": false,
+            "history_trail_symbol": "dots",
+            "foreground_color": "#f7f6f4",
+            "background_color": "#acabaa"
+          }
+        },
+        {
+          "name": "UNKN",
+          "conditions": {
+            "isIFR": true
+          },
+          "priority": 10,
+          "filtered": true,
+          "style": {
+            "track_symbol": "triangle",
+            "track_symbol_fill": false,
+            "history_trail_symbol": "dots",
+            "foreground_color": "#d2c7be",
+            "background_color": "#938b84"
+          }
+        }
+      ]
+    },
+    {
+      "name": "Biarritz",
+      "rules": [
+        {
+          "name": "IFR",
+          "conditions": {
+            "isIFR": true
+          },
+          "priority": 1,
+          "filtered": false,
+          "style": {
+            "track_symbol": "square",
+            "track_symbol_fill": false,
+            "history_trail_symbol": "circle",
+            "foreground_color": "#eea4e9",
+            "background_color": "#a673a2"
+          }
+        },
+        {
+          "name": "VFR",
+          "conditions": {
+            "isVFR": true
+          },
+          "priority": 1,
+          "filtered": false,
+          "style": {
+            "track_symbol": "square",
+            "track_symbol_fill": false,
+            "history_trail_symbol": "circle",
+            "foreground_color": "#d9d900",
+            "background_color": "#989800"
+          }
+        },
+        {
+          "name": "LESO",
+          "conditions": {
+            "isIFR": true,
+            "airports": [
+              "LESO"
+            ]
+          },
+          "priority": 5,
+          "filtered": false,
+          "style": {
+            "track_symbol": "square",
+            "track_symbol_fill": false,
+            "history_trail_symbol": "circle",
+            "foreground_color": "#ee77e6",
+            "background_color": "#a654a1"
+          }
+        },
+        {
+          "name": "UNKN",
+          "priority": 10,
+          "filtered": true,
+          "style": {
+            "track_symbol": "square",
+            "track_symbol_fill": false,
+            "history_trail_symbol": "circle",
+            "foreground_color": "#e6e6e6",
+            "background_color": "#a1a1a1"
+          }
+        }
+      ]
+    },
+    {
+      "name": "Chambery",
+      "rules": [
+        {
+          "name": "IFR",
+          "conditions": {
+            "isIFR": true,
+            "airports": [
+              "LFLB",
+              "LFLP"
+            ]
+          },
+          "priority": 1,
+          "filtered": false,
+          "style": {
+            "track_symbol": "circle",
+            "track_symbol_fill": false,
+            "history_trail_symbol": "circle",
+            "foreground_color": "#eea4e9",
+            "background_color": "#a673a2"
+          }
+        },
+        {
+          "name": "VFR",
+          "conditions": {
+            "isVFR": true
+          },
+          "priority": 4,
+          "filtered": false,
+          "style": {
+            "track_symbol": "circle",
+            "track_symbol_fill": false,
+            "history_trail_symbol": "circle",
+            "foreground_color": "#d9d900",
+            "background_color": "#989800"
+          }
+        },
+        {
+          "name": "UNKN",
+          "priority": 10,
+          "filtered": true,
+          "style": {
+            "field_highlight_color": "#BDA5D7",
+            "hovered_field_color": "#6A6A6A",
+            "draw_detailed_background": false,
+            "draw_hovered_field": true,
+            "track_symbol": "circle",
+            "track_symbol_fill": false,
+            "history_trail_symbol": "circle",
+            "track_symbol_subtext": "",
+            "foreground_color": "#000000",
+            "background_color": "#000000"
+          }
+        }
+      ]
+    },
+    {
+      "name": "Clermont-Ferrand",
+      "rules": [
+        {
+          "name": "IFR",
+          "conditions": {
+            "isIFR": true,
+            "airports": [
+              "LFCR",
+              "LFLW",
+              "LFLC",
+              "LFMH",
+              "LFLV",
+              "LFHP"
+            ]
+          },
+          "priority": 1,
+          "filtered": false,
+          "style": {
+            "track_symbol": "square",
+            "track_symbol_fill": false,
+            "history_trail_symbol": "circle",
+            "foreground_color": "#f5f6a5",
+            "background_color": "#abac73"
+          }
+        },
+        {
+          "name": "VFR",
+          "conditions": {
+            "isVFR": true
+          },
+          "priority": 4,
+          "filtered": false,
+          "style": {
+            "track_symbol": "square",
+            "track_symbol_fill": false,
+            "history_trail_symbol": "circle",
+            "foreground_color": "#46faf6",
+            "background_color": "#31afac"
+          }
+        },
+        {
+          "name": "UNKN",
+          "priority": 10,
+          "filtered": true,
+          "style": {
+            "track_symbol": "square",
+            "track_symbol_fill": false,
+            "history_trail_symbol": "circle",
+            "foreground_color": "#fffbf6",
+            "background_color": "#b2afac"
+          }
+        }
+      ]
     }
   ]
 }
