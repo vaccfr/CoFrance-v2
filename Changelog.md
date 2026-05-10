@@ -1,3 +1,24 @@
+# CoFrance v2.2.4 Changelog
+
+### Improvements
+- Dynamic DyP now triggers on flight hover
+- Track Symbol subtext now align with tag position
+- Orly flight group families in CDG Tag Format are now their own group (L/M)
+
+### Additions
+- Added custom Intention codes for all FIRs
+- Added CDG tag format departure subtext
+
+### Fixes
+- Fixed tag being initially displayed above primary track
+- Fixed Flight families not being filtered by Altitude filter
+- Fixed TTLEET flight plan parsing
+- Fixed Square track symbol alignement
+- Fixed Tooltips inside popups
+- Fixed conditions on extended tag scroll
+- Fixed non CoFrance radar screen's reference
+
+
 # CoFrance v2.2.3 Changelog
 
 ### Improvements
