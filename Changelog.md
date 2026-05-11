@@ -1,3 +1,83 @@
+# CoFrance v2.2.4 Changelog
+
+### Improvements
+- Dynamic DyP now triggers on flight hover
+- Track Symbol subtext now align with tag position
+- Orly flight group families in CDG Tag Format are now their own group (L/M)
+
+### Additions
+- Added custom Intention codes for all FIRs
+- Added CDG tag format departure subtext
+
+### Fixes
+- Fixed tag being initially displayed above primary track
+- Fixed Flight families not being filtered by Altitude filter
+- Fixed TTLEET flight plan parsing
+- Fixed Square track symbol alignement
+- Fixed Tooltips inside popups
+- Fixed conditions on extended tag scroll
+- Fixed non CoFrance radar screen's reference
+
+
+# CoFrance v2.2.3 Changelog
+
+### Improvements
+- Holding lists can now be opened if hold is assigned by another sector
+- Sector levels indicator in MM now displays correct ownership between bandbox and U sector
+
+### Additions
+- Added QDM reciprocal bearing
+
+### Fixes
+- Fixed exceptions when using AVISO radar screen
+- Fixed Flight tag being filtered when it should not
+- Fixed aircraft not being selected if clicking tag background
+- Fixed Dynamic maps not redrawing immediately after airport config change
+- Fixed Departure/Waypoint lists stacking on each other when changing ASR
+- Fixed text only message not appearing for drag heading
+- Fixed ECFMP API URL
+
+
+# CoFrance v2.2.2 Changelog
+
+### Improvements
+- Selecting flight in list now update dynamic DyP flight
+- STCA Alert sound now defaults to false
+
+### Fixes
+- Fixed CTD on AVISOs
+
+
+# CoFrance v2.2.1 Changelog
+
+### Improvements
+- Replaced VA button via CL button in CFL popup
+- Improved window hiding when changing focus
+- Potential fix to ECFMP API errors
+- Left click on sequence number now opens sequence popup
+- Improved CoFrance_Preference.toml not found error message
+- Clicking Flight in list now selects it in euroscope
+
+### Additions
+- Added LOC/FTRK option in AHDG popup
+- Added possibilty to release tag without cleaning using modifier key
+- Added STCA Alert sound
+- Added Coordination Accepted/Refused notification
+- Added Waypoint lists
+- Added Ctrl+C, Ctrl+X, Ctrl+V support in edit boxes
+- Added new maps symbols
+
+### Fixes
+- Fixed CTD hazard on incomplete FP Window submit
+- Fixed CTD when closing departure list
+- Fixed AHDG popup width
+- Fixed right click detection
+- Fixed CoFrance Windows reappearing on AVISO when refocusing Euroscope
+- Fixed Combo box not being scrollable
+- Fixed crash hazard when opening man trf popup on no flightplan flight
+- Fixed tooltip flickering across draw calls
+
+
 # CoFrance v2.2.0 Changelog
 
 ### Fixes
