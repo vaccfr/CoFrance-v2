@@ -9787,7 +9787,7 @@
                     }
                 },
                 "pointStyle": {
-                    "type": "diamond_cross",
+                    "type": "triangle_hollow",
                     "color": [
                         36,
                         36,
@@ -9842,7 +9842,7 @@
                     }
                 },
                 "pointStyle": {
-                    "type": "diamond_cross",
+                    "type": "triangle_hollow",
                     "color": [
                         36,
                         36,
