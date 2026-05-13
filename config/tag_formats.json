@@ -8885,9 +8885,9 @@
           "style": {
             "track_symbol": "triangle",
             "track_symbol_fill": false,
-            "history_trail_symbol": "circle",
-            "foreground_color": "#ff8cbe",
-            "background_color": "#b36285"
+            "history_trail_symbol": "dots",
+            "foreground_color": "#378de4",
+            "background_color": "#204f80"
           },
           "taglayouts": {
             "tag_layout": [
@@ -8991,9 +8991,9 @@
           "style": {
             "track_symbol": "triangle",
             "track_symbol_fill": false,
-            "history_trail_symbol": "circle",
-            "foreground_color": "#e6aeae",
-            "background_color": "#a17a7a"
+            "history_trail_symbol": "dots",
+            "foreground_color": "#7cb8da",
+            "background_color": "#354e5c"
           },
           "taglayouts": {
             "tag_layout": [
@@ -9077,7 +9077,7 @@
           "style": {
             "track_symbol": "triangle",
             "track_symbol_fill": false,
-            "history_trail_symbol": "circle",
+            "history_trail_symbol": "dots",
             "foreground_color": "#ff8cbe",
             "background_color": "#b36285"
           },
@@ -9145,9 +9145,9 @@
           "style": {
             "track_symbol": "triangle",
             "track_symbol_fill": false,
-            "history_trail_symbol": "circle",
-            "foreground_color": "#ff9ef5",
-            "background_color": "#b26ea9"
+            "history_trail_symbol": "dots",
+            "foreground_color": "#ddb0af",
+            "background_color": "#806565"
           },
           "taglayouts": {
             "extended_layout": [
@@ -9213,7 +9213,7 @@
           "style": {
             "track_symbol": "triangle",
             "track_symbol_fill": false,
-            "history_trail_symbol": "circle",
+            "history_trail_symbol": "dots",
             "foreground_color": "#879985",
             "background_color": "#5f6b5d"
           }
@@ -9228,7 +9228,7 @@
           "style": {
             "track_symbol": "triangle",
             "track_symbol_fill": false,
-            "history_trail_symbol": "circle",
+            "history_trail_symbol": "dots",
             "foreground_color": "#ffb387",
             "background_color": "#b37d5f"
           }
@@ -9243,7 +9243,7 @@
           "style": {
             "track_symbol": "triangle",
             "track_symbol_fill": false,
-            "history_trail_symbol": "circle",
+            "history_trail_symbol": "dots",
             "foreground_color": "#ffb387",
             "background_color": "#b37d5f"
           }
