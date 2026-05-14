@@ -190,5 +190,15 @@
       "LFRG",
       "LFOP"
     ]
+  },
+  "LFBB_": {
+    "arrivals": [
+      "LFBH",
+      "LFBO",
+      "LFBD",
+      "LFBZ",
+      "EGBT",
+      "LFMK"
+    ]
   }
 }

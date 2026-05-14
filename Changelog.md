@@ -1,3 +1,25 @@
+# CoFrance v2.2.5 Changelog
+
+### Improvements
+- Map Window overhaul with subfolders support
+- Completed predefined holds list (Credits: Chriss K.)
+
+### Additions
+- Added CCA specific approach maps (Credits: Chriss K.)
+- Added CCA specific tag formats (Credits: Chriss K.)
+
+### Fixes
+- Fixed CoFrance window not reappearing on radar screen change
+- Fixed crash on AVISO zoom
+- Fixed transparent tag background interaction not registered
+- Fixed Departure airport being tied to euroscope controlled value leading to wrong tag formatting
+- Fixed some maps features not drawing in radar inset windows
+- Fixed LFBB arrivals intention codes
+- Fixed ESE file path config
+- Fixed stuck detailed tag if traffic disconnect while tag is detailed
+- Fixed RAM alert triggering for traffic in holding patterns
+
+
 # CoFrance v2.2.4 Changelog
 
 ### Improvements

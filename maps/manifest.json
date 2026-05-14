@@ -1,171 +1,178 @@
 {
   "$schema": "https://raw.githubusercontent.com/alexisBalzano/CoFrance-config-files/main/.github/schema/manifest.schema.json",
-  "version": "1.0.6",
-  "LFFF": [
-    "Carte_Trajectoires_UIR",
-    "Carte_Trajectoires_FIR",
-    "New\\0_Fond_Secteur",
-    "New\\0_Fake_Background",
-    "New\\Cartes_Dynamiques",
-    "New\\Limites_EGA",
-    "New\\Limites_SIV",
-    "New\\Routes_FIR",
-    "New\\Trajectoires_UIR"
-  ],
-  "LFEE": [
-    "Carte_Trajectoires_FRA",
-    "Carte_Trajectoires_UIR"
-  ],
-  "LFBB": [
-    "Carte_Trajectoires_UIR"
-  ],
-  "LFRR": [
-    "Carte_Trajectoires_UIR"
-  ],
-  "LFMM": [
-    "0_Fake_Background",
-    "Trajectoires_Nord_FRA",
-    "Trajectoires_Sud_FRA",
-    "Limites_Secteurs_UIR",
-    "Fond_Secteurs"
-  ],
-  "LFBD": [
-    "0_CCA_Aquitaine",
-    "2_CCA_Aquitaine_VFR",
-    "3_CCA_Aquitaine_AMG"
-  ],
-  "LFBH": [
-    "0_CCA_La_Rochelle",
-    "1_CCA_La_Rochelle_VFR",
-    "2_CCA_La_Rochelle_AMSR"
-  ],
-  "LFBI": [
-    "0_CCA_Poitiers",
-    "1_CCA_Poitiers_VFR",
-    "2_CCA_Poitiers_AMSR"
-  ],
-  "LFBL": [
-    "0_CCA_Limoges",
-    "1_CCA_Limoges_VFR",
-    "2_CCA_Limoges_MVA"
-  ],
-  "LFBO": [
-    "0_CCA_Toulouse",
-    "1_CCA_Toulouse_VFR",
-    "2_CCA_Toulouse_AMSR"
-  ],
-  "LFKB": [
-    "0_CCA_Bastia",
-    "1_CCA_Bastia_VFR",
-    "2_CCA_Bastia_AMSR"
-  ],
-  "LFKJ": [
-    "0_CCA_Ajaccio",
-    "1_CCA_Ajaccio_VFR",
-    "2_CCA_Ajaccio_AMSR"
-  ],
-  "LFLB": [
-    "0_CCA_Chambery",
-    "1_CCA_Chambery_VFR",
-    "2_CCA_Chambery_MVA"
-  ],
-  "LFLC": [
-    "0_CCA_Clermont",
-    "1_CCA_Clermont_VFR",
-    "2_CCA_Clermont_MVA",
-    "2_CCA_Clermont_Saint_Yan_AMG"
-  ],
-  "LFLL": [
-    "0_CCA_Lyon",
-    "1_CCA_Lyon_VFR",
-    "2_CCA_Lyon_AMSR_Lyon",
-    "2_CCA_Lyon_MVA_Chambery"
-  ],
-  "LFLN": [
-    "0_CCA_Saint_Yan",
-    "1_CCA_Saint_Yan_VFR",
-    "2_CCA_Saint_Yan_AMG"
-  ],
-  "LFML": [
-    "0_CCA_Provence",
-    "1_CCA_Provence_VFR",
-    "2_CCA_Provence_AMSR"
-  ],
-  "LFBP": [
-    "0_CCA_Pyrenees",
-    "1_CCA_Pyrenees_VFR",
-    "2_CCA_Pyrenees_MVA"
-  ],
-  "LFBZ": [
-    "0_CCA_Biarritz",
-    "1_CCA_Biarritz_VFR",
-    "2_CCA_Biarritz_MVA"
-  ],
-  "LFPG": [
-    "Carte_WL",
-    "Carte_EL",
-    "0_Fond_EGA"
-  ],
-  "LFPM": [
-    "0_CCA_Seine",
-    "1_CCA_Seine_EGA_Limits",
-    "1_CCA_Seine_VFR",
-    "2_CCA_Seine_AMG"
-  ],
-  "LFPO": [
-    "0_EGA_Paris_Orly",
-    "1_EGA_Paris_Orly_EL",
-    "1_EGA_Paris_Orly_WL",
-    "2_EGA_Paris_Orly_IPGW",
-    "2_EGA_Paris_Orly_IPOW"
-  ],
-  "LFQQ": [
-    "0_CCA_Lille",
-    "1_CCA_Lille_VFR",
-    "2_CCA_Lille_MVA"
-  ],
-  "LFRB": [
-    "0_CCA_Iroise",
-    "1_CCA_Iroise_VFR",
-    "2_CCA_Iroise_MVA"
-  ],
-  "LFRN": [
-    "0_CCA_Rennes",
-    "1_CCA_Rennes_VFR",
-    "2_CCA_Rennes_MVA"
-  ],
-  "LFRS": [
-    "0_CCA_Nantes",
-    "1_CCA_Nantes_SUP_AIP_LeMans",
-    "2_CCA_Nantes_VFR",
-    "3_CCA_Nantes_MVA"
-  ],
-  "LFSB": [
-    "0_CCA_Bale",
-    "1_CCA_Bale_VFR",
-    "2_CCA_Bale_AMSR"
-  ],
-  "LFST": [
-    "0_CCA_Strasbourg",
-    "1_CCA_Strasbourg_VFR",
-    "2_CCA_Strasbourg_AMSR"
-  ],
-  "LFMN": [
-    "0_CCA_Nice",
-    "1_CCA_Nice_QFU04_ILS",
-    "2_CCA_Nice_VFR",
-    "3_CCA_Nice_AMG"
-  ],
-  "LFMT": [
-    "0_CCA_Montpellier",
-    "1_CCA_Montpellier_VFR",
-    "2_CCA_Montpellier_AMSR"
-  ],
-  "LFOB": [
-    "0_CCA_Beauvais",
-    "1_CCA_Beauvais_VFR",
-    "2_CCA_Beauvais_MVA"
-  ],
+  "LFFF": {
+    "_maps": [
+      "0_Fond_Secteur",
+      "0_Fake_Background",
+      "Cartes_Dynamiques",
+      "Limites_EGA",
+      "Limites_SIV",
+      "Routes_FIR",
+      "Trajectoires_UIR"
+    ],
+    "LFOB": [
+      "0_CCA_Beauvais",
+      "1_CCA_Beauvais_VFR",
+      "2_CCA_Beauvais_MVA"
+    ],
+    "LFPG": [
+      "Carte_WL",
+      "Carte_EL",
+      "0_Fond_EGA"
+    ],
+    "LFPM": [
+      "0_CCA_Seine",
+      "1_CCA_Seine_EGA_Limits",
+      "1_CCA_Seine_VFR",
+      "2_CCA_Seine_AMG"
+    ],
+    "LFPO": [
+      "0_EGA_Paris_Orly",
+      "1_EGA_Paris_Orly_EL",
+      "1_EGA_Paris_Orly_WL",
+      "2_EGA_Paris_Orly_IPGW",
+      "2_EGA_Paris_Orly_IPOW"
+    ],
+    "LFQQ": [
+      "0_CCA_Lille",
+      "1_CCA_Lille_VFR",
+      "2_CCA_Lille_MVA"
+    ]
+  },
+  "LFEE": {
+    "_maps": [
+      "Carte_Trajectoires_FRA",
+      "Carte_Trajectoires_UIR"
+    ],
+    "LFSB": [
+      "0_CCA_Bale",
+      "1_CCA_Bale_VFR",
+      "2_CCA_Bale_AMSR"
+    ],
+    "LFST": [
+      "0_CCA_Strasbourg",
+      "1_CCA_Strasbourg_VFR",
+      "2_CCA_Strasbourg_AMSR"
+    ]
+  },
+  "LFBB": {
+    "_maps": [
+      "Carte_Trajectoires_UIR"
+    ],
+    "LFBD": [
+      "0_CCA_Aquitaine",
+      "2_CCA_Aquitaine_VFR",
+      "3_CCA_Aquitaine_AMG"
+    ],
+    "LFBH": [
+      "0_CCA_La_Rochelle",
+      "1_CCA_La_Rochelle_VFR",
+      "2_CCA_La_Rochelle_AMSR"
+    ],
+    "LFBI": [
+      "0_CCA_Poitiers",
+      "1_CCA_Poitiers_VFR",
+      "2_CCA_Poitiers_AMSR"
+    ],
+    "LFBL": [
+      "0_CCA_Limoges",
+      "1_CCA_Limoges_VFR",
+      "2_CCA_Limoges_MVA"
+    ],
+    "LFBO": [
+      "0_CCA_Toulouse",
+      "1_CCA_Toulouse_VFR",
+      "2_CCA_Toulouse_AMSR"
+    ],
+    "LFBP": [
+      "0_CCA_Pyrenees",
+      "1_CCA_Pyrenees_VFR",
+      "2_CCA_Pyrenees_MVA"
+    ],
+    "LFBZ": [
+      "0_CCA_Biarritz",
+      "1_CCA_Biarritz_VFR",
+      "2_CCA_Biarritz_MVA"
+    ]
+  },
+  "LFRR": {
+    "_maps": [
+      "Carte_Trajectoires_UIR"
+    ],
+    "LFRB": [
+      "0_CCA_Iroise",
+      "1_CCA_Iroise_VFR",
+      "2_CCA_Iroise_MVA"
+    ],
+    "LFRN": [
+      "0_CCA_Rennes",
+      "1_CCA_Rennes_VFR",
+      "2_CCA_Rennes_MVA"
+    ],
+    "LFRS": [
+      "0_CCA_Nantes",
+      "1_CCA_Nantes_SUP_AIP_LeMans",
+      "2_CCA_Nantes_VFR",
+      "3_CCA_Nantes_MVA"
+    ]
+  },
+  "LFMM": {
+    "_maps": [
+      "0_Fake_Background",
+      "Trajectoires_Nord_FRA",
+      "Trajectoires_Sud_FRA",
+      "Limites_Secteurs_UIR",
+      "Fond_Secteurs"
+    ],
+    "LFKB": [
+      "0_CCA_Bastia",
+      "1_CCA_Bastia_VFR",
+      "2_CCA_Bastia_AMSR"
+    ],
+    "LFKJ": [
+      "0_CCA_Ajaccio",
+      "1_CCA_Ajaccio_VFR",
+      "2_CCA_Ajaccio_AMSR"
+    ],
+    "LFLB": [
+      "0_CCA_Chambery",
+      "1_CCA_Chambery_VFR",
+      "2_CCA_Chambery_MVA"
+    ],
+    "LFLC": [
+      "0_CCA_Clermont",
+      "1_CCA_Clermont_VFR",
+      "2_CCA_Clermont_MVA",
+      "2_CCA_Clermont_Saint_Yan_AMG"
+    ],
+    "LFLL": [
+      "0_CCA_Lyon",
+      "1_CCA_Lyon_VFR",
+      "2_CCA_Lyon_AMSR_Lyon",
+      "2_CCA_Lyon_MVA_Chambery"
+    ],
+    "LFNL": [
+      "0_CCA_Saint_Yan",
+      "1_CCA_Saint_Yan_VFR",
+      "2_CCA_Saint_Yan_AMG"
+    ],
+    "LFML": [
+      "0_CCA_Provence",
+      "1_CCA_Provence_VFR",
+      "2_CCA_Provence_AMSR"
+    ],
+    "LFMN": [
+      "0_CCA_Nice",
+      "1_CCA_Nice_QFU04_ILS",
+      "2_CCA_Nice_VFR",
+      "3_CCA_Nice_AMG"
+    ],
+    "LFMT": [
+      "0_CCA_Montpellier",
+      "1_CCA_Montpellier_VFR",
+      "2_CCA_Montpellier_AMSR"
+    ]
+  },
   "LFXX": [
     "Coastlines",
     "Coastlines_blue",
