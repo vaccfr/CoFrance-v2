@@ -15,7 +15,6 @@
 - Fixed Departure airport being tied to euroscope controlled value leading to wrong tag formatting
 - Fixed some maps features not drawing in radar inset windows
 - Fixed LFBB arrivals intention codes
-- Fixed ESE file path config
 - Fixed stuck detailed tag if traffic disconnect while tag is detailed
 - Fixed RAM alert triggering for traffic in holding patterns
 
