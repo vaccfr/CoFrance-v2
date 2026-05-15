@@ -1,3 +1,10 @@
+# CoFrance v2.2.6 Changelog
+
+### Fixes
+- Fixed incorrect map ICAO LFNL -> LFLN
+- Fixed CoFrance blank windows on AVISO radar
+
+
 # CoFrance v2.2.5 Changelog
 
 ### Improvements
