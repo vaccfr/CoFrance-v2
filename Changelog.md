@@ -1,3 +1,11 @@
+# CoFrance v2.2.7 Changelog
+
+### Fixes
+- Fixed tag formats track symbol size
+- Fixed OK button in scratchpad not assigning custom input text
+- Increased crash safety around critical areas
+
+
 # CoFrance v2.2.6 Changelog
 
 ### Fixes
