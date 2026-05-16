@@ -168,6 +168,10 @@
                         }
                       ]
                     },
+                    "history_trail_skip_update" : {
+                      "type": "integer",
+                      "description": "Number of in between history trails to skip during drawing"
+                    },
                     "track_symbol_subtext": {
                       "type": "string",
                       "pattern": "^[A-Z0-9]{0,4}$"

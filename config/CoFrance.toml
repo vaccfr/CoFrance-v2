@@ -3,7 +3,7 @@ config_repo = "vaccfr/CoFrance-v2/main"
 
 [paths]
 airline_filepath = "../../ICAO/ICAO_Airlines.txt"
-ese_folderpath = "../../../"
+ese_folderpath = "../../Sectors/"
 
 [api_urls]
 ecfmp_api_url = "https://pintade.vatsim.fr/dataplatform/api/v1/current/ecfmp/flow-measures?active=true"
