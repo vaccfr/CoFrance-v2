@@ -698,13 +698,25 @@
       "upperfl": 170,
       "lowerfl": 130
     },
+    "INLOV": {
+      "upperfl": 140,
+      "lowerfl": 40
+    },
     "MUS": {
       "upperfl": 140,
       "lowerfl": 80
     },
+    "MD414": {
+      "upperfl": 20,
+      "lowerfl": 15
+    },
     "NERAS": {
       "upperfl": 140,
       "lowerfl": 70
+    },
+    "NEKIP": {
+      "upperfl": 110,
+      "lowerfl": 60
     }
   },
   "LFMP_": {
