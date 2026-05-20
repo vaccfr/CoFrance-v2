@@ -7728,8 +7728,8 @@
             "track_symbol": "square",
             "track_symbol_fill": false,
             "history_trail_symbol": "dots",
-            "foreground_color": "#3a9916",
-            "background_color": "#296b10"
+            "foreground_color": "#63BBD9",
+            "background_color": "#4B8FA5"
           },
           "taglayouts": {
             "tag_layout": [
@@ -7822,8 +7822,8 @@
             "track_symbol": "square",
             "track_symbol_fill": false,
             "history_trail_symbol": "dots",
-            "foreground_color": "#03acff",
-            "background_color": "#0278b3"
+            "foreground_color": "#D597A3",
+            "background_color": "#A2727B"
           },
           "taglayouts": {
             "extended_layout": [
