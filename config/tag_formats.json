@@ -3179,8 +3179,8 @@
             "track_symbol": "square",
             "track_symbol_fill": false,
             "history_trail_symbol": "line",
-            "foreground_color": "#5bb6ff",
-            "background_color": "#407fb3"
+            "foreground_color": "#ff0000",
+            "background_color": "#630000"
           },
           "taglayouts": {
             "extended_layout": [
@@ -3237,8 +3237,8 @@
             "track_symbol": "square",
             "track_symbol_fill": false,
             "history_trail_symbol": "line",
-            "foreground_color": "#5bb6ff",
-            "background_color": "#407fb3"
+            "foreground_color": "#32a852",
+            "background_color": "#154723"
           },
           "taglayouts": {
             "tag_layout": [
@@ -3332,8 +3332,8 @@
             "track_symbol": "square",
             "track_symbol_fill": false,
             "history_trail_symbol": "line",
-            "foreground_color": "#5f92a6",
-            "background_color": "#436674"
+            "foreground_color": "#bababa",
+            "background_color": "#4f4f4f"
           }
         },
         {
@@ -3347,8 +3347,8 @@
             "track_symbol": "square",
             "track_symbol_fill": false,
             "history_trail_symbol": "line",
-            "foreground_color": "#6d6d6d",
-            "background_color": "#4c4c4c"
+            "foreground_color": "#ffc800",
+            "background_color": "#8a6c00"
           }
         },
         {
@@ -3362,8 +3362,8 @@
             "track_symbol": "square",
             "track_symbol_fill": false,
             "history_trail_symbol": "line",
-            "foreground_color": "#6d6d6d",
-            "background_color": "#4c4c4c"
+            "foreground_color": "#00d0ff",
+            "background_color": "#005c70"
           }
         }
       ]
