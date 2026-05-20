@@ -229,6 +229,7 @@
             "track_symbol": "triangle",
             "track_symbol_fill": false,
             "history_trail_symbol": "circle",
+            "history_trail_skip_update": 1,
             "foreground_color": "#63BBD9",
             "background_color": "#4B8FA5"
           },
@@ -279,6 +280,7 @@
             "track_symbol": "square",
             "track_symbol_fill": false,
             "history_trail_symbol": "circle",
+            "history_trail_skip_update": 1,
             "foreground_color": "#D597A3",
             "background_color": "#A2727B"
           },
@@ -361,6 +363,7 @@
             "track_symbol": "diamond",
             "track_symbol_fill": false,
             "history_trail_symbol": "circle",
+            "history_trail_skip_update": 1,
             "foreground_color": "#ffffff",
             "background_color": "#8b8986"
           }
@@ -381,6 +384,7 @@
             "track_symbol": "square",
             "track_symbol_fill": false,
             "history_trail_symbol": "circle",
+            "history_trail_skip_update": 1,
             "foreground_color": "#fffb00",
             "background_color": "#918f00"
           }
@@ -396,6 +400,7 @@
             "track_symbol": "diamond",
             "track_symbol_fill": false,
             "history_trail_symbol": "circle",
+            "history_trail_skip_update": 1,
             "foreground_color": "#ffffff",
             "background_color": "#8b8986"
           }
@@ -411,6 +416,7 @@
             "track_symbol": "diamond",
             "track_symbol_fill": false,
             "history_trail_symbol": "circle",
+            "history_trail_skip_update": 1,
             "foreground_color": "#ffffff",
             "background_color": "#8b8986"
           }
@@ -435,6 +441,7 @@
             "track_symbol": "square",
             "track_symbol_fill": false,
             "history_trail_symbol": "dots",
+            "history_trail_skip_update": 1,
             "foreground_color": "#ff9b0f",
             "background_color": "#b26c0a"
           }
@@ -454,6 +461,7 @@
             "track_symbol": "square",
             "track_symbol_fill": false,
             "history_trail_symbol": "dots",
+            "history_trail_skip_update": 1,
             "foreground_color": "#ffc9d3",
             "background_color": "#b28c94"
           },
@@ -543,6 +551,7 @@
             "track_symbol": "square",
             "track_symbol_fill": false,
             "history_trail_symbol": "dots",
+            "history_trail_skip_update": 1,
             "foreground_color": "#ff9ef5",
             "background_color": "#b26ea9"
           },
@@ -629,6 +638,7 @@
             "track_symbol": "square",
             "track_symbol_fill": false,
             "history_trail_symbol": "dots",
+            "history_trail_skip_update": 1,
             "foreground_color": "#94cfff",
             "background_color": "#688fae"
           },
@@ -680,6 +690,7 @@
             "track_symbol": "square",
             "track_symbol_fill": false,
             "history_trail_symbol": "dots",
+            "history_trail_skip_update": 1,
             "foreground_color": "#63e8ff",
             "background_color": "#4697a8"
           },
@@ -727,6 +738,7 @@
             "track_symbol": "square",
             "track_symbol_fill": false,
             "history_trail_symbol": "dots",
+            "history_trail_skip_update": 1,
             "foreground_color": "#37de37",
             "background_color": "#269b26"
           }
@@ -758,6 +770,7 @@
             "track_symbol": "square",
             "track_symbol_fill": false,
             "history_trail_symbol": "dots",
+            "history_trail_skip_update": 1,
             "foreground_color": "#b2ffbd",
             "background_color": "#7cb386"
           }
@@ -773,6 +786,7 @@
             "track_symbol": "square",
             "track_symbol_fill": false,
             "history_trail_symbol": "dots",
+            "history_trail_skip_update": 1,
             "foreground_color": "#ccc4a1",
             "background_color": "#8f896f"
           }
@@ -792,6 +806,7 @@
             "track_symbol": "square",
             "track_symbol_fill": false,
             "history_trail_symbol": "dots",
+            "history_trail_skip_update": 1,
             "foreground_color": "#4cff64",
             "background_color": "#35b347"
           }
@@ -807,6 +822,7 @@
             "track_symbol": "square",
             "track_symbol_fill": false,
             "history_trail_symbol": "dots",
+            "history_trail_skip_update": 1,
             "foreground_color": "#ccc4a1",
             "background_color": "#8f896f"
           }
@@ -836,6 +852,7 @@
             "track_symbol": "circle",
             "track_symbol_fill": false,
             "history_trail_symbol": "dots",
+            "history_trail_skip_update": 1,
             "foreground_color": "#ff9ef5",
             "background_color": "#b26ea9"
           },
@@ -889,6 +906,7 @@
             "track_symbol": "circle",
             "track_symbol_fill": false,
             "history_trail_symbol": "dots",
+            "history_trail_skip_update": 1,
             "foreground_color": "#94cfff",
             "background_color": "#688fae"
           },
@@ -989,6 +1007,7 @@
             "track_symbol": "circle",
             "track_symbol_fill": false,
             "history_trail_symbol": "dots",
+            "history_trail_skip_update": 1,
             "foreground_color": "#99b5cc",
             "background_color": "#6b7f8f"
           }
@@ -1004,6 +1023,7 @@
             "track_symbol": "circle",
             "track_symbol_fill": false,
             "history_trail_symbol": "dots",
+            "history_trail_skip_update": 1,
             "foreground_color": "#ffffff",
             "background_color": "#b3b3b3"
           }
@@ -1019,6 +1039,7 @@
             "track_symbol": "circle",
             "track_symbol_fill": false,
             "history_trail_symbol": "dots",
+            "history_trail_skip_update": 1,
             "foreground_color": "#ffffff",
             "background_color": "#b3b3b3"
           }
@@ -1046,6 +1067,7 @@
             "track_symbol": "triangle",
             "track_symbol_fill": false,
             "history_trail_symbol": "dots",
+            "history_trail_skip_update": 1,
             "foreground_color": "#94cfff",
             "background_color": "#688fae"
           },
@@ -1097,6 +1119,7 @@
             "track_symbol": "triangle",
             "track_symbol_fill": false,
             "history_trail_symbol": "dots",
+            "history_trail_skip_update": 1,
             "foreground_color": "#ff9ef5",
             "background_color": "#b26ea9"
           },
@@ -1185,6 +1208,7 @@
             "track_symbol": "triangle",
             "track_symbol_fill": false,
             "history_trail_symbol": "dots",
+            "history_trail_skip_update": 1,
             "foreground_color": "#99b5cc",
             "background_color": "#6b7f8f"
           }
@@ -1200,6 +1224,7 @@
             "track_symbol": "triangle",
             "track_symbol_fill": false,
             "history_trail_symbol": "dots",
+            "history_trail_skip_update": 1,
             "foreground_color": "#ffffff",
             "background_color": "#b3b3b3"
           }
@@ -1215,6 +1240,7 @@
             "track_symbol": "triangle",
             "track_symbol_fill": false,
             "history_trail_symbol": "dots",
+            "history_trail_skip_update": 1,
             "foreground_color": "#ffffff",
             "background_color": "#b3b3b3"
           }
@@ -1235,6 +1261,7 @@
             "track_symbol": "square",
             "track_symbol_fill": false,
             "history_trail_symbol": "circle",
+            "history_trail_skip_update": 1,
             "foreground_color": "#eea4e9",
             "background_color": "#a673a2"
           }
@@ -1253,6 +1280,7 @@
             "track_symbol": "square",
             "track_symbol_fill": false,
             "history_trail_symbol": "circle",
+            "history_trail_skip_update": 1,
             "foreground_color": "#ee77e6",
             "background_color": "#a654a1"
           }
@@ -1273,6 +1301,7 @@
             "track_symbol": "square",
             "track_symbol_fill": false,
             "history_trail_symbol": "circle",
+            "history_trail_skip_update": 1,
             "foreground_color": "#d9d900",
             "background_color": "#989800"
           }
@@ -1288,6 +1317,7 @@
             "track_symbol": "square",
             "track_symbol_fill": false,
             "history_trail_symbol": "circle",
+            "history_trail_skip_update": 1,
             "foreground_color": "#e6e6e6",
             "background_color": "#a1a1a1"
           }
@@ -1315,6 +1345,7 @@
             "track_symbol": "circle",
             "track_symbol_fill": true,
             "history_trail_symbol": "circle",
+            "history_trail_skip_update": 1,
             "foreground_color": "#ffffff",
             "background_color": "#b3b3b3"
           },
@@ -1366,6 +1397,7 @@
             "track_symbol": "circle",
             "track_symbol_fill": true,
             "history_trail_symbol": "circle",
+            "history_trail_skip_update": 1,
             "foreground_color": "#ffffff",
             "background_color": "#b3b3b3"
           },
@@ -1454,6 +1486,7 @@
             "track_symbol": "circle",
             "track_symbol_fill": true,
             "history_trail_symbol": "circle",
+            "history_trail_skip_update": 1,
             "foreground_color": "#f2b3b3",
             "background_color": "#a97d7d"
           }
@@ -1469,6 +1502,7 @@
             "track_symbol": "circle",
             "track_symbol_fill": true,
             "history_trail_symbol": "circle",
+            "history_trail_skip_update": 1,
             "foreground_color": "#757575",
             "background_color": "#525252"
           }
@@ -1484,6 +1518,7 @@
             "track_symbol": "circle",
             "track_symbol_fill": true,
             "history_trail_symbol": "circle",
+            "history_trail_skip_update": 1,
             "foreground_color": "#ffffff",
             "background_color": "#b3b3b3"
           }
@@ -1523,6 +1558,7 @@
             "track_symbol": "square",
             "track_symbol_fill": false,
             "history_trail_symbol": "dots",
+            "history_trail_skip_update": 1,
             "foreground_color": "#D597A3",
             "background_color": "#A2727B"
           },
@@ -1586,6 +1622,7 @@
             "track_symbol": "square",
             "track_symbol_fill": false,
             "history_trail_symbol": "dots",
+            "history_trail_skip_update": 1,
             "foreground_color": "#51f06c",
             "background_color": "#256e31"
           },
@@ -1686,6 +1723,7 @@
             "track_symbol": "diamond",
             "track_symbol_fill": false,
             "history_trail_symbol": "dots",
+            "history_trail_skip_update": 1,
             "foreground_color": "#00dde0",
             "background_color": "#006769"
           }
@@ -1701,6 +1739,7 @@
             "track_symbol": "diamond",
             "track_symbol_fill": false,
             "history_trail_symbol": "dots",
+            "history_trail_skip_update": 1,
             "foreground_color": "#ffff00",
             "background_color": "#919100"
           }
@@ -1716,6 +1755,7 @@
             "track_symbol": "diamond",
             "track_symbol_fill": false,
             "history_trail_symbol": "dots",
+            "history_trail_skip_update": 1,
             "foreground_color": "#ffff00",
             "background_color": "#919100"
           }
@@ -1746,6 +1786,7 @@
             "track_symbol": "circle",
             "track_symbol_fill": false,
             "history_trail_symbol": "circle",
+            "history_trail_skip_update": 1,
             "foreground_color": "#94cfff",
             "background_color": "#688fae"
           },
@@ -1800,6 +1841,7 @@
             "track_symbol": "circle",
             "track_symbol_fill": false,
             "history_trail_symbol": "circle",
+            "history_trail_skip_update": 1,
             "foreground_color": "#ffc9d3",
             "background_color": "#b28c94"
           },
@@ -1891,6 +1933,7 @@
             "track_symbol": "circle",
             "track_symbol_fill": false,
             "history_trail_symbol": "circle",
+            "history_trail_skip_update": 1,
             "foreground_color": "#37de37",
             "background_color": "#269b26"
           }
@@ -1906,6 +1949,7 @@
             "track_symbol": "circle",
             "track_symbol_fill": false,
             "history_trail_symbol": "circle",
+            "history_trail_skip_update": 1,
             "foreground_color": "#ffffff",
             "background_color": "#b3b3b3"
           }
@@ -1921,6 +1965,7 @@
             "track_symbol": "circle",
             "track_symbol_fill": false,
             "history_trail_symbol": "circle",
+            "history_trail_skip_update": 1,
             "foreground_color": "#ffffff",
             "background_color": "#b3b3b3"
           }
@@ -1949,6 +1994,7 @@
             "track_symbol": "triangle",
             "track_symbol_fill": false,
             "history_trail_symbol": "dots",
+            "history_trail_skip_update": 1,
             "foreground_color": "#D597A3",
             "background_color": "#A2727B"
           },
@@ -2001,6 +2047,7 @@
             "track_symbol": "triangle",
             "track_symbol_fill": false,
             "history_trail_symbol": "dots",
+            "history_trail_skip_update": 1,
             "foreground_color": "#00ff00",
             "background_color": "#004a00"
           },
@@ -2090,6 +2137,7 @@
             "track_symbol": "triangle",
             "track_symbol_fill": false,
             "history_trail_symbol": "dots",
+            "history_trail_skip_update": 1,
             "foreground_color": "#ffff00",
             "background_color": "##6b6b00"
           }
@@ -2105,6 +2153,7 @@
             "track_symbol": "triangle",
             "track_symbol_fill": false,
             "history_trail_symbol": "dots",
+            "history_trail_skip_update": 1,
             "foreground_color": "#59a9ff",
             "background_color": "#2a4f78"
           }
@@ -2120,6 +2169,7 @@
             "track_symbol": "triangle",
             "track_symbol_fill": false,
             "history_trail_symbol": "dots",
+            "history_trail_skip_update": 1,
             "foreground_color": "#ffff00",
             "background_color": "##6b6b00"
           }
@@ -2164,6 +2214,7 @@
             "track_symbol": "square",
             "track_symbol_fill": false,
             "history_trail_symbol": "dots",
+            "history_trail_skip_update": 1,
             "foreground_color": "#995f85",
             "background_color": "#6b435d"
           },
@@ -2232,6 +2283,7 @@
             "track_symbol": "square",
             "track_symbol_fill": false,
             "history_trail_symbol": "dots",
+            "history_trail_skip_update": 1,
             "foreground_color": "#ffc9d3",
             "background_color": "#b28c94"
           },
@@ -2337,6 +2389,7 @@
             "track_symbol": "square",
             "track_symbol_fill": false,
             "history_trail_symbol": "dots",
+            "history_trail_skip_update": 1,
             "foreground_color": "#3678b3",
             "background_color": "#26547d"
           }
@@ -2352,6 +2405,7 @@
             "track_symbol": "square",
             "track_symbol_fill": false,
             "history_trail_symbol": "dots",
+            "history_trail_skip_update": 1,
             "foreground_color": "#ebeb6a",
             "background_color": "#a5a54a"
           }
@@ -2367,6 +2421,7 @@
             "track_symbol": "square",
             "track_symbol_fill": false,
             "history_trail_symbol": "dots",
+            "history_trail_skip_update": 1,
             "foreground_color": "#919191",
             "background_color": "#666666"
           }
@@ -2400,6 +2455,7 @@
             "track_symbol": "diamond",
             "track_symbol_fill": false,
             "history_trail_symbol": "dots",
+            "history_trail_skip_update": 1,
             "foreground_color": "#ff00ff",
             "background_color": "#690369"
           },
@@ -2457,6 +2513,7 @@
             "track_symbol": "diamond",
             "track_symbol_fill": false,
             "history_trail_symbol": "dots",
+            "history_trail_skip_update": 1,
             "foreground_color": "#00ffff",
             "background_color": "#007575"
           },
@@ -2551,6 +2608,7 @@
             "track_symbol": "diamond",
             "track_symbol_fill": false,
             "history_trail_symbol": "dots",
+            "history_trail_skip_update": 1,
             "foreground_color": "#ffff00",
             "background_color": "#5e5e00"
           }
@@ -2566,6 +2624,7 @@
             "track_symbol": "diamond",
             "track_symbol_fill": false,
             "history_trail_symbol": "dots",
+            "history_trail_skip_update": 1,
             "foreground_color": "#ffffff",
             "background_color": "#969696"
           }
@@ -2581,6 +2640,7 @@
             "track_symbol": "diamond",
             "track_symbol_fill": false,
             "history_trail_symbol": "dots",
+            "history_trail_skip_update": 1,
             "foreground_color": "#ffffff",
             "background_color": "#969696"
           }
@@ -3386,6 +3446,7 @@
             "track_symbol": "square",
             "track_symbol_fill": false,
             "history_trail_symbol": "circle",
+            "history_trail_skip_update": 1,
             "foreground_color": "#e6e645",
             "background_color": "#a1a131"
           },
@@ -3488,6 +3549,7 @@
             "track_symbol": "square",
             "track_symbol_fill": false,
             "history_trail_symbol": "circle",
+            "history_trail_skip_update": 1,
             "foreground_color": "#e6b800",
             "background_color": "#a18000"
           },
@@ -3574,6 +3636,7 @@
             "track_symbol": "square",
             "track_symbol_fill": false,
             "history_trail_symbol": "circle",
+            "history_trail_skip_update": 1,
             "foreground_color": "#e6e645",
             "background_color": "#a1a131"
           },
@@ -3638,6 +3701,7 @@
             "track_symbol": "square",
             "track_symbol_fill": false,
             "history_trail_symbol": "circle",
+            "history_trail_skip_update": 1,
             "foreground_color": "#e6b800",
             "background_color": "#a18000"
           },
@@ -3702,6 +3766,7 @@
             "track_symbol": "square",
             "track_symbol_fill": false,
             "history_trail_symbol": "circle",
+            "history_trail_skip_update": 1,
             "foreground_color": "#ffffff",
             "background_color": "#b3b3b3"
           }
@@ -3717,6 +3782,7 @@
             "track_symbol": "square",
             "track_symbol_fill": false,
             "history_trail_symbol": "circle",
+            "history_trail_skip_update": 1,
             "foreground_color": "#ababab",
             "background_color": "#777777"
           }
@@ -3732,6 +3798,7 @@
             "track_symbol": "square",
             "track_symbol_fill": false,
             "history_trail_symbol": "circle",
+            "history_trail_skip_update": 1,
             "foreground_color": "#ababab",
             "background_color": "#777777"
           }
@@ -4236,6 +4303,7 @@
             "track_symbol": "square",
             "track_symbol_fill": false,
             "history_trail_symbol": "dots",
+            "history_trail_skip_update": 1,
             "foreground_color": "#ff9cff",
             "background_color": "#b26db2"
           },
@@ -4285,6 +4353,7 @@
             "track_symbol": "square",
             "track_symbol_fill": false,
             "history_trail_symbol": "dots",
+            "history_trail_skip_update": 1,
             "foreground_color": "#ff9cff",
             "background_color": "#b26db2"
           },
@@ -4371,6 +4440,7 @@
             "track_symbol": "square",
             "track_symbol_fill": false,
             "history_trail_symbol": "dots",
+            "history_trail_skip_update": 1,
             "foreground_color": "#ff9cff",
             "background_color": "#b26db2"
           }
@@ -4386,6 +4456,7 @@
             "track_symbol": "square",
             "track_symbol_fill": false,
             "history_trail_symbol": "dots",
+            "history_trail_skip_update": 1,
             "foreground_color": "#3586b8",
             "background_color": "#255e81"
           }
@@ -4401,6 +4472,7 @@
             "track_symbol": "square",
             "track_symbol_fill": false,
             "history_trail_symbol": "dots",
+            "history_trail_skip_update": 1,
             "foreground_color": "#3586b8",
             "background_color": "#255e81"
           }
@@ -7015,6 +7087,7 @@
             "track_symbol": "diamond",
             "track_symbol_fill": false,
             "history_trail_symbol": "dots",
+            "history_trail_skip_update": 1,
             "foreground_color": "#ffd2d2",
             "background_color": "#6b5858"
           },
@@ -7069,6 +7142,7 @@
             "track_symbol": "diamond",
             "track_symbol_fill": false,
             "history_trail_symbol": "dots",
+            "history_trail_skip_update": 1,
             "foreground_color": "#d7ffff",
             "background_color": "#536363"
           },
@@ -7160,6 +7234,7 @@
             "track_symbol": "diamond",
             "track_symbol_fill": false,
             "history_trail_symbol": "dots",
+            "history_trail_skip_update": 1,
             "foreground_color": "#ffff3b",
             "background_color": "#696917"
           }
@@ -7175,6 +7250,7 @@
             "track_symbol": "diamond",
             "track_symbol_fill": false,
             "history_trail_symbol": "dots",
+            "history_trail_skip_update": 1,
             "foreground_color": "#ffffff",
             "background_color": "#7a7a7a"
           }
@@ -7190,6 +7266,7 @@
             "track_symbol": "diamond",
             "track_symbol_fill": false,
             "history_trail_symbol": "dots",
+            "history_trail_skip_update": 1,
             "foreground_color": "#ffffff",
             "background_color": "#7a7a7a"
           }
@@ -7214,6 +7291,7 @@
             "track_symbol": "circle",
             "track_symbol_fill": false,
             "history_trail_symbol": "circle",
+            "history_trail_skip_update": 1,
             "foreground_color": "#fe7ee4",
             "background_color": "#b259a0"
           },
@@ -7300,6 +7378,7 @@
             "track_symbol": "circle",
             "track_symbol_fill": false,
             "history_trail_symbol": "circle",
+            "history_trail_skip_update": 1,
             "foreground_color": "#ff49ca",
             "background_color": "#b3338d"
           },
@@ -7396,6 +7475,7 @@
             "track_symbol": "circle",
             "track_symbol_fill": false,
             "history_trail_symbol": "circle",
+            "history_trail_skip_update": 1,
             "foreground_color": "#fcb7bf",
             "background_color": "#b08086"
           },
@@ -7482,6 +7562,7 @@
             "track_symbol": "circle",
             "track_symbol_fill": false,
             "history_trail_symbol": "circle",
+            "history_trail_skip_update": 1,
             "foreground_color": "#00affc",
             "background_color": "#1a40b0"
           },
@@ -7540,6 +7621,7 @@
             "track_symbol": "circle",
             "track_symbol_fill": false,
             "history_trail_symbol": "circle",
+            "history_trail_skip_update": 1,
             "foreground_color": "#02aefb",
             "background_color": "#017ab0"
           },
@@ -7599,6 +7681,7 @@
             "track_symbol": "circle",
             "track_symbol_fill": false,
             "history_trail_symbol": "circle",
+            "history_trail_skip_update": 1,
             "foreground_color": "#b8e8ee",
             "background_color": "#81a2a7"
           }
@@ -7629,6 +7712,7 @@
             "track_symbol": "circle",
             "track_symbol_fill": false,
             "history_trail_symbol": "circle",
+            "history_trail_skip_update": 1,
             "foreground_color": "#567371",
             "background_color": "#3c504f"
           }
@@ -7647,6 +7731,7 @@
             "track_symbol": "circle",
             "track_symbol_fill": false,
             "history_trail_symbol": "circle",
+            "history_trail_skip_update": 1,
             "foreground_color": "#b2f4f7",
             "background_color": "#7daaad"
           }
@@ -7666,6 +7751,7 @@
             "track_symbol": "circle",
             "track_symbol_fill": false,
             "history_trail_symbol": "circle",
+            "history_trail_skip_update": 1,
             "foreground_color": "#577523",
             "background_color": "#3d5219"
           }
@@ -7681,6 +7767,7 @@
             "track_symbol": "circle",
             "track_symbol_fill": false,
             "history_trail_symbol": "circle",
+            "history_trail_skip_update": 1,
             "foreground_color": "#858585",
             "background_color": "#5d5d5d"
           }
@@ -7696,6 +7783,7 @@
             "track_symbol": "circle",
             "track_symbol_fill": false,
             "history_trail_symbol": "circle",
+            "history_trail_skip_update": 1,
             "foreground_color": "#fffacc",
             "background_color": "#b3af8f"
           }
@@ -7728,6 +7816,7 @@
             "track_symbol": "square",
             "track_symbol_fill": false,
             "history_trail_symbol": "dots",
+            "history_trail_skip_update": 1,
             "foreground_color": "#63BBD9",
             "background_color": "#4B8FA5"
           },
@@ -7822,6 +7911,7 @@
             "track_symbol": "square",
             "track_symbol_fill": false,
             "history_trail_symbol": "dots",
+            "history_trail_skip_update": 1,
             "foreground_color": "#D597A3",
             "background_color": "#A2727B"
           },
@@ -7877,6 +7967,7 @@
             "track_symbol": "square",
             "track_symbol_fill": false,
             "history_trail_symbol": "dots",
+            "history_trail_skip_update": 1,
             "foreground_color": "#f3f14d",
             "background_color": "#aaa936"
           }
@@ -7892,6 +7983,7 @@
             "track_symbol": "square",
             "track_symbol_fill": false,
             "history_trail_symbol": "dots",
+            "history_trail_skip_update": 1,
             "foreground_color": "#e6e7c8",
             "background_color": "#a1a28c"
           }
@@ -7907,6 +7999,7 @@
             "track_symbol": "square",
             "track_symbol_fill": false,
             "history_trail_symbol": "dots",
+            "history_trail_skip_update": 1,
             "foreground_color": "#fff9c4",
             "background_color": "#b3ae89"
           }
@@ -7950,6 +8043,7 @@
             "track_symbol": "square",
             "track_symbol_fill": false,
             "history_trail_symbol": "circle",
+            "history_trail_skip_update": 1,
             "foreground_color": "#7ae2db",
             "background_color": "#559e99"
           },
@@ -8055,6 +8149,7 @@
             "track_symbol": "square",
             "track_symbol_fill": false,
             "history_trail_symbol": "circle",
+            "history_trail_skip_update": 1,
             "foreground_color": "#7ae2db",
             "background_color": "#559e99"
           },
@@ -8121,6 +8216,7 @@
             "track_symbol": "square",
             "track_symbol_fill": false,
             "history_trail_symbol": "circle",
+            "history_trail_skip_update": 1,
             "foreground_color": "#dfc55d",
             "background_color": "#9c8a41"
           }
@@ -8136,6 +8232,7 @@
             "track_symbol": "square",
             "track_symbol_fill": false,
             "history_trail_symbol": "circle",
+            "history_trail_skip_update": 1,
             "foreground_color": "#98a2c7",
             "background_color": "#6a718b"
           }
@@ -8151,6 +8248,7 @@
             "track_symbol": "square",
             "track_symbol_fill": false,
             "history_trail_symbol": "circle",
+            "history_trail_skip_update": 1,
             "foreground_color": "#98a2c7",
             "background_color": "#6a718b"
           }
@@ -8179,6 +8277,7 @@
             "track_symbol": "triangle",
             "track_symbol_fill": false,
             "history_trail_symbol": "dots",
+            "history_trail_skip_update": 1,
             "foreground_color": "#faf1af",
             "background_color": "#afa87b"
           },
@@ -8231,6 +8330,7 @@
             "track_symbol": "triangle",
             "track_symbol_fill": false,
             "history_trail_symbol": "dots",
+            "history_trail_skip_update": 1,
             "foreground_color": "#faf1af",
             "background_color": "#afa87b"
           },
@@ -8320,6 +8420,7 @@
             "track_symbol": "triangle",
             "track_symbol_fill": false,
             "history_trail_symbol": "dots",
+            "history_trail_skip_update": 1,
             "foreground_color": "#94cfff",
             "background_color": "#688fae"
           }
@@ -8335,6 +8436,7 @@
             "track_symbol": "triangle",
             "track_symbol_fill": false,
             "history_trail_symbol": "dots",
+            "history_trail_skip_update": 1,
             "foreground_color": "#ffffff",
             "background_color": "#b3b3b3"
           }
@@ -8350,6 +8452,7 @@
             "track_symbol": "triangle",
             "track_symbol_fill": false,
             "history_trail_symbol": "dots",
+            "history_trail_skip_update": 1,
             "foreground_color": "#ffffff",
             "background_color": "#b3b3b3"
           }
@@ -8400,6 +8503,7 @@
             "track_symbol": "diamond",
             "track_symbol_fill": false,
             "history_trail_symbol": "circle",
+            "history_trail_skip_update": 1,
             "foreground_color": "#f5e2d7",
             "background_color": "#ac9e97"
           },
@@ -8512,6 +8616,7 @@
             "track_symbol": "diamond",
             "track_symbol_fill": false,
             "history_trail_symbol": "circle",
+            "history_trail_skip_update": 1,
             "foreground_color": "#f5e2d7",
             "background_color": "#ac9e97"
           },
@@ -8585,6 +8690,7 @@
             "track_symbol": "diamond",
             "track_symbol_fill": false,
             "history_trail_symbol": "circle",
+            "history_trail_skip_update": 1,
             "foreground_color": "#f8d789",
             "background_color": "#ad9760"
           }
@@ -8600,6 +8706,7 @@
             "track_symbol": "diamond",
             "track_symbol_fill": false,
             "history_trail_symbol": "circle",
+            "history_trail_skip_update": 1,
             "foreground_color": "#8cb7d7",
             "background_color": "#628097"
           }
@@ -8615,6 +8722,7 @@
             "track_symbol": "diamond",
             "track_symbol_fill": false,
             "history_trail_symbol": "circle",
+            "history_trail_skip_update": 1,
             "foreground_color": "#bad4d1",
             "background_color": "#829490"
           }
