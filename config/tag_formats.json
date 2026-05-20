@@ -1520,11 +1520,11 @@
           "priority": 3,
           "filtered": false,
           "style": {
-            "track_symbol": "triangle",
+            "track_symbol": "square",
             "track_symbol_fill": false,
             "history_trail_symbol": "dots",
-            "foreground_color": "#faf1af",
-            "background_color": "#afa87b"
+            "foreground_color": "#D597A3",
+            "background_color": "#A2727B"
           },
           "taglayouts": {
             "extended_layout": [
@@ -1583,11 +1583,11 @@
           "priority": 1,
           "filtered": false,
           "style": {
-            "track_symbol": "triangle",
+            "track_symbol": "square",
             "track_symbol_fill": false,
             "history_trail_symbol": "dots",
-            "foreground_color": "#faf1af",
-            "background_color": "#afa87b"
+            "foreground_color": "#51f06c",
+            "background_color": "#256e31"
           },
           "taglayouts": {
             "tag_layout": [
@@ -1683,11 +1683,11 @@
           "priority": 4,
           "filtered": false,
           "style": {
-            "track_symbol": "triangle",
+            "track_symbol": "diamond",
             "track_symbol_fill": false,
             "history_trail_symbol": "dots",
-            "foreground_color": "#94cfff",
-            "background_color": "#688fae"
+            "foreground_color": "#00dde0",
+            "background_color": "#006769"
           }
         },
         {
@@ -1698,11 +1698,11 @@
           "priority": 5,
           "filtered": true,
           "style": {
-            "track_symbol": "triangle",
+            "track_symbol": "diamond",
             "track_symbol_fill": false,
             "history_trail_symbol": "dots",
-            "foreground_color": "#ffffff",
-            "background_color": "#b3b3b3"
+            "foreground_color": "#ffff00",
+            "background_color": "#919100"
           }
         },
         {
@@ -1713,11 +1713,11 @@
           "priority": 10,
           "filtered": true,
           "style": {
-            "track_symbol": "triangle",
+            "track_symbol": "diamond",
             "track_symbol_fill": false,
             "history_trail_symbol": "dots",
-            "foreground_color": "#ffffff",
-            "background_color": "#b3b3b3"
+            "foreground_color": "#ffff00",
+            "background_color": "#919100"
           }
         }
       ]
