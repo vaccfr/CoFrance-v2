@@ -2400,8 +2400,8 @@
             "track_symbol": "diamond",
             "track_symbol_fill": false,
             "history_trail_symbol": "dots",
-            "foreground_color": "#ebeb6a",
-            "background_color": "#a5a54a"
+            "foreground_color": "#ff00ff",
+            "background_color": "#690369"
           },
           "taglayouts": {
             "extended_layout": [
@@ -2457,8 +2457,8 @@
             "track_symbol": "diamond",
             "track_symbol_fill": false,
             "history_trail_symbol": "dots",
-            "foreground_color": "#ebeb6a",
-            "background_color": "#a5a54a"
+            "foreground_color": "#00ffff",
+            "background_color": "#007575"
           },
           "taglayouts": {
             "tag_layout": [
@@ -2551,8 +2551,8 @@
             "track_symbol": "diamond",
             "track_symbol_fill": false,
             "history_trail_symbol": "dots",
-            "foreground_color": "#b5b574",
-            "background_color": "#7f7f51"
+            "foreground_color": "#ffff00",
+            "background_color": "#5e5e00"
           }
         },
         {
@@ -2566,8 +2566,8 @@
             "track_symbol": "diamond",
             "track_symbol_fill": false,
             "history_trail_symbol": "dots",
-            "foreground_color": "#787878",
-            "background_color": "#545454"
+            "foreground_color": "#ffffff",
+            "background_color": "#969696"
           }
         },
         {
@@ -2581,8 +2581,8 @@
             "track_symbol": "diamond",
             "track_symbol_fill": false,
             "history_trail_symbol": "dots",
-            "foreground_color": "#787878",
-            "background_color": "#545454"
+            "foreground_color": "#ffffff",
+            "background_color": "#969696"
           }
         }
       ]
