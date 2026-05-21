@@ -7,17 +7,17 @@
                 "name": "Poitiers Fake Background",
                 "fillStyle": {
                     "color": [
-                        107,
-                        103,
-                        100
+                        0,
+                        0,
+                        0
                     ],
                     "opacity": 1
                 },
                 "lineStyle": {
                     "color": [
-                        35,
-                        35,
-                        35
+                        0,
+                        0,
+                        0
                     ],
                     "width": 0.26,
                     "opacity": 1,
@@ -65,17 +65,17 @@
                 "name": "Poitiers SIV",
                 "fillStyle": {
                     "color": [
-                        74,
-                        75,
-                        70
+                        0,
+                        0,
+                        0
                     ],
                     "opacity": 1
                 },
                 "lineStyle": {
                     "color": [
-                        146,
-                        138,
-                        142
+                        255,
+                        241,
+                        248
                     ],
                     "width": 2,
                     "opacity": 1,
@@ -1633,9 +1633,9 @@
                 "name": "Poitiers Outline Solid",
                 "lineStyle": {
                     "color": [
-                        146,
-                        138,
-                        142
+                        250,
+                        236,
+                        243
                     ],
                     "width": 1,
                     "opacity": 1,
@@ -4241,9 +4241,9 @@
                 "pointStyle": {
                     "type": "triangle_filled",
                     "color": [
-                        0,
-                        0,
-                        0
+                        146,
+                        138,
+                        142
                     ],
                     "size": "small",
                     "opacity": 1
