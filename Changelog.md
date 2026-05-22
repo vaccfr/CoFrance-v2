@@ -1,3 +1,31 @@
+# CoFrance v2.2.8 Changelog
+
+### Improvements
+- Assumed aircraft on ground are now displayed
+- Split SIDs/STARs from base map in LFML map (Credits: Chriss K.)
+- HFL popup now only display available HFL in the hold
+- Optimised maps drawing
+- Sector ownership now compatible with double underscore callsigns
+
+### Additions
+- Added support for polygon transparency in maps
+- Added History Trail Skip Update property to a majority of CCA Tags (Credits: Chriss K.)
+- Added predefined LFMD Holds to `LFMN_` position (Credits: Goulven G.)
+- Added LFTZ VFR points in LFMN maps (Credits: Chriss K.)
+- Added LFQQ RNP points in LFQQ maps (Credits: Chriss K.)
+
+### Fixes
+- Fixed AVISO scrolling changing speed vectors instead of zoom
+- Fixed RAM/CLAM displaying for VFR flights
+- Fixed history trail skip update drawing logic
+- Fixed Diamond track symbol
+- Fixed LFMD Extended Centerline (Credits: Chriss K.)
+- Fixed LFML AMSR polygons (Credits: Chriss K.)
+- Fixed Holding list display conditions
+- Fixed Holding list being radar screen dependant instead of plugin wide
+- Fixed EFL zero padding
+
+
 # CoFrance v2.2.7 Changelog
 
 ### Fixes
