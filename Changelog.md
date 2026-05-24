@@ -2,7 +2,7 @@
 
 ### Improvements
 - Assigning CFL to aircraft with holding confirmed now update HFL
-- Auto hold confirmed when aircraft entering holding pattern and aircraft assumed
+- Auto hold confirmed when aircraft enters holding pattern and aircraft assumed
 
 ### Fixes
 - Fixed EAT being cleared when Holding was cleared
