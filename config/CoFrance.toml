@@ -19,7 +19,7 @@ neighbor_sectors_callsigns = [ "LO", "ED", "EB", "LS", "LI", "LE", "EG" ]
 
 [tag_layout]
 lines = [
-    "gs", "aspd", "scratchpad", "vz", "atyp", "hold", "eat", "coordination",
+    "gs", "aspd", "scratchpad", "vz", "assigned_vz", "atyp", "hold", "eat", "coordination",
     "notification", "sequence", "lost", "stca", "tct", "\n",
     "contact_flag", "callsign", "cpdlc_flag", "comms", "manual_coord", "sector", "rfl", "group", "\n",
     "afl", "tendency", "cfl", "wpt", "ahdg", "\n",
