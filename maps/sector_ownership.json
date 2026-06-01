@@ -6,8 +6,8 @@
     "LFBB__CTR"
   ],
   "LFBB-H": [
-    "LFBB_H_CTR",
-    "LFBB__H_CTR",
+    "LFBB_H1_CTR",
+    "LFBB__H1_CTR",
     "LFBB_US_CTR",
     "LFBB__US_CTR",
     "LFBB_CTR",
@@ -17,33 +17,33 @@
     "LFBB_CTR",
     "LFBB__CTR"
   ],
-  "LFBB-L": [
-    "LFBB_L_CTR",
-    "LFBB__L_CTR",
+  "LFBB-L1": [
+    "LFBB_L1_CTR",
+    "LFBB__L1_CTR",
     "LFBB_UN_CTR",
     "LFBB__UN_CTR",
     "LFBB_CTR",
     "LFBB__CTR"
   ],
-  "LFBB-N": [
-    "LFBB_N_CTR",
-    "LFBB__N_CTR",
+  "LFBB-N1": [
+    "LFBB_N1_CTR",
+    "LFBB__N1_CTR",
     "LFBB_US_CTR",
     "LFBB__US_CTR",
     "LFBB_CTR",
     "LFBB__CTR"
   ],
-  "LFBB-P": [
-    "LFBB_P_CTR",
-    "LFBB__P_CTR",
+  "LFBB-P1": [
+    "LFBB_P1_CTR",
+    "LFBB__P1_CTR",
     "LFBB_UN_CTR",
     "LFBB__UN_CTR",
     "LFBB_CTR",
     "LFBB__CTR"
   ],
-  "LFBB-R": [
-    "LFBB_R_CTR",
-    "LFBB__R_CTR",
+  "LFBB-R1": [
+    "LFBB_R1_CTR",
+    "LFBB__R1_CTR",
     "LFBB_UN_CTR",
     "LFBB__UN_CTR",
     "LFBB_CTR",
@@ -57,25 +57,25 @@
     "LFBB_CTR",
     "LFBB__CTR"
   ],
-  "LFBB-T": [
-    "LFBB_T_CTR",
-    "LFBB__T_CTR",
+  "LFBB-T1": [
+    "LFBB_T1_CTR",
+    "LFBB__T1_CTR",
     "LFBB_UN_CTR",
     "LFBB__UN_CTR",
     "LFBB_CTR",
     "LFBB__CTR"
   ],
-  "LFBB-X": [
-    "LFBB_X_CTR",
-    "LFBB__X_CTR",
+  "LFBB-X1": [
+    "LFBB_X1_CTR",
+    "LFBB__X1_CTR",
     "LFBB_US_CTR",
     "LFBB__US_CTR",
     "LFBB_CTR",
     "LFBB__CTR"
   ],
-  "LFBB-Z": [
-    "LFBB_Z_CTR",
-    "LFBB__Z_CTR",
+  "LFBB-Z1": [
+    "LFBB_Z1_CTR",
+    "LFBB__Z1_CTR",
     "LFBB_US_CTR",
     "LFBB__US_CTR",
     "LFBB_CTR",
@@ -212,8 +212,8 @@
     "PAR__CTR"
   ],
   "LFEE-SU": [
-    "LFST_APP",
-    "LFST__APP",
+    "LFST_SU_APP",
+    "LFST__SU_APP",
     "LFEE_UE_CTR",
     "LFEE__UE_CTR",
     "LFEE_CTR",

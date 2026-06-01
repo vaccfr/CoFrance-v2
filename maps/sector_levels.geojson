@@ -763,13 +763,13 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "LFBB-X",
+        "name": "LFBB-X1",
         "size": 20,
         "layers": [
           {
             "upperAlt": 660,
             "lowerAlt": 195,
-            "ownership": "LFBB-X",
+            "ownership": "LFBB-X1",
             "combine": []
           }
         ]
@@ -785,13 +785,13 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "LFBB-N",
+        "name": "LFBB-N1",
         "size": 20,
         "layers": [
           {
             "upperAlt": 660,
             "lowerAlt": 195,
-            "ownership": "LFBB-N",
+            "ownership": "LFBB-N1",
             "combine": []
           }
         ]
@@ -807,13 +807,13 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "LFBB-Z",
+        "name": "LFBB-Z1",
         "size": 20,
         "layers": [
           {
             "upperAlt": 660,
             "lowerAlt": 195,
-            "ownership": "LFBB-Z",
+            "ownership": "LFBB-Z1",
             "combine": []
           }
         ]
@@ -829,13 +829,13 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "LFBB-H",
+        "name": "LFBB-H1",
         "size": 20,
         "layers": [
           {
             "upperAlt": 660,
             "lowerAlt": 195,
-            "ownership": "LFBB-H",
+            "ownership": "LFBB-H1",
             "combine": []
           }
         ]
@@ -851,13 +851,13 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "LFBB-T",
+        "name": "LFBB-T1",
         "size": 20,
         "layers": [
           {
             "upperAlt": 660,
             "lowerAlt": 195,
-            "ownership": "LFBB-T",
+            "ownership": "LFBB-T1",
             "combine": []
           }
         ]
@@ -873,13 +873,13 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "LFBB-P2",
+        "name": "LFBB-P1",
         "size": 20,
         "layers": [
           {
             "upperAlt": 660,
             "lowerAlt": 195,
-            "ownership": "LFBB-P",
+            "ownership": "LFBB-P1",
             "combine": []
           }
         ]
@@ -895,13 +895,13 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "LFBB-L",
+        "name": "LFBB-L1",
         "size": 20,
         "layers": [
           {
             "upperAlt": 660,
             "lowerAlt": 195,
-            "ownership": "LFBB-L",
+            "ownership": "LFBB-L1",
             "combine": []
           }
         ]
@@ -917,13 +917,13 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "LFBB-R",
+        "name": "LFBB-R1",
         "size": 20,
         "layers": [
           {
             "upperAlt": 660,
             "lowerAlt": 195,
-            "ownership": "LFBB-R",
+            "ownership": "LFBB-R1",
             "combine": []
           }
         ]
@@ -939,13 +939,35 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "LFBB-R1",
+        "size": 20,
+        "layers": [
+          {
+            "upperAlt": 275,
+            "lowerAlt": 195,
+            "ownership": "LFBB-R1",
+            "combine": []
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.93162194444444,
+          46.551788055556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "LFBB-P1",
         "size": 20,
         "layers": [
           {
             "upperAlt": 660,
             "lowerAlt": 265,
-            "ownership": "LFBB-P",
+            "ownership": "LFBB-P1",
             "combine": []
           }
         ]
