@@ -1,8 +1,8 @@
 {
   "$schema": "./.github/schema/version.schema.json",
   "branch": "main",
-  "plugin_version": "2.2.9",
-  "CoFrance.toml_version": "1.1.2",
+  "plugin_version": "2.3.0",
+  "CoFrance.toml_version": "1.1.3",
   "manifest.json_version": "1.1.2",
   "sector_ownership.json_version": "1.0.4",
   "sector_levels.geojson_version": "1.0.3",
@@ -12,9 +12,9 @@
   "predefined_holds.json_version": "1.0.8",
   "intention_codes.json_version": "1.1.0",
   "views.json_version": "1.0.2",
-  "CoFrance-Normal.ttf_version": "1.0.2",
-  "CoFrance-Bold.ttf_version": "1.0.2",
+  "CoFrance-Normal.ttf_version": "1.0.3",
+  "CoFrance-Bold.ttf_version": "1.0.3",
   "sounds_version": "1.0.2",
   "aircrafts.json_version": "1.0.0",
-  "CoFranceUserManual.pdf_version": "1.0.7"
+  "CoFranceUserManual.pdf_version": "1.0.8"
 }
