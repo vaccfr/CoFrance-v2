@@ -1,3 +1,9 @@
+# CoFrance v2.3.1 Changelog
+
+### Fixes
+- Fixed crash hazard
+
+
 # CoFrance v2.3.0 Changelog
 
 ### Note
