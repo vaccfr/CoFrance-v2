@@ -1,8 +1,41 @@
+# CoFrance v2.3.0 Changelog
+
+### Note
+Make sure to enable `Restricted Areas Enabled` option in CoFrance user settings
+
+### Improvements
+- Not Seen list can now be striped
+- Raised minimum altitude for TCT detection
+- Improved Restricted Areas drawing
+- History trail is now ASR dependent and persistent (Credits: Simon N.)
+- Revised STCA activation conditions (Credits: Simon N.)
+- Contactme action on flight now marks it as seen
+
+### Additions
+- Added ADES field to Not Seen list
+- Added Pause alert
+- Added Assigned Vz popup  (Credits: Simon N.)
+- Added V-LARA Restricted Area support
+- Added reentry symbol  (Credits: Simon N.)
+- Added minidump generation if CoFrance crashes
+
+### Fixes
+- Fixed EOBT parsing in FP Window
+- Fixed flights drawn above Inset Radar Window header
+- Fixed graphic artifact around lines in Inset Radar Window
+- Fixed click spot discrepancy in Inset Radar Window
+- Fixed tag layouts not hot reloading
+- Fixed some map feature not drawing  (Credits: Simon N.)
+- Fixed APW warning stuck if area deactivated during Warning
+- Fixed FileWatcher crash hazard
+- Fixed superimposed area labels when multiple layers reserved at same time
+
+
 # CoFrance v2.2.9 Changelog
 
 ### Improvements
 - Assigning CFL to aircraft with holding confirmed now update HFL
-- Auto hold confirmed when aircraft enters holding pattern and aircraft assumed
+- Auto hold confirmed when aircraft entering holding pattern and aircraft assumed
 
 ### Fixes
 - Fixed EAT being cleared when Holding was cleared

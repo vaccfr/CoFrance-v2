@@ -7,7 +7,7 @@ ese_folderpath = "../../Sectors/"
 
 [api_urls]
 ecfmp_api_url = "https://pintade.vatsim.fr/dataplatform/api/v1/current/ecfmp/flow-measures?active=true"
-area_api_url = "localhost:3000/api/areas/all"
+area_api_url = "https://lara-backend.lusep.fi/data/reservations/lfxx.json"
 oceanic_api_url = "https://nattrak.vatsim.net/api/plugins"
 
 [oceanic_data]
@@ -19,7 +19,7 @@ neighbor_sectors_callsigns = [ "LO", "ED", "EB", "LS", "LI", "LE", "EG" ]
 
 [tag_layout]
 lines = [
-    "gs", "aspd", "scratchpad", "vz", "atyp", "hold", "eat", "coordination",
+    "gs", "aspd", "scratchpad", "vz", "assigned_vz", "atyp", "hold", "eat", "coordination",
     "notification", "sequence", "lost", "stca", "tct", "\n",
     "contact_flag", "callsign", "cpdlc_flag", "comms", "manual_coord", "sector", "rfl", "group", "\n",
     "afl", "tendency", "cfl", "wpt", "ahdg", "\n",
@@ -176,8 +176,8 @@ QDM_line = [160, 216, 180]
 track_ring_color = [173, 141, 112]
 
 # Areas colors
-area_label_text = [10,10,10]
-area_active = [81, 73, 72]
-area_active_border = [62, 57, 56]
+area_label_text = [13, 13, 13]
+area_active = [106, 91, 86]
+area_active_border = [65, 61, 62]
 area_preactive = [67, 67, 67]
-area_preactive_border = [62, 57, 56]
+area_preactive_border = [75, 75, 75]
