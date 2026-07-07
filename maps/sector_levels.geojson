@@ -1537,6 +1537,7 @@
       "type": "Feature",
       "properties": {
         "name": "LFMM-A2",
+        "combine": ["LFMM-A1"],
         "size": 14,
         "layers": [
           {

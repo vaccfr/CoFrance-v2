@@ -5,7 +5,7 @@
   "CoFrance.toml_version": "1.1.3",
   "manifest.json_version": "1.1.3",
   "sector_ownership.json_version": "1.0.5",
-  "sector_levels.geojson_version": "1.0.4",
+  "sector_levels.geojson_version": "1.0.5",
   "tma_filters.geojson_version": "1.0.4",
   "monitoring_zones.geojson_version": "1.0.5",
   "tag_formats.json_version": "1.1.5",
