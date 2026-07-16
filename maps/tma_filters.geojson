@@ -13736,9 +13736,9 @@
       "type": "Feature",
       "properties": {
         "name": "PARIS-CDG ARR",
-        "upper_altitude": 19500,
+        "upper_altitude": 12500,
         "lower_altitude": 0,
-        "floor_altitude": 17500,
+        "floor_altitude": 5000,
         "destination_airports": [
           "LFPB",
           "LFPG",
