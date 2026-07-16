@@ -7,6 +7,7 @@
 - Updated Leader Line drawing (Credits: Simon N.)
 - Updated Blue notification color (Credits: Simon N.)
 - COPX/COPN/XFL/EFL popups gradient to better differentiate them from WAYPOINT/CFL popups (Credits: Simon N.)
+- Updated Vz Popup to better match the real popup
 
 ### Additions
 - Added background to Extended tag tabs (Credits: Simon N.)
