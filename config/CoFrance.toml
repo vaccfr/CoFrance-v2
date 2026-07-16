@@ -16,6 +16,7 @@ brest_oceanic_entry_points = ["ETIKI", "UMLER", "SEPAL", "BUNAV", "SIVIR"]
 [sector_data]
 french_sectors_callsigns = [ "LF", "PA" ]
 neighbor_sectors_callsigns = [ "LO", "ED", "EB", "LS", "LI", "LE", "EG" ]
+military_sectors_callsigns = [ "LFFM" ]
 
 [tag_layout]
 lines = [

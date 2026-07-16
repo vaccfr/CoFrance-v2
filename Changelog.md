@@ -1,3 +1,35 @@
+# CoFrance v2.3.2 Changelog
+
+### Improvements
+- TCT & STCA logic to avoid false positives (Credits: Simon N.)
+- Aknowledging Alert in Alert list stops Alert sound (Credits: Simon N.)
+- Waypoint tag in flight route now don't overlap (Credits: Simon N.)
+- Updated Leader Line drawing (Credits: Simon N.)
+- Updated Blue notification color (Credits: Simon N.)
+- COPX/COPN/XFL/EFL popups gradient to better differentiate them from WAYPOINT/CFL popups (Credits: Simon N.)
+
+### Additions
+- Added background to Extended tag tabs (Credits: Simon N.)
+- Added Sector Load window (Credits: Simon N.)
+- Added Alert List (Credits: Simon N.)
+- Added blindspot indicator inside CFL popup (Credits: Simon N.)
+- Added `.display <navaid>` command to display FIX/VOR/NDB over CoFrance Maps (Credits: Simon N.)
+
+### Fixes
+- Fixed Contactme action not setting flight as seen when flight was unassumed
+- Fixed rounded corners of Extended tag (Credits: Simon N.)
+- Fixed Window Framing triggering for traffic outside of Radar view (Credits: Simon N.)
+- Fixed AFL using standard pressure instead of local below transition level (Credits: Simon N.)
+- Fixed minimized tag position resetting every radar draw (Credits: Simon N.)
+- Fixed Departures being added to Waypoint List when list opened using an ICAO (Credits: Simon N.)
+- Fixed lower Areas not being displayed for Military Enroute sectors
+- Fixed RFL being resetted after changing CFL
+- Fixed Route Extrapolation diverging at long distances (Credits: Simon N.)
+- Fixed duplicated sector level in LFMM A sector
+- Fixed incorrect tag fields spacing when using tag font offset setting
+- Potential fix for AVISO crashs
+
+
 # CoFrance v2.3.1 Changelog
 
 ### Fixes
