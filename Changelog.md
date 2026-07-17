@@ -1,3 +1,9 @@
+# CoFrance v2.3.3 Changelog
+
+### Fixes
+- Fix race condition on config reload
+- Fix dump file not being generated for specific crashes
+
 # CoFrance v2.3.2 Changelog
 
 ### Improvements
