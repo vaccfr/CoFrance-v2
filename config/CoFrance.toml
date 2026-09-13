@@ -1,4 +1,3 @@
-version = "1.0.9"
 config_repo = "vaccfr/CoFrance-v2/main"
 
 [paths]
@@ -9,10 +8,10 @@ ese_folderpath = "../../Sectors/"
 ecfmp_api_url = "https://pintade.vatsim.fr/dataplatform/api/v1/current/ecfmp/flow-measures?active=true"
 area_api_url = "https://lara-backend.lusep.fi/data/reservations/lfxx.json"
 oceanic_api_url = "https://nattrak.vatsim.net/api/plugins"
-meteofrance_api_url= "https://pintade.vatsim.fr/dataplatform/api/v1/meteofrance"
+meteofrance_api_url= "https://dataplatform.vatsim.fr/api/v1/meteofrance"
 
 [oceanic_data]
-brest_oceanic_entry_points = ["ETIKI", "UMLER", "SEPAL", "BUNAV", "SIVIR"]
+brest_oceanic_entry_points = ["ETIKI", "UMLER", "SEPAL", "BUNAV", "SIVIR", "TAKAS"]
 
 [sector_data]
 french_sectors_callsigns = [ "LF", "PA" ]

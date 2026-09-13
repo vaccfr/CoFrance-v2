@@ -3,7 +3,7 @@
   "version": "1.0.6",
   "PAR_": {
     "BANOX": {
-      "upperfl": 180,
+      "upperfl": 190,
       "lowerfl": 70
     },
     "ENORI": {
@@ -849,7 +849,7 @@
   },
   "LFPG_": {
     "BANOX": {
-      "upperfl": 180,
+      "upperfl": 190,
       "lowerfl": 70
     },
     "BIBAX": {

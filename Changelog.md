@@ -1,3 +1,30 @@
+# CoFrance v2.3.6 Changelog
+
+### Improvements
+- CPDLC Uplink reliability
+- CPDLC now prevents LOGON and Auto LOGOFF for flights below FL150
+- CPDLC connections is retained between server requests to avoid timeouts on some network configsking 
+- Added Sector Load window to User Manual
+- Y-value of Sector load window is now adjustable using scroll wheel
+- Improved runway assignment logic
+
+### Additions
+- Added compatibility with new AMAN Plugin
+- Added ICAO navaid map symbols (VOR/DME, DME, VOR, NDB, basic navaid, TACAN, VORTAC)
+
+### Fixes
+- Fixed CPDLC sent CFL being incorrect
+- Fixed ASPD popup Mode S reported values being incorrect
+- Fixed TAKAS missing from OCA Waypoint list
+- Fixed Waypoint List using incorrect ETAs
+- Fixed crash hazard in Waypoint List sorting
+- Fixed Anti-Overlap being always on when tag format selected
+- Fixed race condition on maps reload
+- Fixed freeze on neighbor sector connection
+- Fixed crash hazard in CPDLC polling, which read EuroScope flight plans from a background thread
+- Fixed crash hazard when a config, preference, tag format, TMA filter, view, font or aircraft file changes while EuroScope is running
+
+
 # CoFrance v2.3.5 Changelog
 
 ### Improvements
