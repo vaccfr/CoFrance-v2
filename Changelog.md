@@ -3,7 +3,7 @@
 ### Improvements
 - CPDLC Uplink reliability
 - CPDLC now prevents LOGON and Auto LOGOFF for flights below FL150
-- CPDLC connections is retained between server requests to avoid timeouts on some network configsking 
+- CPDLC connections is retained between server requests to avoid timeouts on some network configurations
 - Added Sector Load window to User Manual
 - Y-value of Sector load window is now adjustable using scroll wheel
 - Improved runway assignment logic
