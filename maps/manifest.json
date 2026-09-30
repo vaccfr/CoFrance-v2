@@ -40,11 +40,14 @@
             "2_CCA_Seine_AMG"
         ],
         "LFPO": [
-            "0_EGA_Paris_Orly",
-            "1_EGA_Paris_Orly_EL",
-            "1_EGA_Paris_Orly_WL",
-            "2_EGA_Paris_Orly_IPGW",
-            "2_EGA_Paris_Orly_IPOW"
+            "0_CCA_Paris-Orly",
+            "1_CCA_Paris-Orly_AMG",
+            "2.1_CCA_Paris-Orly_RWY25_Sequencing",
+            "2.2_CCA_Paris-Orly_Satellite_Procedures",
+            "3_CCA_Paris-Orly_IFR_FIX_Names",
+            "3_CCA_Paris-Orly_Navaids_Names",
+            "4_CCA_Paris-Orly_VFR_ARPs",
+            "4_CCA_Paris-Orly_VFR_Point_Names"
         ],
         "LFQQ": [
             "0_CCA_Lille",

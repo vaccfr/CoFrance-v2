@@ -1,0 +1,15 @@
+{"type":"FeatureCollection","features":[
+{"type":"Feature","properties":{"uuid":"Paris_VFR_Point_Names","textStyle":{"color":[181,162,153],"fontFamily":"Arial","fontSize":10,"fontWeight":800,"text":"B"}},"geometry":{"type":"MultiPoint","coordinates":[[2.468889,48.571389]]}},
+{"type":"Feature","properties":{"uuid":"Paris_VFR_Point_Names","textStyle":{"color":[181,162,153],"fontFamily":"Arial","fontSize":10,"fontWeight":800,"text":"N"}},"geometry":{"type":"MultiPoint","coordinates":[[2.720556,48.694167]]}},
+{"type":"Feature","properties":{"uuid":"Paris_VFR_Point_Names","textStyle":{"color":[181,162,153],"fontFamily":"Arial","fontSize":10,"fontWeight":800,"text":"SM"}},"geometry":{"type":"MultiPoint","coordinates":[[2.701944,48.486667]]}},
+{"type":"Feature","properties":{"uuid":"Paris_VFR_Point_Names","textStyle":{"color":[181,162,153],"fontFamily":"Arial","fontSize":10,"fontWeight":800,"text":"W1"}},"geometry":{"type":"MultiPoint","coordinates":[[2.185,49.001389]]}},
+{"type":"Feature","properties":{"uuid":"Paris_VFR_Point_Names","textStyle":{"color":[181,162,153],"fontFamily":"Arial","fontSize":10,"fontWeight":800,"text":"W2"}},"geometry":{"type":"MultiPoint","coordinates":[[2.365833,48.974167]]}},
+{"type":"Feature","properties":{"uuid":"Paris_VFR_Point_Names","textStyle":{"color":[181,162,153],"fontFamily":"Arial","fontSize":10,"fontWeight":800,"text":"E2"}},"geometry":{"type":"MultiPoint","coordinates":[[2.480833,48.932222]]}},
+{"type":"Feature","properties":{"uuid":"Paris_VFR_Point_Names","textStyle":{"color":[181,162,153],"fontFamily":"Arial","fontSize":10,"fontWeight":800,"text":"E1"}},"geometry":{"type":"MultiPoint","coordinates":[[2.557222,48.898611]]}},
+{"type":"Feature","properties":{"uuid":"Paris_VFR_Point_Names","textStyle":{"color":[181,162,153],"fontFamily":"Arial","fontSize":10,"fontWeight":800,"text":"RH2"}},"geometry":{"type":"MultiPoint","coordinates":[[2.615278,48.955833]]}},
+{"type":"Feature","properties":{"uuid":"Paris_VFR_Point_Names","textStyle":{"color":[181,162,153],"fontFamily":"Arial","fontSize":10,"fontWeight":800,"text":"S"}},"geometry":{"type":"MultiPoint","coordinates":[[2.586389,48.971111]]}},
+{"type":"Feature","properties":{"uuid":"Paris_VFR_Point_Names","textStyle":{"color":[181,162,153],"fontFamily":"Arial","fontSize":10,"fontWeight":800,"text":"N"}},"geometry":{"type":"MultiPoint","coordinates":[[2.5475,49.049722]]}},
+{"type":"Feature","properties":{"uuid":"Paris_VFR_Point_Names","textStyle":{"color":[181,162,153],"fontFamily":"Arial","fontSize":10,"fontWeight":800,"text":"RH1"}},"geometry":{"type":"MultiPoint","coordinates":[[2.551667,49.086667]]}},
+{"type":"Feature","properties":{"uuid":"Paris_VFR_Point_Names","textStyle":{"color":[181,162,153],"fontFamily":"Arial","fontSize":10,"fontWeight":800,"text":"NH"}},"geometry":{"type":"MultiPoint","coordinates":[[2.1,48.759167]]}},
+{"type":"Feature","properties":{"uuid":"Paris_VFR_Point_Names","textStyle":{"color":[181,162,153],"fontFamily":"Arial","fontSize":10,"fontWeight":800,"text":"S"}},"geometry":{"type":"MultiPoint","coordinates":[[2.110278,48.709722]]}}
+]}

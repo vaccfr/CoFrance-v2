@@ -1,0 +1,11 @@
+{"type":"FeatureCollection","features":[
+{"type":"Feature","properties":{"uuid":"Paris-Orly_Navaid_Names","textStyle":{"color":[181,162,153],"fontFamily":"Arial","fontSize":10,"fontWeight":400,"text":"EPR"}},"geometry":{"type":"MultiPoint","coordinates":[[1.656449,48.650457]]}},
+{"type":"Feature","properties":{"uuid":"Paris-Orly_Navaid_Names","textStyle":{"color":[181,162,153],"fontFamily":"Arial","fontSize":10,"fontWeight":400,"text":"HOL"}},"geometry":{"type":"MultiPoint","coordinates":[[1.820635,48.757769]]}},
+{"type":"Feature","properties":{"uuid":"Paris-Orly_Navaid_Names","textStyle":{"color":[181,162,153],"fontFamily":"Arial","fontSize":10,"fontWeight":400,"text":"RBT"}},"geometry":{"type":"MultiPoint","coordinates":[[1.992713,48.676524]]}},
+{"type":"Feature","properties":{"uuid":"Paris-Orly_Navaid_Names","textStyle":{"color":[181,162,153],"fontFamily":"Arial","fontSize":10,"fontWeight":400,"text":"TA"}},"geometry":{"type":"MultiPoint","coordinates":[[2.096908,48.796262]]}},
+{"type":"Feature","properties":{"uuid":"Paris-Orly_Navaid_Names","textStyle":{"color":[181,162,153],"fontFamily":"Arial","fontSize":10,"fontWeight":400,"text":"TSU"}},"geometry":{"type":"MultiPoint","coordinates":[[2.101644,48.726536]]}},
+{"type":"Feature","properties":{"uuid":"Paris-Orly_Navaid_Names","textStyle":{"color":[181,162,153],"fontFamily":"Arial","fontSize":10,"fontWeight":400,"text":"LOL"}},"geometry":{"type":"MultiPoint","coordinates":[[2.385811,48.755687]]}},
+{"type":"Feature","properties":{"uuid":"Paris-Orly_Navaid_Names","textStyle":{"color":[181,162,153],"fontFamily":"Arial","fontSize":10,"fontWeight":400,"text":"MLN"}},"geometry":{"type":"MultiPoint","coordinates":[[2.812062,48.481212]]}},
+{"type":"Feature","properties":{"uuid":"Paris-Orly_Navaid_Names","textStyle":{"color":[181,162,153],"fontFamily":"Arial","fontSize":10,"fontWeight":400,"text":"CLM"}},"geometry":{"type":"MultiPoint","coordinates":[[3.014136,48.870044]]}},
+{"type":"Feature","properties":{"uuid":"Paris-Orly_Navaid_Names","textStyle":{"color":[181,162,153],"fontFamily":"Arial","fontSize":10,"fontWeight":400,"text":"CAD"}},"geometry":{"type":"MultiPoint","coordinates":[[1.38649,48.086212]]}}
+]}
