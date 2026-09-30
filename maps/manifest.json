@@ -20,9 +20,18 @@
             "4_CCA_Beauvais_MVA"
         ],
         "LFPG": [
-            "Carte_WL",
-            "Carte_EL",
-            "0_Fond_EGA"
+            "0_EGA_Paris",
+            "1_EGA_Paris-BVA_MVA",
+            "1_EGA_Paris-CDG_AMG",
+            "1_EGA_Paris-ORY_AMG",
+            "2.1_EGA_Paris-CDG-Trackmiles-Procedures",
+            "2.2_EGA_Paris-CDG-Night-Procedures",
+            "2.3_EGA_Paris-Satellite-Procedures",
+            "3_EGA_Paris_IFR_FIX_Names",
+            "3_EGA_Paris_Navaids_Names",
+            "4_EGA_Paris_VFR_ARPs",
+            "4_EGA_Paris_VFR_Point_Names",
+            "5_EGA_Paris_ACC_Sector_Frequencies"
         ],
         "LFPM": [
             "0_CCA_Seine",
