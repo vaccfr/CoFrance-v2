@@ -11,13 +11,12 @@
             "Trajectoires_UIR"
         ],
         "LFOB": [
-            "0_CCA_Beauvais",
-            "1_CCA_Beauvais_ARP_Names",
-            "1_CCA_Beauvais_FIX_Names",
-            "1_CCA_Beauvais_VOR_Names",
-            "2_CCA_Beauvais_Procedures",
-            "3_CCA_Beauvais_VFR",
-            "4_CCA_Beauvais_MVA"
+            "0_CCA_Paris-Beauvais",
+            "1_CCA_Paris-Beauvais_MVA",
+            "3_CCA_Paris-Beauvais_IFR_FIX_Names",
+            "3_CCA_Paris-Beauvais_Navaid_Names",
+            "4_CCA_Paris-Beauvais_VFR_ARPs",
+            "4_CCA_Paris-Beauvais_VFR_Point_Names"
         ],
         "LFPG": [
             "0_EGA_Paris",

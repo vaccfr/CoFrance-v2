@@ -1,5 +1,4 @@
 {"type":"FeatureCollection","features":[
-{"type":"Feature","properties":{"name":"LFBO_VFR_VRP","pointStyle":{"type":"diamond_cross","color":[127,178,194],"size":"small","opacity":1.0}},"geometry":{"type":"MultiPoint","coordinates":[[1.9375,49.419444],[2.039722,49.427778],[2.128889,49.397778],[2.08,49.323889],[2.2,49.329167],[2.1875,49.523611]]}},
 {"type":"Feature","properties":{"uuid":"LFOB_VFR_VRP","textStyle":{"color":[132,239,184],"fontFamily":"Arial","fontSize":12,"fontWeight":400,"text":"N"}},"geometry":{"type":"MultiPoint","coordinates":[[2.177085,49.532034]]}},
 {"type":"Feature","properties":{"uuid":"LFOB_VFR_VRP","textStyle":{"color":[132,239,184],"fontFamily":"Arial","fontSize":12,"fontWeight":400,"text":"WB"}},"geometry":{"type":"MultiPoint","coordinates":[[2.040381,49.397777]]}},
 {"type":"Feature","properties":{"uuid":"LFOB_VFR_VRP","textStyle":{"color":[132,239,184],"fontFamily":"Arial","fontSize":12,"fontWeight":400,"text":"W"}},"geometry":{"type":"MultiPoint","coordinates":[[1.915827,49.394811]]}},
