@@ -54,8 +54,12 @@
         ],
         "LFQQ": [
             "0_CCA_Lille",
-            "1_CCA_Lille_VFR",
-            "2_CCA_Lille_MVA"
+            "1_CCA_Lille_MVA",
+            "2_CCA_Lille_Procedures",
+            "3_CCA_Lille_IFR_FIX_Names",
+            "3_CCA_Lille_Navaids_Names",
+            "4_CCA_Lille_VFR_ARPs",
+            "4_CCA_Lille_VFR_Point_Names"
         ]
     },
     "LFEE": {
