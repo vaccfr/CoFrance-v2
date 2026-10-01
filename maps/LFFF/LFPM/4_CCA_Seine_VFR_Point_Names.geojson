@@ -1,0 +1,17 @@
+{"type":"FeatureCollection","features":[
+{"type":"Feature","properties":{"uuid":"Seine_VFR_Point","textStyle":{"color":[245,245,245],"fontFamily":"Arial","fontSize":10,"fontWeight":400,"text":"N"}},"geometry":{"type":"MultiPoint","coordinates":[[0.67,47.570833]]}},
+{"type":"Feature","properties":{"uuid":"Seine_VFR_Point","textStyle":{"color":[245,245,245],"fontFamily":"Arial","fontSize":10,"fontWeight":400,"text":"NE"}},"geometry":{"type":"MultiPoint","coordinates":[[0.899722,47.590278]]}},
+{"type":"Feature","properties":{"uuid":"Seine_VFR_Point","textStyle":{"color":[245,245,245],"fontFamily":"Arial","fontSize":10,"fontWeight":400,"text":"W"}},"geometry":{"type":"MultiPoint","coordinates":[[0.638611,47.440278]]}},
+{"type":"Feature","properties":{"uuid":"Seine_VFR_Point","textStyle":{"color":[245,245,245],"fontFamily":"Arial","fontSize":10,"fontWeight":400,"text":"E"}},"geometry":{"type":"MultiPoint","coordinates":[[0.836667,47.424444]]}},
+{"type":"Feature","properties":{"uuid":"Seine_VFR_Point","textStyle":{"color":[245,245,245],"fontFamily":"Arial","fontSize":10,"fontWeight":400,"text":"SW"}},"geometry":{"type":"MultiPoint","coordinates":[[0.558333,47.303611]]}},
+{"type":"Feature","properties":{"uuid":"Seine_VFR_Point","textStyle":{"color":[245,245,245],"fontFamily":"Arial","fontSize":10,"fontWeight":400,"text":"S1"}},"geometry":{"type":"MultiPoint","coordinates":[[0.693333,47.329722]]}},
+{"type":"Feature","properties":{"uuid":"Seine_VFR_Point","textStyle":{"color":[245,245,245],"fontFamily":"Arial","fontSize":10,"fontWeight":400,"text":"S"}},"geometry":{"type":"MultiPoint","coordinates":[[0.784722,47.281944]]}},
+{"type":"Feature","properties":{"uuid":"Seine_VFR_Point","textStyle":{"color":[245,245,245],"fontFamily":"Arial","fontSize":10,"fontWeight":400,"text":"B"}},"geometry":{"type":"MultiPoint","coordinates":[[2.468889,48.571389]]}},
+{"type":"Feature","properties":{"uuid":"Seine_VFR_Point","textStyle":{"color":[245,245,245],"fontFamily":"Arial","fontSize":10,"fontWeight":400,"text":"SM"}},"geometry":{"type":"MultiPoint","coordinates":[[2.701944,48.486667]]}},
+{"type":"Feature","properties":{"uuid":"Seine_VFR_Point","textStyle":{"color":[245,245,245],"fontFamily":"Arial","fontSize":10,"fontWeight":400,"text":"N"}},"geometry":{"type":"MultiPoint","coordinates":[[2.720556,48.694167]]}},
+{"type":"Feature","properties":{"uuid":"Seine_VFR_Point","textStyle":{"color":[245,245,245],"fontFamily":"Arial","fontSize":10,"fontWeight":400,"text":"W"}},"geometry":{"type":"MultiPoint","coordinates":[[3.932222,48.715833]]}},
+{"type":"Feature","properties":{"uuid":"Seine_VFR_Point","textStyle":{"color":[245,245,245],"fontFamily":"Arial","fontSize":10,"fontWeight":400,"text":"WA"}},"geometry":{"type":"MultiPoint","coordinates":[[4.062222,48.7475]]}},
+{"type":"Feature","properties":{"uuid":"Seine_VFR_Point","textStyle":{"color":[245,245,245],"fontFamily":"Arial","fontSize":10,"fontWeight":400,"text":"SW"}},"geometry":{"type":"MultiPoint","coordinates":[[4.192222,48.735]]}},
+{"type":"Feature","properties":{"uuid":"Seine_VFR_Point","textStyle":{"color":[245,245,245],"fontFamily":"Arial","fontSize":10,"fontWeight":400,"text":"S"}},"geometry":{"type":"MultiPoint","coordinates":[[4.173333,48.670833]]}},
+{"type":"Feature","properties":{"uuid":"Seine_VFR_Point","textStyle":{"color":[245,245,245],"fontFamily":"Arial","fontSize":10,"fontWeight":400,"text":"N"}},"geometry":{"type":"MultiPoint","coordinates":[[4.286111,48.911944]]}}
+]}
