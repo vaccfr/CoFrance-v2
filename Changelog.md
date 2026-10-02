@@ -1,3 +1,17 @@
+# CoFrance v2.3.7 Changelog
+
+### Improvements
+- Sequence popup now opens to correct sequence if previously set
+
+### Additions
+- Added Tag position anchoring (left + right click on tag background)
+- Added 25 NM range rings interval option
+- Added unactiveRunway map activation, the opposite of activeRunways
+- Added zoomin/zoomout map properties to limit a map to a zoom range
+- Added aerodrome map symbols (paved and unpaved runway, with and without ticks)
+- Added automatic EATs from AMAN over the Plugin Bridge (amanplugin/eat), and publishing of the EAT CoFrance holds (cofrance/eat)
+
+
 # CoFrance v2.3.6 Changelog
 
 ### Improvements
