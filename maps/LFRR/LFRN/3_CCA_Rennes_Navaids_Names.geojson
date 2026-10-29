@@ -1,0 +1,14 @@
+{"type":"FeatureCollection","features":[
+{"type":"Feature","properties":{"uuid":"CCA_Rennes_Navaids_Names","textStyle":{"color":[255,255,255],"fontFamily":"Arial","fontSize":12,"fontWeight":400,"text":"CNE"}},"geometry":{"type":"MultiPoint","coordinates":[[-0.323267,49.147107]]}},
+{"type":"Feature","properties":{"uuid":"CCA_Rennes_Navaids_Names","textStyle":{"color":[255,255,255],"fontFamily":"Arial","fontSize":12,"fontWeight":400,"text":"MT"}},"geometry":{"type":"MultiPoint","coordinates":[[-2.047461,47.365193]]}},
+{"type":"Feature","properties":{"uuid":"CCA_Rennes_Navaids_Names","textStyle":{"color":[255,255,255],"fontFamily":"Arial","fontSize":12,"fontWeight":400,"text":"GU"}},"geometry":{"type":"MultiPoint","coordinates":[[-4.289866,48.509046]]}},
+{"type":"Feature","properties":{"uuid":"CCA_Rennes_Navaids_Names","textStyle":{"color":[255,255,255],"fontFamily":"Arial","fontSize":12,"fontWeight":400,"text":"JW"}},"geometry":{"type":"MultiPoint","coordinates":[[-2.223099,49.23731]]}},
+{"type":"Feature","properties":{"uuid":"CCA_Rennes_Navaids_Names","textStyle":{"color":[255,255,255],"fontFamily":"Arial","fontSize":12,"fontWeight":400,"text":"ALD"}},"geometry":{"type":"MultiPoint","coordinates":[[-2.202957,49.740249]]}},
+{"type":"Feature","properties":{"uuid":"CCA_Rennes_Navaids_Names","textStyle":{"color":[255,255,255],"fontFamily":"Arial","fontSize":12,"fontWeight":400,"text":"DVL"}},"geometry":{"type":"MultiPoint","coordinates":[[0.311084,49.342193]]}},
+{"type":"Feature","properties":{"uuid":"CCA_Rennes_Navaids_Names","textStyle":{"color":[255,255,255],"fontFamily":"Arial","fontSize":12,"fontWeight":400,"text":"JSY"}},"geometry":{"type":"MultiPoint","coordinates":[[-2.049214,49.252506]]}},
+{"type":"Feature","properties":{"uuid":"CCA_Rennes_Navaids_Names","textStyle":{"color":[255,255,255],"fontFamily":"Arial","fontSize":12,"fontWeight":400,"text":"DIN"}},"geometry":{"type":"MultiPoint","coordinates":[[-2.085387,48.617474]]}},
+{"type":"Feature","properties":{"uuid":"CCA_Rennes_Navaids_Names","textStyle":{"color":[255,255,255],"fontFamily":"Arial","fontSize":12,"fontWeight":400,"text":"REN"}},"geometry":{"type":"MultiPoint","coordinates":[[-1.744489,48.100688]]}},
+{"type":"Feature","properties":{"uuid":"CCA_Rennes_Navaids_Names","textStyle":{"color":[255,255,255],"fontFamily":"Arial","fontSize":12,"fontWeight":400,"text":"ANG"}},"geometry":{"type":"MultiPoint","coordinates":[[-0.854103,47.568328]]}},
+{"type":"Feature","properties":{"uuid":"CCA_Rennes_Navaids_Names","textStyle":{"color":[255,255,255],"fontFamily":"Arial","fontSize":12,"fontWeight":400,"text":"NTS"}},"geometry":{"type":"MultiPoint","coordinates":[[-1.615671,47.192317]]}},
+{"type":"Feature","properties":{"uuid":"CCA_Rennes_Navaids_Names","textStyle":{"color":[255,255,255],"fontFamily":"Arial","fontSize":12,"fontWeight":400,"text":"LGL"}},"geometry":{"type":"MultiPoint","coordinates":[[0.528787,48.822073]]}}
+]}

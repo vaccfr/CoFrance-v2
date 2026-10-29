@@ -1,0 +1,14 @@
+{"type":"FeatureCollection","features":[
+{"type":"Feature","properties":{"name":"LFTF","pointStyle":{"type":"aerodrome_paved_ticks","color":[98,100,128]}},"geometry":{"type":"MultiPoint","coordinates":[[6.127294,43.247589]]}},
+{"type":"Feature","properties":{"name":"LFTZ","pointStyle":{"type":"aerodrome_paved_ticks","color":[98,100,128]}},"geometry":{"type":"MultiPoint","coordinates":[[6.481944,43.205278]]}},
+{"type":"Feature","properties":{"name":"LFTH","pointStyle":{"type":"aerodrome_paved_ticks","color":[98,100,128]}},"geometry":{"type":"MultiPoint","coordinates":[[6.146111,43.097222]]}},
+{"type":"Feature","properties":{"name":"LFMF","pointStyle":{"type":"aerodrome_ticks","color":[98,100,128]}},"geometry":{"type":"MultiPoint","coordinates":[[6.701667,43.608056]]}},
+{"type":"Feature","properties":{"name":"LFMD","pointStyle":{"type":"aerodrome_paved_ticks","color":[98,100,128]}},"geometry":{"type":"MultiPoint","coordinates":[[6.954167,43.546389]]}},
+{"type":"Feature","properties":{"name":"LFMN","pointStyle":{"type":"aerodrome_paved_ticks","color":[98,100,128]}},"geometry":{"type":"MultiPoint","coordinates":[[7.215,43.665278]]}},
+{"type":"Feature","properties":{"uuid":"CCA_Nice_ARP_Names","textStyle":{"color":[255,255,255],"fontFamily":"Arial","fontSize":10,"fontWeight":400,"text":"LFTF"}},"geometry":{"type":"MultiPoint","coordinates":[[6.128025,43.261071]]}},
+{"type":"Feature","properties":{"uuid":"CCA_Nice_ARP_Names","textStyle":{"color":[255,255,255],"fontFamily":"Arial","fontSize":10,"fontWeight":400,"text":"LFTZ"}},"geometry":{"type":"MultiPoint","coordinates":[[6.482757,43.218757]]}},
+{"type":"Feature","properties":{"uuid":"CCA_Nice_ARP_Names","textStyle":{"color":[255,255,255],"fontFamily":"Arial","fontSize":10,"fontWeight":400,"text":"LFTH"}},"geometry":{"type":"MultiPoint","coordinates":[[6.146844,43.110703]]}},
+{"type":"Feature","properties":{"uuid":"CCA_Nice_ARP_Names","textStyle":{"color":[255,255,255],"fontFamily":"Arial","fontSize":10,"fontWeight":400,"text":"LFMF"}},"geometry":{"type":"MultiPoint","coordinates":[[6.702538,43.621538]]}},
+{"type":"Feature","properties":{"uuid":"CCA_Nice_ARP_Names","textStyle":{"color":[255,255,255],"fontFamily":"Arial","fontSize":10,"fontWeight":400,"text":"LFMD"}},"geometry":{"type":"MultiPoint","coordinates":[[6.955096,43.559868]]}},
+{"type":"Feature","properties":{"uuid":"CCA_Nice_ARP_Names","textStyle":{"color":[255,255,255],"fontFamily":"Arial","fontSize":10,"fontWeight":400,"text":"LFMN"}},"geometry":{"type":"MultiPoint","coordinates":[[7.215992,43.678756]]}}
+]}

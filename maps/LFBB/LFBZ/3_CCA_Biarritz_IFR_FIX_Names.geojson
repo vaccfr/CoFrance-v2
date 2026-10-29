@@ -1,0 +1,12 @@
+{"type":"FeatureCollection","features":[
+{"type":"Feature","properties":{"uuid":"IFR_FIX_Names","textStyle":{"color":[255,255,255],"fontFamily":"Arial","fontSize":9,"fontWeight":400,"text":"URUNA"}},"geometry":{"type":"MultiPoint","coordinates":[[-1.742868,43.386429]]}},
+{"type":"Feature","properties":{"uuid":"IFR_FIX_Names","textStyle":{"color":[255,255,255],"fontFamily":"Arial","fontSize":9,"fontWeight":400,"text":"DONOS"}},"geometry":{"type":"MultiPoint","coordinates":[[-1.493895,43.315212]]}},
+{"type":"Feature","properties":{"uuid":"IFR_FIX_Names","textStyle":{"color":[255,255,255],"fontFamily":"Arial","fontSize":9,"fontWeight":400,"text":"BIDAC"}},"geometry":{"type":"MultiPoint","coordinates":[[-1.13793,43.448778]]}},
+{"type":"Feature","properties":{"uuid":"IFR_FIX_Names","textStyle":{"color":[255,255,255],"fontFamily":"Arial","fontSize":9,"fontWeight":400,"text":"OSGOT"}},"geometry":{"type":"MultiPoint","coordinates":[[-1.584988,43.65644]]}},
+{"type":"Feature","properties":{"uuid":"IFR_FIX_Names","textStyle":{"color":[255,255,255],"fontFamily":"Arial","fontSize":9,"fontWeight":400,"text":"SOSTO"}},"geometry":{"type":"MultiPoint","coordinates":[[-1.278188,43.82895]]}},
+{"type":"Feature","properties":{"uuid":"IFR_FIX_Names","textStyle":{"color":[255,255,255],"fontFamily":"Arial","fontSize":9,"fontWeight":400,"text":"MAGEC"}},"geometry":{"type":"MultiPoint","coordinates":[[-1.198142,43.779783]]}},
+{"type":"Feature","properties":{"uuid":"IFR_FIX_Names","textStyle":{"color":[255,255,255],"fontFamily":"Arial","fontSize":9,"fontWeight":400,"text":"RILON"}},"geometry":{"type":"MultiPoint","coordinates":[[-1.012213,43.956458]]}},
+{"type":"Feature","properties":{"uuid":"IFR_FIX_Names","textStyle":{"color":[255,255,255],"fontFamily":"Arial","fontSize":9,"fontWeight":400,"text":"SOVOS"}},"geometry":{"type":"MultiPoint","coordinates":[[-0.902133,43.418393]]}},
+{"type":"Feature","properties":{"uuid":"IFR_FIX_Names","textStyle":{"color":[255,255,255],"fontFamily":"Arial","fontSize":9,"fontWeight":400,"text":"ENSAC"}},"geometry":{"type":"MultiPoint","coordinates":[[-0.692325,44.231469]]}},
+{"type":"Feature","properties":{"uuid":"IFR_FIX_Names","textStyle":{"color":[255,255,255],"fontFamily":"Arial","fontSize":9,"fontWeight":400,"text":"VAVIX"}},"geometry":{"type":"MultiPoint","coordinates":[[-0.696135,44.309248]]}}
+]}

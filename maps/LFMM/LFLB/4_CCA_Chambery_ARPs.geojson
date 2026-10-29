@@ -1,0 +1,8 @@
+{"type":"FeatureCollection","features":[
+{"type":"Feature","properties":{"name":"LFLP","pointStyle":{"type":"aerodrome_paved_ticks","color":[205,205,205]}},"geometry":{"type":"MultiPoint","coordinates":[[6.106389,45.930833]]}},
+{"type":"Feature","properties":{"name":"LFLB","pointStyle":{"type":"aerodrome_paved_ticks","color":[205,205,205]}},"geometry":{"type":"MultiPoint","coordinates":[[5.88,45.639167]]}},
+{"type":"Feature","properties":{"name":"LFLE","pointStyle":{"type":"aerodrome_ticks","color":[205,205,205]}},"geometry":{"type":"MultiPoint","coordinates":[[5.975833,45.560556]]}},
+{"type":"Feature","properties":{"uuid":"CCA_Chambery_ARP_Names","textStyle":{"color":[255,255,255],"fontFamily":"Arial","fontSize":10,"fontWeight":600,"text":"LFLP"}},"geometry":{"type":"MultiPoint","coordinates":[[6.10715,45.94433]]}},
+{"type":"Feature","properties":{"uuid":"CCA_Chambery_ARP_Names","textStyle":{"color":[255,255,255],"fontFamily":"Arial","fontSize":10,"fontWeight":600,"text":"LFLB"}},"geometry":{"type":"MultiPoint","coordinates":[[5.880702,45.652665]]}},
+{"type":"Feature","properties":{"uuid":"CCA_Chambery_ARP_Names","textStyle":{"color":[255,255,255],"fontFamily":"Arial","fontSize":10,"fontWeight":600,"text":"LFLE"}},"geometry":{"type":"MultiPoint","coordinates":[[5.976557,45.574053]]}}
+]}

@@ -2,82 +2,118 @@
   "$schema": "https://raw.githubusercontent.com/alexisBalzano/CoFrance-config-files/main/.github/schema/sector_ownership.schema.json",
   "version": "1.0.3",
   "LFBB-BN": [
+    "LFBB_FIR_CTR",
     "LFBB_CTR",
     "LFBB__CTR"
   ],
   "LFBB-H": [
     "LFBB_H_CTR",
     "LFBB__H_CTR",
+    "LFBB_NH_CTR",
+    "LFBB__NH_CTR",
     "LFBB_US_CTR",
     "LFBB__US_CTR",
+    "LFBB_U_CTR",
+    "LFBB__U_CTR",
     "LFBB_CTR",
     "LFBB__CTR"
   ],
   "LFBB-LM": [
+    "LFBB_FIR_CTR",
     "LFBB_CTR",
     "LFBB__CTR"
   ],
-  "LFBB-L1": [
+  "LFBB-L": [
     "LFBB_L_CTR",
     "LFBB__L_CTR",
+    "LFBB_RL_CTR",
+    "LFBB__RL_CTR",
     "LFBB_UN_CTR",
     "LFBB__UN_CTR",
+    "LFBB_U_CTR",
+    "LFBB__U_CTR",
     "LFBB_CTR",
     "LFBB__CTR"
   ],
-  "LFBB-N1": [
+  "LFBB-N": [
     "LFBB_N_CTR",
     "LFBB__N_CTR",
+    "LFBB_NH_CTR",
+    "LFBB__NH_CTR",
     "LFBB_US_CTR",
     "LFBB__US_CTR",
+      "LFBB_U_CTR",
+    "LFBB__U_CTR",
     "LFBB_CTR",
     "LFBB__CTR"
   ],
-  "LFBB-P1": [
+  "LFBB-P": [
     "LFBB_P_CTR",
     "LFBB__P_CTR",
+    "LFBB_PT_CTR",
+    "LFBB__PT_CTR",
     "LFBB_UN_CTR",
     "LFBB__UN_CTR",
+    "LFBB_U_CTR",
+    "LFBB__U_CTR",
     "LFBB_CTR",
     "LFBB__CTR"
   ],
-  "LFBB-R1": [
+  "LFBB-R": [
     "LFBB_R_CTR",
     "LFBB__R_CTR",
+    "LFBB_RL_CTR",
+    "LFBB__RL_CTR",
     "LFBB_UN_CTR",
     "LFBB__UN_CTR",
+    "LFBB_U_CTR",
+    "LFBB__U_CTR",
     "LFBB_CTR",
     "LFBB__CTR"
   ],
   "LFBB-TG": [
+    "LFBB_FIR_CTR",
     "LFBB_CTR",
     "LFBB__CTR"
   ],
   "LFBB-TZ": [
+    "LFBB_FIR_CTR",
     "LFBB_CTR",
     "LFBB__CTR"
   ],
-  "LFBB-T1": [
+  "LFBB-T": [
     "LFBB_T_CTR",
     "LFBB__T_CTR",
+    "LFBB_PT_CTR",
+    "LFBB__PT_CTR",
     "LFBB_UN_CTR",
     "LFBB__UN_CTR",
+    "LFBB_U_CTR",
+    "LFBB__U_CTR",
     "LFBB_CTR",
     "LFBB__CTR"
   ],
-  "LFBB-X1": [
+  "LFBB-X": [
     "LFBB_X_CTR",
     "LFBB__X_CTR",
+    "LFBB_ZX_CTR",
+    "LFBB__ZX_CTR",
     "LFBB_US_CTR",
     "LFBB__US_CTR",
+    "LFBB_U_CTR",
+    "LFBB__U_CTR",
     "LFBB_CTR",
     "LFBB__CTR"
   ],
-  "LFBB-Z1": [
+  "LFBB-Z": [
     "LFBB_Z_CTR",
     "LFBB__Z_CTR",
+    "LFBB_ZX_CTR",
+    "LFBB__ZX_CTR",
     "LFBB_US_CTR",
     "LFBB__US_CTR",
+    "LFBB_U_CTR",
+    "LFBB__U_CTR",
     "LFBB_CTR",
     "LFBB__CTR"
   ],

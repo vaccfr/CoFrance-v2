@@ -1,0 +1,4 @@
+{"type":"FeatureCollection","features":[
+{"type":"Feature","properties":{"name":"CDO-RNP-ZY-04","lineStyle":{"color":[181,201,212],"width":1,"dashArray":[2.0,2.0]}},"geometry":{"type":"MultiLineString","coordinates":[[[6.955389,43.470139],[6.957389,43.386806],[7.28725,43.416028],[7.572833,43.440528]],[[6.842361,43.459694],[6.955389,43.470139]]]}},
+{"type":"Feature","properties":{"name":"CDO-RNP-ZY-04","pointStyle":{"type":"circle_cross","color":[98,100,128]}},"geometry":{"type":"MultiPoint","coordinates":[[6.842361,43.459694],[6.957389,43.386806],[7.28725,43.416028],[7.572833,43.440528]]}}
+]}

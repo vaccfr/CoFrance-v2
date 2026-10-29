@@ -1,0 +1,14 @@
+{"type":"FeatureCollection","features":[
+{"type":"Feature","properties":{"name":"LFBH","pointStyle":{"type":"aerodrome_paved_ticks","color":[255,255,255]}},"geometry":{"type":"MultiPoint","coordinates":[[-1.195278,46.179167]]}},
+{"type":"Feature","properties":{"name":"LFDP","pointStyle":{"type":"aerodrome_paved_ticks","color":[255,255,255]}},"geometry":{"type":"MultiPoint","coordinates":[[-1.311389,45.957778]]}},
+{"type":"Feature","properties":{"name":"LFDN","pointStyle":{"type":"aerodrome_ticks","color":[255,255,255]}},"geometry":{"type":"MultiPoint","coordinates":[[-0.982222,45.889444]]}},
+{"type":"Feature","properties":{"name":"LFXB","pointStyle":{"type":"aerodrome_paved_ticks","color":[255,255,255]}},"geometry":{"type":"MultiPoint","coordinates":[[-0.637381,45.700917]]}},
+{"type":"Feature","properties":{"name":"LFIY","pointStyle":{"type":"aerodrome_ticks","color":[255,255,255]}},"geometry":{"type":"MultiPoint","coordinates":[[-0.524444,45.965278]]}},
+{"type":"Feature","properties":{"name":"LFFK","pointStyle":{"type":"aerodrome_paved_ticks","color":[255,255,255]}},"geometry":{"type":"MultiPoint","coordinates":[[-0.793889,46.440833]]}},
+{"type":"Feature","properties":{"uuid":"CCA_La_Rochelle_ARP_Names","textStyle":{"color":[255,255,255],"fontFamily":"Arial","fontSize":12,"fontWeight":400,"text":"LFBH"}},"geometry":{"type":"MultiPoint","coordinates":[[-1.197689,46.210639]]}},
+{"type":"Feature","properties":{"uuid":"CCA_La_Rochelle_ARP_Names","textStyle":{"color":[255,255,255],"fontFamily":"Arial","fontSize":12,"fontWeight":400,"text":"LFDP"}},"geometry":{"type":"MultiPoint","coordinates":[[-1.313856,45.989248]]}},
+{"type":"Feature","properties":{"uuid":"CCA_La_Rochelle_ARP_Names","textStyle":{"color":[255,255,255],"fontFamily":"Arial","fontSize":12,"fontWeight":400,"text":"LFDN"}},"geometry":{"type":"MultiPoint","coordinates":[[-0.984498,45.920921]]}},
+{"type":"Feature","properties":{"uuid":"CCA_La_Rochelle_ARP_Names","textStyle":{"color":[255,255,255],"fontFamily":"Arial","fontSize":12,"fontWeight":400,"text":"LFXB"}},"geometry":{"type":"MultiPoint","coordinates":[[-0.639453,45.732401]]}},
+{"type":"Feature","properties":{"uuid":"CCA_La_Rochelle_ARP_Names","textStyle":{"color":[255,255,255],"fontFamily":"Arial","fontSize":12,"fontWeight":400,"text":"LFIY"}},"geometry":{"type":"MultiPoint","coordinates":[[-0.526462,45.996764]]}},
+{"type":"Feature","properties":{"uuid":"CCA_La_Rochelle_ARP_Names","textStyle":{"color":[255,255,255],"fontFamily":"Arial","fontSize":12,"fontWeight":400,"text":"LFFK"}},"geometry":{"type":"MultiPoint","coordinates":[[-0.79608,46.472312]]}}
+]}

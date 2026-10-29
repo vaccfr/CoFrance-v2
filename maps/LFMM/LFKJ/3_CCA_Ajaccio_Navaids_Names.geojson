@@ -1,0 +1,5 @@
+{"type":"FeatureCollection","features":[
+{"type":"Feature","properties":{"uuid":"CCA_Ajaccio_Navaids_Names","textStyle":{"color":[255,255,255],"fontFamily":"Arial","fontSize":10,"fontWeight":600,"text":"AJO"}},"geometry":{"type":"MultiPoint","coordinates":[[8.777737,41.801882]]}},
+{"type":"Feature","properties":{"uuid":"CCA_Ajaccio_Navaids_Names","textStyle":{"color":[255,255,255],"fontFamily":"Arial","fontSize":10,"fontWeight":600,"text":"FGI"}},"geometry":{"type":"MultiPoint","coordinates":[[9.086636,41.533528]]}},
+{"type":"Feature","properties":{"uuid":"CCA_Ajaccio_Navaids_Names","textStyle":{"color":[255,255,255],"fontFamily":"Arial","fontSize":10,"fontWeight":600,"text":"SZA"}},"geometry":{"type":"MultiPoint","coordinates":[[9.402967,41.968812]]}}
+]}

@@ -1,0 +1,8 @@
+{"type":"FeatureCollection","features":[
+{"type":"Feature","properties":{"uuid":"Airspace_Labels","textStyle":{"color":[0,0,0],"fontFamily":"Arial","fontSize":10,"fontWeight":600,"text":"NA<115<LU"}},"geometry":{"type":"MultiPoint","coordinates":[[-2.600684,46.827742]]}},
+{"type":"Feature","properties":{"uuid":"Airspace_Labels","textStyle":{"color":[0,0,0],"fontFamily":"Arial","fontSize":10,"fontWeight":600,"text":"NB<115<LU"}},"geometry":{"type":"MultiPoint","coordinates":[[-1.127416,47.010169]]}},
+{"type":"Feature","properties":{"uuid":"Airspace_Labels","textStyle":{"color":[0,0,0],"fontFamily":"Arial","fontSize":10,"fontWeight":600,"text":"NB<145"}},"geometry":{"type":"MultiPoint","coordinates":[[0.009844,47.308939]]}},
+{"type":"Feature","properties":{"uuid":"Airspace_Labels","textStyle":{"color":[0,0,0],"fontFamily":"Arial","fontSize":10,"fontWeight":600,"text":"CN"}},"geometry":{"type":"MultiPoint","coordinates":[[2.689297,44.877773]]}},
+{"type":"Feature","properties":{"uuid":"Airspace_Labels","textStyle":{"color":[0,0,0],"fontFamily":"Arial","fontSize":10,"fontWeight":600,"text":"CL"}},"geometry":{"type":"MultiPoint","coordinates":[[3.817941,44.896086]]}},
+{"type":"Feature","properties":{"uuid":"Airspace_Labels","textStyle":{"color":[0,0,0],"fontFamily":"Arial","fontSize":10,"fontWeight":600,"text":"CF"}},"geometry":{"type":"MultiPoint","coordinates":[[3.602551,45.623805]]}}
+]}

@@ -1,0 +1,6 @@
+{"type":"FeatureCollection","features":[
+{"type":"Feature","properties":{"name":"Military Airspace","lineStyle":{"color":[0,206,218],"width":1,"dashArray":[3.0,3.0]}},"geometry":{"type":"MultiLineString","coordinates":[[[-2.895142,46.420286],[2.315013,46.334116],[3.992254,47.043994],[4.92009,47.074382]],[[2.315013,46.334116],[2.455833,42.363611]]]}},
+{"type":"Feature","properties":{"uuid":"Military_Airspace_Text","textStyle":{"color":[0,206,218],"fontFamily":"Arial","fontSize":10,"fontWeight":600,"text":"MARINA"}},"geometry":{"type":"MultiPoint","coordinates":[[-0.36692,44.871132]]}},
+{"type":"Feature","properties":{"uuid":"Military_Airspace_Text","textStyle":{"color":[0,206,218],"fontFamily":"Arial","fontSize":10,"fontWeight":600,"text":"RAMBERT"}},"geometry":{"type":"MultiPoint","coordinates":[[3.772655,45.433182]]}},
+{"type":"Feature","properties":{"uuid":"Military_Airspace_Text","textStyle":{"color":[0,206,218],"fontFamily":"Arial","fontSize":10,"fontWeight":600,"text":"RAKI"}},"geometry":{"type":"MultiPoint","coordinates":[[1.405485,46.809994]]}}
+]}

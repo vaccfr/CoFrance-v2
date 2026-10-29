@@ -1,0 +1,6 @@
+{"type":"FeatureCollection","features":[
+{"type":"Feature","properties":{"uuid":"IFR_FIX_Names","textStyle":{"color":[255,255,255],"fontFamily":"Arial","fontSize":12,"fontWeight":400,"text":"SSN"}},"geometry":{"type":"MultiPoint","coordinates":[[-1.833026,43.34262]]}},
+{"type":"Feature","properties":{"uuid":"IFR_FIX_Names","textStyle":{"color":[255,255,255],"fontFamily":"Arial","fontSize":12,"fontWeight":400,"text":"HIG"}},"geometry":{"type":"MultiPoint","coordinates":[[-1.798372,43.417707]]}},
+{"type":"Feature","properties":{"uuid":"IFR_FIX_Names","textStyle":{"color":[255,255,255],"fontFamily":"Arial","fontSize":12,"fontWeight":400,"text":"BTZ"}},"geometry":{"type":"MultiPoint","coordinates":[[-1.512747,43.498077]]}},
+{"type":"Feature","properties":{"uuid":"IFR_FIX_Names","textStyle":{"color":[255,255,255],"fontFamily":"Arial","fontSize":12,"fontWeight":400,"text":"DX"}},"geometry":{"type":"MultiPoint","coordinates":[[-1.030353,43.728842]]}}
+]}

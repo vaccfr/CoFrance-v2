@@ -1,0 +1,10 @@
+{"type":"FeatureCollection","features":[
+{"type":"Feature","properties":{"name":"LFKJ","pointStyle":{"type":"aerodrome_paved_ticks","color":[255,255,255]}},"geometry":{"type":"MultiPoint","coordinates":[[8.8025,41.923889]]}},
+{"type":"Feature","properties":{"name":"LFKO","pointStyle":{"type":"aerodrome_paved_ticks","color":[255,255,255]}},"geometry":{"type":"MultiPoint","coordinates":[[8.893889,41.660278]]}},
+{"type":"Feature","properties":{"name":"LFKF","pointStyle":{"type":"aerodrome_paved_ticks","color":[255,255,255]}},"geometry":{"type":"MultiPoint","coordinates":[[9.096667,41.502222]]}},
+{"type":"Feature","properties":{"name":"LFKS","pointStyle":{"type":"aerodrome_paved_ticks","color":[255,255,255]}},"geometry":{"type":"MultiPoint","coordinates":[[9.405278,41.926389]]}},
+{"type":"Feature","properties":{"uuid":"CCA_Ajaccio_ARP_Names","textStyle":{"color":[255,255,255],"fontFamily":"Arial","fontSize":10,"fontWeight":600,"text":"LFKJ"}},"geometry":{"type":"MultiPoint","coordinates":[[8.805593,41.955247]]}},
+{"type":"Feature","properties":{"uuid":"CCA_Ajaccio_ARP_Names","textStyle":{"color":[255,255,255],"fontFamily":"Arial","fontSize":10,"fontWeight":600,"text":"LFKO"}},"geometry":{"type":"MultiPoint","coordinates":[[8.897016,41.691624]]}},
+{"type":"Feature","properties":{"uuid":"CCA_Ajaccio_ARP_Names","textStyle":{"color":[255,255,255],"fontFamily":"Arial","fontSize":10,"fontWeight":600,"text":"LFKF"}},"geometry":{"type":"MultiPoint","coordinates":[[9.099893,41.533555]]}},
+{"type":"Feature","properties":{"uuid":"CCA_Ajaccio_ARP_Names","textStyle":{"color":[255,255,255],"fontFamily":"Arial","fontSize":10,"fontWeight":600,"text":"LFKS"}},"geometry":{"type":"MultiPoint","coordinates":[[9.408691,41.957729]]}}
+]}

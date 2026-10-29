@@ -1,0 +1,4 @@
+{"type":"FeatureCollection","features":[
+{"type":"Feature","properties":{"uuid":"CCA_Chambery_Navaids_Names","textStyle":{"color":[255,255,255],"fontFamily":"Arial","fontSize":10,"fontWeight":600,"text":"CH"}},"geometry":{"type":"MultiPoint","coordinates":[[5.884397,45.605692]]}},
+{"type":"Feature","properties":{"uuid":"CCA_Chambery_Navaids_Names","textStyle":{"color":[255,255,255],"fontFamily":"Arial","fontSize":10,"fontWeight":600,"text":"CBY"}},"geometry":{"type":"MultiPoint","coordinates":[[5.757981,45.895388]]}}
+]}

@@ -1,0 +1,5 @@
+{"type":"FeatureCollection","features":[
+{"type":"Feature","properties":{"uuid":"CCA_Bastia_Navaids_Names","textStyle":{"color":[255,255,255],"fontFamily":"Arial","fontSize":10,"fontWeight":400,"text":"CV"}},"geometry":{"type":"MultiPoint","coordinates":[[8.809712,42.608352]]}},
+{"type":"Feature","properties":{"uuid":"CCA_Bastia_Navaids_Names","textStyle":{"color":[255,255,255],"fontFamily":"Arial","fontSize":10,"fontWeight":400,"text":"BTA"}},"geometry":{"type":"MultiPoint","coordinates":[[9.478322,42.604942]]}},
+{"type":"Feature","properties":{"uuid":"CCA_Bastia_Navaids_Names","textStyle":{"color":[255,255,255],"fontFamily":"Arial","fontSize":10,"fontWeight":400,"text":"SZA"}},"geometry":{"type":"MultiPoint","coordinates":[[9.402967,41.968812]]}}
+]}

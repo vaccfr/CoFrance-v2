@@ -1,0 +1,6 @@
+{"type":"FeatureCollection","features":[
+{"type":"Feature","properties":{"name":"LFML ARR 31","lineStyle":{"color":[165,187,155],"width":1},"activation":{"activeRunways":{"LFML":{"arr":["31L","31R"]}}}},"geometry":{"type":"MultiLineString","coordinates":[[[3.750167,45.257278],[4.445556,45.113611],[4.900389,44.725528]]]}},
+{"type":"Feature","properties":{"name":"LFML ARR 13","lineStyle":{"color":[165,187,155],"width":1},"activation":{"activeRunways":{"LFML":{"arr":["13L","13R"]}}}},"geometry":{"type":"MultiLineString","coordinates":[[[3.750167,45.257278],[4.239111,45.033861],[4.5375,44.669167]]]}},
+{"type":"Feature","properties":{"uuid":"LFML ARR 31","textStyle":{"color":[165,187,155],"fontFamily":"Arial","fontSize":9,"fontWeight":600,"text":"1D ML31 XFL 330"},"activation":{"activeRunways":{"LFML":{"arr":["31L","31R"]}}}},"geometry":{"type":"MultiPoint","coordinates":[[5.294793,44.813607]]}},
+{"type":"Feature","properties":{"uuid":"LFML ARR 13","textStyle":{"color":[165,187,155],"fontFamily":"Arial","fontSize":9,"fontWeight":600,"text":"1R ML13 XFL290"},"activation":{"activeRunways":{"LFML":{"arr":["13L","13R"]}}}},"geometry":{"type":"MultiPoint","coordinates":[[4.79965,44.813608]]}}
+]}

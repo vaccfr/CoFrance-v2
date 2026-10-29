@@ -1,0 +1,10 @@
+{"type":"FeatureCollection","features":[
+{"type":"Feature","properties":{"uuid":"CCA_Lyon_Navaids_Names","textStyle":{"color":[151,165,141],"fontFamily":"Arial","fontSize":10,"fontWeight":400,"text":"RNN"}},"geometry":{"type":"MultiPoint","coordinates":[[4.037706,46.143875]]}},
+{"type":"Feature","properties":{"uuid":"CCA_Lyon_Navaids_Names","textStyle":{"color":[151,165,141],"fontFamily":"Arial","fontSize":10,"fontWeight":400,"text":"SN"}},"geometry":{"type":"MultiPoint","coordinates":[[4.122035,46.325874]]}},
+{"type":"Feature","properties":{"uuid":"CCA_Lyon_Navaids_Names","textStyle":{"color":[151,165,141],"fontFamily":"Arial","fontSize":10,"fontWeight":400,"text":"CH"}},"geometry":{"type":"MultiPoint","coordinates":[[5.885334,45.62369]]}},
+{"type":"Feature","properties":{"uuid":"CCA_Lyon_Navaids_Names","textStyle":{"color":[151,165,141],"fontFamily":"Arial","fontSize":10,"fontWeight":400,"text":"ROA"}},"geometry":{"type":"MultiPoint","coordinates":[[3.999851,46.090682]]}},
+{"type":"Feature","properties":{"uuid":"CCA_Lyon_Navaids_Names","textStyle":{"color":[151,165,141],"fontFamily":"Arial","fontSize":10,"fontWeight":400,"text":"LSE"}},"geometry":{"type":"MultiPoint","coordinates":[[5.091775,45.777034]]}},
+{"type":"Feature","properties":{"uuid":"CCA_Lyon_Navaids_Names","textStyle":{"color":[151,165,141],"fontFamily":"Arial","fontSize":10,"fontWeight":400,"text":"LTP"}},"geometry":{"type":"MultiPoint","coordinates":[[5.44044,45.520473]]}},
+{"type":"Feature","properties":{"uuid":"CCA_Lyon_Navaids_Names","textStyle":{"color":[151,165,141],"fontFamily":"Arial","fontSize":10,"fontWeight":400,"text":"CBY"}},"geometry":{"type":"MultiPoint","coordinates":[[5.758882,45.913387]]}},
+{"type":"Feature","properties":{"uuid":"CCA_Lyon_Navaids_Names","textStyle":{"color":[151,165,141],"fontFamily":"Arial","fontSize":10,"fontWeight":400,"text":"MTL"}},"geometry":{"type":"MultiPoint","coordinates":[[4.780855,44.586444]]}}
+]}

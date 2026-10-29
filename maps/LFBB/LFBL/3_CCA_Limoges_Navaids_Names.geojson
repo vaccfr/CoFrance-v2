@@ -1,0 +1,13 @@
+{"type":"FeatureCollection","features":[
+{"type":"Feature","properties":{"uuid":"CCA_Limoges_Navaids_Names","textStyle":{"color":[255,255,255],"fontFamily":"Arial","fontSize":10,"fontWeight":400,"text":"LMG"}},"geometry":{"type":"MultiPoint","coordinates":[[1.024455,45.847424]]}},
+{"type":"Feature","properties":{"uuid":"CCA_Limoges_Navaids_Names","textStyle":{"color":[255,255,255],"fontFamily":"Arial","fontSize":10,"fontWeight":400,"text":"CNA"}},"geometry":{"type":"MultiPoint","coordinates":[[-0.313524,45.691045]]}},
+{"type":"Feature","properties":{"uuid":"CCA_Limoges_Navaids_Names","textStyle":{"color":[255,255,255],"fontFamily":"Arial","fontSize":10,"fontWeight":400,"text":"POI"}},"geometry":{"type":"MultiPoint","coordinates":[[0.296629,46.612497]]}},
+{"type":"Feature","properties":{"uuid":"CCA_Limoges_Navaids_Names","textStyle":{"color":[255,255,255],"fontFamily":"Arial","fontSize":10,"fontWeight":400,"text":"PT"}},"geometry":{"type":"MultiPoint","coordinates":[[0.313194,46.626053]]}},
+{"type":"Feature","properties":{"uuid":"CCA_Limoges_Navaids_Names","textStyle":{"color":[255,255,255],"fontFamily":"Arial","fontSize":10,"fontWeight":400,"text":"CHX"}},"geometry":{"type":"MultiPoint","coordinates":[[1.741128,46.902703]]}},
+{"type":"Feature","properties":{"uuid":"CCA_Limoges_Navaids_Names","textStyle":{"color":[255,255,255],"fontFamily":"Arial","fontSize":10,"fontWeight":400,"text":"CTX"}},"geometry":{"type":"MultiPoint","coordinates":[[1.80044,46.96812]]}},
+{"type":"Feature","properties":{"uuid":"CCA_Limoges_Navaids_Names","textStyle":{"color":[255,255,255],"fontFamily":"Arial","fontSize":10,"fontWeight":400,"text":"BSC"}},"geometry":{"type":"MultiPoint","coordinates":[[1.62128,45.026675]]}},
+{"type":"Feature","properties":{"uuid":"CCA_Limoges_Navaids_Names","textStyle":{"color":[255,255,255],"fontFamily":"Arial","fontSize":10,"fontWeight":400,"text":"AVD"}},"geometry":{"type":"MultiPoint","coordinates":[[2.629645,47.089594]]}},
+{"type":"Feature","properties":{"uuid":"CCA_Limoges_Navaids_Names","textStyle":{"color":[255,255,255],"fontFamily":"Arial","fontSize":10,"fontWeight":400,"text":"AVD"}},"geometry":{"type":"MultiPoint","coordinates":[[2.799494,47.152177]]}},
+{"type":"Feature","properties":{"uuid":"CCA_Limoges_Navaids_Names","textStyle":{"color":[255,255,255],"fontFamily":"Arial","fontSize":10,"fontWeight":400,"text":"CFA"}},"geometry":{"type":"MultiPoint","coordinates":[[3.192304,45.818989]]}},
+{"type":"Feature","properties":{"uuid":"CCA_Limoges_Navaids_Names","textStyle":{"color":[255,255,255],"fontFamily":"Arial","fontSize":10,"fontWeight":400,"text":"MOU"}},"geometry":{"type":"MultiPoint","coordinates":[[3.632034,46.738291]]}}
+]}

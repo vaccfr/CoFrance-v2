@@ -1,0 +1,11 @@
+{"type":"FeatureCollection","features":[
+{"type":"Feature","properties":{"uuid":"CCA_Nice_Navaids_Names","textStyle":{"color":[255,255,255],"fontFamily":"Arial","fontSize":10,"fontWeight":400,"text":"MFB"}},"geometry":{"type":"MultiPoint","coordinates":[[6.017651,43.428485]]}},
+{"type":"Feature","properties":{"uuid":"CCA_Nice_Navaids_Names","textStyle":{"color":[255,255,255],"fontFamily":"Arial","fontSize":10,"fontWeight":400,"text":"NFA"}},"geometry":{"type":"MultiPoint","coordinates":[[6.127953,43.260982]]}},
+{"type":"Feature","properties":{"uuid":"CCA_Nice_Navaids_Names","textStyle":{"color":[255,255,255],"fontFamily":"Arial","fontSize":10,"fontWeight":400,"text":"LUC"}},"geometry":{"type":"MultiPoint","coordinates":[[6.25668,43.396261]]}},
+{"type":"Feature","properties":{"uuid":"CCA_Nice_Navaids_Names","textStyle":{"color":[255,255,255],"fontFamily":"Arial","fontSize":10,"fontWeight":400,"text":"LC"}},"geometry":{"type":"MultiPoint","coordinates":[[6.38207,43.39894]]}},
+{"type":"Feature","properties":{"uuid":"CCA_Nice_Navaids_Names","textStyle":{"color":[255,255,255],"fontFamily":"Arial","fontSize":10,"fontWeight":400,"text":"LU"}},"geometry":{"type":"MultiPoint","coordinates":[[6.525993,43.400342]]}},
+{"type":"Feature","properties":{"uuid":"CCA_Nice_Navaids_Names","textStyle":{"color":[255,255,255],"fontFamily":"Arial","fontSize":10,"fontWeight":400,"text":"STP"}},"geometry":{"type":"MultiPoint","coordinates":[[6.602647,43.232951]]}},
+{"type":"Feature","properties":{"uuid":"CCA_Nice_Navaids_Names","textStyle":{"color":[255,255,255],"fontFamily":"Arial","fontSize":10,"fontWeight":400,"text":"CNM"}},"geometry":{"type":"MultiPoint","coordinates":[[6.871854,43.573841]]}},
+{"type":"Feature","properties":{"uuid":"CCA_Nice_Navaids_Names","textStyle":{"color":[255,255,255],"fontFamily":"Arial","fontSize":10,"fontWeight":400,"text":"AZR"}},"geometry":{"type":"MultiPoint","coordinates":[[7.225411,43.6732]]}},
+{"type":"Feature","properties":{"uuid":"CCA_Nice_Navaids_Names","textStyle":{"color":[255,255,255],"fontFamily":"Arial","fontSize":10,"fontWeight":400,"text":"NIZ"}},"geometry":{"type":"MultiPoint","coordinates":[[7.255392,43.784117]]}}
+]}

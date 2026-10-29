@@ -1,0 +1,4 @@
+{"type":"FeatureCollection","features":[
+{"type":"Feature","properties":{"name":"CDO-RNPA-04","lineStyle":{"color":[181,201,212],"width":1,"dashArray":[2.0,2.0]}},"geometry":{"type":"MultiLineString","coordinates":[[[6.797556,43.466528],[7.110972,43.418278],[7.163472,43.462333],[7.223861,43.424028],[7.536139,43.476111]]]}},
+{"type":"Feature","properties":{"name":"CDO-RNP-04","pointStyle":{"type":"circle_cross","color":[98,100,128]}},"geometry":{"type":"MultiPoint","coordinates":[[6.797556,43.466528],[7.110972,43.418278],[7.223861,43.424028],[7.536139,43.476111]]}}
+]}

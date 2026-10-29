@@ -1,0 +1,12 @@
+{"type":"FeatureCollection","features":[
+{"type":"Feature","properties":{"name":"LFKC","pointStyle":{"type":"aerodrome_paved_ticks","color":[182,182,182]}},"geometry":{"type":"MultiPoint","coordinates":[[8.793056,42.524444]]}},
+{"type":"Feature","properties":{"name":"LFKT","pointStyle":{"type":"aerodrome_paved_ticks","color":[182,182,182]}},"geometry":{"type":"MultiPoint","coordinates":[[9.1925,42.290278]]}},
+{"type":"Feature","properties":{"name":"LFKG","pointStyle":{"type":"aerodrome_paved_ticks","color":[182,182,182]}},"geometry":{"type":"MultiPoint","coordinates":[[9.400278,42.054444]]}},
+{"type":"Feature","properties":{"name":"LFKS","pointStyle":{"type":"aerodrome_paved_ticks","color":[182,182,182]}},"geometry":{"type":"MultiPoint","coordinates":[[9.405278,41.926389]]}},
+{"type":"Feature","properties":{"name":"LFKB","pointStyle":{"type":"aerodrome_paved_ticks","color":[182,182,182]}},"geometry":{"type":"MultiPoint","coordinates":[[9.484722,42.55]]}},
+{"type":"Feature","properties":{"uuid":"CCA_Bastia_ARP_Names","textStyle":{"color":[255,255,255],"fontFamily":"Arial","fontSize":10,"fontWeight":400,"text":"LFKC"}},"geometry":{"type":"MultiPoint","coordinates":[[8.796175,42.555823]]}},
+{"type":"Feature","properties":{"uuid":"CCA_Bastia_ARP_Names","textStyle":{"color":[255,255,255],"fontFamily":"Arial","fontSize":10,"fontWeight":400,"text":"LFKT"}},"geometry":{"type":"MultiPoint","coordinates":[[9.195821,42.321637]]}},
+{"type":"Feature","properties":{"uuid":"CCA_Bastia_ARP_Names","textStyle":{"color":[255,255,255],"fontFamily":"Arial","fontSize":10,"fontWeight":400,"text":"LFKG"}},"geometry":{"type":"MultiPoint","coordinates":[[9.403696,42.085789]]}},
+{"type":"Feature","properties":{"uuid":"CCA_Bastia_ARP_Names","textStyle":{"color":[255,255,255],"fontFamily":"Arial","fontSize":10,"fontWeight":400,"text":"LFKS"}},"geometry":{"type":"MultiPoint","coordinates":[[9.408691,41.957729]]}},
+{"type":"Feature","properties":{"uuid":"CCA_Bastia_ARP_Names","textStyle":{"color":[255,255,255],"fontFamily":"Arial","fontSize":10,"fontWeight":400,"text":"LFKB"}},"geometry":{"type":"MultiPoint","coordinates":[[9.488215,42.581358]]}}
+]}

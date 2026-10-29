@@ -1,0 +1,9 @@
+{"type":"FeatureCollection","features":[
+{"type":"Feature","properties":{"uuid":"CCA_La_Rochelle_Navaids_Names","textStyle":{"color":[255,255,255],"fontFamily":"Arial","fontSize":12,"fontWeight":400,"text":"RL"}},"geometry":{"type":"MultiPoint","coordinates":[[-1.101383,46.207835]]}},
+{"type":"Feature","properties":{"uuid":"CCA_La_Rochelle_Navaids_Names","textStyle":{"color":[255,255,255],"fontFamily":"Arial","fontSize":12,"fontWeight":400,"text":"CNA"}},"geometry":{"type":"MultiPoint","coordinates":[[-0.313524,45.691045]]}},
+{"type":"Feature","properties":{"uuid":"CCA_La_Rochelle_Navaids_Names","textStyle":{"color":[255,255,255],"fontFamily":"Arial","fontSize":12,"fontWeight":400,"text":"POI"}},"geometry":{"type":"MultiPoint","coordinates":[[0.296629,46.612497]]}},
+{"type":"Feature","properties":{"uuid":"CCA_La_Rochelle_Navaids_Names","textStyle":{"color":[255,255,255],"fontFamily":"Arial","fontSize":12,"fontWeight":400,"text":"PT"}},"geometry":{"type":"MultiPoint","coordinates":[[0.313194,46.626053]]}},
+{"type":"Feature","properties":{"uuid":"CCA_La_Rochelle_Navaids_Names","textStyle":{"color":[255,255,255],"fontFamily":"Arial","fontSize":12,"fontWeight":400,"text":"NTS"}},"geometry":{"type":"MultiPoint","coordinates":[[-1.615671,47.192317]]}},
+{"type":"Feature","properties":{"uuid":"CCA_La_Rochelle_Navaids_Names","textStyle":{"color":[255,255,255],"fontFamily":"Arial","fontSize":12,"fontWeight":400,"text":"LMG"}},"geometry":{"type":"MultiPoint","coordinates":[[1.024455,45.847424]]}},
+{"type":"Feature","properties":{"uuid":"CCA_La_Rochelle_Navaids_Names","textStyle":{"color":[255,255,255],"fontFamily":"Arial","fontSize":12,"fontWeight":400,"text":"BMC"}},"geometry":{"type":"MultiPoint","coordinates":[[-0.723198,44.85842]]}}
+]}

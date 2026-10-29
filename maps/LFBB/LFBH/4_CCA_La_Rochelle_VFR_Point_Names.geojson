@@ -1,0 +1,8 @@
+{"type":"FeatureCollection","features":[
+{"type":"Feature","properties":{"uuid":"La Rochelle VFR Point","textStyle":{"color":[255,255,255],"fontFamily":"Arial","fontSize":14,"fontWeight":1200,"text":"N"}},"geometry":{"type":"MultiPoint","coordinates":[[-1.106389,46.295]]}},
+{"type":"Feature","properties":{"uuid":"La Rochelle VFR Point","textStyle":{"color":[255,255,255],"fontFamily":"Arial","fontSize":14,"fontWeight":1200,"text":"NA"}},"geometry":{"type":"MultiPoint","coordinates":[[-1.159722,46.234444]]}},
+{"type":"Feature","properties":{"uuid":"La Rochelle VFR Point","textStyle":{"color":[255,255,255],"fontFamily":"Arial","fontSize":14,"fontWeight":1200,"text":"E"}},"geometry":{"type":"MultiPoint","coordinates":[[-1.027778,46.2025]]}},
+{"type":"Feature","properties":{"uuid":"La Rochelle VFR Point","textStyle":{"color":[255,255,255],"fontFamily":"Arial","fontSize":14,"fontWeight":1200,"text":"EA"}},"geometry":{"type":"MultiPoint","coordinates":[[-1.102222,46.205]]}},
+{"type":"Feature","properties":{"uuid":"La Rochelle VFR Point","textStyle":{"color":[255,255,255],"fontFamily":"Arial","fontSize":14,"fontWeight":1200,"text":"S"}},"geometry":{"type":"MultiPoint","coordinates":[[-1.076667,46.075556]]}},
+{"type":"Feature","properties":{"uuid":"La Rochelle VFR Point","textStyle":{"color":[255,255,255],"fontFamily":"Arial","fontSize":14,"fontWeight":1200,"text":"SA"}},"geometry":{"type":"MultiPoint","coordinates":[[-1.11,46.121389]]}}
+]}
