@@ -1,3 +1,12 @@
+# CoFrance v2.3.8 Changelog
+
+### Fixes
+- Fixed arrival runway changes being ignored on some routes
+- Fixed Browser window failing to display open tab after being hidden
+- Fixed some system blocking HTTP requests
+- Fixed windows moving to the center of the screen on radar screen change under Linux (Wine)
+
+
 # CoFrance v2.3.7 Changelog
 
 ### Improvements
