@@ -1,3 +1,24 @@
+# CoFrance v2.3.9 Changelog
+
+### Improvements
+- Contextual filter is now activated by holding middle click (instead of the modifier key) over a compatible tag field or a CFL popup level, a short middle click still highlights the field / prepares the CFL
+- Contextual filter now filters traffic as soon as it is activated
+
+### Additions
+- Added Contact Me & Request Info button to track menu for standby SSR traffics
+- Added "Use short right click for menus" setting: a short right click on the radar background opens the radar menu, a long press still pans
+- Added 3 NM range rings interval option 
+
+### Fixes
+- Fixed some freezes when another controller connects or disconnects, the background map is no longer rebuilt unless what it draws changes
+- Fixed own controller not being recognized in controller updates, which could list you among connected controllers and leave restricted areas unfiltered for your position
+- Fixed CLAM alert displaying for some QNH values when under transition level
+- Fixed rate clearance auto reset shortly after setting it for leveled aircraft
+- Fixed some arrival name losing a letter during parsing
+- Fixed traffic assumed by a controller whose position EuroScope identifies late showing CR instead of their sector
+- Fixed empty routes SID/STAR/RWY assignment and rendering
+
+
 # CoFrance v2.3.8 Changelog
 
 ### Fixes
